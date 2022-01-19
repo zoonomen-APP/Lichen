@@ -1,0 +1,334 @@
+#2022.01.02
+#Orphan locations from other datasets.. (first from Maine).
+
+Lamoille|VT|3048080|F|Botany|F|PreservedSpecimen|cd00d910-c33d-433f-b813-92643b74bd0a|C1015502F||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Teloschistales::Teloschistineae::Teloschistaceae::Xanthorioideae::Xanthoria|Fungi|Ascomycota|Lecanoromycetes|Teloschistales|Teloschistaceae|Xanthoria_elegans|56384|(Link)_Th._Fr.|Xanthoria||elegans|||Species||||||||C._G._Pringle||s.n.|1879-00-00|1879|0|0|||1879||||||||||||||||||||U.S.A.|Maine|Lamoille||Smugglers_Notch||0||44.555329|-72.795679||1600|||GeoLocate|||||||||||en||2016-06-13_10:20:30|cd00d910-c33d-433f-b813-92643b74bd0a|25|urn:uuid:880dff60-9162-4f67-abf3-0a637b9c5db1|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3048080
+EMAIL SENT
+
+Vilas|WI|3408781|OS|||PreservedSpecimen|8ab080f3-992d-4a69-a5bf-80c1d8547bae|OS0070616||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Hypogymnia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Hypogymnia_physodes|54412|(L.)_Nyl.|Hypogymnia||physodes|||Species||||||||Don_Flenniken|||2002-04-26|2002|4|26|116||||||||||||||||||||||United_States|Maine|Vilas|Land_O'Lakes|Northern_Highlands_State_Forest,_Johnson_Lake_Barrens;_46.133472_-89.500278||0||46.133472|-89.500278|||46�_08'_.5"_N_89�_30'_1"_W||||||532||||||||JToppin|2020-07-06_05:28:08||38|urn:uuid:8ab080f3-992d-4a69-a5bf-80c1d8547bae|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3408781
+EMAIL SENT.
+
+Essex|MA|1770050|OS|||PreservedSpecimen|77e50660-4977-4ac9-9d09-9d1ca70b7b7b|OS0009471||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Pertusariales::Pertusariaceae::Pertusaria|Fungi|Ascomycota|Lecanoromycetes|Pertusariales|Pertusariaceae|Pertusaria_consocians|54847|Dibben|Pertusaria||consocians|||Species||||||||E._G._Mehlin|||2001-07-00|2001|7||||||||||||||||||||||||United_States|Maine|Essex||Dogtown||0||||||||||||||||||||JToppin|2020-07-30_05:50:34||38|urn:uuid:77e50660-4977-4ac9-9d09-9d1ca70b7b7b|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1770050
+EMAIL SENT
+
+
+Essex|MA|1770038|OS|||PreservedSpecimen|49517165-daee-4c84-933c-e94dc6a192c5|OS0009459||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Pertusariales::Pertusariaceae::Pertusaria|Fungi|Ascomycota|Lecanoromycetes|Pertusariales|Pertusariaceae|Pertusaria_amara|54839|(Ach.)_Nyl.|Pertusaria||amara|||Species||||||||Don_Flenniken|||2004-06-20|2004|6|20|172||||||||||||||||||||||United_States|Maine|Essex||Hamilton_Park;_42.632389_-70.872861||0||42.632389|-70.872861||10000|42�37'56.6"N_70�52'22.3"W||||||||||||||JToppin|2020-07-29_07:25:29||38|urn:uuid:49517165-daee-4c84-933c-e94dc6a192c5|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1770038
+EMAIL SENT
+
+from VT.
+
+
+Penobscot|Vermont|2757201|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/3175cdd6b-efbd-49c1-be5c-8103c6a940f6|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Flavoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Flavoparmelia caperata|54388|(L.) Hale|Flavoparmelia||caperata|||Species||||||||P. Ricker||||1896||||||||||||field values redacted: eventDate, month, day, startDayOfYear, endDayOfYear, verbatimEventDate, recordNumber, locality, habitat|||||||||||1||United States|Vermont|Penobscot||||1|||||||||||||||||||||2021-10-20 07:53:47|http://n2t.net/ark:/65665/3175cdd6b-efbd-49c1-be5c-8103c6a940f6|89|urn:uuid:f3e3bee8-53b6-496a-8742-cb4b13180ef3|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2757201
+
+NH
+no data|Vermont|1094519|MICH|Lichens||PreservedSpecimen|02445dc1-6924-4fc6-a287-a5fcac82bb46|82517||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Cladonia boryi|53377|Tuck.|Cladonia||boryi|||Species||||||||E. Faxon||s. n.|1882-06-05|1882|6|5|156||1882-06-05|Fink Herbarium no. 6921|||||||||||||||||||United States|Vermont|no data||Clinton to Lake of Clouds||0|||||||||||||||||||||2017-11-24 00:00:00|02445dc1-6924-4fc6-a287-a5fcac82bb46|32|urn:uuid:fa256e60-3fee-468d-aa80-b4e4a617e150|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1094519
+
+
+no data|Vermont|1043228|MICH|Lichens||PreservedSpecimen|774ce5a0-c84b-4995-93e4-6fe2c1816c90|75476||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae::Bacidia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Bacidia chlorantha|62794|(Tuck.) Fink|Bacidia||chlorantha|||Species||||||||D. L. Dutton||2327|1925-03-08|1925|3|8|67||1925-03-08||||||||||||||On red maple||||||United States|Vermont|no data||Gorham||0||||||||||||457|||||1500 ft||||2017-11-24 00:00:00|774ce5a0-c84b-4995-93e4-6fe2c1816c90|32|urn:uuid:67d56cb0-fc02-4ce0-b548-d21e0b16778c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1043228
+
+
+State and county indeterminate.
+Sucker Brook -in multiple states.
+
+|Vermont|203557|MSC|Lichen||PreservedSpecimen||MSC0142023||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Usnea|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Usnea cavernosa|54640|Tuck.|Usnea||cavernosa|||Species|Malachowski, James|May 1980||||||Howe, Jr., R. H|||1913-10-22|1913|10|22|295||Oct. 22, 1913|Thoreau Museum of Natural History\r\nConcord, Massachusetts|||||||||||||||||||United States|Vermont|||Novï¿½ Angliï¿½; Goshen:  Sucker Brook Meadow-1650-1700 ft. alt., on dead Picea in swamp||0|||||||||||||||||||||2015-01-08 11:51:04|142023|10|urn:uuid:8b6a3af6-9e60-4c20-a841-9e32f09af28b|https://lichenportal.org/cnalh/collections/individual/index.php?occid=203557
+
+Probably NH
+
+no data|Vermont|1132757|MICH|Lichens||PreservedSpecimen|72bb28a8-a60d-4d85-925a-b0430bc95fad|102772||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Cornicularia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Cornicularia aculeata|63941|(Schreb.) Ach.|Cornicularia||aculeata|||Species||||||||E. Faxon||s. n.|1889-06-18|1889|6|18|169||1889-06-18|Fink Herbarium no. 6850|||||||||||||||||||United States|Vermont|no data||Crawford Path||0|||||||||||||||||||||2017-11-24 00:00:00|72bb28a8-a60d-4d85-925a-b0430bc95fad|32|urn:uuid:0faf5b14-a6d0-4f83-8a56-2b08b73f3a55|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1132757
+
+
+no data|Vermont|1405729|MICH|Lichens||PreservedSpecimen|fc46cee1-79b3-4bf9-9b8e-5b3c458972c9|131842||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Umbilicaria|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Lichens Family Rank|Umbilicaria hyperborea|55666|(Ach.) Hoffm.|Umbilicaria|Umbilicaria subg. Umbilicaria|hyperborea|||Species||||||||E. Faxon||s. n.|1883-06-15|1883|6|15|166||1883-06-15|Fink Herbarium no. 7574|||||||||||||||||||United States|Vermont|no data||Crawford Path||0|||||||||||||||||||||2017-11-24 00:00:00|fc46cee1-79b3-4bf9-9b8e-5b3c458972c9|32|urn:uuid:ecbcfcbf-f89a-4ee1-9a94-8808c9695f9e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1405729
+
+no data|Vermont|1411720|MICH|Lichens||PreservedSpecimen|d7fc00fe-e04e-4ef9-b103-f9114aa51219|133146||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Umbilicaria|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Lichens Family Rank|Umbilicaria proboscidea|55677|(L.) Schrader|Umbilicaria|Umbilicaria subg. Umbilicaria|proboscidea|||Species||||||||E. Faxon||s. n.|1883-06-15|1883|6|15|166||1883-06-15|Fink Herbarium no. 7578|||||||||||||||||||United States|Vermont|no data||Crawford Bridle Path||0|||||||||||||||||||||2017-11-24 00:00:00|d7fc00fe-e04e-4ef9-b103-f9114aa51219|32|urn:uuid:9356899e-42b0-40da-957c-902d74e1c20c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1411720
+
+|Vermont|1821744|MU|||PreservedSpecimen|ab88066b-d37f-4b5a-ac01-486b6f026460|000157588|MU-L-1682|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Umbilicaria|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Umbilicariaceae|Umbilicaria proboscidea|55677|(L.) Schrader|Umbilicaria|Umbilicaria subg. Umbilicaria|proboscidea|||Species|updated from Esslinger, T. L. Checklist of North American Lichens (v. 18)|2012||||||Faxon, E.||1595|1883-06-15|1883|6|15|166||June 15, 1883|Is "Crawford Bridle Path" at Mount Washington in New Hampshire?|||||||||||||||||||United States|Vermont|||Crawford Bridle Path||0||||||||||||||||||||bkschuh|2021-05-21 07:52:12||72|urn:uuid:ab88066b-d37f-4b5a-ac01-486b6f026460|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1821744
+
+|Vermont|1824637|MU|||PreservedSpecimen|93880ced-e7d2-4b41-9c5e-3b3dc0bc61d4|000157573|MU-L-1687|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Floccularia|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Umbilicariaceae|Umbilicaria deusta|55663|(L.) Baumg.|Umbilicaria|Umbilicaria subg. Floccularia|deusta|||Species|updated from Esslinger, T. L. Checklist of North American Lichens (v. 18)|2012||||||Faxon, E.||1587|1883-06-15|1883|6|15|166||June 15, 1883|Is "Crawford Bridle Path" at Mount Washington in New Hampshire?|||||||||||||||||||United States|Vermont|||Crawford Bridle Path||0||||||||||||||||||||bkschuh|2021-05-21 07:52:22||72|urn:uuid:93880ced-e7d2-4b41-9c5e-3b3dc0bc61d4|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1824637
+
+no data|Vermont|1405729|MICH|Lichens||PreservedSpecimen|fc46cee1-79b3-4bf9-9b8e-5b3c458972c9|131842||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Umbilicaria|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Lichens Family Rank|Umbilicaria hyperborea|55666|(Ach.) Hoffm.|Umbilicaria|Umbilicaria subg. Umbilicaria|hyperborea|||Species||||||||E. Faxon||s. n.|1883-06-15|1883|6|15|166||1883-06-15|Fink Herbarium no. 7574|||||||||||||||||||United States|Vermont|no data||Crawford Path||0|||||||||||||||||||||2017-11-24 00:00:00|fc46cee1-79b3-4bf9-9b8e-5b3c458972c9|32|urn:uuid:ecbcfcbf-f89a-4ee1-9a94-8808c9695f9e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1405729
+
+
+? MA
+
+|Vermont|2793324|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/35c26a690-b2da-48de-b6a8-5f0ebb92c4f6|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera hydrothyria|125601|Mi?dl. & Lutzoni|Peltigera||hydrothyria|||Species|LaGreca, Scott, (DUKE), Duke University (UNITED STATES)|||||||F. Dobbin||s.n.|1912-07-10|1912|7|10|192|192|1912-7-10||on||||||||||||||||1||United States|Vermont|||Deerfield River, Stratton.||0|||||||||||||||||||||2021-10-20 07:53:29|http://n2t.net/ark:/65665/35c26a690-b2da-48de-b6a8-5f0ebb92c4f6|89|urn:uuid:28de40e2-e2cd-4153-a26d-9a06b5689c7d|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2793324
+
+no data|Vermont|3044715|MICH|Lichens||PreservedSpecimen|93a07d4c-6529-432c-bc68-5bd145ee7c88|102411||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Collematineae::Collemataceae::Synechoblastus|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Lichens Family Rank|Synechoblastus flaccidus|186057|(Ach.) Kï¿½rb.|Synechoblastus||flaccidus|||Species||||||||F. Dobbin||s. n.|1912-07-11|1912|7|11|193||1912-07-11|7534|||||||||||||||||||United States|Vermont|no data||Deerfield River.||0|||||||||||||||||||||2017-11-24 00:00:00|93a07d4c-6529-432c-bc68-5bd145ee7c88|32|urn:uuid:3a00f373-828d-412b-a6f7-443dbe94f8eb|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3044715
+
+|Vermont|429917|MIN|||PreservedSpecimen|3374c702-fa00-445a-816e-7fc79a6a8c8d|900892||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Hydrothyria|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Hydrothyria venosa|55966|J.L. Russell|Hydrothyria||venosa|||Species||||||||Dobbin, F.||s.n.|1912-07-10|1912|7|10|192||10/Jul/1912||||||||||||||||||||United States|Vermont|||Stratton, Deerfield River||0|||||||||||||||||||||2016-06-02 12:52:01|761075|12|urn:uuid:9cec5854-d0a7-4229-b5e8-a513cde83d3c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=429917
+
+|Vermont|429917|MIN|||PreservedSpecimen|3374c702-fa00-445a-816e-7fc79a6a8c8d|900892||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Hydrothyria|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Hydrothyria venosa|55966|J.L. Russell|Hydrothyria||venosa|||Species||||||||Dobbin, F.||s.n.|1912-07-10|1912|7|10|192||10/Jul/1912||||||||||||||||||||United States|Vermont|||Stratton, Deerfield River||0|||||||||||||||||||||2016-06-02 12:52:01|761075|12|urn:uuid:9cec5854-d0a7-4229-b5e8-a513cde83d3c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=429917
+
+From CT.
+[interestingly, this record is NOT present in 
+the MT state download.]
+
+Big Belt Mountains in MT.
+Connecticut|2797247|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/36ee66623-fbca-4c00-9b0e-6b2d0876c52a|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Hypogymnia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Hypogymnia physodes|54412|(L.) Nyl.|Hypogymnia||physodes|||Species||||||||C. Wright||s.n.|1883-05-31|1883|5|31|151|151|31 May 1883||||||||||||||||||1||United States|Connecticut|Lewis+clark||Bigbelt mt.||0|||||||||||||||||||||2021-10-20 07:53:29|http://n2t.net/ark:/65665/36ee66623-fbca-4c00-9b0e-6b2d0876c52a|89|urn:uuid:813918ac-e343-47b7-bfd5-0b6428e87b42|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2797247
+
+
+From CT.
+
+the named entity is in Ohio.
+
+Ross|Connecticut|1379269|OS|||PreservedSpecimen|df8b81d4-858e-4e65-b672-b33432d06fe5|OS0003940||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia papillaria|63770|(Ehrh.) Hoffm.|Cladonia||papillaria|||Species|Fr. Conan J. Taylor|1961||assumed to be the collector, assumed to be the collection date.||||Fr. Conan J. Taylor||3086|1961-00-00|1961||||||||on soil banks near road|||||||||||||||||United States|Connecticut|Ross||on North Ridge Rd., Scioto Trail State Forest||0||||||||||||||||||||sharvey2|2015-11-03 17:46:25||38|urn:uuid:df8b81d4-858e-4e65-b672-b33432d06fe5|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1379269
+
+Probably in PA.
+
+no data|Connecticut|1104837|MICH|Lichens||PreservedSpecimen|c0654020-992b-4c53-abe4-f8eae3512df0|101451||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Cladonia subcariosa|63782|Nyl.|Cladonia||subcariosa|||Species||||||||A. W. Evans||1967|1928-10-12|1928|10|12|286||1928-10-12||||||||||||||||||||United States|Connecticut|no data||Beaver Falls||0|||||||||||||||||||||2017-11-24 00:00:00|c0654020-992b-4c53-abe4-f8eae3512df0|32|urn:uuid:008ea049-50ad-490e-a561-e5ef03588eec|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1104837
+
+Probably not CT,, 
+possibly 
+Chapinville, MA,NY, or WV
+
+no data|Connecticut|1400210|MICH|Lichens||PreservedSpecimen|8354e3fb-86e8-4e90-a8be-e7b63484351b|121605||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Pseudevernia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Pseudevernia consocians|54587|(Vain.) Hale & Culb.|Pseudevernia||consocians|||Species||||||||Mrs. D. P. Phelps||s. n.|||||||||||||||||||||||||||United States|Connecticut|no data||Chapinsville||0|||||||||||||||||||||2017-11-24 00:00:00|8354e3fb-86e8-4e90-a8be-e7b63484351b|32|urn:uuid:692b4098-7b0b-44e0-9c90-9b418efe4f06|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1400210
+
+From MA.
+Jackson County|Massachusetts|2713562|ILLS|||PreservedSpecimen||ILLS00094368|63990|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Parmotrema|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Parmotrema perforatum|54560|(Jacq.) A. Massal.|Parmotrema||perforatum|||Species|J. Ebinger (EIU) 1971 AS Parmelia perforata (Jacq.) Ach.|||||||J. Ebinger||s.n.|1971-03-00|1971|3|0|||1971-March|||Corticolous.|||||||||||||||||United States|Massachusetts|Jackson County||Ocean Springs.||0|||||||||||||||||||||2021-03-13 08:21:51|58057|27|urn:uuid:47136692-f3ef-4558-b919-08df1ffab163|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2713562
+
+
+There IS an Ocean Spring in Jackson Co. in Mississippi.
+
+I think this is in MI..
+
+Cheboygan|Massachusetts|1117662|ISC|||PreservedSpecimen|83886d60-82ed-4ffc-8400-97d878b81d11|446358||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Caliciales::Physciaceae::Heterodermia|Fungi|Ascomycota|Lecanoromycetes|Caliciales|Physciaceae|Heterodermia speciosa|55068|(Wulfen) Trevisan|Heterodermia||speciosa|||Species|JTC (2010)|||||||Nels Lersten||40|1959-07-15|1959|7|15|196||15 July 1959||on dead cedar branch||||||||||||||||||United States|Massachusetts|Cheboygan||shady Mud Lake cedar bog||0|||||||||||||||||||||2019-01-08 15:31:58|446358|34|urn:uuid:83886d60-82ed-4ffc-8400-97d878b81d11|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1117662
+
+
+These are all in Maryland.
+
+
+Kent|Massachusetts|2595245|UCR|||PreservedSpecimen||UCR-173086||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Parmotrema|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Parmotrema hypotropum|54552|(Nyl.) Hale|Parmotrema||hypotropum|||Species||||||||James Lendemer|William R. Buck, Richard C. Harris, Doug Ladd|6190|2006-04-18|2006|4|18|108||2006-4-18||On the bark of a maple.|Low flatwoods with Acer rubrum and Nyssa.||||||||||Fertile|||||||United States|Massachusetts|Kent||Millington State Wildlife Management Area, along McKays Corner Road (MD Line Road), c. 0.8 miles E of Golts, c. 3 miles NE of Masse||0||39.33194|-75.76444|||434112E 4353886N|||Collector GPS|||23|||||||||2021-09-08 11:31:19|UCR-173086|90|urn:uuid:da28ec9a-fb5d-4d21-9195-bfe4fcbd3ae9|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2595245
+Kent|Massachusetts|2595292|UCR|||PreservedSpecimen||UCR-172972||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Graphidales::Graphidaceae::Graphidoideae::Graphidoideae_tribe_incertae_sedis::Nadvornikia|Fungi|Ascomycota|Lecanoromycetes|Graphidales|Graphidaceae|Nadvornikia sorediata|52904|R.C. Harris|Nadvornikia||sorediata|||Species||||||||James Lendemer|Wesley Knapp|6187|2006-04-18|2006|4|18|108||2006-4-18||On the bark of an oak.|Low flatwoods with Acer rubrum and Nyssa.||||||||||Fertile|||||||United States|Massachusetts|Kent||Millington State Wildlife Management Area, along McKays Corner Road (MD Line Road), c. 0.8 miles E of Golts, c. 3 miles NE of Masse||0||39.33194|-75.76444|||434112E 4353886N|||Collector GPS|||23|||||||||2021-09-08 11:31:19|UCR-172972|90|urn:uuid:70fab25f-b825-4bd7-a2ae-4b0bb7f9995e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2595292
+Kent|Massachusetts|2595321|UCR|||PreservedSpecimen||UCR-172947||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Punctelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Punctelia rudecta|54597|(Ach.) Krog|Punctelia||rudecta|||Species||||||||James Lendemer|Wesley Knapp|6193|2006-04-18|2006|4|18|108||2006-4-18||On the bark of a maple.|Low flatwoods with Acer rubrum and Nyssa.||||||||||Fertile|||||||United States|Massachusetts|Kent||Millington State Wildlife Management Area, along McKays Corner Road (MD Line Road), c. 0.8 miles E of Golts, c. 3 miles NE of Masse||0||39.33194|-75.76444|||434112E 4353886N|||Collector GPS|||23|||||||||2021-09-08 11:31:19|UCR-172947|90|urn:uuid:e480adab-f181-42b2-8542-07bf2198dd9f|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2595321
+
+This must be NH.
+Merrimack|Massachusetts|428053|MIN|||PreservedSpecimen|8862399e-3df6-49f0-b926-6c63cef87f4a|895486||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia rangiferina|63777|(L.) F. H. Wigg.|Cladonia||rangiferina|||Species||||||||Harris, S.; Hodgdon||15264|1935-04-19|1935|4|19|109||19/Apr/1935||||||||||||||||||||United States|Massachusetts|Merrimack||Boscawen||0|||||||||||||||||||||2016-06-02 12:52:01|759125|12|urn:uuid:6f5e6d45-8aa3-442a-8802-2be76683a0e6|https://lichenportal.org/cnalh/collections/individual/index.php?occid=428053
+
+This must be Maine.
+Oxford|Massachusetts|244899|MSC|Lichen||PreservedSpecimen||MSC0050248||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|Faull, J. H|25 April 1929||||||Faull, J. H|||1929-04-25|1929|4|25|115||25 April 1929||On ground||||||||||||||||||United States|Massachusetts|Oxford||Lake Cupsuptic||0|||||||||||||||||||||2015-01-08 11:51:04|50248|10|urn:uuid:7547aaec-5fb3-40e8-8549-9ff4d959aaa6|https://lichenportal.org/cnalh/collections/individual/index.php?occid=244899
+
+
+Also Maine.
+
+Washington|Massachusetts|2788151|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/30edab779-e647-42c8-a983-916bb5fd7e66|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Xanthoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Xanthoparmelia somloensis|54768|(Gyelnik) Hale|Xanthoparmelia||somloensis|||Species||||||||M. E. Hale||37509|1971-08-00|1971|8|0|243|243|-- Aug 1971||||||||||||||||||1||United States|Massachusetts|Washington||Mcclellan park||0|||||||||||||||||||||2021-10-20 07:53:28|http://n2t.net/ark:/65665/30edab779-e647-42c8-a983-916bb5fd7e66|89|urn:uuid:8fccca62-152a-4f69-b031-e3fbd504fd07|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2788151
+
+
+??  Woods Hole?
+
+Woods|Massachusetts|1308170|OS|||PreservedSpecimen|42e037e8-0b87-423c-8f34-0de6c0b95da8|OS0001814||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Cetraria|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Cetraria ciliaris|63490|Ach.|Cetraria||ciliaris|||Species||||||||L. W.Riddle|||0000-04-00||||||||||||||||||||||||||USA|Massachusetts|Woods||||0||||||||||||||||||||Azam|2018-03-19 07:42:33||38|urn:uuid:42e037e8-0b87-423c-8f34-0de6c0b95da8|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1308170
+
+I think this should go to N.Hamp.
+
+Locality "White Mountains"
+
+It is probably a Tuckerman specimen.
+Here are recorded by and localities for all 1854-00-00
+
+Ad sepes in maritimis (translated: the fences along the coastline) E. Tuckerman
+Cambridge, Bostoniae, Nov. Ang. E. Tuckerman
+Boston E. Tuckerman
+White Mountains. Tuckerman
+[no additional data] J. L. Russell
+
+
+
+|Massachusetts|1464193|NEB|||PreservedSpecimen|3fc4d450-0c9a-4da9-aecc-e39ff7017d9c|NEB00035097|217025|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Pseudevernia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Pseudevernia cladonia|54586|(Tuck.) Hale & Culb.|Pseudevernia||cladonia|||Species|unknown|s.d.||||||Tuckerman||56|1854-00-00|1854||||||Walter Kiener Memorial Lichen Collection; The Herbarium University of Nebraska State Museum; Herbarium Walter Kiener Lichens|||56. Evernia furfuracea B. Cladonia, Tuckerm. Syn. p. 12. In Abietibus Montium Alborum.||||||||||||||||USA|Massachusetts|||White Mountains.||0||||||||||||||||||||lilaeopsis|2015-05-22 08:33:45||52|urn:uuid:3fc4d450-0c9a-4da9-aecc-e39ff7017d9c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1464193
+
+From New Hampshire:
+Rockingham|New_Hampshire|1555506|hb. Esslinger|||PreservedSpecimen||0017342||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Teloschistales::Teloschistineae::Teloschistaceae::Caloplacoideae|Fungi|Ascomycota|Lecanoromycetes|Teloschistales|Teloschistaceae|Caloplaca|52245|Th. Fr.|Caloplaca|||||Genus|Theodore L. Esslinger|assumed to be collection date||||||Theodore L. Esslinger||9982|1988-12-25||||||||pinyon pine-juniper-scrub oak.|On Juniperus.|||||||||||||||||United States|New Hampshire|San Miguel||about 13 miles southwest, of Las Vegas along Highway 25, about 6 miles east of intersection with Highway 3||0||||||||||||1951|||||ca. 6400 ft.|||SavannaG|2015-08-11 09:57:11||59|urn:uuid:7830910c-d317-4f58-a2e3-db230f3502dd|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1555506
+
+Grafton|New_Hampshire|239880|MSC|Lichen||PreservedSpecimen||MSC0045678||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Teloschistales::Teloschistineae::Teloschistaceae::Caloplacoideae::Caloplaca|Fungi|Ascomycota|Lecanoromycetes|Teloschistales|Teloschistaceae|Caloplaca feracissima|56255|H. Magn.|Caloplaca||feracissima|||Species|Culberson, William L|Date Unknown||||||Culberson, William L||4011|1953-08-01|1953|8|1|213||August 1953|Det. wlc, fide H. Magnusson from dupl.|Old cement banister of a bridge||||||||||||||||||United States|New Hampshire|Schoharie||New York State; 1 mile S of Breakabeen||0|||||||||||||||||||||2015-01-08 11:51:04|45678|10|urn:uuid:05aa4ba7-db54-4a42-b166-d6d11a11ade7|https://lichenportal.org/cnalh/collections/individual/index.php?occid=239880
+
+DOUBT New_Hamp.
+|New_Hampshire|1624939|COLO|L||PreservedSpecimen|127ec4f2-2e9a-489e-b39a-6f3b5c53d8d9|COLO-L-0011154|L-76222|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|D.R. Sumstine|77||||||David R. Sumstine||77|1941-11-18||||||||||||||||||||||||||United States|New Hampshire|Allegheny||Near Sardis||0||||||||||||||||||||pwonders|2015-07-02 10:08:12||41|urn:uuid:127ec4f2-2e9a-489e-b39a-6f3b5c53d8d9|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1624939
+
+
+Questionable.
+
+Almost certainly NE Albert J. Woodford State Forest, Waterville NY.
+
+Centre|New_Hampshire|1624955|COLO|L||PreservedSpecimen|12bdf30e-b797-49d3-aba5-58117375d6cc|COLO-L-0011184|L-76250|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|D.R. Sumstine|1941||||||David R. Sumstine||79|1941-07-30||||||||||||||||||||||||||United States|New Hampshire|Centre||State Forest, Woodward||0||||||||||||||||||||pwonders|2015-07-02 08:50:40||41|urn:uuid:12bdf30e-b797-49d3-aba5-58117375d6cc|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1624955
+
+Centre|New_Hampshire|1624955|COLO|L||PreservedSpecimen|12bdf30e-b797-49d3-aba5-58117375d6cc|COLO-L-0011184|L-76250|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|D.R. Sumstine|1941||||||David R. Sumstine||79|1941-07-30||||||||||||||||||||||||||United States|New Hampshire|Centre||State Forest, Woodward||0||||||||||||||||||||pwonders|2015-07-02 08:50:40||41|urn:uuid:12bdf30e-b797-49d3-aba5-58117375d6cc|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1624955
+
+This almost certainly is Hubbarston Mass. which is in Worcester County.
+There are other Hubbarstons, but none in NH.
+
+Worcester|New_Hampshire|2788154|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/33ba15bd6-f331-41d9-a12c-c112dfc12e06|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Xanthoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Xanthoparmelia somloensis|54768|(Gyelnik) Hale|Xanthoparmelia||somloensis|||Species||||||||B. N. Gates||2253|1959-12-04|1959|12|4|338|338|04 Dec 1959||||||||||||||||||1||United States|New Hampshire|Worcester||Hubbardston||0|||||||||||||||||||||2021-10-20 07:53:28|http://n2t.net/ark:/65665/33ba15bd6-f331-41d9-a12c-c112dfc12e06|89|urn:uuid:90ab7eab-40c9-4ee1-a2ff-fcf4e80d6218|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2788154
+
+
+From NH,, seems MA is much much more likely.
+
+BARNSTABLE|New_Hampshire|1974104|MAINE|||PreservedSpecimen|1ca81bb6-de54-46cb-9942-4ec061596ead|MAINE-L-0007761|1180|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae::Ramalina|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Ramalinaceae|Ramalina farinacea|55426|(L.) Ach.|Ramalina||farinacea|||Species||||||||L. A. Crocker||182|1894-11-10|1894|11|10|314||10-Nov-1894||Decades of North American Lichens||||||||||||||||||United States|NEW HAMPSHIRE|BARNSTABLE||Brewster||0||41.76|-70.083|||41.760ï¿½ N, 70.083ï¿½ W|||||||||||||||2015-12-02 14:14:44|MAINE-L-0007761|54|urn:uuid:1ca81bb6-de54-46cb-9942-4ec061596ead|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1974104
+
+This lat long puts the specimen in Oakland, CA.
+
+|New_Hampshire|3206074|NY|||PreservedSpecimen|1210e46a-835b-45f5-a590-d7127866409f|02686620||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Xanthoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Xanthoparmelia hypofusca|128619|(Gyeln.) Hodk. & Lendemer|Xanthoparmelia||hypofusca|||Species|Z. M. Muscavitch|2016||||||W. Oakes||68|1849-00-00|1849|0|0|||1849|||||||||||||||||||packeted|United States of America|New Hampshire|||White Mountains.||0||37.4219|-122.085||||||||||||||||en||2021-07-02 08:35:40|1210e46a-835b-45f5-a590-d7127866409f|2|urn:uuid:a8b16a41-bf22-455a-bad3-ee7d4435523d|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3206074
+
+
+This looks convincingly to be Mass.
+
+BARNSTABLE|New_Hampshire|1974104|MAINE|||PreservedSpecimen|1ca81bb6-de54-46cb-9942-4ec061596ead|MAINE-L-0007761|1180|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae::Ramalina|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Ramalinaceae|Ramalina farinacea|55426|(L.) Ach.|Ramalina||farinacea|||Species||||||||L. A. Crocker||182|1894-11-10|1894|11|10|314||10-Nov-1894||Decades of North American Lichens||||||||||||||||||United States|NEW HAMPSHIRE|BARNSTABLE||Brewster||0||41.76|-70.083|||41.760ï¿½ N, 70.083ï¿½ W|||||||||||||||2015-12-02 14:14:44|MAINE-L-0007761|54|urn:uuid:1ca81bb6-de54-46cb-9942-4ec061596ead|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1974104
+
+
+This belongs in MASS.
+
+Worcester|New_Hampshire|3371390|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/3741ea17d-5dab-419f-a98d-19bb62b124b0|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Graphidales::Graphidaceae::Graphidoideae::Graphidoideae_tribe_incertae_sedis::Graphis|Fungi|Ascomycota|Lecanoromycetes|Graphidales|Graphidaceae|Graphis scripta|52835|(L.) Ach.|Graphis||scripta|||Species||||||||B. N. Gates||2261|1959-12-11|1959|12|11|345|345|1959-12-11||Carya bark||||||||||||||||1||United States|New Hampshire|Worcester||on Jefferson Road, Holden boundary, Princeton||0|||||||||||||||||||||2021-10-20 07:53:37|http://n2t.net/ark:/65665/3741ea17d-5dab-419f-a98d-19bb62b124b0|89|urn:uuid:852ec0aa-1872-4293-9610-cc5dade950cf|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3371390
+
+
+This one almost certainly belongs in Georgia.
+
+Dekalbqq|New_Hampshire|2426160|WIS|||PreservedSpecimen|d1fcac84-6942-46b2-aad9-0c6b4625fbd7|WIS-L-0086417||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia caroliniana|53385|Tuck.|Cladonia||caroliniana|||Species|Edward Tuckerman|1860||date approximate|||ISOTYPE|H.W. Ravenel||s.n.||||||||label say "Type" of Cladonia georgiana; Reliquiae Tuckermanianae [Anonymous, Reliqu. Tuckermanianae [Cambridge (Massachusetts)]], 1 - 150, Anonymous, exs  octothorpe : 30|||||||||||||||||||United States|New Hampshire|Dekalb||Stone Mountain.||0||42.77175|-72.348419|WGS84|1807||bkschuh (2020-11-21 11:11:49)||georef batch tool 2020-11-21; GeoLocate|reviewed - high confidence|Stone Mountain, Winchester, New Hampshire|||||||||tnash|2020-11-21 11:11:49||22|urn:uuid:d1fcac84-6942-46b2-aad9-0c6b4625fbd7|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2426160
+
+There is a Stone Mountain in Dekalb Co. GA, but I find NO Stone Mt. and No Dekalb in New Hampshire.
+
+Jim Hinds writes:
+
+Hi Alan,
+
+Hmmm. Now I am getting worried about this one. 
+I looked at the label and noticed that the collector was Ravenel. 
+He is as far as I know a southeast US collector (SC and GA I think) 
+who probably sent his specimens to Tuckerman, the reigning expert at the time, 
+and then Tuckerman named it as Cladonia georgiana. 
+Later I think he changed it to Cladonia caroliniana, which is its current name. 
+Tuckerman would not have named it C. georgiana or C. caroliniana if it had been collected in NH.
+
+So I disagree with Tom Nash - I think it should be back to DeKalb Co. GA.  
+For a while Mason Hale, myself, and others thought their were a few specimens of C. caroliniana 
+along the Maine Coast, but the world expert on Cladonia, Teuvo Ahti, said no, 
+and he told me so when I published a checklist of Maine macrolichens in 1998 
+in a festschift that he also contributed to. 
+Now I think everyone agrees that what we thought was C. caroliniana from Maine 
+is just a robust form of C. uncialis.
+
+
+Jim
+
+
+This pretty clearly is from Mt Desert Island Hancock Co. Maine.
+
+Hancockqq|New_Hampshire|2709153|ILLS|||PreservedSpecimen||ILLS00009521|58398|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia squamosa|53471|Hoffm.|Cladonia||squamosa|||Species|J.L. Crane|||||||J.L. Crane||05-121|2005-07-19|2005|7|19|200||19 July 2005||||||||||||||||||||United States|New Hampshire|Hancock||Boreal Forest along the coast at Otter Cliff.||0||44.3106|-68.1898|||Seal Harbor quad. 44.3106ï¿½ North Latitude, 068.1898ï¿½ West Longitude.|||||||||||||||2020-05-26 10:01:19|52167|27|urn:uuid:d307be0a-356e-46f2-84c4-baf40235a1d6|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2709153
+
+This one is Massachusetts.
+
+Middlesexqq|New_Hampshire|2754705|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/37960a161-8742-4935-8e7c-62e7b918da2c|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Hypotrachyna::Hypotrachyna subgen. Hypotrachyna|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Hypotrachyna livida|54431|(Taylor) Hale|Hypotrachyna|Hypotrachyna subgen. Hypotrachyna|livida|||Species||||||||E. C. White||Mo164302|1935-09-03|1935|9|3|246|246|03 Sep 1935||Tree||||||||||||||||1||United States|New Hampshire|Middlesex||Concord||0|||||||||||||||||||||2021-10-20 07:53:20|http://n2t.net/ark:/65665/37960a161-8742-4935-8e7c-62e7b918da2c|89|urn:uuid:17656bda-1f7d-4a22-9b06-9f50cb055b7f|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2754705
+
+
+On this one Jim Hinds writes:
+The Sumstine one first:  
+He mostly collected in PA (46 specimens), with 2 WV, 1 NY, 4 in FL and 2 in NH. 
+One of the NH specimens had Centre as the county,and the other NH one had Alleghany Co. 
+Both are counties in PA, but not NH. So I would go with PA
+
+On this one:
+
+Alleghenyqq|New_Hampshire|1624939|COLO|L||PreservedSpecimen|127ec4f2-2e9a-489e-b39a-6f3b5c53d8d9|COLO-L-0011154|L-76222|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|D.R. Sumstine|77||||||David R. Sumstine||77|1941-11-18||||||||||||||||||||||||||United States|New Hampshire|Allegheny||Near Sardis||0||||||||||||||||||||pwonders|2015-07-02 10:08:12||41|urn:uuid:127ec4f2-2e9a-489e-b39a-6f3b5c53d8d9|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1624939
+
+
+
+The O.E. Jennings one: he had lots of specimens but they all seemed to be either Ontario or PA. 
+So all his collecting in the US was in PA.  Washington is a county in PA, but not NH. 
+So again I would go with PA.
+
+Washingtonqq|New_Hampshire|1624947|COLO|L||PreservedSpecimen|ed2539da-e3df-4848-b028-bba70cd2fd3e|COLO-L-0011173|L-76237|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species|O.E. Jennings|1922||assumed to be collector, assumed to be collection date||||O.E. Jennings||84|1922-04-00||||||||||||||||||||||||||United States|New Hampshire|Washington||Van Emmon||0||||||||||||||||||||pwonders|2015-07-02 08:22:54||41|urn:uuid:ed2539da-e3df-4848-b028-bba70cd2fd3e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1624947
+
+
+This from WASHINGTON belongs in Oregon..
+Phil Tonne UNM emailed.
+
+Wallowa|Oregon|3124268|UNM|Lichens||PreservedSpecimen|1d0174a8-7e45-49f5-b640-73a66e622c18||85124|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Collematineae::Collemataceae::Leptogium|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Collemataceae|Leptogium saturninum|53585|(Dickson) Nyl.|Leptogium||saturninum|||Species||||||||T. L. Esslinger||1724-c|1969-11-01|1969|11|1|305||11/1/1969|Pseudotsuga menziesii-Abies grandis stand; on bark of a Populus sp.; along a stream bank. Former collection of H.R. Simms, s1-457|Pseudotsuga menziesii-Abies grandis stand; on bark of a Populus sp.; along a stream bank.|||||||||||||||||Sheets - 1|United States|Washington|Wallowa||Near Pole Bridge Forest Camp along the Lostline R.||0||45.38|-117.42|WGS84|2000|45ï¿½ 23'N, 117ï¿½ 25'W||Maiitsoh Protocol V3.0|||From label longlat coordinates. No datum given.|1219|||||4000ft||||2009-05-02 19:18:11|1d0174a8-7e45-49f5-b640-73a66e622c18|111|urn:uuid:54e1ec54-ee1e-444b-90f2-08d10867a8fd|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3124268
+
+
+From WA
+
+
+Chris notified.
+
+
+Santa Barbara|California|3605761|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/3f48f2e1d-5248-4a2a-a8cf-b6ed3fd99f49|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Pertusariales::Pertusariaceae::Pertusaria|Fungi|Ascomycota|Lecanoromycetes|Pertusariales|Pertusariaceae|Pertusaria amara|54839|(Ach.) Nyl.|Pertusaria||amara|||Species||||||||T. H. Nash||32,618|1994-01-01|1994|1|1|1|1|01 Jan 1994||||||||||||||||||1||United States|Washington|Santa Barbara||Santa rosa island; pass along the main road just se of black mtn||0||33.9792|-120.075|||||Label||||300|300||||||||2021-10-20 07:53:42|http://n2t.net/ark:/65665/3f48f2e1d-5248-4a2a-a8cf-b6ed3fd99f49|89|urn:uuid:69aa41ea-c2d7-43b5-a0ea-09ac2ed6f704|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3605761
+
+
+WTU notified.
+Sitka|Alaska|3795471|WTU|||PreservedSpecimen|924e3283-f7b0-41ed-b024-ddbf9f1abc88|WTU-F-070672||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Usnea|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Usnea longissima|54673|Ach.|Usnea||longissima|||Species||||||||Jim Riley||23316|2001-09-02|2001|9|2|245|245|2001-9-2||Habitat: Old-growth stand and Tsuga heterophylla and Picea sitchensis with little understory vegetation and heavy with rotting logs and stumps. <br/>Substrate: Tsuga heterophylla snag branch.||||||||||||||||||U.S.A.|Washington|Sitka||Near trailhead of the Indian River Trail.||0||57.06205|-135.306683|||57ï¿½ 3.723' N, 135ï¿½ 18.401' W||||||37|||||120 ft.||en||2021-01-21 12:39:21|3463589|21|urn:uuid:63ac0692-5848-4b5c-8836-9c10be8fed8d|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3795471
+
+Wrangell PetersburgqQ|Washington|1263360|WTU|||PreservedSpecimen|e29609a6-232c-4992-8fed-c93fb02ec2ec|WTU-L-017150||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Parmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Parmelia pubescens|168778|(L.) Vain.|Parmelia||pubescens|||Species||||||sp.||W. J. Eyerdam||1064|1955-07-17|1955|7|17|198|198|1955-7-17||On spruce log on seashore.||||||||||||||||||U.S.A.|Washington|Wrangell Petersburg||Kuiu Island.||0|||||||||||||||||||en||2015-04-03 20:27:57|615795|21|urn:uuid:e97d507f-ad93-4136-bc21-3320605cf07b|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1263360
+
+Harney|Oregon|1266990|WTU|||PreservedSpecimen|2c9b6290-0d2c-414c-9178-d00ef34b78a0|WTU-L-021613||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Lecanoraceae::Rhizoplaca|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lecanoraceae|Rhizoplaca melanophthalma|54036|(DC.) Leuckert & Poelt|Rhizoplaca||melanophthalma|||Species||||||||Scott Sundberg||1451|1982-05-29|1982|5|29|149|149|1982-5-29|Substrate: saxicolous.|On basalt boulders along the east edge of the mesa.||||||||||||||||||U.S.A.|Washington|Harney||South of Burns, along Highway 205, 10.7 miles South of Highway 78, West of Malheur Lake, Wright's Point, near the top of the mesa.||0|||||||||||||||||||en||2015-04-03 20:27:58|619447|21|urn:uuid:c80a7d05-dca6-4a2e-91c9-9a380af56e30|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1266990
+
+
+Wrangell PetersburgqQ|Alaska|1267638|WTU|||PreservedSpecimen|4402a700-24b7-466b-9c76-b1f62c63a4f0|WTU-L-022282||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Graphidales::Graphidaceae::Graphidoideae::Graphidoideae_tribe_incertae_sedis::Thelotrema|Fungi|Ascomycota|Lecanoromycetes|Graphidales|Graphidaceae|Thelotrema lepadinum|52927|(Ach.) Ach.|Thelotrema||lepadinum|||Species|A. W. Herre|||||||W. J. Eyerdam||819|1957-06-10|1957|6|10|161|161|1957-6-10|On bark of Vaccinium ovalifolium. Substrate: corticolous.|||||||||||||||||||U.S.A.|Washington|Wrangell Petersburg||Washington Bay, Kuiu Island.||0|||||||||||||||||||en||2015-04-03 20:27:58|620096|21|urn:uuid:1947dc96-2344-4ac7-9218-3f12048e93e4|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1267638
+
+Harney|Oregon|1268280|WTU|||PreservedSpecimen|5beb6682-e8f0-4124-834d-63a039276a53|WTU-L-022855||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Umbilicariomycetidae::Umbilicariales::Umbilicariaceae::Umbilicaria::Umbilicaria subg. Umbilicaria|Fungi|Ascomycota|Lecanoromycetes|Umbilicariales|Umbilicariaceae|Umbilicaria hyperborea|55666|(Ach.) Hoffm.|Umbilicaria|Umbilicaria subg. Umbilicaria|hyperborea|||Species||||||||Scott Sundberg||1450|1982-05-29|1982|5|29|149|149|1982-5-29|On basalt boulders. Substrate: saxicolous.|Along the East edge of the mesa.||||||||||||||||||U.S.A.|Washington|Harney||South of Burns, along Highway 205, 10.7 miles South of Highway 78, West of Malheur Lake, Wright's Point, near the top of the mesa.||0|||||||||||||||||||en||2015-04-03 20:27:59|620738|21|urn:uuid:88c6c2c6-edcd-405e-87c4-b272af0e047c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1268280
+
+Belongs in Oregon,, removed from Washington.
+Multnomah|Oregon|1556271|hb. Esslinger|||PreservedSpecimen||0018034||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Usnea|52074|Dill. ex Adans.|Usnea|||||Genus|Theodore L. Esslinger|assumed to be collection date||||||Theodore L. Esslinger||110|1968-10-21||||||||in deciduous forest along small creek||||||||||||||||||United States|Washington|Multnomah||On the Oregon side, near Bonneville Damsite on Columbia R.||0||45.633333|-121.95|||45ï¿½ 38' N 121ï¿½ 57' W||||||61|||||200 ft.|||atgoke|2015-08-11 09:57:11||59|urn:uuid:e392026f-e786-47cc-bad6-164220133090|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1556271
+
+
+In Washington, belongs in West Virginia.
+
+MonongaliaqQ|Washington|1716289|WVA|||PreservedSpecimen||WVA-L-0001460||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera polydactylon|55988|(Necker) Hoffm.|Peltigera||polydactylon|||Species|S. M. Studler|1012-05-07||||||C. F. Sheldon||s.n.|1939-07-16|1939|7|16|197||||||||||||||||||||||United States|Washington|Monongalia||Route 119 Clinton District||0||||||||||||||||||||sharvey2|2016-04-09 12:01:21||53|urn:uuid:365e2dec-f1a5-4748-9b34-89c1a5409c8d|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1716289
+
+In Washington, belongs in California.
+
+MontereyqQ|Washington|1718029|COLO|L||PreservedSpecimen|44504ff2-a0b5-49c6-8046-2e4ea827b3e1|COLO-L-0038861|S 12905|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae::Ramalina|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Ramalinaceae|Ramalina farinacea|55426|(L.) Ach.|Ramalina||farinacea|||Species|John W. Thomson|not given||||||Nancy Schallert||S 12905|1954-12-07|||||||||tree bark|||||||||||||||||United States|Washington|Monterey||near Carmel||0||||||||||||||||||||kkwallin|2015-05-02 11:33:32||41|urn:uuid:44504ff2-a0b5-49c6-8046-2e4ea827b3e1|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1718029
+
+
+Looks like probably Oregon? by lat long.. Texas by town names.
+
+WalworthqQ|Washington|2235532|MOR|||PreservedSpecimen|30753f5f-1314-417d-8f2c-3b233a5326cd|L-0012846-MOR|14296|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Baeomycetales::Trapeliaceae::Placynthiella|Fungi|Ascomycota|Lecanoromycetes|Baeomycetales|Trapeliaceae|Placynthiella icmalea|55635|(Ach.) Coppins & P. James|Placynthiella||icmalea|||Species||||||||Gerould Wilhelm|Elizabeth Shimp|15848|1987-08-27|||||||||on old decorticate log|||||||||||||||||U.S.A.|Washington|Walworth||About 3 miles northeast of La Grange, 0.7 miles south of Bluff Road, west of rural road.||0||45.8462|-120.7709||1100|TRS: T4N R16E NW NW Sec. 11|ranglin||2016-01-14; Robert Anglin script for Township Range Section in GeoLocate||lat/long = TRS; uncertainty = extent of Section|||||||||kelueders|2016-01-26 10:51:19||48|urn:uuid:30753f5f-1314-417d-8f2c-3b233a5326cd|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2235532
+
+In Washington list,, clearly is Oregon.
+
+Linn|Oregon|2582913|BRY|||PreservedSpecimen|BRY-L-0039938|BRY-L-0039938|BRY C58113|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Lobarioideae|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Lobariaceae|LOBARIA|52203|(Schreb.) Hoffm.|Lobaria|||||Genus|Steven D. Leavitt|||||||Steven D. Leavitt||SDL-10-2010|2010-11-04|2010|11|4|308||4 Nov 2010|||Bark of Pseudotsuga menziesii (Douglas Fir)|||||||||||||||||United States|Washington|Linn||Hackleman Creek: On Hackleman Old Growth Trail 3411, off US Highway 20.||0||44.4014|-122.0833|||44ï¿½ 24.0840' N, 122ï¿½ 4.998' W||||||1035|||||1035m||||2018-04-25 21:11:58|BRY-L-0039938|13|urn:uuid:18935fed-a1af-4fb6-af81-f18911a38130|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2582913
+
+
+Doubt Washington,, probabl California,, removed from Washington.
+
+Santa BarbaraqQ|Washington|2799610|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/31b04a524-4d2d-460a-a181-908182113e7d|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Flavoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Flavoparmelia caperata|54388|(L.) Hale|Flavoparmelia||caperata|||Species|Ryan, B. D.|||||||T. H. Nash||||1994||||||||||||field values redacted: eventDate, month, day, startDayOfYear, endDayOfYear, verbatimEventDate, recordNumber, locality, minimumElevationInMeters, maximumElevationInMeters, decimalLatitude, decimalLongitude, georeferenceProtocol|||||||||||1||United States|Washington|Santa Barbara||||1|||||||||||||||||||||2021-10-20 07:53:47|http://n2t.net/ark:/65665/31b04a524-4d2d-460a-a181-908182113e7d|89|urn:uuid:571cdf1c-69db-4a9d-a58c-cfe63ff463cc|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2799610
+
+
+In Washington, should be Oregon (may be duplicate).
+
+Wallowa|Oregon|3124268|UNM|Lichens||PreservedSpecimen|1d0174a8-7e45-49f5-b640-73a66e622c18||85124|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Collematineae::Collemataceae::Leptogium|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Collemataceae|Leptogium saturninum|53585|(Dickson) Nyl.|Leptogium||saturninum|||Species||||||||T. L. Esslinger||1724-c|1969-11-01|1969|11|1|305||11/1/1969|Pseudotsuga menziesii-Abies grandis stand; on bark of a Populus sp.; along a stream bank. Former collection of H.R. Simms, s1-457|Pseudotsuga menziesii-Abies grandis stand; on bark of a Populus sp.; along a stream bank.|||||||||||||||||Sheets - 1|United States|Washington|Wallowa||Near Pole Bridge Forest Camp along the Lostline R.||0||45.38|-117.42|WGS84|2000|45ï¿½ 23'N, 117ï¿½ 25'W||Maiitsoh Protocol V3.0|||From label longlat coordinates. No datum given.|1219|||||4000ft||||2009-05-02 19:18:11|1d0174a8-7e45-49f5-b640-73a66e622c18|111|urn:uuid:54e1ec54-ee1e-444b-90f2-08d10867a8fd|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3124268
+
+
+From MASS
+
+3375422|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/39f77bf66-5c50-4334-833a-a33994743436|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecideales::Lecideaceae::Lecidea|Fungi|Ascomycota|Lecanoromycetes|Lecideales|Lecideaceae|Lecidea contigua|65610|(Hoffm.) Fr.|Lecidea||contigua|||Species||||||||H. Willey||s. n.|1872-00-00|1872|0|0|||1872||On boulder||||||||||||||||1||United States|Massachusetts|||Round Hill||0|||||||||||||||||||||2021-10-20 07:53:37|http://n2t.net/ark:/65665/39f77bf66-5c50-4334-833a-a33994743436|89|urn:uuid:8124df51-5e47-45e6-a7e3-1c98aa43db9c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3375422
+
+County above is Hampden.
+Round Hill is a section of Springfield (Davis, 1987).
+
+This from Maine, is almost certainly from Penn.
+
+|Maine|2947041|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/325a53fae-4cf5-409f-b678-32ef6ec7b0ff|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species||||||||M. E. Hale||14510|1957-06-00|1957|6|0|181|181|1957-6||On soil at shale barren.||||||||||||||||1||United States|Maine|||Alleghany Co. On soil at shale barren. 6 mi W of Town Hill.||0|||||||||||||||||||||2021-10-20 07:53:34|http://n2t.net/ark:/65665/325a53fae-4cf5-409f-b678-32ef6ec7b0ff|89|urn:uuid:daeca2b5-8b40-4b87-8540-927419fe4948|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2947041|Cladonia cristatella
+
+
+From Maine.
+
+Washington|Maine|1585261|UC|||PreservedSpecimen|bf4b31ae-4846-4e3d-b26e-3271c081757d|UC1714098||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Parmotrema|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Parmotrema arnoldii|54540|(Du Rietz) Hale|Parmotrema||arnoldii|||Species||||||||R. W. Becking||5703001|1957-03-08|1957|3|8|67||08 Mar 1957||on shrubs; SUBSTRATE: bark||||||||||||||||||United States|Maine|Washington||District of Columbia, in nearby Taxodium bog||0|||||||||||||||||||||2021-09-07 02:05:23||36|urn:uuid:bf4b31ae-4846-4e3d-b26e-3271c081757d|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1585261|Parmotrema arnoldii
+
+Emailed to UC.
+
+Washington|Maine|1602768|UC|||PreservedSpecimen|811d5c5c-8055-422e-ae91-7cecdcca309c|UC2005206||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Baeomycetales::Trapeliaceae|Fungi|Ascomycota|Lecanoromycetes|Baeomycetales|Trapeliaceae|Placynthiella|52135|Elenkin|Placynthiella|||||Genus||||||||Judith Robertson||6712|2001-08-31|2001|8|31|243||31 Aug 2001||Edge of gravel pit, on lignum; SUBSTRATE: bark||||||||||||||||||United States|Maine|Washington||Steuben, intersection of Magador and Schooner Point Roads.||0|||||||||||||||||||||2021-09-06 20:12:28||36|urn:uuid:811d5c5c-8055-422e-ae91-7cecdcca309c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1602768|Placynthiella
+
+Also emailed.
+
+
+From MASS
+
+Belongs in Oregon.
+
+|Massachusetts|478898|OSC|||PreservedSpecimen|279da7af-8389-4a29-a187-1818f8c50885|24628||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera aphthosa|55969|(L.) Willd.|Peltigera||aphthosa|||Species||||||||R. Howe|||||||||||||||||||||||||||||United States|Massachusetts|||Willamette National Forest,Sahalie Falls.||0|||||||||||||||||||||2020-05-01 16:54:53|3902145|20|urn:uuid:279da7af-8389-4a29-a187-1818f8c50885|https://lichenportal.org/cnalh/collections/individual/index.php?occid=478898
+
+Belongs in Florida
+
+|Massachusetts|478913|OSC|||PreservedSpecimen|37c74b03-1283-44dc-abbe-91cce39ee63e|24673||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Pycnothelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Pycnothelia papillaria|53496|Dufour|Pycnothelia||papillaria|||Species||||||||Riddle|||||||||||||||||||||||||||||United States|Massachusetts|||Tallahassee,FL||0|||||||||||||||||||||2020-05-01 16:54:53|3896123|20|urn:uuid:37c74b03-1283-44dc-abbe-91cce39ee63e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=478913
+
+This must be Penn.
+
+|Massachusetts|317738|MIN|||PreservedSpecimen|653a71bd-dc12-439e-b9bb-29d182b16270|661835||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera rufescens|55992|(Weiss) Humb.|Peltigera||rufescens|||Species||||||||Riemer||s.n.|1943-00-00|1943|0|0|||00/000/1943||||||||||||||||||||United States|Massachusetts|||Caledonia State Park||0|||||||||||||||||||||2016-06-02 12:52:01|648140|12|urn:uuid:6bc05530-514e-4da8-8228-bbf465be1f6e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=317738
+
+Clearly NewHamp.. as recorede by collector.
+
+|Massachusetts|1682699|COLO|L||PreservedSpecimen|60150502-1232-4d34-b753-e7e83f76a1b4|COLO-L-0025921|L 47073|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Lobarioideae::Lobaria|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Lobariaceae|Lobaria quercizans|55934|Michaux|Lobaria||quercizans|||Species|W.P. Jordan|not given||||||W.G. Farlow||L 47073|1904-08-00|1904|8||||||||||||||||||||||||United States|Massachusetts|||Chocorua||0||||||||||||||||||||kkwallin|2015-07-20 10:18:05||41|urn:uuid:60150502-1232-4d34-b753-e7e83f76a1b4|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1682699
+
