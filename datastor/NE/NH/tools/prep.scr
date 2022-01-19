@@ -1,0 +1,7 @@
+sed -e '
+s/|/::/g i
+s/%/ pct. /g 
+s/#/ octothorpe /g 
+s/	/|/g' c:/Lichen/datastor/sb/NewHamp/NHdnld01.tab > dfinit.txt
+awk -F "|" '{print $60, $61,$0}' dfinit.txt > df01.txt
+vi df01.txt
