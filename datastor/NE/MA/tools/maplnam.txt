@@ -1,0 +1,351 @@
+Abington 	Town 	Plymouth 	Open town meeting 	17,062 	9.9 	9.7 	1712 	
+Acton 	Town 	Middlesex 	Open town meeting 	24,021 	20.3 	20.0 	1735 	
+Acushnet 	Town 	Bristol 	Open town meeting 	10,559 	19.0 	18.4 	1860 	
+Adams 	Town 	Berkshire 	Representative town meeting 	8,166 	23.0 	22.9 	1778 	
+Agawam 	City[4] 	Hampden 	Mayor-council 	28,692 	24.3 	23.3 	1855 	Although it is a city, the official name is Town of Agawam
+Alford 	Town 	Berkshire 	Open town meeting 	486 	11.5 	11.5 	1773 	
+Amesbury 	City 	Essex 	Mayor-council 	17,366 	13.7 	12.3 	1668 	
+Amherst 	City[4][5] 	Hampshire 	Council-manager 	39,263 	27.7 	27.6 	1775 	Although it is a city, the official name is Town of Amherst
+Andover 	Town 	Essex 	Open town meeting 	36,569 	32.1 	31.0 	1646 	
+Aquinnah 	Town 	Dukes 	Open town meeting 	439 	40.8 	5.4 	1870 	
+Arlington 	Town 	Middlesex 	Representative town meeting 	46,308 	5.5 	5.0 	1807 	
+Ashburnham 	Town 	Worcester 	Open town meeting 	6,315 	41.0 	38.7 	1765 	
+Ashby 	Town 	Middlesex 	Open town meeting 	3,193 	24.2 	23.8 	1767 	
+Ashfield 	Town 	Franklin 	Open town meeting 	1,695 	40.3 	40.0 	1765 	
+Ashland 	Town 	Middlesex 	Open town meeting 	18,832 	12.9 	12.4 	1846 	
+Athol 	Town 	Worcester 	Open town meeting 	11,945 	33.4 	32.6 	1762 	
+Attleboro 	City 	Bristol 	Mayor-council 	46,461 	27.8 	26.8 	1694 	
+Auburn 	Town 	Worcester 	Representative town meeting 	16,889 	16.4 	15.4 	1778 	
+Avon 	Town 	Norfolk 	Open town meeting 	4,777 	4.6 	4.4 	1888 	
+Ayer 	Town 	Middlesex 	Open town meeting 	8,479 	9.6 	9.0 	1871 	
+Barnstable † 	City[4] 	Barnstable 	Council-manager 	48,916 	76.5 	59.3 	1639 	Although it is a city, the official name is Town of Barnstable
+Barre 	Town 	Worcester 	Open town meeting 	5,530 	44.6 	44.3 	1774 	
+Becket 	Town 	Berkshire 	Open town meeting 	1,931 	47.8 	46.1 	1765 	
+Bedford 	Town 	Middlesex 	Open town meeting 	14,383 	13.9 	13.7 	1729 	
+Belchertown 	Town 	Hampshire 	Open town meeting 	15,350 	55.4 	52.7 	1761 	
+Bellingham 	Town 	Norfolk 	Open town meeting 	16,945 	19.0 	18.5 	1719 	
+Belmont 	Town 	Middlesex 	Representative town meeting 	27,295 	4.7 	4.7 	1859 	
+Berkley 	Town 	Bristol 	Open town meeting 	6,764 	17.4 	16.5 	1735 	
+Berlin 	Town 	Worcester 	Open town meeting 	3,158 	13.1 	12.9 	1812 	
+Bernardston 	Town 	Franklin 	Open town meeting 	2,102 	23.4 	23.4 	1762 	
+Beverly 	City 	Essex 	Mayor-council 	42,670 	22.6 	15.1 	1668 	
+Billerica 	Town 	Middlesex 	Representative town meeting 	42,119 	26.4 	25.9 	1655 	
+Blackstone 	Town 	Worcester 	Open town meeting 	9,208 	11.2 	10.9 	1845 	
+Blandford 	Town 	Hampden 	Open town meeting 	1,215 	53.4 	51.6 	1741 	
+Bolton 	Town 	Worcester 	Open town meeting 	5,665 	20.0 	19.9 	1738 	
+Boston †† 	City 	Suffolk 	Mayor-council 	675,647 	89.6 	48.3 	1630 	
+Bourne 	Town 	Barnstable 	Open town meeting 	20,452 	52.9 	40.7 	1884 	
+Boxborough 	Town 	Middlesex 	Open town meeting 	5,506 	10.4 	10.4 	1835 	
+Boxford 	Town 	Essex 	Open town meeting 	8,203 	24.4 	23.6 	1685 	
+Boylston 	Town 	Worcester 	Open town meeting 	4,849 	19.7 	16.0 	1785 	
+Braintree 	City[4] 	Norfolk 	Mayor-council 	39,143 	14.6 	13.8 	1640 	Although it is a city, the official name is Town of Braintree
+Brewster 	Town 	Barnstable 	Open town meeting 	10,318 	25.4 	22.9 	1803 	
+Bridgewater 	City[4] 	Plymouth 	Council-manager 	28,633 	28.2 	27.5 	1656 	Although it is a city, the official name is Town of Bridgewater
+Brimfield 	Town 	Hampden 	Open town meeting 	3,694 	35.2 	34.7 	1731 	
+Brockton † 	City 	Plymouth 	Mayor-council 	105,643 	21.5 	21.3 	1821 	
+Brookfield 	Town 	Worcester 	Open town meeting 	3,439 	16.6 	15.5 	1718 	
+Brookline 	Town 	Norfolk 	Representative town meeting 	63,191 	6.8 	6.8 	1705 	
+Buckland 	Town 	Franklin 	Open town meeting 	1,816 	19.9 	19.7 	1779 	
+Burlington 	Town 	Middlesex 	Representative town meeting 	26,377 	11.9 	11.8 	1799 	
+Cambridge † 	City 	Middlesex 	Mayor-manager-council 	118,403 	7.1 	6.4 	1636 	
+Canton 	Town 	Norfolk 	Open town meeting 	24,370 	19.6 	18.9 	1797 	
+Carlisle 	Town 	Middlesex 	Open town meeting 	5,237 	15.6 	15.4 	1780 	
+Carver 	Town 	Plymouth 	Open town meeting 	11,645 	39.7 	37.4 	1790 	
+Charlemont 	Town 	Franklin 	Open town meeting 	1,185 	26.4 	25.9 	1765 	
+Charlton 	Town 	Worcester 	Open town meeting 	13,315 	43.8 	42.5 	1755[6] 	
+Chatham 	Town 	Barnstable 	Open town meeting 	6,594 	24.4 	16.3 	1712 	
+Chelmsford 	Town 	Middlesex 	Representative town meeting 	36,392 	23.2 	22.7 	1655 	
+Chelsea 	City 	Suffolk 	Council-manager 	40,787 	2.5 	2.2 	1739 	
+Cheshire 	Town 	Berkshire 	Open town meeting 	3,258 	27.5 	26.8 	1793 	
+Chester 	Town 	Hampden 	Open town meeting 	1,228 	37.2 	36.6 	1765 	
+Chesterfield 	Town 	Hampshire 	Open town meeting 	1,186 	31.2 	30.8 	1762 	
+Chicopee 	City 	Hampden 	Mayor-council 	55,560 	23.9 	22.9 	1848 	
+Chilmark 	Town 	Dukes 	Open town meeting 	1,212 	100.4 	19 	1714 	
+Clarksburg 	Town 	Berkshire 	Open town meeting 	1,657 	12.8 	12.8 	1798 	
+Clinton 	Town 	Worcester 	Open town meeting 	15,428 	7.3 	5.7 	1850 	
+Cohasset 	Town 	Norfolk 	Open town meeting 	8,381 	31.4 	9.8 	1775 	
+Colrain 	Town 	Franklin 	Open town meeting 	1,606 	43.4 	43.1 	1761 	
+Concord 	Town 	Middlesex 	Open town meeting 	18,491 	25.9 	24.9 	1635 	
+Conway 	Town 	Franklin 	Open town meeting 	1,761 	37.9 	37.7 	1775 	
+Cummington 	Town 	Hampshire 	Open town meeting 	829 	23.1 	22.9 	1779 	
+Dalton 	Town 	Berkshire 	Open town meeting 	6,330 	21.9 	21.8 	1784 	
+Danvers 	Town 	Essex 	Representative town meeting 	28,087 	14.1 	13.3 	1775 	
+Dartmouth 	Town 	Bristol 	Representative town meeting 	33,783 	97.5 	60.9 	1664 	
+Dedham † 	Town 	Norfolk 	Representative town meeting 	25,364 	10.6 	10.5 	1636 	
+Deerfield 	Town 	Franklin 	Open town meeting 	5,090 	33.4 	32.4 	1677 	
+Dennis 	Town 	Barnstable 	Open town meeting 	14,674 	22.3 	20.5 	1793 	
+Dighton 	Town 	Bristol 	Open town meeting 	8,101 	22.6 	22.0 	1712 	
+Douglas 	Town 	Worcester 	Open town meeting 	8,983 	37.7 	36.4 	1775 	
+Dover 	Town 	Norfolk 	Open town meeting 	5,923 	15.4 	15.3 	1836 	
+Dracut 	Town 	Middlesex 	Open town meeting 	32,617 	21.4 	20.9 	1701 	
+Dudley 	Town 	Worcester 	Open town meeting 	11,921 	22.1 	21.1 	1732 	
+Dunstable 	Town 	Middlesex 	Open town meeting 	3,358 	16.7 	16.6 	1673 	
+Duxbury 	Town 	Plymouth 	Open town meeting 	16,090 	37.6 	23.8 	1637 	
+East Bridgewater 	Town 	Plymouth 	Open town meeting 	14,440 	17.5 	17.2 	1823 	
+East Brookfield 	Town 	Worcester 	Open town meeting 	2,224 	10.4 	9.8 	1920 	
+East Longmeadow 	City 	Hampden 	Manager-Council 	16,430 	13.0 	13.0 	1894 	
+Eastham 	Town 	Barnstable 	Open town meeting 	5,752 	25.7 	14.0 	1646 	
+Easthampton 	City 	Hampshire 	Mayor-council 	16,211 	13.6 	13.3 	1809 	
+Easton 	Town 	Bristol 	Open town meeting 	25,058 	29.2 	28.4 	1725 	
+Edgartown † 	Town 	Dukes 	Open town meeting 	5,168 	122.7 	27 	1671 	
+Egremont 	Town 	Berkshire 	Open town meeting 	1,372 	18.9 	18.7 	1775 	
+Erving 	Town 	Franklin 	Open town meeting 	1,665 	14.4 	13.9 	1838 	
+Essex 	Town 	Essex 	Open town meeting 	3,675 	15.9 	14 	1819 	
+Everett 	City 	Middlesex 	Mayor-council 	49,075 	3.7 	3.4 	1870 	
+Fairhaven 	Town 	Bristol 	Representative town meeting 	15,924 	14.1 	12.4 	1812 	
+Fall River 	City 	Bristol 	Mayor-council 	94,000 	40.2 	33.1 	1803 	
+Falmouth 	Town 	Barnstable 	Representative town meeting 	32,517 	54.4 	44.1 	1686 	
+Fitchburg 	City 	Worcester 	Mayor-council 	41,946 	28.1 	27.8 	1764 	
+Florida 	Town 	Berkshire 	Open town meeting 	694 	24.6 	24.4 	1805 	
+Foxborough 	Town 	Norfolk 	Open town meeting 	18,618 	20.9 	20.1 	1778 	
+Framingham 	City 	Middlesex 	Mayor-council 	72,362 	26.5 	25.0 	1700 	
+Franklin 	City[4] 	Norfolk 	Council-administrator 	32,261 	27.0 	26.6 	1778 	Although it is a city, the official name is Town of Franklin
+Freetown 	Town 	Bristol 	Open town meeting 	9,206 	38.3 	36.6 	1683 	
+Gardner 	City 	Worcester 	Mayor-council 	21,287 	23.0 	22.1 	1785 	
+Georgetown 	Town 	Essex 	Open town meeting 	8,470 	13.2 	12.9 	1838 	
+Gill 	Town 	Franklin 	Open town meeting 	1,551 	14.8 	13.7 	1793 	
+Gloucester 	City 	Essex 	Mayor-council 	29,729 	41.5 	26.2 	1623 	
+Goshen 	Town 	Hampshire 	Open town meeting 	970 	17.7 	17.4 	1781 	
+Gosnold 	Town 	Dukes 	Open town meeting 	70 	140.2 	13.2 	1864 	
+Grafton 	Town 	Worcester 	Open town meeting 	19,664 	23.3 	22.7 	1735 	
+Granby 	Town 	Hampshire 	Open town meeting 	6,110 	28.1 	27.8 	1768 	
+Granville 	Town 	Hampden 	Open town meeting 	1,538 	43.0 	42.2 	1775 	
+Great Barrington 	Town 	Berkshire 	Open town meeting 	7,172 	45.8 	44.8 	1761 	
+Greenfield † 	City[4] 	Franklin 	Mayor-council 	17,768 	21.9 	21.4 	1775 	
+Groton 	Town 	Middlesex 	Open town meeting 	11,315 	33.7 	32.8 	1655 	
+Groveland 	Town 	Essex 	Open town meeting 	6,752 	9.4 	9.0 	1850 	
+Hadley 	Town 	Hampshire 	Open town meeting 	5,325 	24.6 	23.1 	1661 	
+Halifax 	Town 	Plymouth 	Open town meeting 	7,749 	17.3 	16.2 	1734 	
+Hamilton 	Town 	Essex 	Open town meeting 	7,561 	14.9 	14.2 	1793 	
+Hampden 	Town 	Hampden 	Open town meeting 	4,966 	19.7 	19.6 	1878 	
+Hancock 	Town 	Berkshire 	Open town meeting 	757 	35.8 	35.7 	1776 	
+Hanover 	Town 	Plymouth 	Open town meeting 	14,833 	15.7 	15.6 	1727 	
+Hanson 	Town 	Plymouth 	Open town meeting 	10,639 	15.7 	15.0 	1820 	
+Hardwick 	Town 	Worcester 	Open town meeting 	2,667 	40.8 	38.6 	1739 	
+Harvard 	Town 	Worcester 	Open town meeting 	6,851 	27.0 	26.4 	1732 	
+Harwich 	Town 	Barnstable 	Open town meeting 	13,440 	33.1 	20.9 	1694 	
+Hatfield 	Town 	Hampshire 	Open town meeting 	3,352 	16.8 	15.9 	1670 	
+Haverhill 	City 	Essex 	Mayor-council 	67,787 	35.7 	33.0 	1641 	
+Hawley 	Town 	Franklin 	Open town meeting 	353 	30.9 	30.9 	1792 	
+Heath 	Town 	Franklin 	Open town meeting 	723 	24.9 	24.9 	1785 	
+Hingham 	Town 	Plymouth 	Open town meeting 	24,284 	26.3 	22.2 	1635 	
+Hinsdale 	Town 	Berkshire 	Open town meeting 	1,919 	21.7 	20.7 	1804 	
+Holbrook 	Town 	Norfolk 	Representative town meeting 	11,405 	7.4 	7.4 	1872 	
+Holden 	Town 	Worcester 	Open town meeting 	19,905 	36.2 	35.0 	1741 	
+Holland 	Town 	Hampden 	Open town meeting 	2,603 	13.1 	12.3 	1835 	
+Holliston 	Town 	Middlesex 	Open town meeting 	14,996 	19.0 	18.7 	1724 	
+Holyoke 	City 	Hampden 	Mayor-council 	38,238 	22.8 	21.2 	1850 	
+Hopedale 	Town 	Worcester 	Open town meeting 	6,017 	5.3 	5.2 	1886 	
+Hopkinton 	Town 	Middlesex 	Open town meeting 	18,758 	28.2 	26.6 	1715 	
+Hubbardston 	Town 	Worcester 	Open town meeting 	4,328 	42.0 	41.0 	1775 	
+Hudson 	Town 	Middlesex 	Open town meeting 	20,092 	11.8 	11.5 	1866 	
+Hull 	Town 	Plymouth 	Open town meeting 	10,072 	26.9 	2.8 	1644 	
+Huntington 	Town 	Hampshire 	Open town meeting 	2,094 	26.8 	26.3 	1775 	
+Ipswich 	Town 	Essex 	Open town meeting 	13,785 	42.5 	32.1 	1634 	
+Kingston 	Town 	Plymouth 	Open town meeting 	13,708 	20.5 	18.6 	1726 	
+Lakeville 	Town 	Plymouth 	Open town meeting 	11,523 	36.1 	29.6 	1853 	
+Lancaster 	Town 	Worcester 	Open town meeting 	8,441 	28.2 	27.7 	1653 	
+Lanesborough 	Town 	Berkshire 	Open town meeting 	3,038 	29.6 	28.8 	1765 	
+Lawrence † 	City 	Essex 	Mayor-council 	89,143 	7.4 	6.9 	1847 	
+Lee 	Town 	Berkshire 	Representative town meeting 	5,788 	27.0 	26.1 	1777 	
+Leicester 	Town 	Worcester 	Open town meeting 	11,087 	24.7 	23.4 	1714 	
+Lenox 	Town 	Berkshire 	Open town meeting 	5,095 	21.7 	21.2 	1775 	
+Leominster 	City 	Worcester 	Mayor-council 	43,782 	29.7 	28.9 	1740 	
+Leverett 	Town 	Franklin 	Open town meeting 	1,865 	23.0 	22.9 	1774 	
+Lexington 	Town 	Middlesex 	Representative town meeting 	34,454 	16.5 	16.4 	1713 	
+Leyden 	Town 	Franklin 	Open town meeting 	734 	18.0 	17.9 	1809 	
+Lincoln 	Town 	Middlesex 	Open town meeting 	7,014 	15.0 	14.4 	1754 	
+Littleton 	Town 	Middlesex 	Open town meeting 	10,141 	17.6 	16.6 	1715 	
+Longmeadow 	Town 	Hampden 	Open town meeting 	15,853 	9.7 	9.1 	1783 	
+Lowell † 	City 	Middlesex 	Mayor-manager-council 	115,554 	14.5 	13.6 	1826 	
+Ludlow 	Town 	Hampden 	Representative town meeting 	21,002 	28.2 	27.2 	1775 	
+Lunenburg 	Town 	Worcester 	Open town meeting 	11,782 	27.7 	26.4 	1728 	
+Lynn 	City 	Essex 	Mayor-council 	101,253 	13.5 	10.7 	1629 	
+Lynnfield 	Town 	Essex 	Open town meeting 	13,000 	10.5 	9.9 	1814 	
+Malden 	City 	Middlesex 	Mayor-council 	66,263 	5.1 	5.0 	1649 	
+Manchester-by-the-Sea 	Town 	Essex 	Open town meeting 	5,395 	18.3 	9.2 	1645 	
+Mansfield 	Town 	Bristol 	Open town meeting 	23,860 	20.7 	20.5 	1775 	
+Marblehead 	Town 	Essex 	Open town meeting 	20,441 	19.6 	4.4 	1629 	
+Marion 	Town 	Plymouth 	Open town meeting 	5,347 	26.1 	12.1 	1852 	
+Marlborough 	City 	Middlesex 	Mayor-council 	41,793 	22.1 	20.9 	1660 	
+Marshfield 	Town 	Plymouth 	Open town meeting 	25,825 	31.7 	28.5 	1640 	
+Mashpee 	Town 	Barnstable 	Open town meeting 	15,060 	27.2 	23.4 	1870 	
+Mattapoisett 	Town 	Plymouth 	Open town meeting 	6,508 	24.2 	17.4 	1857 	
+Maynard 	Town 	Middlesex 	Open town meeting 	10,746 	5.4 	5.2 	1871 	
+Medfield 	Town 	Norfolk 	Open town meeting 	12,799 	14.6 	14.5 	1651 	
+Medford 	City 	Middlesex 	Mayor-council 	59,659 	8.7 	8.1 	1630 	
+Medway 	Town 	Norfolk 	Open town meeting 	13,115 	11.5 	11.5 	1713 	
+Melrose 	City 	Middlesex 	Mayor-council 	29,817 	4.8 	4.7 	1850 	
+Mendon 	Town 	Worcester 	Open town meeting 	6,228 	18.3 	18.1 	1667 	
+Merrimac 	Town 	Essex 	Open town meeting 	6,723 	8.8 	8.5 	1876 	
+Methuen 	City[4] 	Essex 	Mayor-council 	53,039 	23.0 	22.2 	1725 	
+Middleborough 	Town 	Plymouth 	Open town meeting 	24,245 	72.2 	69.1 	1669 	
+Middlefield 	Town 	Hampshire 	Open town meeting 	385 	24.2 	24.2 	1783 	
+Middleton 	Town 	Essex 	Open town meeting 	9,779 	14.5 	14.0 	1728 	
+Milford 	Town 	Worcester 	Representative town meeting 	30,379 	14.9 	14.6 	1780 	
+Millbury 	Town 	Worcester 	Open town meeting 	13,831 	16.3 	15.7 	1813 	
+Millis 	Town 	Norfolk 	Open town meeting 	8,460 	12.3 	12.2 	1885 	
+Millville 	Town 	Worcester 	Open town meeting 	3,174 	5.0 	4.9 	1916 	
+Milton 	Town 	Norfolk 	Representative town meeting 	28,630 	13.3 	13.0 	1662 	
+Monroe 	Town 	Franklin 	Open town meeting 	118 	10.8 	10.7 	1822 	
+Monson 	Town 	Hampden 	Open town meeting 	8,150 	44.8 	44.1 	1775 	
+Montague 	Town 	Franklin 	Representative town meeting 	8,580 	31.5 	30.2 	1775 	
+Monterey 	Town 	Berkshire 	Open town meeting 	1,095 	27.4 	26.4 	1847 	
+Montgomery 	Town 	Hampden 	Open town meeting 	819 	15.2 	15.1 	1780 	
+Mount Washington 	Town 	Berkshire 	Open town meeting 	160 	22.4 	22.2 	1779 	
+Nahant 	Town 	Essex 	Open town meeting 	3,334 	15.5 	1.0 	1853 	
+Nantucket † 	Town 	Nantucket 	Open town meeting 	14,255 	105.3 	47.8 	1671 	
+Natick 	Town 	Middlesex 	Representative town meeting 	37,006 	16.1 	15.1 	1781 	
+Needham 	Town 	Norfolk 	Representative town meeting 	32,091 	12.7 	12.6 	1711 	
+New Ashford 	Town 	Berkshire 	Open town meeting 	250 	13.5 	13.4 	1835 	
+New Bedford 	City 	Bristol 	Mayor-council 	101,079 	24.1 	20.0 	1787 	
+New Braintree 	Town 	Worcester 	Open town meeting 	996 	20.9 	20.7 	1775 	
+New Marlborough 	Town 	Berkshire 	Open town meeting 	1,528 	47.9 	46.9 	1775 	
+New Salem 	Town 	Franklin 	Open town meeting 	983 	58.6 	44.8 	1775 	
+Newbury 	Town 	Essex 	Open town meeting 	6,716 	26.3 	23.4 	1635 	
+Newburyport 	City 	Essex 	Mayor-council 	18,289 	10.7 	8.3 	1764 	
+Newton 	City 	Middlesex 	Mayor-council[7] 	88,923 	18.2 	17.8 	1688 	
+Norfolk 	Town 	Norfolk 	Open town meeting 	11,662 	15.2 	14.8 	1870 	
+North Adams 	City 	Berkshire 	Mayor-council 	12,961 	20.6 	20.4 	1878 	
+North Andover 	Town 	Essex 	Open town meeting 	30,915 	27.8 	26.3 	1855 	
+North Attleborough 	City 	Bristol 	Manager-council 	30,834 	19.1 	18.6 	1887 	
+North Brookfield 	Town 	Worcester 	Open town meeting 	4,735 	21.7 	21.1 	1812 	
+North Reading 	Town 	Middlesex 	Open town meeting 	15,554 	13.5 	13.3 	1853 	
+Northampton † 	City 	Hampshire 	Mayor-council 	29,571 	35.8 	34.2 	1656 	
+Northborough 	Town 	Worcester 	Open town meeting 	15,741 	18.8 	18.5 	1775 	
+Northbridge 	Town 	Worcester 	Open town meeting 	16,335 	18.1 	17.2 	1775 	
+Northfield 	Town 	Franklin 	Open town meeting 	2,866 	35.4 	34.3 	1723 	
+Norton 	Town 	Bristol 	Open town meeting 	19,202 	29.8 	28.7 	1711 	
+Norwell 	Town 	Plymouth 	Open town meeting 	11,351 	21.2 	20.9 	1849 	
+Norwood 	Town 	Norfolk 	Representative town meeting 	31,611 	10.6 	10.5 	1872 	
+Oak Bluffs 	Town 	Dukes 	Open town meeting 	5,341 	26.0 	7.4 	1880 	
+Oakham 	Town 	Worcester 	Open town meeting 	1,851 	21.5 	21.1 	1775 	
+Orange 	Town 	Franklin 	Open town meeting 	7,569 	36.0 	35.1 	1810 	
+Orleans 	Town 	Barnstable 	Open town meeting 	6,307 	22.7 	14.1 	1797 	
+Otis 	Town 	Berkshire 	Open town meeting 	1,634 	38.0 	35.6 	1773 	
+Oxford 	Town 	Worcester 	Open town meeting 	13,347 	27.5 	26.6 	1713 	
+Palmer 	City[4] 	Hampden 	Council-manager 	12,448 	32.0 	31.6 	1775 	Although it is a city, the official name is Town of Palmer. Smallest city in Massachusetts by population.
+Paxton 	Town 	Worcester 	Open town meeting 	5,004 	15.5 	14.7 	1775 	
+Peabody 	City 	Essex 	Mayor-council 	54,481 	16.8 	16.2 	1868 	
+Pelham 	Town 	Hampshire 	Open town meeting 	1,280 	26.5 	25.1 	1743 	
+Pembroke 	Town 	Plymouth 	Open town meeting 	18,361 	23.5 	21.8 	1712 	
+Pepperell 	Town 	Middlesex 	Open town meeting 	11,604 	23.2 	22.6 	1775 	
+Peru 	Town 	Berkshire 	Open town meeting 	814 	26.0 	25.9 	1771 	
+Petersham 	Town 	Worcester 	Open town meeting 	1,194 	68.3 	54.2 	1754 	
+Phillipston 	Town 	Worcester 	Open town meeting 	1,726 	24.6 	24.3 	1786 	
+Pittsfield † 	City 	Berkshire 	Mayor-council 	43,927 	42.5 	40.5 	1761 	
+Plainfield 	Town 	Hampshire 	Open town meeting 	633 	21.3 	21.1 	1807 	
+Plainville 	Town 	Norfolk 	Open town meeting 	9,945 	11.5 	11.0 	1905 	
+Plymouth † 	Town 	Plymouth 	Representative town meeting 	61,217 	134.0 	96.5 	1620 	
+Plympton 	Town 	Plymouth 	Open town meeting 	2,930 	15.1 	14.8 	1707 	
+Princeton 	Town 	Worcester 	Open town meeting 	3,495 	35.8 	35.4 	1771 	
+Provincetown 	Town 	Barnstable 	Open town meeting 	3,664 	17.5 	9.7 	1727 	
+Quincy 	City 	Norfolk 	Mayor-council 	101,636 	26.9 	16.6 	1792 	
+Randolph 	City[4] 	Norfolk 	Council-manager 	34,984 	10.5 	10.1 	1793 	Although it is a city, the official name is Town of Randolph
+Raynham 	Town 	Bristol 	Open town meeting 	15,142 	20.9 	20.5 	1731 	
+Reading 	Town 	Middlesex 	Representative town meeting 	25,518 	9.9 	9.9 	1644 	
+Rehoboth 	Town 	Bristol 	Open town meeting 	12,502 	46.8 	46.5 	1645 	
+Revere 	City 	Suffolk 	Mayor-council 	62,186 	10.1 	5.7 	1846 	
+Richmond 	Town 	Berkshire 	Open town meeting 	1,407 	19.0 	18.7 	1765 	
+Rochester 	Town 	Plymouth 	Open town meeting 	5,717 	36.4 	33.9 	1686 	
+Rockland 	Town 	Plymouth 	Open town meeting 	17,803 	10.1 	10.0 	1874 	
+Rockport 	Town 	Essex 	Open town meeting 	6,992 	17.5 	7.0 	1840 	
+Rowe 	Town 	Franklin 	Open town meeting 	424 	24.0 	23.4 	1785 	
+Rowley 	Town 	Essex 	Open town meeting 	6,161 	20.3 	18.2 	1639 	
+Royalston 	Town 	Worcester 	Open town meeting 	1,250 	42.5 	41.9 	1765 	
+Russell 	Town 	Hampden 	Open town meeting 	1,643 	17.8 	17.3 	1792 	
+Rutland 	Town 	Worcester 	Open town meeting 	9,049 	36.4 	35.3 	1713 	
+Salem † 	City 	Essex 	Mayor-council 	44,480 	18.3 	8.3 	1626 	
+Salisbury 	Town 	Essex 	Open town meeting 	9,236 	17.9 	15.4 	1639 	
+Sandisfield 	Town 	Berkshire 	Open town meeting 	989 	53.0 	51.8 	1762 	
+Sandwich 	Town 	Barnstable 	Open town meeting 	20,259 	44.2 	42.7 	1638 	
+Saugus 	Town 	Essex 	Representative town meeting 	28,619 	11.8 	10.8 	1815 	
+Savoy 	Town 	Berkshire 	Open town meeting 	645 	36.0 	35.8 	1797 	
+Scituate 	Town 	Plymouth 	Open town meeting 	19,063 	31.8 	17.6 	1636 	
+Seekonk 	Town 	Bristol 	Open town meeting 	15,531 	18.3 	18.2 	1812 	
+Sharon 	Town 	Norfolk 	Open town meeting 	18,575 	24.2 	23.3 	1775 	
+Sheffield 	Town 	Berkshire 	Open town meeting 	3,327 	48.6 	47.5 	1733 	
+Shelburne 	Town 	Franklin 	Open town meeting 	1,884 	23.4 	23.2 	1775 	
+Sherborn 	Town 	Middlesex 	Open town meeting 	4,401 	16.2 	16.0 	1674 	
+Shirley 	Town 	Middlesex 	Open town meeting 	7,431 	15.9 	15.8 	1775 	
+Shrewsbury 	Town 	Worcester 	Representative town meeting 	38,325 	21.7 	20.7 	1727 	
+Shutesbury 	Town 	Franklin 	Open town meeting 	1,717 	27.2 	26.6 	1761 	
+Somerset 	Town 	Bristol 	Open town meeting 	18,303 	12.0 	8.1 	1790 	
+Somerville 	City 	Middlesex 	Mayor-council 	81,045 	4.2 	4.1 	1842 	
+South Hadley 	Town 	Hampshire 	Representative town meeting 	18,150 	18.4 	17.7 	1775 	
+Southampton 	Town 	Hampshire 	Open town meeting 	6,224 	29.1 	28.2 	1775 	
+Southborough 	Town 	Worcester 	Open town meeting 	10,450 	15.7 	14.2 	1727 	
+Southbridge 	City[4] 	Worcester 	Council-manager 	17,740 	20.9 	20.2 	1816 	Although it is a city, the official name is Town of Southbridge
+Southwick 	Town 	Hampden 	Open town meeting 	9,232 	31.7 	30.8 	1775 	
+Spencer 	Town 	Worcester 	Open town meeting 	11,992 	34.1 	32.9 	1775 	
+Springfield † 	City 	Hampden 	Mayor-council 	155,929 	33.1 	31.9 	1636 	
+Sterling 	Town 	Worcester 	Open town meeting 	7,985 	31.6 	30.5 	1781 	
+Stockbridge 	Town 	Berkshire 	Open town meeting 	2,018 	23.7 	22.7 	1739 	
+Stoneham 	Town 	Middlesex 	Open town meeting 	23,244 	6.7 	6.2 	1725 	
+Stoughton 	Town 	Norfolk 	Representative town meeting 	29,281 	16.3 	16.0 	1726 	
+Stow 	Town 	Middlesex 	Open town meeting 	7,174 	18.1 	17.6 	1683 	
+Sturbridge 	Town 	Worcester 	Open town meeting 	9,867 	39.0 	37.4 	1738 	
+Sudbury 	Town 	Middlesex 	Open town meeting 	18,934 	24.6 	24.4 	1639 	
+Sunderland 	Town 	Franklin 	Open town meeting 	3,663 	14.7 	14.2 	1714 	
+Sutton 	Town 	Worcester 	Open town meeting 	9,357 	33.9 	32.4 	1714 	
+Swampscott 	Town 	Essex 	Representative town meeting 	15,111 	6.7 	3.1 	1852 	
+Swansea 	Town 	Bristol 	Open town meeting 	17,144 	25.5 	23.1 	1667 	
+Taunton † 	City 	Bristol 	Mayor-council 	59,408 	48.4 	46.7 	1639 	
+Templeton 	Town 	Worcester 	Open town meeting 	8,149 	32.4 	32.0 	1762 	
+Tewksbury 	Town 	Middlesex 	Open town meeting 	31,342 	21.1 	20.7 	1734 	
+Tisbury 	Town 	Dukes 	Open town meeting 	4,815 	19.1 	6.5 	1671 	
+Tolland 	Town 	Hampden 	Open town meeting 	471 	32.8 	31.5 	1810 	
+Topsfield 	Town 	Essex 	Open town meeting 	6,569 	12.8 	11.9 	1650 	
+Townsend 	Town 	Middlesex 	Open town meeting 	9,127 	33.1 	32.9 	1732 	
+Truro 	Town 	Barnstable 	Open town meeting 	2,454 	26.3 	21.1 	1709 	
+Tyngsborough 	Town 	Middlesex 	Open town meeting 	12,380 	18.1 	16.9 	1809 	
+Tyringham 	Town 	Berkshire 	Open town meeting 	427 	18.9 	18.6 	1762 	
+Upton 	Town 	Worcester 	Open town meeting 	8,000 	21.7 	21.5 	1735 	
+Uxbridge 	Town 	Worcester 	Open town meeting 	14,162 	30.4 	29.5 	1727 	
+Wakefield 	Town 	Middlesex 	Open town meeting 	27,090 	7.9 	7.5 	1812 	
+Wales 	Town 	Hampden 	Open town meeting 	1,832 	15.9 	15.7 	1762 	
+Walpole 	Town 	Norfolk 	Representative town meeting 	26,383 	21.0 	20.5 	1724 	
+Waltham 	City 	Middlesex 	Mayor-council 	65,218 	13.8 	12.7 	1738 	
+Ware 	Town 	Hampshire 	Open town meeting 	10,066 	40.0 	34.4 	1775 	
+Wareham 	Town 	Plymouth 	Open town meeting 	23,303 	46.3 	35.8 	1739 	
+Warren 	Town 	Worcester 	Open town meeting 	4,975 	27.6 	27.5 	1742 	
+Warwick 	Town 	Franklin 	Open town meeting 	780 	37.6 	37.3 	1763 	
+Washington 	Town 	Berkshire 	Open town meeting 	494 	38.8 	38 	1777 	
+Watertown 	City[4] 	Middlesex 	Council-manager 	35,329 	4.1 	4.0 	1630 	
+Wayland 	Town 	Middlesex 	Open town meeting 	13,943 	15.9 	15.2 	1780 	
+Webster 	Town 	Worcester 	Open town meeting 	17,776 	14.5 	12.5 	1832 	
+Wellesley 	Town 	Norfolk 	Representative town meeting 	29,550 	10.5 	10.2 	1881 	
+Wellfleet 	Town 	Barnstable 	Open town meeting 	3,566 	35.4 	19.8 	1775 	
+Wendell 	Town 	Franklin 	Open town meeting 	924 	32.2 	31.9 	1781 	
+Wenham 	Town 	Essex 	Open town meeting 	4,979 	8.1 	7.6 	1643 	
+West Boylston 	Town 	Worcester 	Open town meeting 	7,877 	13.8 	12.9 	1808 	
+West Bridgewater 	Town 	Plymouth 	Open town meeting 	7,707 	15.7 	15.3 	1822 	
+West Brookfield 	Town 	Worcester 	Open town meeting 	3,833 	21.1 	20.5 	1848 	
+West Newbury 	Town 	Essex 	Open town meeting 	4,500 	14.7 	13.4 	1819 	
+West Springfield 	City[4] 	Hampden 	Mayor-council 	28,835 	17.5 	16.7 	1774 	Although it is a city, the official name is Town of West Springfield
+West Stockbridge 	Town 	Berkshire 	Open town meeting 	1,343 	18.7 	18.5 	1775 	
+West Tisbury 	Town 	Dukes 	Open town meeting 	3,555 	41.8 	25.0 	1892 	
+Westborough 	Town 	Worcester 	Open town meeting 	21,567 	21.6 	20.5 	1717 	
+Westfield 	City 	Hampden 	Mayor-council 	40,834 	47.3 	46.3 	1669 	
+Westford 	Town 	Middlesex 	Open town meeting 	24,643 	31.3 	30.6 	1729 	
+Westhampton 	Town 	Hampshire 	Open town meeting 	1,622 	27.4 	27.2 	1778 	
+Westminster 	Town 	Worcester 	Open town meeting 	8,213 	37.3 	35.3 	1770 	
+Weston 	Town 	Middlesex 	Open town meeting 	11,851 	17.3 	17.0 	1713 	
+Westport 	Town 	Bristol 	Open town meeting 	16,339 	64.4 	50.1 	1787 	
+Westwood 	Town 	Norfolk 	Open town meeting 	16,266 	11.1 	11.0 	1897 	
+Weymouth 	City[4] 	Norfolk 	Mayor-council 	57,437 	21.6 	16.8 	1635 	Although it is a city, the official name is Town of Weymouth
+Whately 	Town 	Franklin 	Open town meeting 	1,607 	20.7 	20.2 	1771 	
+Whitman 	Town 	Plymouth 	Open town meeting 	15,121 	7.1 	7.0 	1875 	
+Wilbraham 	Town 	Hampden 	Open town meeting 	14,613 	22.4 	22.2 	1763 	
+Williamsburg 	Town 	Hampshire 	Open town meeting 	2,504 	25.7 	25.6 	1775 	
+Williamstown 	Town 	Berkshire 	Open town meeting 	7,513 	46.9 	46.8 	1765 	
+Wilmington 	Town 	Middlesex 	Open town meeting 	23,349 	17.2 	17.1 	1730 	
+Winchendon 	Town 	Worcester 	Open town meeting 	10,364 	44.1 	43.3 	1764 	
+Winchester 	Town 	Middlesex 	Representative town meeting 	22,970 	6.3 	6.0 	1850 	
+Windsor 	Town 	Berkshire 	Open town meeting 	831 	35.2 	35.0 	1771 	
+Winthrop 	City[4] 	Suffolk 	Council-manager 	19,316 	8.3 	2.0 	1852 	Although it is a city, the official name is Town of Winthrop
+Woburn 	City 	Middlesex 	Mayor-aldermen 	40,876 	12.9 	12.7 	1642 	
+Worcester † 	City 	Worcester 	Mayor-manager-council 	206,518 	38.5 	37.4 	1684 	
+Worthington 	Town 	Hampshire 	Open town meeting 	1,193 	32.1 	31.9 	1768 	
+Wrentham 	Town 	Norfolk 	Open town meeting 	12,178 	22.9 	22.2 	1673 	
+Yarmouth 	Town 	Barnstable 	Open town meeting 	25,023 	28.2 	24.1 	1639 	

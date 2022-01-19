@@ -1,0 +1,3009 @@
+136 
+138 
+144 
+145 
+188 Mass.
+189 Mass.
+192 Magnolia
+195 New England; West Falmouth, Massachusetts
+205 Mass.
+209 North America; Arlington Heights
+210 North America; Naliant
+211 North America; Near Cambridge
+212 North America; Near Cambridge
+213 Parttrigg's Swamp, Amherst
+230 Mass.; Wellesley
+231 Pond St., Jamaica Plain
+233 Amherst
+234 Massachuestts; Essex
+235 Vicinity of Boston
+236 Amherst
+239 Ipswich
+240 Granite Ledge, South Amherst
+243 Amherst
+244 Amherst
+245 Manchester
+251 Nov� Angli�; Pepperell:  On branches of Pinus rigida, Mill-500 ft.
+252 Nov� Angli�; Concord:  On Ulmus americana
+253 Nov� Angli�; Westport Harbor:  On Juniperus virginia (l.) near the sea
+254 
+255 Nov� Angli�; Wellfleet:  On Robinia pseudacacia L. near the sea
+256 Nov� Angli�; Wellesley:  On exposed gravelly banking
+257 Nov� Angli�; Noquitt:  On igneous ledges in low swamps
+258 Nov� Angli�; Wellfleet:  On various roadside trees
+259 Nov� Angli�; Concord:  On moss and fern grown bank-North
+260 Nov� Angli�; Concord:  On Populus in lowlands
+261 Nov� Angli�; Concord:  On exposed igneous ledge, over which at times ground water flows
+262 Nov� Angli�; Orleans:  On ground by the sea
+324 Massachussets; Cape Cod, N. of Falmouth
+333 Massachsetts; Quercus coccinia trunk at roadside, margin of woodland
+334 Massachsetts; Carya trunk at roadside; Thompson Pond Road
+335 Massachsetts; Carya ovata trunk of tree on roadside a few rods from Holden boundary; Jefferson Road
+336 Massachsetts; Carya ovata trunk of tree on roadside a few rods from Holden boundary; Jefferson Road
+337 Massachsetts; Peeling bark of Betual lenta; Old Turnpike
+338 Pletiful on Quercus rbra trunk a few rods south of Spencer boundary; Marshall Street
+406 Massachusetts
+407 Warelrane
+436 Norwood
+462 Massachusets; Walltram
+480 Waltham
+529 Young fruited plants approaching f. spurnosa
+532 Highfield estate, Falmouth, Cape Cod
+533 Highfield estate, Falmouth, Cape Cod
+567 Waerham, Mass
+569 Massachuesetts; Near Spruce Mountain
+617 Middlesex Fells, Medford
+623 Natick
+624 
+625 
+690 Herbarium of the University of Michigan; Waltham Massachusetts
+691 Massachusettes; N. of Falmouth, Cape Cod
+750 Massachusetts (Nantucket Island); On Polpis Road
+995 Nahant
+1019 Nahant
+1020 So. Natick
+1021 Brewster
+1022 Brewster
+1023 Brewster
+1024 
+1026 Brewster
+1033 Nov� Angli�; Concord:  On igneous ledges-west
+1034 Nov� Angli�; Concord:  On igneous ledges-west
+1035 Nov� Angli�; Concord:  On igneous ledges-west
+1036 Nov� Angli�; Concord:  On Ulmus americana, Linn
+1037 Nov� Angli�; Carlisle:  On road cut embankment,-west
+1038 Nov� Angli�; Carlisle:  On Ulmus americana, Linn
+1039 
+1040 Nov� Angli�; Concord:  On Ulmus and Pyrus
+1041 Nov� Angli�; Norwood:  On sandy soil
+1042 Nov� Angli�; Scituate:  On ledges
+1043 Nov� Angli�; Townsend:  On old fence rail
+1044 Nov� Angli�; Mattapoisett:  On various roadside trees-25 ft.
+1045 Nov� Angli�; South Sudbury:  On moss in cedar swamp-200 ft.
+1046 Nov� Angli�; Royalston:  On igneous rock beside brook-1000 ft.
+1080 Cape Ann, near Rockport
+1093 Arlington, Mass.
+1097 On N shore of Cape Ann, near Rockport
+1111 Nahant
+1113 Nahant
+1119 Arlington Heights
+1120 Woods Holl
+1132 Jamaica Plain
+1143 Waltham
+1144 Livingston
+1145 Livingston
+1148 Shelburne Mt., Shelburne
+1149 
+1150 Waltham
+1151 Nahant
+1155 Jamaica Plain, Pond St.
+1156 Nahant
+1157 Shelburne Mt., Shelburne
+1161 Lynnfield
+1162 Caledonia State Park
+1174 
+1175 Boston, Nahant Pen.
+1179 
+1299 Island; Martha's Vinyard
+1300 Cottage City
+1831 Lisbury; Martha's Vinyard
+1832 Spurrs, Berkshire
+2002 Horn Pond Mt.
+2006 Lisbury; Martha's Vinyard
+2009 Saugus
+2010 Saugus
+2011 Medford
+2015 Saugus
+2023 Mt. Tom, Holyoke
+2056 Lanesboro
+2064 Gay Head; Martha's Vinyard
+2106 Canton, Ponkapoag Bog
+2426 Tisbury; Martha's Vinyard
+2432 East Gloucester
+2439 Magnolia
+2440 
+2443 East Gloucester
+2455 Sudbury
+2457 
+2458 Roadside along Rte. 117,S of Buckfield.
+2460 Norwood,Massachusetts
+2461 Orleans
+2463 Scituate
+2464 Nonquitt
+2465 
+2466 Willamette National Forest,Sahalie Falls.
+2467 Tallahassee,FL
+2468 Mattapoisett.
+2469 South Sudbury
+2470 Concord, Massachusetts
+2471 1 mi. SE Foxborough,Mass.
+2472 none listed
+2473 none listed
+2478 Concord,Massachusetts.
+2479 Carlisle.
+2480 Wellesley.
+2483 Amherst
+2486 Watertown,Mass
+2487 
+2490 Dover
+2499 
+2501 
+2504 
+2505 
+2506 
+2507 
+2517 
+2519 
+2527 
+2528 
+2529 
+2530 
+2692 
+2703 Parttrigg's Swamp
+2706 
+2708 coast
+2710 
+2763 Prospect Hill
+2764 Waverly
+2765 Wellesley?
+2772 Wayland
+2775 Conway State Forest, Conway
+2776 
+2777 
+2778 
+2839 Concord
+2842 Amherst
+2843 Waverly
+2845 Amherst
+2854 [No precise loc.]
+2855 [No precise loc.]
+2856 [No precise loc.]
+2863 South Natick
+2864 Amherst
+2865 Town of Cheshire, abandoned limestone quarry and adjacent mixed hardwoods E of Lanesborough Road, along Pettibone Brook
+2866 Amherst
+2869 Estabrook woods, Concord
+2872 
+2873 
+2887 
+2894 Mohawk Trail State Forest, Florida
+2895 South Natick
+2896 South Natick
+2897 South Natick
+2900 Near Concord, railroad ties
+2901 Wellesley, on maples along Charles River
+2905 Spencer
+2906 Amherst
+2908 Halifax
+2909 
+2910 no additional information given
+2912 Old Hill Burying Ground, Marblehead
+2913 So. Natick
+2915 Ipswich
+2916 
+2924 Wellesley.
+2925 Wellesley.
+2926 Wellesley.
+2971 South Hingham.
+2972 Skinner State Park, Hadley.
+2975 Spencer.
+2976 Mt. Tom.
+2982 Mt. Holyoke.
+2987 
+3004 
+3005 Rattlesnake Gutter, Leverett.
+3006 Moun Tom.
+3007 Cricket Hill, Conway.
+3009 Leverett, off Rte. 63.
+3015 East side vicinity Gate 15, Quabbin Res. Shutesbury.
+3017 Mt. Everett.
+3018 Lannersboro.
+3027 Infrequent on granite outcrops in open, young woodland, off Gleason Road, East Princeton.
+3028 Annisquam.
+3030 Marshfield
+3031 Hingham
+3032 Monument Mt. Stockbridge Mass.
+3033 Hingham
+3034 Blue Hills, Milton
+3035 Hammonds Pond
+3038 Danvers
+3041 
+3043 Annisquam.
+3044 
+3046 Mt. Stockbridge, Stockbridge, Mass.
+3048 Rocks. Magnolia.
+3052 New Bedford.
+3053 Chelmsford
+3064 Waverly.
+3070 
+3073 no additional information given
+3074 Manchester
+3077 Hingham
+3079 Ipswich
+3080 Spencer
+3086 Woods Hall
+3089 Woods Hall
+3091 Manchester
+3092 Woods Holl
+3093 Woods Holl
+3124 E. of N. Adams
+3126 
+3132 
+3167 Mt. Toby, Sunderland
+3187 Ipswitch
+3211 Myles Standish State Forest
+3212 On soil near Doctor's Pond, Myles Standish State Forest
+3213 Dunham Off-Road Vehicle Trail, Myles Standish State Forest
+3214 Federal Pond vicinity, Myles Standish State Forest
+3215 Near Forest entrance, Myles Standish State Forest
+3216 South of Cutter Field Road, Myles Standish State Forest
+3217 Adjacent to Cutter Field Road, Myles Standish State Forest
+3218 Trailside north of Cutter Field Road, north of New Grassy Pond,  Myles Standish State Forest
+3219 Corner of Curlew Pond Road and Doctor's Pond Road,  Myles Standish State Forest
+3220 Wings Hole, Myles Standish State Forest
+3221 Cutter Field Road north of Grassy Pond, Myles Standish State Forest
+3222 Intersection of Doctor's Pond Road and Webster Springs Road,  Myles Standish State Forest
+3223 South of Grassy Pond Road, Myles Standish State Forest
+3224 North of Grassy Pond, Myles Standish State Forest
+3225 South of Grassy Pond, Myles Standish State Forest
+3226 Wings Hole, Myles Standish State Forest
+3227 Wings Hole, Myles Standish State Forest
+3228 South of New Grassy Pond, Myles Standish State Forest
+3229 South of New Grassy Pond, Myles Standish State Forest
+3230 Off Cutter Field Road, Myles Standish State Forest
+3231 Wings Hole Frost Pit, Myles Standish State Forest
+3232 Myles Standish State Forest
+3233 Lowest level of Wings Hole Frost Pit, Myles Standish State Forest
+3234 East side of Camp Edwards Air Force Base, adjacent to Highway 6
+3235 South of Cutter Field Road, Myles Standish State Forest
+3236 Harvard Forest, Petersham
+3237 Roadside near Doctor's Pond Road, Myles Standish State Forest
+3238 Above Sawpit, Myles Standish State Forest
+3239 South of Cutter Field Road, Myles Standish State Forest
+3240 Myles Standish State Forest, Curlew Pond Road
+3241 North of Cutter Field Road, Myles Standish State Forest
+3242 North of New Grassy Pond, Myles Standish State Forest
+3243 South of New Grassy Pond, Myles Standish State Forest
+3244 Vicinity of New Grassy Pond, south of Cutter Field Road,  Myles Standish State Forest
+3245 Vicinity of Curlew Pond, Myles Standish State Forest
+3246 Wings Hole Frost Pit, Myles Standish State Forest
+3247 South of Grassy Pond, Myles Standish State Forest
+3248 Myles Standish State Forest
+3249 Doctor's Pond Road, Myles Standish State Forest
+3250 Trailside south of New Grassy Pond, Myles Standish State Forest
+3251 Edgartown, Martha's Vineyard, Chappaquidick Island
+3252 Grape Island, Boston Harbor Islands National Recreation Area, Weymouth
+3253 lovell�s Islands, Boston Harbor Islands National Park Area, Boston
+3254 Coskata-Coatue, Wildlife Refuge, NE side of Nantucket Island
+3255 Americae borealis prope New Bedford
+3256 Prope New Bedford in Americae boreali
+3257 Prope New Bedford (Massachusetts) in Americae boreali
+3258 Prope New Bedford (Massachusetts) in Americae boreali
+3259 Prope New Bedford (Massachusetts) in Americae boreali
+3260 
+3261 Prope New Bedford in Americae boreali
+3262 Prope New Bedford (Massachusetts) in Americae boreali
+3263 Prope New Bedford (Massachusetts) in Americae boreali
+3264 Prope New Bedford (Massachusetts) in Americae boreali
+3265 Prope New Bedford (Massachusetts) in Americae boreali
+3266 Prope New Bedford (Massachusetts) in Americae boreali
+3267 Prope New Bedford (Massachusetts) in Americae boreali
+3268 Prope New Bedford in Americae boreali
+3269 Prope New Bedford in Americae boreali
+3270 Lancaster, Devens Reserve Forces Training Area, Study Site B-7,  Impact Area B, NW side of Trainfire Rd., ca. 0.5 km SE of Harvard Rd
+3271 Uruguay river, Salto Grande Island
+3272 
+3273 Chatham, Morris Isl., S edge of Cape Cod
+3274 Rocky Point, secus via no. 3A. Ad saxa granitica in vicinitate maris.
+3275 Inter Woods Hole & Falmouth, Buzzards Bay, in vicinitate maris. Ad corticem  arborum.
+3384 Rockport
+3385 Gibbs pond, Nantucket
+3386 Nanset Coast Guard Station: Cape Cod
+3411 Wellfleet, Cape Cod
+3413 Woods Holl
+3414 
+3416 maple swamps
+3421 Bartholomew's Cobble just NW of Ashley Falls.
+3429 Locality placeholder for Catalog Number 62523
+3446 Locality placeholder for Catalog Number 62932
+3454 New Bedford and Weymouth
+3465 Coast
+3489 Brewster
+3490 Brewster
+3493 West Falmouth
+3550 Martha's Vineyard
+3551 1.5 miles west of Nantucket Village, Nantucket, Mass.
+3553 South Wellfleet, Cape Cod
+3554 
+3557 
+3581 Eastham, Cape Cod
+3582 Centerville, Cape Cod
+3585 WEllfleet, Cape Cod
+3625 Purgatory swamp, Norwood
+3630 3 mi W of Nantucket Village, Nantucket
+3632 East Dennis, near Route 6, Cape Cod
+3633 Centerville, Cape Cod
+3634 Centerville, Cape Cod
+3635 South side of island, Martha's Vineyard
+3636 Nantucket; Corner of Siasconset Road and lane to Gibbs Pond
+3637 Eastham, Cape Cod
+3638 Nanset Coast Guard Station. Cape Cod
+3639 Centerville, Cape Cod
+3641 Penikese Island; near cottage
+3642 Penikese Island; Cottage area
+3645 Middleboro, Cape Cod
+3646 Martha's Vineyard
+3650 Folger Hill, 3 miles east of Village, Nantucket Island
+3651 Altar Rock Hil,l Nantucket Island
+3653 Penikese Island
+3654 So. Natick
+3704 N of cottage
+3705 [no information]
+3708 Hingham
+3709 [no information]
+3710 Penikese Island
+3712 Cape Cod, Centerville
+3714 Mt. Everett
+3715 Miscomet Pond, Nantucket
+3716 Gibb's Pond, Nantucket
+3718 Chester and Longmeadow
+3719 Martha's Vineyard
+3724 South Chatham, Cape Cod
+3725 Mashpee, Cape Cod
+3764 Vicinity of Boston, MA
+3768 Ad sepes in maritimis (translated: the fences along the coastline)
+3770 
+3771 
+3772 
+3773 
+3774 W Townsend
+3775 
+3777 Mt. Everett
+3780 Hampden Pond area, Southwick
+3782 
+3784 Martha's Vineyard
+3785 Arlington Heights
+3788 Centerville, Cape Cod
+3789 Gibb's Pond, Nantucket
+3790 Eastham, Cape Cod
+3791 Craigsville Beach, Cape Cod
+3792 Centerville, Cape Cod
+3794 Arlington
+3797 Plymouth
+3799 Wellfleet
+3800 Wellfleet, Cape Cod
+3802 Nanset Coast Guard Station, Cape Cod
+3805 Centerville, Cape Cod
+3807 South side of island, Martha's Vineyard
+3815 Altar Rock Hill, Nantucket
+3816 Eastham, Cape Cod
+3820 South Chatham, Cape Cod
+3822 Niacomet Pond
+3823 Nanset Coast Guard Station, Cape Cod
+3824 Nanset Coast Guard Station, Cape Cod
+3833 near Gibbs Pond, Nantucket
+3835 Middleboro, Cape Cod
+3836 Eastham, Cape Cod
+3845 around south ponds near Edgartown
+3867 Estabrook Woods, Concord
+3868 Wellesley.
+3876 Wellesley.
+3881 Wellisby
+3882 Nahant
+3889 Amherst: Partrigg's Swamp
+3890 Wellsbry
+3895 Wellesby
+3912 Cottage City
+3925 So. Natick
+3930 Wall on Pond Street, Webster
+3931 Arlington
+3933 Belmont
+3934 Paul's Bridge
+3935 Paul's Bridge, Milton
+3939 
+4041 [no information]
+4043 Purgatory swamp, Norwood
+4104 no further information given
+4111 
+4112 
+4119 Rockport, Massachusetts
+4125 Rockport
+4127 South Natick
+4130 Nahant
+4133 
+4136 Brewster
+4137 Brewster
+4138 Brewster
+4139 Waverly
+4141 Brewster
+4148 
+4149 
+4151 
+4157 Hingham
+4158 
+4159 Plymouth
+4160 Nahant
+4161 Blue Hill, Milton
+4162 Salem
+4163 Salem
+4164 Hammond Pond.
+4165 Near Boston
+4166 Nahant
+4167 Rockport
+4169 Rockport, Massachusetts
+4171 Nahant
+4173 Wellesly, Massachusetts
+4180 
+4185 
+4191 
+4192 
+4194 Waverly
+4204 South Natick
+4213 Nahant
+4220 Cambridge, Massachusetts
+4221 
+4222 
+4231 Nahant
+4233 Arlington
+4234 Heath
+4235 Mt. Toby
+4245 
+4247 Dedham Road Station
+4248 
+4249 Penikese Island [NW of Martha's Vineyard]
+4251 
+4253 
+4254 
+4256 
+4260 Essex
+4265 summit of Mt. Greylock, 5 miles SSW, North Adams
+4271 Longmeadow
+4343 
+4344 
+4345 
+4354 
+4357 
+4365 
+4366 
+4367 
+4369 Blue Hill
+4370 Crow Hill, Princeton
+4371 Huntingdon
+4376 Newton Center
+4378 Newton Center
+4381 
+4382 
+4392 near summit of Blue Hill, Milton
+4408 
+4410 
+4411 
+4412 Bussey Woods
+4415 no further information given
+4416 [no locality data]
+4417 Arlington Heights
+4421 Amherst
+4422 Williams St. [Boston]
+4424 Arlington Heights
+4446 
+4447 Penikese Island [NW of Martha's Vineyard]
+4448 Penikese Island; n. of Cottage
+4451 
+4452 About Salem
+4460 So Natick
+4461 Wellesby
+4465 
+4466 Canton
+4467 Manchester
+4468 Canton
+4470 Crow Hill, Princeton
+4471 
+4472 Arlington
+4475 Arlington
+4563 Hammond Pond
+4567 Haltham
+4604 
+4605 
+4634 
+4635 Waltham
+4652 Allandale
+4685 New Bedford.
+4701 Sea coast.
+4709 [No locality given on label.]
+4712 [No locality given on label.]
+4715 Marblehead
+4747 
+4750 
+4752 Sea coast
+4753 
+4760 
+4764 
+4765 
+4767 
+4769 
+4770 
+4772 
+4774 
+4775 
+4793 
+4809 Mt. Tom
+4820 Duxbury; From the graves of Myles Standish and Priscilla and John Alden
+4821 Natick Junction
+4823 A-New Bedford B-Weymouth
+4825 Nantucket Island, O'Connell Farm
+4826 Concord
+4827 Newton
+4828 Cape Cod, Wellfleet, Great Island at Duck Harbor end
+4830 Cape Cod, Orleans, Nickerson State Park, near entrance to parking lot and main entrance of park
+4831 Cape Cod, Wellfleet, Great Island at Duck Harbor End
+4832 West Groton, on north-most wide path leading from Squannacook River Wildlife Management Area parking lot to river
+4833 Lynn Woods, Lynn
+4834 
+4835 
+4836 
+4837 Middlesex County, Melrose, RPine Banks Park on the NW edge of the pond approx. lat/long 42 26.510" N, 71 4.023" W
+4838 Boston, South: Lake St Exit-Route 2
+4839 Reading, Washington Park, lightly wooded playground
+4840 Belmont
+4841 Suffolk County, Chelsea, Eastern Ave, Merritt Park Playground
+4846 Shirley
+4849 Shirley
+4856 Cape Cod
+4858 Cape Cod, North Eastham
+4859 Plymouth
+4866 Pepperell
+4867 Pepperell
+4868 Pepperell
+4884 Harvard, Under Pin Hill Road 42.5045 N, -71.5929 E, plus/minus 33 m Datum WGS84 coord. from Biogeomancer
+4885 Lincoln, Minute Man National Historical Park, at end of visitors parking lot UTM 19 47 01 994 N, 313 133 E
+4886 Lincoln, Minute Man National Historical Park, going to visitors parking lot UTM19 47 01 943 N, 313 211 E
+4887 Concord, Minute Man National Historical Park, in front of visitors center UTM19 47 04 633 N, 306 551 E
+4888 Concord, Minute Man National Historical Park UTM19 47 02 479 N, 310 284 E
+4889 
+4898 Berkshires
+4902 in paludibus Massachusettensium
+4904 Powderhouse, Medford, and Chelsea
+4937 Cu[?not identified]
+4938 Nonquitt and vicinity
+4952 [Partrigg's] Dell, Sand Road [Partrigg Swamp, Hadley?]
+4953 in Partigg's Dell [Partrigg Swamp, Hadley?]
+4970 Eastern edge of Arnold Arboretum, Jamaica Plain, Boston
+4979 Penikese Island
+4983 Crow Hill, Princeton
+4984 Waltham
+4985 near Haynes Reservoir, Leominster
+4986 Huntington
+4987 near Spee Pond, Lancaster
+5002 
+5004 Massachusetts
+5009 
+5012 
+5015 
+5017 
+5020 
+5023 
+5025 
+5027 
+5028 
+5029 
+5033 
+5035 
+5036 
+5039 
+5041 
+5042 
+5045 
+5046 Sherborn (village)
+5068 [no information]
+5106 Coast
+5110 Wellesby
+5116 Hingham
+5118 
+5119 Massachusetts
+5124 Chelmsford
+5129 Massachusetts
+5131 Massachusetts
+5132 Sprague
+5133 Massachusetts
+5134 Massachusetts
+5139 Longmeadow
+5140 
+5141 Massachusetts
+5142 Massachusetts
+5147 
+5148 
+5149 Chelmsford
+5151 
+5180 Bean Hill
+5184 Mount Holyoke
+5188 Massachusetts
+5200 Penikese Island
+5226 [no information]
+5227 Penikese Island
+5229 
+5231 Dedham
+5232 Plymouth
+5234 West Falmouth
+5235 (possibly) Naushan
+5269 
+5315 Crow Hill, Princeton
+5324 Salem
+5325 Mt. Pleasant
+5329 South Natick
+5342 Longmeadow
+5343 
+5344 Arlington Heights
+5346 Salem
+5347 Salem
+5349 Gloucester woods
+5383 Nanset Coast Guard Station, Cape Cod
+5384 Middleboro, Cape Cod
+5386 [no information]
+5387 West Falmouth
+5406 [no information]
+5408 
+5418 South Braintree
+5424 Waltham
+5425 Concord
+5426 Newton
+5427 Concord
+5428 Concord
+5429 Near the coast
+5433 Longmeadow
+5434 [no information]
+5440 So. Natick
+5451 [no information]
+5452 Nahant
+5453 Nahant
+5458 [no information]
+5544 near coast
+5545 Lexington Road near Lincoln town line, Concord
+5547 Arlington
+5966 no additional information given
+5977 near Boston
+5979 Winchester
+5980 Nahant
+5983 Nahant
+5984 Nahant
+5985 Nahant
+5986 Penikese Island. Wharf area
+5988 Nahant
+5989 from the graves of Myles Standish and Priscilla and John Alden
+5990 near the coast
+5991 Nahant
+5992 Nahant
+6160 near New Bedford
+6268 Swamp near Mud Pond, Natick
+6277 Near Marconi Station, Cape Cod
+6279 
+6281 Cape Cod
+6283 Taylor's Notch, Mt. Holyoke, Hadley
+6287 Case Estates, Arnold Arboretum, Weston
+6290 Case Estates, Arnold Arboretum, Weston; behind summerhouse
+6292 behind summerhouse, Case Estates, Arnold Arboretum
+6293 Case Estates, Arnold Arboretum
+6294 Lowell Holly Reservation
+6295 So. Natick
+6299 White Mountains.
+6311 
+6316 White Mountains.
+6317 
+6326 Purgatory swamp.
+6330 
+6332 Buzzard Bay.
+6333 
+6335 
+6351 Middlesex Falls.
+6359 
+6361 Middlesex Falls.
+6362 
+6363 
+6364 Middlesex Fells.
+6373 
+6381 White Mountains.
+6383 
+6386 
+6389 Belmont Spring
+6390 Middlesex Fells
+6393 White Mountains.
+6396 
+6400 
+6401 Parttrigg's Swamp, Amherst
+6402 Woods Hall
+6405 
+6408 
+6410 
+6412 
+6420 
+6424 Brookdale Mills
+6426 
+6433 
+6441 
+6450 Woodlawn
+6454 Hammonds Pond, Boston
+6456 Middlesex Fells
+6457 Middlesex Fells
+6459 West Falmouth
+6464 Annisquam.
+6476 Annisquam, Mass.
+6477 Middlesex Fells
+6481 Arlington Heights.
+6483 Nauchon Island.
+6487 White Mountains.
+6492 White Mountains.
+6493 
+6510 Steek Brook
+6511 Woods Hall
+6516 Wellesley; by R.R. Tracks
+6524 Drive below Castle, Kenoza Lake, Haverhill
+6525 Sutton
+6528 Cape Cod, Province Lands
+6529 Cape Cod: Cape Cod National Seashore, E of Well fleet. In dunes E of Ocean dirve, N of Cahoon Hollow Beach
+6530 Parker River Wildlife Refuge, Plum Island
+6531 Great island, Weiffleet, Cape Cod
+6532 Case Estates, Arnold Arboretum
+6533 Case Estates, Arnold Arboretum, Weston
+6535 Dennis on Cape Cod.
+6536 Town of Dennis on Cape Cod
+6537 Fort Hill Maple Swamp, Cape Cod National Seashore
+6540 Town of Denis
+6542 West Falmouth
+6543 Lexington
+6554 ad Manchester Massachusettensium detexit b.m.
+6557 
+6559 
+6560 Headwaters of Hobb's Brook.
+6561 
+6562 
+6563 
+6564 
+6566 
+6567 Middlesex Falls.
+6568 Middlesex Fells.
+6570 
+6571 
+6591 Pond St., Jamaica Plain.
+6592 
+6593 
+6594 
+6595 
+6596 
+6601 
+6602 
+6603 
+6607 
+6609 
+6612 White Mountains.
+6613 
+6624 
+6625 
+6640 Mt. Wachuset
+6641 [no information]
+6643 
+6645 
+6650 
+6653 
+6659 
+6662 Woods Hall, Naushau I.
+6665 
+6668 
+6671 
+6673 
+6674 White Mountains.
+6678 
+6680 
+6681 Wood's Holl, Nanshone I.
+6682 
+6686 
+6687 South Hingham
+6688 Brewster to Shoot-flying Hill.
+6689 West Falmouth.
+6692 
+6693 
+6694 
+6695 
+6703 
+6716 Lynn Woods
+6721 eastern part of Lynn woods
+6723 [no additional data]
+6724 Woods Hole
+6730 Amherst
+6737 
+6744 Essex
+6747 Amherst
+6748 Amherst
+6771 Ipswich
+6776 Ipswich
+6777 
+6879 
+6919 Granite Ledge, South Amherst
+6920 Granite Ledge, South Amherst
+6944 Essex
+6982 
+6983 
+6984 
+6985 
+6986 
+6987 [no locality]
+6988 [no locality]
+6989 [no locality]
+6990 [no locality]
+6991 [no locality]
+6992 [no locality]
+6993 New Bedford and Weymouth
+6994 New Bedford and Weymouth
+6995 [no locality]
+6996 [no locality]
+6997 [no locality]
+6998 Concord
+6999 [no locality]
+7000 Concord
+7001 [no locality]
+7002 [illegible]
+7003 [no locality]
+7004 [no locality]
+7005 [no locality]
+7006 [no locality]
+7007 Arlington Heights
+7008 
+7009 [no locality]
+7010 [no locality]
+7011 
+7012 [no locality]
+7013 Arlington Heights
+7014 Arlington Heights
+7015 Arlington Heights
+7016 Williamstown
+7017 
+7019 Williamstown
+7022 
+7026 Monson
+7028 Monson
+7029 [no locality]
+7032 S. Natick
+7038 
+7039 
+7040 
+7041 
+7042 
+7043 
+7045 
+7050 
+7051 
+7054 
+7055 
+7056 
+7057 
+7058 
+7059 
+7060 
+7071 ?
+7073 
+7075 
+7083 Waltham
+7084 Waltham
+7096 Brewster
+7099 Dedham
+7101 Amherst
+7105 Vallmont?
+7106 Amherst
+7115 From the Willey Herbarium
+7116 Amherst
+7122 Massachusetts.
+7132 Rutland
+7146 Wellseley
+7155 Rutland
+7156 Watertown
+7157 Nahant
+7159 Brewster
+7166 Vicinity of Boston
+7168 Vicinity of Boston
+7195 Woodlawn
+7197 Arlington Heights
+7198 Waban
+7228 Waverly
+7240 [data not captured]
+7249 Waverley
+7257 
+7261 
+7277 Amherst
+7278 Amherst
+7280 New Bedford and Quincy
+7283 New Bedford and Weymouth
+7292 [illegible]
+7297 Woodlawn
+7316 New Bedford and Weymouth
+7427 Mt. Watatic
+7437 Purgatory
+7454 [No locality information given on label.]
+7470 New Bedford and Weymouth
+7478 Pellston, University of Michigan Biological Station
+7479 Sutton, Faculty Camp
+7484 Waverly
+7487 Lunenburg
+7490 Hammonds Pond
+7491 Manchester
+7494 Manchester
+7499 
+7501 
+7566 Waverly
+7595 Magnolia and New Bedford
+7613 Deadham Road
+7631 near Dwight House
+7639 Manchester
+7674 1 mi. southeast of Manomet
+7680 Mt. Greylock
+7681 Mt. Greylock
+7710 Holden, north of Worcester, Reservoir Road
+7712 Carlisle, --west
+7713 near Mount Toby
+7714 slope to highway, Warren
+7717 Sutton, faculty camp
+7757 Mt. Watatee
+7759 Ashby, Wauticket Mountain
+7788 Great Island
+7869 [no additional data]
+7871 near Swift's Hill
+7877 Near Swift's Hill
+7884 Massachusettensicum
+7894 [no aditional data]
+7919 near Buttermilk Bay
+7939 Waverly
+8054 Mt. Wachusett
+8079 Arlington Heights and Waverley
+8176 Route 68, near Hubbardston
+8274 Buttermilk Bay
+8307 [no additional data]
+8358 [no data available]
+8365 [no data available]
+8378 [no data available]
+8380 [no data available]
+8442 Carlisle
+8443 Beech woods off Rte. 127 on The Manchester-Magnolia line
+8444 Duxbury
+8461 Nonquitt
+8523 Princeton
+8528 Bourne
+8534 Woodlawn
+8536 Willey Slide near W. House.
+8539 Concord
+8581 Myles Standish State Forest
+8738 [no data available]
+8753 [data not captured]
+8758 [no data available]
+8842 Woodlawn[?]
+9110 west of Muddy Cove
+9167 [data not captured]
+9171 [data not captured]
+9454 [data not captured]
+9459 [data not captured]
+9469 [data not captured]
+9474 [data not captured]
+9502 [data not captured]
+9593 Waverley
+9596 New Bedford and Weymouth
+9606 Blue Hill
+9607 Blue Hill
+9613 [no additional data]
+9615 Massachusetts.
+9655 Woodlawn
+9656 Nonquitt
+9682 Nahant
+9683 Nahant
+9684 Nahant
+9698 Willey
+9699 short distance from the Ware River, Coldbrook, Barre
+9700 Natick
+9702 Nonquitt
+9709 Rockport
+9714 Bussey Brook
+9745 [data not captured]
+9785 Waverly
+10494 Boston Harbor Islands. Calf Island
+11234 [data not captured]
+11252 [data not captured]
+11255 [data not captured]
+11294 [data not captured]
+11335 [data not captured]
+11349 [no additional data]
+11404 [data not captured]
+11564 [data not captured]
+11646 [no additional data]
+11663 [data not captured]
+11709 [data not captured]
+11716 [no additional data]
+11758 [data not captured]
+11772 [no additional data]
+11870 [illegible]
+11873 [no additional data]
+11907 [no additional data]
+11928 Norwood
+11930 Swampscott
+11952 [data not captured]
+11982 
+11990 
+12027 [data not captured]
+12032 Massachusetts.
+12040 Dedham
+12044 Blue Hill, Milton
+12073 Centerville, Cape Cod
+12091 So. Natick
+12122 [data not captured]
+12135 South Sudbury
+12157 Fitzwilliam
+12160 Orleans
+12161 Nantucket Island
+12174 Lynn woods, Lynn
+12215 Purgatory
+12216 [data not captured]
+12230 [data not captured]
+12263 Middlesex Fells, north of Boston
+12265 
+12271 Amherst
+12272 Amherst
+12277 Concord
+12283 Nahant
+12294 Townsend
+12296 
+12297 
+12302 
+12303 
+12320 [data not captured]
+12334 [data not captured]
+12350 [data not captured]
+12351 [data not captured]
+12352 [data not captured]
+12358 [data not captured]
+12364 [data not captured]
+12370 [data not captured]
+12380 [data not captured]
+12535 
+12536 Concord
+12537 Royalston
+12543 2 miles south of Manomet
+12546 Amherst
+12553 [data not captured]
+12554 [data not captured]
+12592 [data not captured]
+12593 [data not captured]
+12653 [data not captured]
+12656 [data not captured]
+12679 [no additional data]
+12684 [data not captured]
+12699 West Falmouth
+12700 West Falmouth
+12702 Amherst
+12703 Amherst
+12709 Malden
+12714 
+12739 Concord
+12740 Rocky Point, secus via no. 3A.
+12905 
+12958 [no additional data]
+12960 [data not captured]
+12962 [no additional data]
+12964 [data not captured]
+12980 [data not captured]
+13140 [data not captured]
+13146 [data not captured]
+13200 New England
+13206 Brewster
+13209 South Natick
+13224 [data not captured]
+13231 [data not captured]
+13257 Chocorua
+13284 [data not captured]
+13285 [data not captured]
+13286 [data not captured]
+13303 [data not captured]
+13306 [data not captured]
+13313 [data not captured]
+13314 [data not captured]
+13322 [data not captured]
+13343 
+13375 [data not captured]
+13376 [data not captured]
+13377 [data not captured]
+13410 Nonquitt
+13411 Manchester
+13412 Manchester
+13413 Oakham
+13414 Concord
+13415 Magnolia
+13416 Rockport
+13419 no add
+13427 Concord
+13434 
+13435 Rockport
+13436 Rockport
+13438 Rockport
+13440 Concord
+13449 Amherst
+13450 Amherst
+13559 [data not captured]
+13560 [no additional data]
+13597 [data not captured]
+13598 [data not captured]
+13619 Pond St., Jamaica Plain
+13620 Concord
+13622 Rutland
+13625 Sutton, faculty camp
+13647 [no additional data]
+13680 Mt. Ascutney
+13681 Rutland
+13686 Concord
+13696 Near Cambridge
+13697 near Concord
+13698 Norwood
+13727 Weston
+13728 Weston
+13729 Brewster
+13730 Westport Harbor
+13734 Ashby
+13738 Wellfleet
+13739 Brewster
+13751 [data not captured]
+13802 [data not captured]
+13805 [no additional data]
+13827 Scituate
+13834 Wellfleet
+13869 [data not captured]
+13912 5 mi. west of Blanchard, southwest Massachusetts
+13973 5 mi. west of Blanchard, southwest Massachusetts
+13987 [data not captured]
+14045 Cedar Swamp, Woods Hole, East side.
+14046 
+14053 
+14054 
+14059 North of Cottage, Penikese Island
+14068 
+14072 New Bedford and Weymouth
+14086 Pepperell.
+14089 Sutton, faculty camp
+14094 Concord
+14096 Concord
+14097 yard of D. S. Hall, North Attleboro
+14102 near Flamouth
+14105 New England
+14109 West Falmouth
+14110 Brewster
+14112 banks of the Charlest River, near Boylston street bridge, Allston
+14114 Concord
+14115 Waterton
+14162 [data not captured]
+14187 [no additional data]
+14220 [data not captured]
+14222 [data not captured]
+14224 [data not captured]
+14292 Western Massachusetts.
+14298 
+14311 
+14312 
+14329 [data not captured]
+14345 [data not captured]
+14375 [data not captured]
+14385 Cape Cod near Morriston
+14386 Cape Cod; on road between Provincetown and Race Point
+14387 Mattapoisett
+14389 Nahant
+14391 Nahant
+14392 Nahant
+14460 Cape Cod near Morriston
+14467 
+14468 
+14472 
+14477 
+14487 Steep Brook
+14499 Steek Brook
+14500 Steep Brook
+14511 
+14512 Steep Brook
+14515 Nickerson Park.
+14537 
+14604 [data not captured]
+14605 [data not captured]
+14610 [data not captured]
+14620 [no additional data]
+14674 no data
+14682 
+14699 BREWSTER. no data
+14712 BREWSTER. SWEETWATER FOREST- CAPE COD
+14733 PLUM ISLAND
+14760 BREWSTER. SWEETWATER FOREST- CAPE COD
+14767 DARTMOUTH. no data
+14769 DARTMOUTH. Exposed rock by ocean
+14770 no data. PLUM ISLAND
+14826 Woods Hole
+14828 
+14837 
+14865 
+14870 Stony Brook
+14871 Stony Brook
+14872 
+14878 Coastal Massachusetts
+14880 
+14885 
+14907 Westport Harbor
+14909 [no additional data]
+14954 
+14963 near Cambridge
+14978 [data not captured]
+14981 [data not captured]
+14997 [data not captured]
+15024 [data not captured]
+15042 [data not captured]
+15125 [data not captured]
+15134 [data not captured]
+15139 [no additional data]
+15152 [data not captured]
+15173 [data not captured]
+15176 [data not captured]
+15197 [data not captured]
+15200 [data not captured]
+15210 [no additional data]
+15211 [no additional data]
+15213 [no additional data]
+15246 [data not captured]
+15249 [data not captured]
+15254 [no additional data]
+15256 [data not captured]
+15258 [data not captured]
+15277 [data not captured]
+15282 [data not captured]
+15288 [data not captured]
+15294 [no additional data]
+15295 [data not captured]
+15310 Natick
+15311 Blue Hill
+15328 [no additional data]
+15375 [data not captured]
+15483 [data not captured]
+15490 [data not captured]
+15493 [data not captured]
+15510 [data not captured]
+15556 Wellealey
+15817 Massachusetts
+15872 [no information]
+15894 
+15901 
+15902 New Bedford and Weymouth
+15936 Massachusetts, unspecified
+15945 Seavern's Woods
+15979 Massachusetts, unspecified
+16034 Massachusetts, unspecified
+16089 5 mi W of Blanchard, southwestern part of the state
+16093 NE Massachusetts, unspecified
+16202 Massachusetts, unspecified
+16243 
+16244 
+16245 
+16246 Provincetown
+16247 Nahant
+16248 
+16289 Sudbury
+16344 Woods Hole
+16345 Hampden: Bousquet
+16346 Hampden: Bousquet
+16347 Barnstable: Mashee
+16348 Barnstable: Mashee
+16349 Barnstable: Mashee
+16350 Barnstable: Mashee
+16352 Cambrigde, Mass.
+16353 near Cambrigde
+16354 Carlisle, Mass.
+16355 near Cambrigde
+16356 Clinton, Lake of Clouds, Mt. Pleasant
+16357 Duke Co.: Town of Edgartown, Martha`s Vineyard, Chappaquidick Island
+16358 Hampden: Bousquet
+16360 Barnstable: Mashee
+16361 Amherst
+16368 Essex
+16369 Wellesly
+16370 Wellesley, Mass.
+16371 Wellfleet
+16372 Brewster
+16373 Suffolk Co.: Boston, Beacon Hill, Pickney Street
+16374 Suffolk Co.: Boston, Beacon Hill, Pickney Street
+16375 Woods Hole, Bar Neck Road
+16376 Westport Harbor
+16377 Concord, Mass.
+16380 Waltham
+16381 Wellesley, Mass.
+16382 
+16383 Provincetown
+16384 
+16385 
+16386 
+16390 on bank of Quashnet River,Mashpee
+16391 near W. Falmouth,Cape Cod
+16392 Brewster
+16393 Arlington
+16396 Feels
+16397 Peabody, MA
+16398 Amherst
+16401 Nahant
+16403 
+16406 Essex,Massachusetts
+16433 
+16438 
+16439 
+16495 
+16496 
+16560 
+16578 
+16595 Brandon
+16612 
+16625 
+16640 Monadnock
+16680 
+16683 [West Arbon]
+16704 
+16715 
+16747 
+16748 
+16749 
+16816 
+16875 New Haven
+16952 
+16963 
+16989 
+17000 
+17005 [illegible]
+17007 
+17043 
+17100 
+17114 
+17117 
+17122 
+17137 [illegible]
+17138 
+17141 
+17174 
+17184 
+17201 Connecticut River Valley
+17211 
+17222 
+17232 near the coast
+17251 
+17263 
+17280 
+17314 
+17315 
+17316 
+17317 
+17318 
+17319 
+17320 
+17321 
+17322 
+17323 
+17324 
+17325 
+17326 
+17327 
+17328 
+17329 
+17330 
+17331 
+17332 
+17333 
+17334 
+17335 
+17336 
+17337 
+17338 
+17339 
+17340 
+17341 
+17342 
+17343 
+17344 
+17345 
+17346 
+17347 
+17348 
+17349 
+17350 
+17351 
+17352 
+17353 
+17354 
+17355 
+17356 
+17357 
+17358 
+17359 
+17360 
+17361 
+17362 
+17363 
+17364 
+17365 
+17366 
+17367 
+17368 
+17369 
+17370 
+17371 
+17372 
+17373 
+17374 
+17375 
+17376 
+17377 
+17378 
+17379 
+17380 
+17381 
+17382 
+17383 
+17384 
+17385 
+17386 
+17387 
+17388 
+17389 
+17390 
+17391 
+17392 
+17393 
+17394 
+17395 
+17396 
+17397 
+17398 
+17399 
+17400 
+17401 
+17402 
+17403 
+17404 
+17405 
+17406 
+17407 
+17408 
+17409 
+17410 
+17411 
+17412 
+17413 
+17414 
+17415 
+17416 
+17417 
+17418 
+17419 
+17420 
+17421 
+17422 
+17423 
+17424 
+17425 
+17426 
+17427 
+17428 
+17429 
+17430 
+17431 
+17432 
+17433 
+17434 
+17435 
+17436 
+17437 
+17438 
+17439 
+17440 
+17441 
+17442 
+17443 
+17444 
+17445 
+17446 
+17447 
+17448 
+17449 
+17450 
+17451 
+17452 
+17453 
+17454 
+17455 
+17456 
+17457 
+17458 
+17459 
+17460 
+17461 
+17462 
+17463 
+17464 
+17465 
+17466 
+17467 
+17468 
+17469 
+17470 
+17471 
+17477 [data not captured]
+17491 [data not captured]
+17505 [data not captured]
+17521 [no additional data]
+17523 
+17524 Arlington Heights
+17525 
+17526 
+17527 [no locality]
+17528 near Rockport, Long Beach [United States, MASSACHUSETTS, ESSEX CO.]
+17529 Bourne, Cape Cod Canal, Study Site 20, near intersection of Camp Edwards leaching field with power line [United States, Massachusetts, Barnstable Co.]
+17530 Bourne, Cape Cod Canal, Study Site 22, 10 m to 50 m south of Midway Recreation Area, off Sandwich Road [United States, Massachusetts, Barnstable Co.]
+17531 Adams, Mt. Greylock State Reservation, Tuckermann Workshop Site 9, Mount Fitch, between summit and Notch Road [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17532 Adams, Mt. Greylock State Reservation, Tuckermann Workshop Site 9, Mount Fitch, between summit and Notch Road [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17533 Adams, Mt. Greylock State Reservation, Tuckermann Workshop Site 9, Mount Fitch, between summit and Notch Road [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17534 Williamstown, Mt. Greylock State Reservation, col between Greylock and Saddle Ball Mtn [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17535 Cheshire, woods adjacent to Pettibone Brook, Tuckermann Workshop Site 1 between Lanesborough Mtn and large, abandoned quarry to east [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17536 Bourne, Cape Cod Canal, Study Site 22, 10 m to 50 m south of Midway Recreation Area, off Sandwich Road [United States, Massachusetts, Barnstable Co.]
+17537 Savoy, Savoy Mountain State Forest, Bog Pond [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17538 south of New Grassy Pond, Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17539 south of Grassy Pond Road, Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17540 south of New Grassy Pond, Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17541 Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17542 Myles Standish State Forest, Wings Hole [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17543 near Grassy Pond, Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17544 south of New Grassy Pond, Myles Standish State Forest [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17545 Essex
+17546 Ipswich
+17548 Granite Ledge, South Amherst
+17549 Essex
+17551 
+17552 Waltham
+17553 Amherst
+17554 Vicinity of Boston
+17555 Amherst
+17556 Manchester
+17557 Princeton, Wachusett Mountain State Reservation, site 3, above secong ledge, 75 m E of Old Indian Trail, ca. 500 m N of summit [United States, MASSACHUSETTS, WORCESTER CO.]
+17558 Mt. Washington township, Mount Everett, 50 to 150 m S to SW of summit tower [United States, MASSACHUSETTS, BERKSHIRE CO.]
+17559 Amherst
+17560 Grape Island, Boston Harbor Islands National Recreation Area, Weymouth. UTM 19 341141E 4681134N [United States, MASSACHUSETTS, NORFOLK CO.]
+17561 on the extreme northwest end of the island (the point), Lovell's Island, Boston Harbor Islands National Park Area, Boston. Ca. UTM 19 341294E 4687921N [United States, Massachusetts, Suffolk Co.]
+17562 near the norteast shore of Coscata Pond, Coscata-Coatue Wildlife Refuge, northeast side of Nantucket Island [United States, MASSACHUSETTS, NANTUCKET CO.]
+17563 near the norteast shore of Coscata Pond, Coscata-Coatue Wildlife Refuge, northeast side of Nantucket Island. UTM 19 415090E 4578206N [United States, MASSACHUSETTS, NANTUCKET CO.]
+17564 Town of Edgartown, Martha's Vineyard, Chappaquidick Island [United States, MASSACHUSETTS, DUKE CO.]
+17565 Chatham, Morris Isl, south edge of Cape Cod [United States, Massachusetts, Barnstable Co.]
+17566 Boston Harbour Island, Hull: Boston Harbour Island National Park Area. Peddocks Island. Middle Head, southwest side of head, Walsh home [United States, MASSACHUSETTS, PLYMOUTH CO.]
+17593 [no additional data]
+17597 [data not captured]
+17602 [no additional data]
+17622 [no additional data]
+17624 [data not captured]
+17628 [no additional data]
+17629 [no additional data]
+17635 [data not captured]
+17641 [no additional data]
+17644 [no additional data]
+17646 [data not captured]
+17649 [no additional data]
+17658 [no additional data]
+17669 [no additional data]
+17671 [data not captured]
+17676 
+17683 [no additional data]
+17684 [no additional data]
+17688 [no additional data]
+17700 [data not captured]
+17703 [no additional data]
+17706 [data not captured]
+17708 [no additional data]
+17713 [no additional data]
+17715 [no additional data]
+17717 [no additional data]
+17720 [no additional data]
+17741 Steep Brook
+17744 Townshend [no such locality identified: perhaps "Townsend, Middlesex County, Massachusetts]
+17753 Chatham, Morris Isl., S edge of Cape Cod
+17766 [no additional data]
+17771 [no additional data]
+17775 [no additional data]
+17782 [no additional data]
+17797 near Boston
+17802 [data not captured]
+17810 [no additional data]
+17814 near Boston
+17815 near Boston
+17816 near Boston
+17817 near Boston
+17832 [data not captured]
+17852 [data not captured]
+17854 [no additional data]
+17855 [no additional data]
+17858 [no additional data]
+17859 [no additional data]
+17860 [no additional data]
+17870 [no additional data]
+17871 [no additional data]
+17876 [no additional data]
+17879 [no additional data]
+17883 [no additional data]
+17898 [no additional data]
+17902 [no additional data]
+17903 [no additional data]
+17911 [no additional data]
+17927 [data not captured]
+17938 [no additional data]
+17941 [no additional data]
+17943 [no additional data]
+17960 [no additional data]
+18225 Steep Brook
+18242 Steep Brook
+18252 Amherst
+18263 Amherst
+18276 Blue Hill
+18277 Mount Pleasant
+18328 Rockport
+18330 Parttrigg's swamp, Amherst
+18337 
+18338 
+18362 Middlesex Fells, Medford
+18368 Natick
+18369 
+18370 
+18374 Nahant
+18378 Nahant
+18379 South Natick
+18380 Brewster
+18381 Brewster
+18382 Brewster
+18383 
+18385 Brewster
+18391 Rockport
+18392 Rockport
+18393 Amherst
+18395 Norwood
+18396 Concord
+18397 Sudbury
+18398 Sudbury
+18399 Pride's Crossing
+18400 Pride's Crossing
+18401 Granville
+18405 Arlington Heights
+18409 Granville
+18410 Easthampton, Bridge Street
+18411 Granville
+18413 
+18414 Near Londville
+18416 Mount Tom
+18417 Mount Tom
+18418 Pride's Crossing
+18424 South Natick
+18425 Nahant
+18427 South Natick
+18433 South Natick
+18435 Nahant
+18437 Nahant
+18439 Sheffield
+18444 Nahant
+18447 2 miles south of Manomet
+18448 Nalbrant, Mass
+18449 Near Cambridge, Mass.
+18451 Near Cambridge
+18454 Amherst
+18458 Great Island, Wellfleet Township, Cap Cod
+18460 Wellfleet Township, Great Island. Cape Cod
+18465 Wellfleet Township, Great Island. Cape Cod
+18467 Wellfleat Township, Great Island, Cape Cod
+18472 Swampscott
+18497 Mt. Holyoke
+18562 Amherst; in saepibus pradii mei
+18568 
+18569 Essex
+18571 Brewster
+18573 Cape Cod
+18585 Berkshire Hills, NW coast of the Big Bond, by Otis
+18665 [data not captured]
+18747 [data not captured]
+18753 Manchester.
+18754 Nonquitt.
+18756 
+18772 Jamaica plain
+18774 Salisbury cove
+18775 
+18776 
+18779 East wareham
+18780 Kingston
+18782 Haverhill
+18787 Concord
+18791 
+18792 
+18793 
+18794 Salisbury cove, trail hunters beach
+18797 Salisbury cove
+18800 Petersham, harvard forest
+18801 East wareham, mass.?
+18813 Salisbury cove
+18814 Pelham
+18817 
+18820 Muskeget island
+18824 Coskaty.
+18825 East Brewster, Cape Cod.
+18827 Woods Hole.
+18829 Concord.
+18834 Manchester.
+18836 "Mt. Foley"
+18837 
+18838 
+18839 Bear Hill.
+18840 Bear Hill.
+18841 
+18842 
+18845 Leverett
+18847 Haverhill
+18850 Bedford.
+18858 Waltham.
+18859 Concord.
+18863 Waltham
+18865 Harvard Forest, Petersham.
+18878 Concord
+18882 Cape cod, east brewster
+18883 No. weymouth
+18887 Harvard forest, petersham
+18888 Harvard forest, petersham
+18899 
+18900 New bedford
+18901 New bedford
+18902 New bedford
+18903 Dunfield Swamp
+18917 East wareham
+18918 East wareham
+18925 Arlington
+18927 Carlisle
+18940 Salisbury cove
+18963 
+18968 
+18969 Rutland
+18970 Carlisle
+18972 Acushnet
+18975 
+18976 
+18980 Eelford
+18988 Rockport
+18989 Arlington heights
+18998 
+19018 Arlington
+19019 New Bedford.
+19020 New Bedford.
+19021 New Bedford.
+19022 New Bedford.
+19023 New Bedford.
+19024 Near Cambridge.
+19029 New Bedford.
+19030 Near Cambridge.
+19031 Goncord.
+19032 Annisquam.
+19034 N Weymounth.
+19036 New Bedford.
+19037 New Bedford.
+19051 
+19052 Weymouth.
+19053 Weymouth.
+19055 
+19056 Acushnet.
+19058 Hammonds Poind.
+19059 Waltham.
+19060 
+19061 Pelham.
+19062 Needham.
+19064 Concord.
+19076 
+19078 
+19096 East wareham
+19107 Cape cod, provincetown area
+19119 2 mi s of manomet
+19132 Natick
+19134 
+19135 
+19136 
+19137 Pergatory swamp near dedham
+19161 
+19162 
+19165 
+19183 Waverley.
+19186 Mt Toby.
+19190 Weymoth.
+19199 
+19201 
+19202 
+19203 
+19206 
+19217 Estabrook Woods, Concord.
+19219 
+19227 
+19229 
+19230 Quincy.
+19231 
+19240 
+19247 
+19248 
+19262 
+19264 
+19269 Cutlyhunk Island.
+19270 
+19273 
+19274 Concord.
+19276 New Bedford.
+19282 
+19283 
+19284 
+19285 
+19286 
+19287 
+19289 
+19290 So. Natick, Vera.
+19291 Amherst.
+19294 Dartmouth.
+19326 Fairhaven.
+19327 
+19353 Dartmouth.
+19364 
+19365 Danes Beach, Beverly.
+19370 
+19371 New Bedford/Weymouth
+19374 Granite Ledge, South Amherst.
+19375 Weymouth.
+19384 Waltham.
+19397 Wachusett Mts.
+19402 Onset Bay.
+19403 New Bedford.
+19410 
+19412 
+19419 Waltham.
+19421 
+19422 
+19423 
+19424 
+19425 
+19427 Belchertown.
+19428 
+19436 New Bedford/Weymouth
+19439 New Bedford/Weymouth
+19440 New Bedford/Weymouth
+19441 New Bedford/Weymouth
+19443 
+19446 
+19452 
+19453 Clarks Point.
+19454 
+19457 
+19458 
+19465 
+19466 
+19467 Springfield.
+19473 
+19478 
+19482 Wellesley.
+19483 Wellesley.
+19485 Harvard Forest, Petersham.
+19486 Conway.
+19495 Long Plain.
+19496 Wellesley.
+19500 Rockport
+19505 
+19510 Nahant
+19511 Nahant
+19515 
+19548 
+19655 Woods Holl
+19690 Nahant
+19711 Nahant
+19828 1 mi. SE of Foxborough
+19833 [data not captured]
+19839 [data not captured]
+19843 [data not captured]
+19845 [data not captured]
+19850 [data not captured]
+19866 [data not captured]
+19869 [data not captured]
+19871 [data not captured]
+19873 [data not captured]
+19879 [data not captured]
+19886 [data not captured]
+19888 [data not captured]
+19893 [data not captured]
+19909 [data not captured]
+19914 [data not captured]
+19915 [data not captured]
+19917 [data not captured]
+19919 [data not captured]
+19921 [data not captured]
+19923 [data not captured]
+19929 [data not captured]
+19931 [data not captured]
+19938 [data not captured]
+19939 [data not captured]
+19942 [data not captured]
+19946 [data not captured]
+19949 [data not captured]
+19995 [data not captured]
+19996 [data not captured]
+19997 [data not captured]
+20001 [data not captured]
+20006 [no additional data]
+20008 [data not captured]
+20009 [data not captured]
+20010 [data not captured]
+20014 [data not captured]
+20015 [data not captured]
+20016 [data not captured]
+20020 [data not captured]
+20021 [data not captured]
+20024 [data not captured]
+20028 [data not captured]
+20034 [data not captured]
+20043 [data not captured]
+20052 [data not captured]
+20056 [data not captured]
+20067 [data not captured]
+20079 [data not captured]
+20081 [data not captured]
+20082 [data not captured]
+20096 [data not captured]
+20097 [data not captured]
+20098 [data not captured]
+20100 [data not captured]
+20102 [data not captured]
+20103 [data not captured]
+20111 [data not captured]
+20118 [data not captured]
+20120 [data not captured]
+20124 [data not captured]
+20125 [data not captured]
+20133 [data not captured]
+20137 [data not captured]
+20141 [data not captured]
+20142 [data not captured]
+20150 [data not captured]
+20151 [data not captured]
+20152 [data not captured]
+20153 [data not captured]
+20155 [data not captured]
+20161 [data not captured]
+20162 [data not captured]
+20166 [data not captured]
+20175 [data not captured]
+20177 [data not captured]
+20186 [data not captured]
+20189 [data not captured]
+20193 [data not captured]
+20199 [data not captured]
+20202 [data not captured]
+20204 [data not captured]
+20213 [data not captured]
+20216 [data not captured]
+20218 [data not captured]
+20231 [data not captured]
+20232 [data not captured]
+20236 
+20242 [data not captured]
+20244 
+20257 
+20262 [data not captured]
+20266 [data not captured]
+20267 [data not captured]
+20270 [data not captured]
+20272 [data not captured]
+20273 [data not captured]
+20277 [data not captured]
+20282 
+20304 [data not captured]
+20310 [data not captured]
+20314 [data not captured]
+20320 [data not captured]
+20321 [data not captured]
+20342 [data not captured]
+20373 
+20375 
+20376 
+20377 
+20384 [data not captured]
+20387 [data not captured]
+20413 [data not captured]
+20438 [data not captured]
+20470 [data not captured]
+20521 Wellesley.
+20523 New Bedford.
+20524 New Bedford.
+20526 Stony brook Reservation, Boston, Massachusetts.
+20527 Stoughton
+20530 New Bedford.
+20532 Stoughton
+20539 Stoughton
+20541 New Bedford.
+20542 New Bedford. Runell's Mills
+20545 New Bedford.
+20549 New Bedford.
+20551 Sharon
+20553 Brewster
+20554 Brewster
+20557 Wellfleet
+20558 Stoughton
+20560 Newton.
+20561 Side Road to Cape Cod, Mass.
+20565 
+20566 New Bedford.
+20567 New Bedford.
+20568 New Bedford.
+20574 Brewster
+20575 Provincetown
+20583 Waltham
+20584 
+20585 
+20588 Buzzards Bay
+20593 Marblehead
+20596 Buzzards Bay
+20597 Avon
+20599 Stoughton
+20607 Avon
+20608 Provincetown
+20613 Muskeget island
+20617 Amherst
+20618 Wellesley.
+20619 Marble head
+20623 Stoughton
+20624 
+20625 Nonquitt
+20626 Waltham
+20627 N. Bedford
+20632 Stoughton
+20636 Arlington Heights
+20640 Wellesley.
+20642 Cape cod, east brewster
+20643 Wellesley.
+20645 Sharon
+20646 Stoughton Jctn.
+20648 Avon
+20649 Stoughton Jctn.
+20652 Sharon
+20661 W. Stoughton
+20662 Pepperell
+20664 Cedar Dell road
+20669 Nonquitt
+20672 Stoughton, Dry Pond region
+20673 New Bedford.
+20674 New Bedford.
+20675 Magnolia
+20676 Provincetown
+20683 Annisquam.
+20684 Annisquam.
+20685 Plymouth
+20690 Cape cod, east brewster
+20691 Pasque Island
+20693 East Gloucester
+20694 East Gloucester
+20695 Muskeget island
+20696 Orleans
+20697 Stoughton, Dry Pond region
+20698 Provincetown
+20699 Sharon
+20700 Stoughton
+20704 New Bedford.
+20711 New bedford
+20714 Stoughton
+20716 
+20717 
+20720 Worcester County. With other Cladonia species in a stand of red spruce of State Reservation off Route 122, road to Old Furnace. Oakham.
+20721 Middlesex County: Near Concord.
+20722 Essex Co.: Dogtown Common, Rockport.
+20724 New Bedford.
+20725 New Bedford.
+20726 New Bedford.
+20727 New Bedford.
+20728 New Bedford.
+20729 New Bedford.
+20730 New Bedford.
+20732 New Bedford.
+20733 Hampshire Co.: ca. one mile northeast of Granby; Tsuga canadensis grove.
+20735 Worcester county. Topmost part of collector's former rock garden, 24 Charlotte Street. Approximately 1.5 miles from center of city. Frequent in moss but not plentiful.
+20736 Worcester County. Paxton.
+20737 New Bedford.
+20738 New Bedford, Massachusetts.
+20739 New Bedford.
+20740 Queen Anne's Corner, South Hingham
+20741 
+20742 
+20743 
+20744 New Bedford.
+20745 New Bedford.
+20746 Wellesley,
+20748 New Bedford.
+20752 New Bedford, N part of city.
+20753 New Bedford.
+20754 New Bedford.
+20755 New Bedford.
+20756 
+20757 
+20758 Stony Brook, Mass.
+20760 New Bedford.
+20761 Pepperell
+20765 Stoughton, Dry Pond Region
+20766 Stoughton
+20767 Stoughton, Dry Pond region
+20771 
+20772 
+20777 
+20778 Ipswich
+20779 Lanesboro
+20780 New Bedford.
+20781 New Bedford.
+20782 New Bedford.
+20783 New Bedford.
+20784 New Bedford.
+20786 Dry pond region, Stoughton, Mass.
+20787 New Bedford.
+20788 Wellesley.
+20790 Sharon
+20793 Stoughton, Dry Pond Region
+20794 Stoughton
+20804 
+20829 
+20830 At about 300 Wildwood Avenue (within the city limits) Worcester County
+20831 Nahant
+20832 Cement dam, Buffamville
+20833 Paxton
+20834 Worcester County, Oakham
+20835 Ridge above Tophet Swamp
+20836 
+20837 North Cemetery
+20838 Barnstable County
+20839 Worster County: former trolley right-of-way, vicinity of Conneticut boundary
+20843 
+20844 Worcester County: Grafton, top of wall surrounding Grafton Pound and from gravestone in adjacent cemetery.
+20846 Worcester County
+20847 Worcester County: in pine grove cemetery, Warren
+20848 Worcester County: north side vicinity, Charlton
+20849 Worcester County
+20850 At Lake Manchaug, ca. 7 km south of Sutton
+20851 Worcester County: Sturbridge
+20852 West Boylston: High Plain Cemetery entrance, Oakdale
+20853 Oakham
+20854 Mt. Toby
+20855 Worcester County: around 300 Wildwood Avenue
+20856 Worcester County: Templeton
+20857 New Braintree
+20858 Worcester County: Blackstone
+20859 Petersham
+20860 Rockport
+20861 Worcester County: Coldbrook Road
+20862 Worcester County
+20863 Worcester County: Central Turnpike close to junction with Route 146
+20864 Worcester County, west boylston. in open wooded slope to river road, vicinity of holdern boundary.
+20865 Worcester County, West Boylston, in open wood bordering River Road near Holden boundary
+20866 Worcester County: Princeton
+20867 Worcester County, Leicester, near pine grove cemetary
+20868 Fresh Pond, Cambridge
+20869 Near North Haven
+20870 Worcester County: Uxbridge, Prospect Hill Cemetery
+20871 Nohant
+20872 Weymouth: Boston Harbor Islands National Park Area, Slate Island, Norfolk
+20873 Quincy: Boston Harbor Islands National Park Area, Slate Island, Norfolk
+20874 Hull: Boston Harbor Islands National Park Area. Peddocks Island. Plymouth
+20875 Boston: Boston Harbor Islands National Park Area, George's Island, Suffolk
+20876 Boston: Boston Harbor Islands National Park Area, George's Island, Suffolk
+20877 Hingham: Boston Harbor Islands National Park Area. Ragged Island. Plymouth
+20878 Boston: Boston Harbor Islands National Park Area, Rainsford Island, on south spit of island, Suffolk
+20879 Boston: Boston Harbor Islands National Park Area, George's Island, Suffolk
+20880 Myles Standish State Forest, S of Grassy Pond Road, Plymouth
+20881 Myles Standish State Forest, Trailside S of New Grassy Pond, Plymouth
+20882 Myles Standish State Forest. Plymouth
+20883 Mayles Standish State Forest, Carver
+20884 Worcester : Green Hill Park, airline about 1.6 miles from City Hall
+20885 West Falmouth
+20887 Worcester County, North Brookfield
+20888 Weymouth: Boston Harbor Islands National Park Area, Slate Island, Norfolk
+20911 Queen Ann's Corner, South Hingham
+20969 Granville
+21048 New Bedford and Weymouth
+21049 New Bedford and Weymouth
+21222 Prospect Hill, Waltham
+21406 Blue Hill Reservation, Milton
+21523 Martha's Vineyard. West Tisbury. Felix Neck Wildlife Sanctuary.
+21581 Martha's Vineyard. West Tisbury. Felix Neck Wildlife Sanctuary.
+21659 Cottage City
+21781 
+22010 Rockport
+22335 Boston Harbor Islands. Calf Island.
+22525 Muskeget island
+22526 Arlington Heights
+22527 
+22532 Carver & North Carver.
+22536 Nantucket
+22538 Stoughton
+22544 Near Cambridge.
+22550 New Bedford.
+22552 Brewster.
+22560 New Bedford.
+22561 Amherst
+22562 New Bedford, Kempton St.
+22565 New Bedford.
+22567 Chestnut Hill
+22576 Stoughton Jctn.
+22580 New Bedford.
+22584 Plymouth, Rocky Point
+22585 Weymouth.
+22590 
+22591 
+22594 Stoughton, Dry Pond region
+22595 New Bedford.
+22599 Howland's Spring
+22600 New Bedford.
+22602 New Bedford.
+22603 Wellesley,
+22609 Road between Race Point and Provincetown, Cape Cod
+22610 Concord
+22613 Woods Hole
+22617 Nantucket
+22618 Weymouth and New Bedford.
+22619 Annisquam.
+22622 Annisquam.
+22627 
+22629 Monument Mt.
+22631 Wellesley.
+22633 
+22635 Carver,Mass, near N Carver.
+22636 New Bedford.
+22639 Lynn, Lynn woods
+22640 
+22643 New Bedford, woods of Sumer's Pond
+22645 Concord
+22649 New Bedford.
+22651 
+22652 Dartmouth
+22653 Waltham.
+22655 New Bedford, Turner's Pond swamp
+22656 Barnstable.
+22658 near Glen Echo Pond, Stoughton
+22659 Long Plain road.
+22660 
+22662 Potomska
+22666 New Bedford.
+22668 New Bedford.
+22677 Dartmouth
+22679 Dedham
+22683 Stoughton
+22684 Sharon
+22692 New Bedford.
+22695 New Bedford.
+22703 Cape Cod, East Brewster
+22705 
+22708 N. Stoughton.
+22709 Acushnet
+22710 East Brewster, Cape Cod.
+22711 Dry Pond region, Stoughton.
+22715 New Bedford.
+22716 Cape Cod, E of Falmouth
+22719 Whitman's Pond near Weymouth.
+22724 New Bedford.
+22725 N. Stoughton.
+22726 Concord
+22727 Martha's Vineyard Island
+22728 N. Bedford
+22736 Inner Road between Race Point and Provincetown, Cape Cod
+22750 Dedham, Purgatory Swamp.
+22756 Cape Cod.
+22760 Acushnet
+22762 New Bedford.
+22763 New Bedford.
+22764 New Bedford.
+22765 Manchester
+22775 Monson
+22782 Ipswich
+22785 Quincy
+22786 Woods Hole
+22787 Amherst.
+22788 Falls Reservation, Medford
+22791 Wellesley.
+22792 Fairhaven , Bridge St.
+22795 Stoughton
+22796 Brewster.
+22804 Sharon
+22806 Acushnet.
+22808 Amherst
+22809 Concord
+22815 Waltham.
+22820 Quincy
+22823 New Bedford.
+22824 Acushnet
+22825 N Dartomouth.
+22830 Provincetown
+22839 New Bedford.
+22840 Weymouth.
+22842 New Bedford.
+22845 Mount Pleasant
+22846 New Bedford.
+22848 Annisquam.
+22849 Weymouth.
+22852 Warham.
+22853 Woods Hole
+22856 New Bedford.
+22859 Woods Pond, Middleboro.
+22866 New Bedford.
+22868 New Bedford.
+22871 New Bedford.
+22877 Ledges in Brookline
+22878 Braintree
+22879 Dartmouth
+22882 Jamaica Plain.
+22883 Harvard Forest, Petersham.
+22892 New Bedford.
+22895 Middlesex Fells, Medford
+22896 Concord
+22899 Chelsea
+22906 Long Plain Road
+22909 Woods Hole
+22910 N Weymounth.
+22913 Dartmouth
+22920 New Bedford.
+22921 Clark's Point
+22926 N. Bedford
+22929 Acushnet
+22934 
+22936 Concord
+22937 1 mi. SE of Manomet.
+22938 North Stoughton
+22939 Carver & North Carver.
+22945 Concord
+22958 Cutlyhunk Island.
+22960 Truro
+22962 Salem
+22963 
+22965 Concord
+22971 New Bedford.
+22973 Glen Pond
+22975 Weymouth.
+22988 New Bedford.
+22989 Cape cod, east brewster
+22993 Arlington Heights
+22994 Round Hill
+22999 Malden
+23002 Fort Phoenix. Fairhaven.
+23007 Wellesley.
+23014 New Bedford.
+23016 
+23019 New Bedford.
+23020 New Bedford.
+23023 Arnold Arboretum, Jamaica Plain.
+23025 Cuttyhunk
+23027 New Bedford, Howland's Spring Swamp.
+23031 Wellesley.
+23033 New Bedford.
+23035 New Bedford.
+23037 in streams of White Mountains
+23039 Dedham
+23046 Amherst
+23050 Weymouth. New Bedford.
+23052 Carlisle
+23054 Weymouth.
+23057 Stoughton
+23063 Long Plain Road
+23068 Sharon
+23069 Dry Pond region Stoughton.
+23071 E. Weymouth
+23072 Stoughton.
+23075 
+23079 Fairhaven.
+23092 Stoughton
+23095 Nantucket
+23097 Stoughton, Dry Pond
+23100 Stoughton, Dry Pond Region
+23102 New Bedford.
+23104 Amherst.
+23107 New Bedford.
+23108 Wellesley.
+23109 Dry Pond region Stoughton.
+23110 Medford
+23112 
+23113 Amherst.
+23115 Brewster.
+23118 Stoughton
+23121 Along road, near waterworks between Race Point and Provincetown, Cape Cod
+23122 New Bedford.
+23124 
+23127 Woods Hole
+23128 Amherst.
+23129 Edgartown
+23130 New Bedford.
+23131 Martha's Vineyard Island
+23132 Stoughton, Dry Pond region
+23133 New Bedford.
+23136 
+23139 Saugus
+23140 Carver.
+23141 Dedham, Purgatory Swamp.
+23142 Dedham Road Station
+23148 Dry Pond region, Stoughton.
+23149 
+23160 Concord
+23162 New Bedford.
+23163 Warham.
+23164 Carver.
+23165 New Bedford.
+23168 Amherst.
+23169 
+23172 Arlington Heights
+23179 
+23180 
+23182 Concord
+23187 New Bedford, Kempton St.
+23190 New Bedford.
+23195 New Bedford.
+23197 Mattapoisett
+23199 New Bedford.
+23205 Brewster.
+23208 New Bedford.
+23209 New Bedford.
+23212 
+23213 Wellesley.
+23214 
+23219 Fairhaven.
+23222 Nantucket
+23226 
+23227 New Bedford.
+23233 inter Woods Hole et Falmouth, Buzzards Bay.
+23237 Waverley
+23238 Dartmouth
+23239 Onset Bay.
+23240 Edge of Cranberry bog
+23242 
+23247 Brewster.
+23252 New Bedford.
+23254 Fairhaven
+23258 N of Fall River R. R.
+23259 New Bedford.
+23262 Rennuell's Mills.
+23265 N. Bedford
+23270 Waltham
+23273 New Bedford.
+23274 Stoughton Jctn.
+23284 
+23285 N of Fall River R. R.
+23286 Annisquam.
+23290 E of Bourne
+23408 [no information]
+23410 Woburn
+23411 Pond St., Jamaica Plain
+23659 
+23662 
+23668 New Bedford.
+23675 New Bedford.
+23677 New Bedford.
+23678 Waltham
+23682 New Bedford.
+23684 Weymouth.
+23689 Waverly
+23697 Amherst.
+23700 Amherst.
+23701 
+23702 New Bedford.
+23703 "Mt. Foley"
+23705 Amherst.
+23711 New Bedford.
+23717 New Bedford.
+23721 N. Bedford
+23724 Wellesley.
+23726 New Bedford.
+23727 Annisquam.
+23728 West Roxbury. Boston
+23731 New Bedford.
+23736 New Bedford.
+23738 Dartmouth.
+23739 Cornell's ledge
+23742 Pond St., Jamaica Plain
+23744 New Bedford.
+23749 New Bedford.
+23751 Cambridge (Watertown)
+23752 
+23754 Wellesley.
+23756 New Bedford.
+23757 New Bedford.
+23761 Bridgewater
+23763 Wellesley.
+23764 Marstons Mills, Cape Cod
+23765 Orleans
+23767 Wakefield
+23768 New Bedford.
+23770 N. Bedford
+23771 Westport River
+23773 New Bedford.
+23774 Stoughton, Dry Pond region
+23778 New Bedford.
+23780 Fairhaven
+23781 Smith's Neck, Dartmouth
+23782 Woods Hole
+23783 
+23784 Dartmouth, Smith's Neck
+23788 New Bedford.
+23794 Annisquam.
+23797 Smith's Neck, Dartmouth
+23799 
+23800 Annisquam.
+23806 New Bedford.
+23807 New Bedford.
+23808 New Bedford.
+23813 Amherst.
+23814 Cornell's ledge, Dartmouth
+23815 New Bedford.
+23816 Cornwall
+23818 New Bedford.
+23820 Yard of D. S. Hall, North Attleboro
+23821 New Bedford.
+23823 Medfort
+23824 Cuttyhunk Island
+23826 Weymouth and New Bedford.
+23830 Arlington
+23832 Wellesley,
+23834 North Weymouth
+23847 Nantucket
+23849 New Bedford.
+23851 Fairhaven
+23853 Smith's Neck
+23856 Arlington Heights
+23859 Darmouth, Cornells lodge
+23866 Bridgewater
+23867 New Bedford.
+23868 Cape Cod.
+23872 New Bedford.
+23873 Rockport
+23875 New Bedford.
+23878 N Weymounth.
+23880 Acushnet
+23884 Weymouth.
+23888 Barnstable.
+23889 Waltham.
+23891 New Bedford.
+23892 Acushnet
+23896 illegible
+23897 Waverley
+23900 Whilden's Pond
+23907 New Bedford.
+23909 Annisquam.
+23911 Amherst.
+23912 Brewster.
+23914 Fort Phoenix
+23916 New Bedford.
+23917 New Bedford.
+23919 New Bedford.
+23923 New Bedford.
+23927 New Bedford.
+23928 Amherst.
+23941 Clark's Point
+23942 
+23947 Wood's Hole
+23948 East Brewster, Cape Cod.
+23949 New Bedford.
+23956 New Bedford.
+23960 West Quincy.
+23961 Waverley
+23962 Westport Point
+23963 New Bedford.
+23964 New Bedford.
+23965 Arlington Heights
+23966 Dartmouth
+23967 Cornell's ledge, Dartmouth
+23968 New Bedford.
+23969 Concord
+23971 New Bedford.
+23973 Weston
+23983 Conway.
+23988 Waverley
+23989 Muskeget island
+23992 Wellesley.
+23994 
+23995 Dartmouth
+23997 Onset Bay
+24000 Concord
+24002 Concord
+24005 New Bedford.
+24010 Woods Hall
+24011 Westport Pond
+24017 Wellesley.
+24022 N. Bedford
+24023 Rockport
+24024 New Bedford.
+24026 Annisquam.
+24032 New Bedford.
+24034 Lincoln, headwaters of Hobb's Brook
+24035 Wellesley.
+24036 New Bedford.
+24037 
+24038 Weston
+24043 Annisquam.
+24049 Near Myrick's Station
+24050 New Bedford.
+24053 New Bedford.
+24062 
+24064 Sudbury
+24069 New Bedford.
+24070 New Bedford, Weymouth
+24073 Smith's, Dartmouth
+24075 New Bedford.
+24082 
+24084 Wellesley.
+24085 Dedham
+24088 Conway
+24091 Brewster.
+24095 New Bedford.
+24099 N. Bedford
+24101 
+24103 Cornell's ledge, Dartmouth
+24107 New Bedford.
+24111 New Bedford.
+24115 Jamaica Plain
+24117 Amherst
+24118 Annisquam.
+24119 New Bedford.
+24124 New Bedford.
+24126 
+24128 Amherst.
+24131 New Bedford.
+24136 N Weymounth.
+24141 Vicinity of Cambridge
+24142 Fort Phenix, Franklin
+24145 New Bedford.
+24147 Acushnet.
+24148 
+24151 Near Cambridge.
+24154 Lanesborough
+24158 Wellesley.
+24159 New Bedford.
+24162 Hampshire Co.: ca. one mile northeast of Granby; Tsuga canadensis grove.
+24165 New Bedford.
+24167 Amherst.
+24169 "Mt. Foley", Sunderland
+24171 Nantucket
+24178 Sea Coast
+24180 Annisquam.
+24182 Rockport
+24183 
+24184 
+24185 
+24186 
+24187 Ad arborum prope Cambrigde Americae borealis
+24188 Essex
+24189 
+24190 
+24191 Estabrook Woods, Concord
+24192 Blue Hill
+24193 Nahant, Mass.
+24201 
+24202 
+24203 
+24204 
+24205 
+24207 
+24232 near Amherst
+24255 Nauset, Cape Cod, Massachusetts, U.S.A.
+24256 Pepperell, Massachusetts USA.
+24257 Near Mt. Watatic, Ashburnham, Massachusetts U.S.A.
+24258 Orleans, Massachusetts, USA.
+24259 Pebberell, Massachusetts, U.S.A., Pebberell Springs.
+24260 
+24261 Nahant
+24262 
+24267 
+24270 
+24273 Provincetown
+24277 
+24278 
+24282 No locality information available
+24341 No locality information available
+24346 Salem. Mass.
+24347 Wellesley, Mass.
+24348 Massachusets, Wellesley
+24349 Massachusetts, Annisquam
+24350 MASSACHUSETTS: Middlesex Co., Cambridge, alt. .
+24351 MASSACHUSETTS: Norfolk Co., Weymouth, alt. .
+24352 MASSACHUSETTS: Amherst
+24353 Massachusetts: Blue Hill
+24354 Massachusetts: Blue Hill
+24355 Massachusetts: Concord
+24356 Massachusetts: New Bedford
+24357 Massachusetts: Muddy Pond Woods
+24358 Massachusetts: Sherlo(...)ce
+24359 Massachusetts: Bussey Woods
+24362 Massachusetts: New Bedford
+24363 Massachusetts: Coneord
+24371 Massachusetts: Nahant
+24372 Massachusetts (Nantucket Island) On Pinus rigida; all over. Nantucket County: Road to Surfside. Old oak-pine woods 2 miles east of Surfside.
+24373 Massachusetts: New Bedford
+24374 Super lignum pineum prope New Bedford (Massachusetts) in America boreali
+24375 New Bedford, Amer. bor.
+24376 MASSACHUSETTS. NORFOLK COUNTY.: Abundant on a large boulder, just above the high tide line, Grape Island, Boston Harbor Islands National Recreation Area, Weymouth. ? UTM 19 341141E 4681134N ? Lat. 42� 16' 06'N, Long. 70� 55' 34'W.
+24377 MASSACHUSETTS. SUFFOLK COUNTY.: Abundant on large old pieces of diftwood, on the extreme northwestern end of the island (?the point?), Lovell?s Island, Boston Harbor Islands National Park Area, Boston. ? Ca. UTM 19 341294E 4687921N - Lat. 42� 19' 45'N, Long. 70� 55' 45'W.
+24378 Massachusetts. Nantucket County.: Sandy scrub near the northeast shore of Coskata Pond, Coskata-Coatue Wildlife Refuge, northeast side of Nantucket Island. - UTM 19 415090E 4578206N ? Lat. 41� 21' 10'N, Long. 70� 00' 54'W
+24379 MASSACHUSETTS. NANTUCKET COUNTY.: Sandy scrub near the northeast shore of Coskata Pond, Coskata-Coatue Wildlife Refuge, northeast side of Nantucket Island. - UTM 19 415090E 4578206N ? Lat. 41� 21' 10'N, Long. 70� 00' 54'W
+24380 Massachusetts: Rutland
+24381 Massachusetts: Prope New Bedford in America boreali
+24382 Massachusetts: Rutland
+24383 Massachusetts: Granite Ledge, South Amherst
+24384 Massachusetts: Cambridge
+24385 Massachusetts: H(...)t Bo(...) R(...) (...) Port(...), Plai(...)
+24387 Massachusetts: Nantucket Island, Nantucket County, near Tom Never�s Head
+24388 Massachusetts: Nantucket Island, Nantucket County, Tom Never�s Head
+24389 Essex County on granite outcrops in mixed woods near Rockport, Long Beach.
+24390 Massachusetts: Manchester
+24391 Glen Pond, Mass.
+24392 Near Cambridge, Mass.
+24393 Annisquam, Mass.
+24394 Near Cambridge, Mass.
+24397 Massachusetts Jamaica Plain
+24398 Massachusetts, Wellesley
+24401 Super saxa granitica prope New Bedford, Massachusetts in America boreali
+24402 Super saxa granitica prope New Bedford, Massachusetts in America boreali
+24403 Massachusetts Blue Hill
+24404 Arlington Heights, Mass
+24405 Arlington Heights, Mass
+24406 Wellesley, Mass.
+24407 Williams St. Jamaica Plain, Mass
+24408 Wellesley, Mass.
+24409 Super corticem Pini Strobi prope New Bedford (Massachusetts) in America boreali
+24410 Wellesley, Mass.
+24411 Purgatory Swamp, Mass
+24412 Massachusetts, U.S. of Amerika
+24413 New Bedford (Mass.), America
+24414 U.S.A. Massachusetts: Barnstable County. Chatham, Morris Isl. south edge of Cape Cod. Elev. 30 ft. (9 m). Ca 41�39?N, 69�57?W.
+24415 Purgatory, Mass.
+24416 Ipswich, Massachusetts
+24417 Massachusetts: Purgatory swamp, Norwood
+24418 Rockport, Mass.
+24419 Mass.: Dedham, Purgatory Swamp
+24420 New Bedford, Un. St.
+24421 Sur Cupressus, Mass., Un. St
+24422 Prope New Bedford (Massachusetts) in America boreali.
+24423 New Bedford Massachusetts
+24424 Wellesley, Mass.
+24428 In old field bordering Bay Road, Stoughton, Mass.
+24429 America, Southern coast of Massachussets
+24430 Roadside, Harwich, on Ulmus americana. Barnstable County: near Harwichport.
+24431 Massachusetts, Wellfleet,
+24432 Brewster Mass.,
+24433 Brewster Mass.
+24434 
+24435 
+24436 New Bedford, U. S. of Amerika
+24437 Massachusetts: New Bedford and Weymouth
+24438 New Bedford, U.S. of America
+24439 Massachusetts: New Bedford and Weymouth
+24440 New Bedford, U.S. of America
+24441 Super corticem Aceris rubri prope New Bedford (Massachusetts) in America boreali
+24442 U.S.A. Massachusettu. Duke Co.: Town of Edgartown, Martha's Vineyard, Chappaquidick Island (41 23'N, 70 26'W), elevation sea level.
+24443 Super lignum pineum prope New Bedford (Massachusetts) in America boreali
+24444 Wall near Dwight-House. Mass.
+24445 Weston, Mass.
+24446 Hatick, Mass.
+24447 Ad terram glareosam prope Cambridge Americae septentrionalis
+24448 Bourne, Mass.
+24449 Wellesley, Mass.,
+24450 Super terram prope New Bedford (Massachusetts) in America boreali.
+24451 Massachusetts: Prospect Hill
+24452 Massachusetts: on earth, Queen Ann�s Corner, South Hingham
+24453 Belmont Spring, Waverley, Mass.,
+24454 Wellesley,, Mass,,
+24455 Wellesley, Mass.,
+24456 Massachusetts, Concord,
+24457 Massachusetts, Nonquit,
+24458 Wellesley Mass.,
+24459 Paul�s Bridge, Mass.
+24460 Nova anglia. U. S. A., Massach.
+24461 Nahant, Mass,
+24462 Rockport, Mass.,
+24463 Dedham Road. Mass.
+24464 Hammond Pond, Mass
+24465 Massachusetts, Nonquitt,
+24466 Annisquam, Mass.,
+24467 Wellesley, Mass.,
+24468 Danvers, Mass.
+24469 Mount Toby, Franklin county, Massachusetts
+24470 
+24471 Nantucket County Nantucket, barrens west of town.
+24472 Crane property near Swan Lake, Dennisport Barnstable County.
+24473 Blue Hill, Mass.
+24474 Pelham, Mass.
+24475 Newton Mass
+24476 Super corticem Fraxini viridis prope New Bedford (Massachusetts) in America boreali
+24477 Bursey Woods, Mass.
+24478 Waltham, Massachusetts
+24479 Massachusetts, U.S.A. Worcester Co.: Hubbardston, isolated and exposed Acer rubrum trunk above a wooded swamp, Route 68 near the Rutland Boundary.
+24480 Blue Hill, Mass.
+24481 Bussey Woods, Mass.
+24482 Cambridge, Massachusetts
+24483 Purgatory Swamp, Mass.
+24484 (Cape Cod) Barnstable County: Chatham. Morris Island.
+24485 Massachusetts: Shelburne, Shelburne Mt.
+24486 Cambridge, Mass.
+24487 Purgatory Swamp, Mass
+24488 Super corticem Aceris rubri prope New Bedford (Massachusetts) in America boreali
+24489 R. K. Tres, Jamaica Plain Mass.
+24490 
+24491 
+24492 
+24493 
+24494 
+24495 Walpole Swamp, Mass.
+24496 Rutland, Mass.,
+24497 Annisquam, Mass.,
+24498 Annisquam, Mass.,
+24499 Concord Massachusetts
+24500 
+24501 
+24502 
+24503 
+24504 
+24505 
+24506 
+24507 Amherst, Massachusetts
+24508 Purgatory Swamp, Mass.
+24509 Amherst, Massachusetts
+24510 Massachusetts : on bark of trees, Queen Ann�s Corner, South Hingham
+24511 Coneord Massachusetts.
+24512 Brewster, Mass.,
+24513 Brewster, Mass.,
+24514 Wellesley, Mass.,
+24515 Plymouth, Mass.
+24516 Purgatory Swamp, Mass
+24517 Amherst, Massachusetts
+24518 Muddy Pond, Milton, Mass.
+24519 Cambridge, Mass
+24520 Cambridge, Mass.
+24521 Annisquam, Mass.,
+24522 Bugle Cliffs, Mass.
+24523 Annisquam, Mass.,
+24524 Near Cambridge, Massachusetts
+24525 Near Cambridge, Massachusetts
+24526 Super corticem Pini Strobi prope New Bedford (Massachusetts) in America boreali
+24527 U. S. A. Massachusetts. Plymouth, Rocky Point, secus via no. 3 A.
+24528 New Bedford Massachusetts, U. S. of Amerika
+24529 Massachusetts, Sharon
+24530 Massachusetts, Sharon
+24531 Wellesley, Mass.,
+24532 Wellesley, Mass.,
+24533 Worcester County, Clinton
+24536 
+24537 
+24538 Concord, Massachusetts
+24539 Concord, Massachusetts
+24540 Essex,Massachusetts
+24545 Mattapoisett.
+24546 Nahant
+24547 Nahant
+24548 Nahant
+24549 S.W. Berkshire County
+24554 Massachusetts, Ashby
+24555 Brewster, Mass
+24556 Brewster, Mass.
+24557 Wellesley, Mass.
+24558 Rockport, Mass.
+24560 
+24561 
+24563 1 mi. S.E. Forborough Mass.
+24577 
+24578 
+24599 Contact UM Herbarium
+24616 Contact UM Herbarium
+24635 Concord
+24637 Hampden: Bousquet
+24638 South Braintree
+24640 Massachusetts: Near New Bedford
+24641 Woods Hole, Massachusetts
+24643 Cambridge, Mass.
+24644 Woods Hole, Massachusetts
+24645 Bousquet
+24646 Hampden: Bousquet
+24647 Woods Hole
+24648 Service area at eastern edge of Arnold Arboretum, Jamaica Plain, Boston
+24649 
+24650 
+24651 
+24657 
+24665 Lynn HIlls
+24666 Grandby Notch
+24667 West-Cambridge Hills
+24668 also Needham; Boston Rock [Prospect Hill], Waltham [latter location: E.T. & D. Harm.]
+24672 
+24673 
+24674 Pepperell
+24680 Middlesex Fells Res.
+24681 [data not captured]
+24682 [data not captured]
+24691 [no additional data]
+24701 So. [?Thurnaston]
+24710 new Bedford
+24715 Nonquit
+24852 Concord field station
+24861 Concord Woods
+24898 Plainfield?
+24899 Plainfield?
+24901 Plainfield?
+24905 Plainfield?
+24911 probably Plainfield
+24916 
+24917 Plainfield?
+24919 Plainfield?
+24930 Plainfield?
+25899 [no additional data]
+25900 [no additional data]
+25901 Partrigg's Swamp
+25902 Shorn Hill
+26248 
+26249 
+26250 West Falmouth, Chappaquoit Beach [United States, Massachusetts, Barnstable Co.]
+26251 Cape Cod.
+26252 Concord
+26253 
+26255 
+26268 New Bedford, Kempton St.
+26269 Dartmouth
+26271 New Bedford.
+26273 Fairhaven
+26277 New Bedford.
+26282 Durfield swamp
+26283 Essex.
+26284 New Bedford.
+26292 New Bedford.
+26297 Sunderland Mts.
+26300 New Bedford.
+26302 New Bedford.
+26306 Smith's Neck, Dartmouth
+26307 Dartmouth.
+26309 Deerfield
+26312 New Bedford.
+26314 Dartmouth, Smith's Neck
+26316 Natick.
+26320 New Bedford.
+26326 Weymouth, New Bedford.
+26333 New Bedford.
+26336 Weymouth.
+26348 New Bedford, Wheldin's Pond
+26349 Durfield swamp
+26352 
+26353 New Bedford.
+26359 Naushon Island
+26360 New Bedford.
+26365 
+26366 New Bedford.
+26367 New Bedford.
+26371 Mount Pleasant
+26372 New Bedford.
+26375 Amherst
+26378 Sharon
+26380 Fairhaven
+26382 Old Hill Burying Ground, Marblehead.
+26383 Dartmouth
+26386 New Bedford.
+26388 Concord
+26390 
+26395 New Bedford.
+26396 Weymouth.
+26399 Fairhaven
+26400 Jamaica Plain
+26401 New Bedford.
+26402 Durfield swamp
+26405 Naushon
+26408 New Bedford, Kempton St.
+26412 New Bedford.
