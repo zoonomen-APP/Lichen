@@ -1,1 +1,1 @@
-egrep $1 c:/Lichen/datastor/sb/MA/matwn.txt
+egrep $1 c:/Bot/Lichen/datastor/NE/MA/tools/matwn.txt

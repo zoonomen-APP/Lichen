@@ -332,3 +332,12 @@ Clearly NewHamp.. as recorede by collector.
 
 |Massachusetts|1682699|COLO|L||PreservedSpecimen|60150502-1232-4d34-b753-e7e83f76a1b4|COLO-L-0025921|L 47073|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Lobarioideae::Lobaria|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Lobariaceae|Lobaria quercizans|55934|Michaux|Lobaria||quercizans|||Species|W.P. Jordan|not given||||||W.G. Farlow||L 47073|1904-08-00|1904|8||||||||||||||||||||||||United States|Massachusetts|||Chocorua||0||||||||||||||||||||kkwallin|2015-07-20 10:18:05||41|urn:uuid:60150502-1232-4d34-b753-e7e83f76a1b4|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1682699
 
+From Mass.. belongs in Oregon.
+
+|Oregon|478898|OSC|||PreservedSpecimen|279da7af-8389-4a29-a187-1818f8c50885|24628||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera aphthosa|55969|(L.) Willd.|Peltigera||aphthosa|||Species||||||||R. Howe|||||||||||||||||||||||||||||United States|Massachusetts|||Willamette National Forest,Sahalie Falls.||0|||||||||||||||||||||2020-05-01 16:54:53|3902145|20|urn:uuid:279da7af-8389-4a29-a187-1818f8c50885|https://lichenportal.org/cnalh/collections/individual/index.php?occid=478898
+
+
+Belongs in Florida
+
+|Florida|478913|OSC|||PreservedSpecimen|37c74b03-1283-44dc-abbe-91cce39ee63e|24673||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Pycnothelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Pycnothelia papillaria|53496|Dufour|Pycnothelia||papillaria|||Species||||||||Riddle|||||||||||||||||||||||||||||United States|Massachusetts|||Tallahassee,FL||0|||||||||||||||||||||2020-05-01 16:54:53|3896123|20|urn:uuid:37c74b03-1283-44dc-abbe-91cce39ee63e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=478913
+
