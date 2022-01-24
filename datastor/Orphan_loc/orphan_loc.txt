@@ -341,3 +341,40 @@ Belongs in Florida
 
 |Florida|478913|OSC|||PreservedSpecimen|37c74b03-1283-44dc-abbe-91cce39ee63e|24673||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Pycnothelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Pycnothelia papillaria|53496|Dufour|Pycnothelia||papillaria|||Species||||||||Riddle|||||||||||||||||||||||||||||United States|Massachusetts|||Tallahassee,FL||0|||||||||||||||||||||2020-05-01 16:54:53|3896123|20|urn:uuid:37c74b03-1283-44dc-abbe-91cce39ee63e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=478913
 
+Removed from MASS.
+
+NJ is more likely.
+|Massachusetts|316062|MIN|||PreservedSpecimen|850cb485-b1e7-4257-a590-5f8421124191|659551||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species||||||||Llano, G.||s.n.|1943-00-00|1943|0|0|||00/000/1943||||||||||||||||||||United States|Massachusetts|||Livingston||0|||||||||||||||||||||2016-06-02 12:52:01|646421|12|urn:uuid:42df0dfe-853f-4881-8dcf-7a5ba5f71d5c|https://lichenportal.org/cnalh/collections/individual/index.php?occid=316062
+|Massachusetts|316068|MIN|||PreservedSpecimen|4481db22-ab36-4037-a0f9-c5d5e7405fde|659557||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia crispata|53393|(Ach.) Flotow|Cladonia||crispata|||Species||||||||Llano, G.||s.n.|1940-00-00|1940|0|0|||00/000/1940||||||||||||||||||||United States|Massachusetts|||Livingston||0|||||||||||||||||||||2017-07-25 16:11:50|646427|12|urn:uuid:bb9878a9-0ef1-47da-80bc-46192344e7a9|https://lichenportal.org/cnalh/collections/individual/index.php?occid=316068
+
+From MA  PA seems certain.
+
+|Massachusetts|317738|MIN|||PreservedSpecimen|653a71bd-dc12-439e-b9bb-29d182b16270|661835||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Peltigeroideae::Peltigera|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Peltigeraceae|Peltigera rufescens|55992|(Weiss) Humb.|Peltigera||rufescens|||Species||||||||Riemer||s.n.|1943-00-00|1943|0|0|||00/000/1943||||||||||||||||||||United States|Massachusetts|||Caledonia State Park||0|||||||||||||||||||||2016-06-02 12:52:01|648140|12|urn:uuid:6bc05530-514e-4da8-8228-bbf465be1f6e|https://lichenportal.org/cnalh/collections/individual/index.php?occid=317738
+
+
+Belongs in South Carolina
+
+
+no data|Maine|1284483|MICH|Lichens||PreservedSpecimen|e0f520ba-1e3d-4c92-91d9-72153c795bdd|113647||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Peltigerales::Peltigerineae::Peltigeraceae::Nephromatoideae::Nephroma|Fungi|Ascomycota|Lecanoromycetes|Peltigerales|Lichens Family Rank|Nephroma helveticum|55959|Ach.|Nephroma||helveticum|||Species||||||||H. A. Green||s. n.|1895-01-23|1895|1|23|23||1895-01-23|Fink Herbarium no. 2549|||||||||||||||||||United States|Maine|no data||Chester||0|||||||||||||||||||||2017-11-24 00:00:00|e0f520ba-1e3d-4c92-91d9-72153c795bdd|32|urn:uuid:45884b26-a1d0-4fc6-84a5-f52daaa4cf33|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1284483|Nephroma helveticum
+
+
+Belongs in Vermont.
+no data|Maine|1043547|MICH|Lichens||PreservedSpecimen|22a4c2a9-f1ad-43ae-ba40-c0615d177bbe|75797||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae::Bacidia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Bacidia schweinitzii|53151|(Fr. ex E. Michener) A. Schneider|Bacidia||schweinitzii|||Species||||||||D. L. Dutton||22|1922-06-21|1922|6|21|172||1922-06-21||||||||||||||On maple tree||||||United States|Maine|no data||Cambridge||0||||||||||||457|||||1500 ft||||2017-11-24 00:00:00|22a4c2a9-f1ad-43ae-ba40-c0615d177bbe|32|urn:uuid:0d8ab7b3-8cdb-4bb2-866c-8be07226aa1a|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1043547|Bacidia schweinitzii
+
+From Minnesota.
+
+no data|Maine|1104222|MICH|Lichens||PreservedSpecimen|5702f7d7-e0eb-4b31-8f7c-6432c72d4ee6|100828||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Cladonia pityrea|63771|(Flï¿½rke) Fr.|Cladonia||pityrea|||Species||||||||B. Fink||582|1899-07-12|1899|7|12|193||1899-07-12||||||||||||||||||||United States|Maine|no data||Granite Falls||0|||||||||||||||||||||2017-11-24 00:00:00|5702f7d7-e0eb-4b31-8f7c-6432c72d4ee6|32|urn:uuid:abb933d4-a30f-4498-8b39-0c82cad1157f|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1104222|Cladonia pityrea
+
+From Michigan.
+
+n|Dermatocarpon fluviatileo data|Maine|1058486|MICH|Lichens||PreservedSpecimen|2ebc310a-b923-4980-aef9-7ca2dfead682|77796||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Cetrelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Cetrelia chicitae|54365|(Culb.) Culb. & C. Culb.|Cetrelia||chicitae|||Species||||||||B. Fink||s. n.|1897-06-26|1897|6|26|177||1897-06-26||||||||||||||||||||United States|Maine|no data||Snowbark Lake||0|||||||||||||||||||||2017-11-24 00:00:00|2ebc310a-b923-4980-aef9-7ca2dfead682|32|urn:uuid:5d049e87-38ec-4dd2-91c4-f5f81af21ac0|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1058486|Cetrelia chicitae
+
+
+From Maine list, but needs to go in Vermont 
+
+no data|Maine|1228400|MICH|Lichens||PreservedSpecimen|fa39ee41-3c10-4a74-918f-48c6e20e75c2|108485||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Lecanoraceae::Lecanora|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Lichens Family Rank|Lecanora subfusca|65532|Mï¿½ll.Arg.|Lecanora||subfusca|||Species||||||||Frost||s. n.||||||||Fink Herbarium no. 11161|||||||||||||||||||United States|Maine|no data||Battleboro||0|||||||||||||||||||||2017-11-24 00:00:00|fa39ee41-3c10-4a74-918f-48c6e20e75c2|32|urn:uuid:f9f424ed-2027-4898-b374-ab96e8c00947|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1228400|Lecanora subfusca
+
+
+From Maine list to go to Massachusetts
+
+Middleses|Massachusetts|1133288|MICH|Lichens||PreservedSpecimen|d1c01fd3-d904-4e72-ac3c-bdbf6a973e68|103307||Fungi::Dikarya::Ascomycota::Pezizomycotina::Eurotiomycetes::Chaetothyriomycetidae::Verrucariales::Verrucariaceae::Dermatocarpon|Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Lichens Family Rank|Dermatocarpon fluviatile|64179|(Weber) Th. Fr.|Dermatocarpon||fluviatile|||Species||||||||E. A. Burt||s. n.|1893-10-00|1893|10|0|||1893-10|Fink Herbarium no. 2164|||||||||||||||||||United States|Maine|no data||Story Brook||0|||||||||||||||||||||2017-11-24 00:00:00|d1c01fd3-d904-4e72-ac3c-bdbf6a973e68|32|urn:uuid:9a73fb47-fd91-48b3-b33c-8987d1aff0f0|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1133288|Dermatocarpon fluviatile
