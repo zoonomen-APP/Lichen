@@ -378,3 +378,15 @@ no data|Maine|1228400|MICH|Lichens||PreservedSpecimen|fa39ee41-3c10-4a74-918f-48
 From Maine list to go to Massachusetts
 
 Middleses|Massachusetts|1133288|MICH|Lichens||PreservedSpecimen|d1c01fd3-d904-4e72-ac3c-bdbf6a973e68|103307||Fungi::Dikarya::Ascomycota::Pezizomycotina::Eurotiomycetes::Chaetothyriomycetidae::Verrucariales::Verrucariaceae::Dermatocarpon|Fungi|Ascomycota|Eurotiomycetes|Verrucariales|Lichens Family Rank|Dermatocarpon fluviatile|64179|(Weber) Th. Fr.|Dermatocarpon||fluviatile|||Species||||||||E. A. Burt||s. n.|1893-10-00|1893|10|0|||1893-10|Fink Herbarium no. 2164|||||||||||||||||||United States|Maine|no data||Story Brook||0|||||||||||||||||||||2017-11-24 00:00:00|d1c01fd3-d904-4e72-ac3c-bdbf6a973e68|32|urn:uuid:9a73fb47-fd91-48b3-b33c-8987d1aff0f0|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1133288|Dermatocarpon fluviatile
+
+
+From Maine list.
+
+(removed from Maine list)
+
+Essex|Massachusetts|1770038|OS|||PreservedSpecimen|49517165-daee-4c84-933c-e94dc6a192c5|OS0009459||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Pertusariales::Pertusariaceae::Pertusaria|Fungi|Ascomycota|Lecanoromycetes|Pertusariales|Pertusariaceae|Pertusaria amara|54839|(Ach.) Nyl.|Pertusaria||amara|||Species||||||||Don Flenniken|||2004-06-20|2004|6|20|172||||||||||||||||||||||United States|Maine|Essex||Hamilton Park; 42.632389 -70.872861||0||42.632389|-70.872861||10000|42ï¿½37'56.6"N 70ï¿½52'22.3"W||||||||||||||JToppin|2020-07-29 07:25:29||38|urn:uuid:49517165-daee-4c84-933c-e94dc6a192c5|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1770038|Pertusaria amara
+
+
+|New Brunswick|3395297|OS|||PreservedSpecimen|5597e470-8dde-403d-be26-9cc71960dd1b|OS0068167||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia cristatella|53394|Tuck.|Cladonia||cristatella|||Species||||||||||199|1998-09-14|1998|9|14|257||||||||||||||||||||||United States|Maine|||? Campobello is in Charlotte County, New Brunswick, Canada||0||||||||||||||||||||JToppin|2020-06-08 07:11:07||38|urn:uuid:5597e470-8dde-403d-be26-9cc71960dd1b|https://lichenportal.org/cnalh/collections/individual/index.php?occid=3395297|Cladonia cristatella
+
+Essex|Massachusetts|1770050|OS|||PreservedSpecimen|77e50660-4977-4ac9-9d09-9d1ca70b7b7b|OS0009471||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Ostropomycetidae::Pertusariales::Pertusariaceae::Pertusaria|Fungi|Ascomycota|Lecanoromycetes|Pertusariales|Pertusariaceae|Pertusaria consocians|54847|Dibben|Pertusaria||consocians|||Species||||||||E. G. Mehlin|||2001-07-00|2001|7||||||||||||||||||||||||United States|Maine|Essex||Dogtown||0||||||||||||||||||||JToppin|2020-07-30 05:50:34||38|urn:uuid:77e50660-4977-4ac9-9d09-9d1ca70b7b7b|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1770050|Pertusaria consocians
