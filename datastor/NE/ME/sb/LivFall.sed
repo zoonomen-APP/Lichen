@@ -1,1 +1,0 @@
-/Livermore Falls/s/^|/Androscoggin|/

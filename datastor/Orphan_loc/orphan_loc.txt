@@ -470,3 +470,32 @@ Have removed this.
 There is no Norfolk in Maine, and that is the only locality clue.
 Probably MASS.. but I consider the record useless.
 Norfolk|Maine|1707923|OS|||PreservedSpecimen|14b1cd9e-e1b3-4412-8988-86a6f672c2c5|OS0006913||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Parmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Parmelia conspersa|66845|Ach.|Parmelia||conspersa|||Species|||||||||||||||||||||||||||||||||||||United States|Maine|Norfolk||||0||||||||||||||||||||JToppin|2020-07-21 12:15:45||38|urn:uuid:14b1cd9e-e1b3-4412-8988-86a6f672c2c5|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1707923|Parmelia conspersa
+
+From VT.
+I don't have Merrill in VT in 1914, and there is no "Handcock" there.
+
+Handcock|Vermont|1587552|COLO|L||PreservedSpecimen|066f125a-0ce5-4835-864a-f5db42eefae2|COLO-L-0003508|L-79539|Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Ramalinaceae|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Ramalinaceae|Bacidia|51927|De Not.|Bacidia|||||Genus|G.K. Merrill|unknown||||||D. Lewis Dutton||857|1914-04-00||||||||maple tree||||||||||||||||||United States|Vermont|Handcock||Hancock||0||||||||||||549|||||1800 ft|||zaalexander|2015-05-21 15:10:26||41|urn:uuid:066f125a-0ce5-4835-864a-f5db42eefae2|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1587552
+
+From VT.
+Almost certainly from Maine and probably Orono.
+
+Penobscot|Vermont|2757201|US|Lichens||PreservedSpecimen|http://n2t.net/ark:/65665/3175cdd6b-efbd-49c1-be5c-8103c6a940f6|||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Parmeliaceae::Parmelioideae::Flavoparmelia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Parmeliaceae|Flavoparmelia caperata|54388|(L.) Hale|Flavoparmelia||caperata|||Species||||||||P. Ricker||||1896||||||||||||field values redacted: eventDate, month, day, startDayOfYear, endDayOfYear, verbatimEventDate, recordNumber, locality, habitat|||||||||||1||United States|Vermont|Penobscot||||1|||||||||||||||||||||2021-10-20 07:53:47|http://n2t.net/ark:/65665/3175cdd6b-efbd-49c1-be5c-8103c6a940f6|89|urn:uuid:f3e3bee8-53b6-496a-8742-cb4b13180ef3|https://lichenportal.org/cnalh/collections/individual/index.php?occid=2757201
+
+$ awk -F "|" '$0~/P. Ricker/' ../../NE*|e 1896|awk -F "|" '{print $66}'
+Orono.
+Orono.
+Orono
+Orono.
+Orono
+Ea. Auburn
+
+Orono
+
+
+This one is going into Mass.
+Plymouth|Maine|1484356|UC|||PreservedSpecimen|f1c12024-160d-46c9-863c-29e150ded773|UC1512988||Fungi::Dikarya::Ascomycota::Pezizomycotina::Lecanoromycetes::Lecanoromycetidae::Lecanorales::Cladoniaceae::Cladonia|Fungi|Ascomycota|Lecanoromycetes|Lecanorales|Cladoniaceae|Cladonia atlantica|53372|A. Evans|Cladonia||atlantica|||Species||||||||S. Hammer||5818|1993-07-21|1993|7|21|202||21 Jul 1993||Trailside||||||||||||||||||United States|Maine|Plymouth||Trailside south of New Grassy Pond, Myles Standish State Forest||0||||||||||||30|||||30 - 40 meters||||2021-09-07 09:16:58||36|urn:uuid:f1c12024-160d-46c9-863c-29e150ded773|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1484356|Cladonia atlantica|S. Hammer
+
+
+Mexico,, not Vermont
+
+QQxxqqXX|Vermont|1304598|VT|||PreservedSpecimen|0478196d-acc2-49c7-8a55-62d64a8a8f02|UVMVT014999||Fungi::Dikarya::Ascomycota::Pezizomycotina::Arthoniomycetes::Arthoniomycetidae::Arthoniales::Arthoniaceae::Arthonia|Fungi|Ascomycota|Arthoniomycetes|Arthoniales|Arthoniaceae|Arthonia cinnabarina|52410|(DC.) Wallr.|Arthonia||cinnabarina|||Species||||||||C. G. Pringle||14|1888-07-03|1888|7|3|185||||||||||||||||||||||United States of America|Vermont||Monterrey|near Monterrey||0||||||||||||||||||||bmlyons|2016-04-05 06:44:24||39|urn:uuid:0478196d-acc2-49c7-8a55-62d64a8a8f02|https://lichenportal.org/cnalh/collections/individual/index.php?occid=1304598|Arthonia cinnabarina|C. G. Pringle
