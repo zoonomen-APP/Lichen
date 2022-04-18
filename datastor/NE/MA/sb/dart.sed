@@ -1,1 +1,0 @@
-/Dartmouth/ s/^|/Bristol/
