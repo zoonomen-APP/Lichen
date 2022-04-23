@@ -1,0 +1,4 @@
+awk -F "|" '$95~/Norton/&&$94~/1916/ {print "<li>"$94,$36,$33,$4,$1,$64,$66,$3,$95,$93}' c:/Lichen/datastor/NE/MA/sb/df  > Norton01.2
+sed -f lichen3.sed Norton01.2 |sort -n -k 2 > Norton01li.2  
+cat head.html title.html Norton01li.2 tail.html > Norton1916.html
+
