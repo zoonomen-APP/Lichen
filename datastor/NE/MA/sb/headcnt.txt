@@ -29,7 +29,7 @@
 29 identificationRemarks
 30 taxonRemarks
 31 identificationQualifier
-32 typeStatus
+32 typeSqtatus
 33 recordedBy
 34 associatedCollectors
 35 recordNumber
