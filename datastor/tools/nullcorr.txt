@@ -1,0 +1,42 @@
+# 2022.02.21
+#
+For correcting records that have null as field $1.
+(will also work for "no data" with modification.
+
+1. search the dataframe for cases with $1~/null/ and {print $66}.
+
+2. I use wc.awk to look for a high frequency example
+Here I will use Chocorura
+
+
+$ awk -F "|" '$1~/null/&&$66~/Chocorua/ {print $3, $2, $66, $3}' df|cut -d " " -f 1 > ChocoruaNH.sed
+So the key thing is $3 is the id, it works to list it first so it is easily
+picked off for creating the sed script.
+
+3. Variables to be used in the sed scrip must be set
+for this example.
+
+STATE=New_Hampshie
+NEW=Carroll_Co.
+
+Better would be
+STATE=New_Hampshire
+COUNTY=Carroll_Co.
+
+4.$ sed -f cntedit2.sed ChocoruaNH.sed | sed -e "s/YYY/$STATE/g" -e "s/XXX/$NEW/" > ChocoruaNHout.sed
+
+
+cntedit2.sed looks like this:
+
+s/^/\/|/ ; s/$/|\//
+#s%$% s\/^null|Mass%Norfolk_Co.|Mass%
+s/$/ s\/^null|YYY\/XXX|YYY\//
+
+So the line would work better as
+
+sed -f cntedit2.sed ChocoruaNH.sed | sed -e "s/YYY/$STATE/g" -e "s/XXX/$COUNTY/" > ChocoruaNHout.sed
+
+The sed line must be in double quotes for 
+the imported external variables to work.
+
+5. sed -i -f ChocoruaNHout.sed dataframe

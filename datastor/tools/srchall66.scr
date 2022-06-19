@@ -1,0 +1,1 @@
+egrep $1 /c/Lichen/datastor/[N,M][A-Z][A-Z]* | awk -F "|" '{print $66}'

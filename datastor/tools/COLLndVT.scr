@@ -1,0 +1,7 @@
+awk -F "|" '$2~/Vermont/&&$33~/data/ {print "<li>" $36,$4,$1,$66,$17,$34,$3,$93}' c:/Lichen/datastor/NE/CT/sb/df  > COLLnd.2
+sed -f c:/Lichen/datastor/NE/CT/sb/sedstor/lichen3.sed COLLnd.2 |sort -n -k 2 > COLLndli.2  
+cat head.html title.html COLLndli.2 tail.html > COLLndVT.html
+awk  'BEGIN {FS=OFS="|"} $2~/Vermont/&&$33~/data/ {print $36,$4,$1,$66,$3,$17,$34}' c:/Lichen/datastor/NE/CT/sb/df|awk 'BEGIN {FS=OFS="|"} {print NR,$0}'  > COLLnd01VT.txt
+awk '{print NR-11,$0}' COLLndVT.html|sed -f c:/sedscr/tagsed|sed 's/Data card/|/'|awk '{print $0$(NF-1)"|"$NF}' >COLLndVT02.txt
+sed '1,11d' COLLndVT02.txt  > COLLndVT03.txt
+awk '$0~/[a-z]/' COLLndVT03.txt > COLLndVT04.txt
