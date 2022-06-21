@@ -1,0 +1,1 @@
+awk -F "|" '$95~/Flenniken/ {print $95}' df|sort -d|uniq > FlennikenAuth01.sed; sed -f authprep.scr Flenniken*01.sed > FlennikenAuth02.sed
