@@ -15,12 +15,12 @@
 15 order
 16 family
 17 scientificName
-18 taxonID
+18 taxonIDq
 19 scientificNameAuthorship
 20 genus
 21 subgenus
 22 specificEpithet
-23 verbatimTaxonRank
+23 verbatimTaxonRank(
 24 infraspecificEpithet
 25 taxonRank
 26 identifiedBy
@@ -40,6 +40,7 @@
 40 startDayOfYear
 41 endDayOfYear
 42 verbatimEventDate
+43 ocurrenceRemarks
 44 habitat
 45 substrate
 46 verbatimAttributes
