@@ -1,4 +1,3 @@
-E. Kneiper & K. Rolih
 K. M. Rolih
 K. Rolih
 Kasey Rolih

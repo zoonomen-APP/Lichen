@@ -1,3 +1,4 @@
+s/|Gates.B.N.$/|Gates,B.N./
 s/|Gates.B.N. ; Gates,W.C.,Ms.$/|Gates,B.N. ; Gates,W.C.,Ms./
 s/|B. Gates$/|Gates,B.N./
 s/|B. N Gates$/|Gates,B.N./

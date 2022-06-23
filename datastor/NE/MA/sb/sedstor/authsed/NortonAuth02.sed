@@ -1,4 +1,4 @@
-s/|A. B. Norton$/|Norton,A.B.##/
+s/|A. B. Norton$/|Norton,A.B./
 s/|E. C. Ogden & L. Norton$/|Ogden,E.C. ; Norton,L.F./
 s/|E. C. Ogden, G. Chamberlain & L. Norton$/|Ogden,E.C. ; Chamberlain,G.D. ; Norton,L.F./
 s/|E. C. Ogden, G. D. Chamberlain, L. F. Norton$/|Ogden,E.C. ; Chamberlain,G.D. ; Norton,L.F./
@@ -22,5 +22,5 @@ s/|Norton,A.H., Pope,A.R., & Perkins,W.W.$/|Norton,A.H. ; Pope,A.R. ; Perkins,E.
 s/|Norton,A.H., et al.$/|Norton,A.H. ; et al./
 s/|Norton,C.$/|Norton,C./
 s/|Norton,E.E.$/|Norton,E.E./
-s/|Norton,H.H.$/|Norton,H.H./
+s/|Norton,H.H.$/|Norton,A.H./
 s/|Soule,L., Soule,E., & Norton,A.H.$/|Soule,L. ; Soule,E. ; Norton,A.H./
