@@ -1,2 +1,2 @@
-awk -F "|" '$95~/Parlin/ {print $95}' df|sort -d|uniq > ParlinAuth01.sed; 
-sed -f authprep.scr Parlin*01.sed > ParlinAuth02.sed
+awk -F "|" '$95~/Cummings/ {print $95}' df|sort -d|uniq > CummingsAuth01.sed; 
+sed -f authprep.scr Cummings*01.sed > CummingsAuth02.sed
