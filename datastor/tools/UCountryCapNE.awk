@@ -44,6 +44,6 @@ BEGIN {FS=OFS="|"}
 	sub(/^uSA$/, "United States of America", $64) 
 	sub(/^tats-Unis$/, "United States of America", $64) 
 	sub(/^united states$/, "United States of America", $64) 
-	sub(/^tats-Unis \[= Canada, confirmed Serge Payette\]$/, "United States of America [= Canada. confirmed Serge Payette]", $64) 
+	sub(/^tats-Unis .= Canada, confirmed Serge Payette.$/, "United States of America [= Canada. confirmed Serge Payette]", $64) 
 	sub(/^USAA$/, "United States of America", $64); print 
 }
