@@ -1,0 +1,5 @@
+# creates date time tag, 
+#appends that to df, writin to transfer.df
+#vi the result (to enable removal of last date time tag.
+#cp that back to df.
+date > date1; cat df date1 > transfer.df; vi transfer.df; cp -puv transfer.df df
