@@ -10,12 +10,20 @@
 # Source file: MAdf
 # MASSACHUSETTS
 	STATEAB=MA
+	#State land area 20,306 km^2
+	STATEAREA=20306
 	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$19~/ /&&$24!~/sp\./' c:/Lichen/datastor/NE/MA/MAdf|wc -l)
 	STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/MA/MAdf|wc -l)
 		echo \#\#\ Massachusetts\ \#\# > c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 		#echo  $MASSACHUSETSSCNT Non genus-only specimens >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 		echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		echo --- >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		echo  Massachusetts land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		#echo  $STATECNT/$STATEAREA >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
+		awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 		echo >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/00AAMassachusettsx.txt
 #
@@ -34,7 +42,6 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/401aEssexdatex.txt
 # Area of County 401a
  	COUNTYAREA=1290
-# Area of County 401a
 # Area of County 401a
 		echo Essex County. >> c:/Lichen/datastor/NE/MA/401aEssexdatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$19~/ /&&$24!~/sp\./&&$3~/Essex_Co./' c:/Lichen/datastor/NE/MA/MAdf|wc -l)
@@ -269,7 +276,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
 		echo Bristol Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
 		echo Bristol County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/405aBristoldatex.txt
@@ -497,7 +504,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
 		echo Middlesex Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
 		echo Middlesex County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/410aMiddlesexdatex.txt
@@ -554,7 +561,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
 		echo Worcester Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
 		echo Worcester County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/411aWorcesterdatex.txt
@@ -611,7 +618,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
 		echo Franklin Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
 		echo Franklin County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/412aFranklindatex.txt
@@ -725,7 +732,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
 		echo Hampshire Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
 		echo Hampshire County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/414aHampshiredatex.txt
@@ -782,7 +789,7 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
 		echo Berkshire Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
 		echo Berkshire County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
-		echo -n $STATEAB $COUNTY county countdensity \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt
         awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/MA/415aBerkshiredatex.txt

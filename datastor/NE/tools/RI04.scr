@@ -8,15 +8,32 @@
 # YearMoDa excluded.
 # RHODE_ISLAND
 	STATEAB=RI
+	 #State land area 2707 km^2
+        STATEAREA=2707
 	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
-	STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
-		echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-	#	echo  $RHODEISLANDCNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-		echo >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-		echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-		echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+	 #Statecount sine date STATECNTSD
+        STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
+                echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                #echo  $RISSACHUSETSSCNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  Rhode_Island land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                #echo  $STATECNT/$STATEAREA >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+
+#	STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
+#		echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#	#	echo  $RHODEISLANDCNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
 #
 #[ PROVIDENCE. 501
 # #
@@ -37,7 +54,7 @@
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Providence_Co./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
 		echo Providence Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
-		echo Providence County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo Providence County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
 		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
@@ -87,7 +104,7 @@
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/502Ay.txt >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
 # Density of collection 502a
- 	COUNTYAREA=1059
+ 	COUNTYAREA=440
 		echo Kent County. >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Kent_Co./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
@@ -143,13 +160,13 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 # Density of collection 503a
 # Density of collection Area km^2
- 	COUNTYAREA=62
+ 	COUNTYAREA=60
 # Density of collection Area km^2
 		echo Bristol County. >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Bristol_Co./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 		echo Bristol Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
-		echo Bristol County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo Bristol County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
@@ -200,13 +217,13 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 # Density of collection 504a
 # Density of collection Area km^2
- 	COUNTYAREA=264
+ 	COUNTYAREA=260
 # Density of collection Area km^2
 		echo Newport County. >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Newport_Co./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 		echo Newport Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
-		echo Newport County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo Newport County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
@@ -257,13 +274,13 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 # Density of collection 505a
 # Density of collection Area km^2
- 	COUNTYAREA=852
+ 	COUNTYAREA=850
 # Density of collection Area km^2
 		echo Washington County. >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Washington_Co./' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 		echo Washington Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
-		echo Washington County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo Washington County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 		#
 		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
