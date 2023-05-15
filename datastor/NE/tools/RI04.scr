@@ -6,6 +6,7 @@
 #
 # Genus only records excluded.
 # YearMoDa excluded.
+# source file RIdf
 # RHODE_ISLAND
 	STATEAB=RI
 	 #State land area 2707 km^2
@@ -14,7 +15,6 @@
 	 #Statecount sine date STATECNTSD
         STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdf|wc -l)
                 echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-                #echo  $RISSACHUSETSSCNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
