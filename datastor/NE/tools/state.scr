@@ -1,0 +1,7 @@
+#2023.05.15 scrip for making state specific files for ??04.scr state/county summaries.
+awk 'BEGIN {FS=OFS="|"} $4~/Maine/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/ME/MEdf
+awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/NH/NHdf
+awk 'BEGIN {FS=OFS="|"} $4~/Vermont/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/VT/VTdf
+awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/MA/MAdf
+awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/CT/CTdf
+awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/RI/RIdf
