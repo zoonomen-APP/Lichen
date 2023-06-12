@@ -127,9 +127,9 @@
 		echo >> c:/Lichen/datastor/NE/CT/601bWindhamCollx.txt
 #
 # LOCALITY
-		echo Windham Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
+		echo Windham Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
-        awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Windham/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Windham/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/CT/601cWindhamlocalx.txt
 #
@@ -182,9 +182,9 @@
 		echo >> c:/Lichen/datastor/NE/CT/602bTollandCollx.txt
 #
 # LOCALITY
-		echo Tolland Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
+		echo Tolland Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
-        awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Tolland/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Tolland/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/CT/602cTollandlocalx.txt
 #
@@ -237,7 +237,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/603bHartfordCollx.txt
 #
 # LOCALITY
-		echo Hartford Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/603cHartfordlocalx.txt
+		echo Hartford Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/603cHartfordlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/603cHartfordlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Hartford/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/603cHartfordlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/603cHartfordlocalx.txt
@@ -292,7 +292,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/604bNew_LondonCollx.txt
 #
 # LOCALITY
-		echo New_London Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/604cNew_Londonlocalx.txt
+		echo New_London Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/604cNew_Londonlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/604cNew_Londonlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/New_London/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/604cNew_Londonlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/604cNew_Londonlocalx.txt
@@ -347,7 +347,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/605bMiddlesexCollx.txt
 #
 # LOCALITY
-		echo Middlesex Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/605cMiddlesexlocalx.txt
+		echo Middlesex Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/605cMiddlesexlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/605cMiddlesexlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Middlesex/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/605cMiddlesexlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/605cMiddlesexlocalx.txt
@@ -402,7 +402,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/606bNew_HavenCollx.txt
 #
 # LOCALITY
-		echo New_Haven Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/606cNew_Havenlocalx.txt
+		echo New_Haven Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/606cNew_Havenlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/606cNew_Havenlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/New_Haven/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/606cNew_Havenlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/606cNew_Havenlocalx.txt
@@ -457,7 +457,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/607bFairfieldCollx.txt
 #
 # LOCALITY
-		echo Fairfield Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/607cFairfieldlocalx.txt
+		echo Fairfield Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/607cFairfieldlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/607cFairfieldlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Fairfield/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/607cFairfieldlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/607cFairfieldlocalx.txt
@@ -512,7 +512,7 @@
 		echo >> c:/Lichen/datastor/NE/CT/608bLitchfieldCollx.txt
 #
 # LOCALITY
-		echo Litchfield Co. LOCALITY top 10. - genus-only records excluded > c:/Lichen/datastor/NE/CT/608cLitchfieldlocalx.txt
+		echo Litchfield Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/CT/608cLitchfieldlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/608cLitchfieldlocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/&&$3~/Litchfield/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/CT/CTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/CT/608cLitchfieldlocalx.txt
 		echo >> c:/Lichen/datastor/NE/CT/608cLitchfieldlocalx.txt
