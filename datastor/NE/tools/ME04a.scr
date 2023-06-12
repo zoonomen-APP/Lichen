@@ -17,7 +17,7 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
                 echo  Maine land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
                 echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
-                echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+                echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/RI/00AAMainex.txt
                 awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/00AAMainex.txt

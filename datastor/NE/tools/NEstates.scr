@@ -1,0 +1,9 @@
+# to make dfbn 
+awk 'BEGIN {FS=OFS="|"} $19~/ / &&$19!~/ sp\./ ' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/dfbn
+# Then make MEdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/Maine/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/ME/MEdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/Vermont/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/VT/VTdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/NH/NHdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/MA/MAdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/Connecticut/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/CT/CTdfbn
+awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/' c:/Lichen/datastor/NE/dfbn > c:/Lichen/datastor/NE/RI/RIdfbn

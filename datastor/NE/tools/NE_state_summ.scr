@@ -1,0 +1,26 @@
+# file to clean State directories of old files.
+# then create new summary component files for each state.
+# then cat the *x.txt component for each state to an abbreviated name file 
+# this will allow ordering the state output.
+#
+rm c:/Lichen/datastor/NE/ME/*x.txt
+rm c:/Lichen/datastor/NE/NH/*x.txt
+rm c:/Lichen/datastor/NE/VT/*x.txt
+rm c:/Lichen/datastor/NE/MA/*x.txt
+rm c:/Lichen/datastor/NE/CT/*x.txt
+rm c:/Lichen/datastor/NE/RI/*x.txt
+#
+c:/Lichen/datastor/NE/tools/ME04.scr
+c:/Lichen/datastor/NE/tools/NH04.scr
+c:/Lichen/datastor/NE/tools/VT04.scr
+c:/Lichen/datastor/NE/tools/MA04.scr
+c:/Lichen/datastor/NE/tools/CT04.scr
+c:/Lichen/datastor/NE/tools/RI04.scr
+#
+cat  c:/Lichen/datastor/NE/ME/*x.txt > c:/Lichen/datastor/NE/01ME.01
+cat  c:/Lichen/datastor/NE/NH/*x.txt > c:/Lichen/datastor/NE/02NH.01
+cat  c:/Lichen/datastor/NE/VT/*x.txt > c:/Lichen/datastor/NE/03VT.01
+cat  c:/Lichen/datastor/NE/MA/*x.txt > c:/Lichen/datastor/NE/04MA.01
+cat  c:/Lichen/datastor/NE/CT/*x.txt > c:/Lichen/datastor/NE/05CT.01
+cat  c:/Lichen/datastor/NE/RI/*x.txt > c:/Lichen/datastor/NE/06RI.01
+

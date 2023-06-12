@@ -1,0 +1,18 @@
+# NEW_HAMPSHIRE
+	STATEAB=NH
+	 #State land area 23380 km^2
+        STATEAREA=23380
+	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$19~/ /&&$24!~/sp\./' c:/Lichen/datastor/NE/NH/NHdf|wc -l)
+	 #Statecount sine date STATECNTSD
+        STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/NH/NHdf|wc -l)
+                echo \#\#\ New_Hampshire\ \#\# > c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo --- >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo  New_Hampshire land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+                echo --- >> c:/Lichen/datastor/NE/NH/00AANew_Hampshirex.txt
+

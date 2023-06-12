@@ -19,7 +19,6 @@
                 echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo  Rhode_Island land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
-                #echo  $STATECNT/$STATEAREA >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
                 awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
@@ -155,7 +154,7 @@
 		echo Bristol Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 		echo >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdf|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/503aBristoldatey.txt
-        cut -c 1-4 c:/Lichen/datastor/NE/RI/503aBristoldatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/502Ay.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/503aBristoldatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/503Ay.txt
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/503Ay.txt >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
 # Density of collection 503a
@@ -212,7 +211,7 @@
 		echo Newport Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 		echo >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdf|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/504aNewportdatey.txt
-        cut -c 1-4 c:/Lichen/datastor/NE/RI/504aNewportdatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/502Ay.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/504aNewportdatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/504Ay.txt
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/504Ay.txt >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
 # Density of collection 504a
@@ -269,7 +268,7 @@
 		echo Washington Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 		echo >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdf|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/505aWashingtondatey.txt
-        cut -c 1-4 c:/Lichen/datastor/NE/RI/505aWashingtondatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/502Ay.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/505aWashingtondatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/505Ay.txt
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/505Ay.txt >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
 # Density of collection 505a
