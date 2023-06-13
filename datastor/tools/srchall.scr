@@ -1,2 +1,0 @@
-egrep $1 /c/Lichen/datastor/[N,M][A-Z][A-Z]*
-#egrep -l $1 /c/Lichen/datastor/[N,M][A-Z][A-Z]*

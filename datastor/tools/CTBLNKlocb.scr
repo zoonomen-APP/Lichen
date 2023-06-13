@@ -1,4 +1,0 @@
-awk -F "|" '$66~/^$/&&$1!~/_Co./&&$4~/F/&&$4!~/FH/ {print "<li>"$2,$36,$33,$4,$1,$64,$66,$3,$95,$93}' c:/Lichen/datastor/NE/CT/sb/NE_all_0215.pip  > NEblnkloc.2
-sed -f lichen3.sed NEblnkloc.2 |sort -n -k 2 > NEblnklocli.2  
-cat head.html title.html NEblnklocli.2 tail.html > NEblnkloc.html
-

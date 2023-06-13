@@ -1,7 +1,0 @@
-awk -F "|" '$2~/New_Hampshire/&&$33!~/[A-z]/ {print "<li>" $36,$4,$1,$66,$17,$34,$3,$93}' c:/Lichen/datastor/NE/CT/sb/df  > COLLblnk.2
-sed -f c:/Lichen/datastor/NE/CT/sb/sedstor/lichen3.sed COLLblnk.2 |sort -n -k 2 > COLLblnkli.2  
-cat head.html title.html COLLblnkli.2 tail.html > COLLblnkNH.html
-awk  'BEGIN {FS=OFS="|"} $2~/New_Hampshire/&&$33!~/[A-z]/ {print $36,$4,$1,$66,$3,$17,$34}' c:/Lichen/datastor/NE/CT/sb/df|awk 'BEGIN {FS=OFS="|"} {print NR,$0}'  > COLLblnk01NH.txt
-awk '{print NR-11,$0}' COLLblnkNH.html|sed -f c:/sedscr/tagsed|sed 's/Data card/|/'|awk '{print $0$(NF-1)"|"$NF}' >COLLblnkNH02.txt
-sed '1,11d' COLLblnkNH02.txt  > COLLblnkNH03.txt
-awk '$0~/[a-z]/' COLLblnkNH03.txt > COLLblnkNH04.txt

@@ -1,6 +1,0 @@
-#awk -F "|" '$2~/Conn/&&$1!~/_Co/ {print "<li>" $2,$36,$33,$4,$1,$64,$66,$3,$95,$93}' c:/Lichen/datastor/NE/CT/sb/df  > CTblnkloc.2
-#awk -F "|" '$2~/Conn/&&$1!~/_Co/ {print "<li>" $36,$33,$4,$64,$66,$3,$95,$93}' c:/Lichen/datastor/NE/CT/sb/df  > CTblnkloc.2
-awk -F "|" '$2~/Conn/&&$1!~/_Co/&&$4!~/US/ {print "<li>" $36,$33,$4,$64,$66,$3,$95,$93}' c:/Lichen/datastor/NE/CT/sb/df  > CTblnkloc.2
-sed -f c:/Lichen/datastor/NE/CT/sb/sedstor/lichen3.sed CTblnkloc.2 |sort -n -k 2 > CTblnklocli.2  
-cat head.html title.html CTblnklocli.2 tail.html > CTblnkloc.html
-
