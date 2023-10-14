@@ -3214,11 +3214,11 @@ Dictyomeridium proponens (Aptroot, M. P. Nelsen & Lücking) Aptroot, M. P. Nelse
 Dictyonema lawreyi Dal Forno, Kaminsky & Lücking (Dal Forno et al. 2019)
 Dictyonema moorei (Nyl.) Henssen
 Dictyonema sericeum (Sw.) Berk.
-Dictyonema glabratum (Sprengel) D. Hawksw. = Cora timucua, for North American reports (Lücking et al. 2020)
-Dictyonema guadalupense (Rabenh.) Zahlbr. = D. sericeum
-Dictyonema irpicinum Mont. = misidentification for North America
-Dictyonema pavonium (Sw.) Parmasto = Cora timucua, for North American reports (Lücking et al. 2020)
-Dictyonema phyllogenum (Müll. Arg.) Zahlbr.  (Lücking et al. 2011b) = Cyphellostereum phyllogenum
+% Dictyonema glabratum (Sprengel) D. Hawksw. = Cora timucua, for North American reports (Lücking et al. 2020)
+% Dictyonema guadalupense (Rabenh.) Zahlbr. = D. sericeum
+% Dictyonema irpicinum Mont. = misidentification for North America
+% Dictyonema pavonium (Sw.) Parmasto = Cora timucua, for North American reports (Lücking et al. 2020)
+% Dictyonema phyllogenum (Müll. Arg.) Zahlbr.  (Lücking et al. 2011b) = Cyphellostereum phyllogenum
 Didymellopsis latitans (Nyl.) Clem. & Shear (Zhurbenko 2009a)
 Didymellopsis pulposi (Zopf) Grube & Hafellner (Zhurbenko 2013)
 Didymocyrtis bryonthae (Arnold) Hafellner  Syn.:  Polycoccum bryonthae (Ertz et al. 2015a)
@@ -3228,7 +3228,7 @@ Didymocyrtis epiphyscia Ertz & Diederich  Syn.: Phoma physciicola (Ertz et al. 2
 Didymocyrtis grumantiana (Zhurb. & Diederich) Zhurb. & Diederich  Syn.: Phoma grumantiana (Diederich et al. 2018)
 Didymocyrtis melanelixiae (Brackel) Diederich, Harris & Etayo (Ertz et al. 2015a)
 Didymocyrtis xanthomendozae (Diederich & Freebury) Diederich & Freebury  Syn.: Phoma xanthomendozae (Ertz et al. 2015a)
-Didymosphaeria epicrassa (H. Olivier) Vouaux = Clypeococcum epicrassum, but see note there
+% Didymosphaeria epicrassa (H. Olivier) Vouaux = Clypeococcum epicrassum, but see note there
 Digitothyrea divergens (Henssen) Moreno & Egea (Sweat et al. 2004)
 Digitothyrea polyglossa (Nyl.) P. P. Moreno & Egea (Schultz 2002b)
 Dimelaena lichenicola K. Knudsen, Sheard, Kocourk. & H. Mayrhofer  (Knudsen et al. 2013b)
@@ -3237,14 +3237,14 @@ Dimelaena radiata (Tuck.) Müll. Arg. (Matzer et al. 1996) Syns.: Buellia radiat
 Dimelaena tenuis (Müll. Arg.) H. Mayrhofer & Wippel (Beeching 2007)
 Dimelaena thysanota (Tuck.) Hale & W. L. Culb. Syn.: Rinodina thysanota
 Dimelaena weberi Sheard
-Dimelaena angelica (Stizenb.) Hale & W. L. Culb. = Mobergia angelica
-Dimelaena californica (H. Magn.) Sheard = Monerolechia californica (Diederich et al. 2018)
-Dimelaena chrysomelaena (Ach.) Hale & W. L. Culb. = Rinodina chrysomelaena
-Dimelaena novomexicana (B. de Lesd.) Hale & W. L. Culb. = D. oreina
-Dimelaena suboreina (B. de Lesd.) Hale & W. L. Culb. = D. oreina
-Dimerella diluta (Pers.) Trevisan = Coenogonium pineti
-Dimerella lutea (Dickson) Trevisan = Coenogonium luteum
-Dimerella pineti (Ach.) Vězda = Coenogonium pineti
+% Dimelaena angelica (Stizenb.) Hale & W. L. Culb. = Mobergia angelica
+% Dimelaena californica (H. Magn.) Sheard = Monerolechia californica (Diederich et al. 2018)
+% Dimelaena chrysomelaena (Ach.) Hale & W. L. Culb. = Rinodina chrysomelaena
+% Dimelaena novomexicana (B. de Lesd.) Hale & W. L. Culb. = D. oreina
+% Dimelaena suboreina (B. de Lesd.) Hale & W. L. Culb. = D. oreina
+% Dimerella diluta (Pers.) Trevisan = Coenogonium pineti
+% Dimerella lutea (Dickson) Trevisan = Coenogonium luteum
+% Dimerella pineti (Ach.) Vězda = Coenogonium pineti
 Dimidiographa longissima (Müll. Arg.) Ertz & Tehler (Ertz & Tehler 2011) Syn.: Graphis, atrorubens, Opegrapha longissima
 Dinemasporium strigosum (Fr.) Sacc. (Alstrup & Cole 1998)
 Diorygma antillarum (Vainio) Nelsen, Lücking & Rivas Plata (Nelsen et al. 2012) Syn.: Herpothallon antillarum
@@ -3268,30 +3268,30 @@ Diploschistes gypsaceus (Ach.) Zahlbr.
 Diploschistes hypoleucus Zahlbr.
 Diploschistes muscorum (Scop.) R. Sant. subsp. muscorum
 Diploschistes scruposus (Schreber) Norman Syn.: Urceolaria scruposa
-Diploschistes albissimus (Ach.) Dalla Torre & Sarnth. = D. diacapsis
-Diploschistes bisporus (Bagl.) J. Steiner = Ingvariella bisporus
-Diploschistes bryophilus (Ehrh. ex Ach.) Zahlbr. = D. muscorum subsp. muscorum
-Diploschistes canadensis Räsänen = D. muscorum subsp. muscorum
-Diploschistes scruposus (Schreber) Norman var. parasiticus (Sommerf.) Zahlbr. = D. muscorum
-Diploschistes straminescens Zahlbr. = D. hypoleucus
+% Diploschistes albissimus (Ach.) Dalla Torre & Sarnth. = D. diacapsis
+% Diploschistes bisporus (Bagl.) J. Steiner = Ingvariella bisporus
+% Diploschistes bryophilus (Ehrh. ex Ach.) Zahlbr. = D. muscorum subsp. muscorum
+% Diploschistes canadensis Räsänen = D. muscorum subsp. muscorum
+% Diploschistes scruposus (Schreber) Norman var. parasiticus (Sommerf.) Zahlbr. = D. muscorum
+% Diploschistes straminescens Zahlbr. = D. hypoleucus
 Diplotomma alboatrum (Hoffm.) Flotow Syns.: Buellia alboatra, B. alboatra var. saxicola, Rhizocarpon alboatrum
 Diplotomma ambiguum (Ach.) Flagey Syn.: Buellia ambigua
 Diplotomma chlorophaeum (Hepp ex Leighton) Kr. P. Singh & S. R. Singh Syns.: Rhizocarpon chlorophaeum, Buellia chlorophaea
 Diplotomma nivale (Bagl. & Carestia) Hafellner (Hafellner & Türk 1995) Syn.: Buellia nivalis
 Diplotomma penichrum (Tuck.) Szatala Syns.: Buellia oidalia var. penichra, B. penichra, Rhizocarpon penichrum
 Diplotomma venustum (Körber) Körber Syns.: Buellia epipolia, B. venusta, B. lecanoroides, Rhizocarpon cumulatum
-Diplotomma epipolium sensu auct. = D. venustum (Nordin 1996, McCune 2017)
-Diplotomma epipolium (Ach.) Arnold = D. alboatrum (Nordin 1996, McCune 2017)
-Diplotomma pulverulentum (Anzi) D. Hawksw. (Molina et al. 2002) = Tetramelas pulverulentus
+% Diplotomma epipolium sensu auct. = D. venustum (Nordin 1996, McCune 2017)
+% Diplotomma epipolium (Ach.) Arnold = D. alboatrum (Nordin 1996, McCune 2017)
+% Diplotomma pulverulentum (Anzi) D. Hawksw. (Molina et al. 2002) = Tetramelas pulverulentus
 Dirina catalinariae Hasse
 Dirina massiliensis Durieu & Mont. (Harris & Ladd 2005; reported as f. sorediata)
 Dirina paradoxa (Fée) Tehler
-Dirina approximata Zahlbr. subsp. hioramii (B. de Lesd.) Tehler = D. paradoxa
-Dirina calcicola Sparrius  (Sparrius 2004a) = Fulvophyton calcicola (Tehler et al. 2013)
-Dirina californica Tuck. = Sigridea californica
-Dirina franciscana Zahlbr. ex Herre = Dendrographa franciscana
-Dirina hassei Zahlbr. = Sigridea californica
-Dirina rediunta Hasse = Schismatomma rediunta
+% Dirina approximata Zahlbr. subsp. hioramii (B. de Lesd.) Tehler = D. paradoxa
+% Dirina calcicola Sparrius  (Sparrius 2004a) = Fulvophyton calcicola (Tehler et al. 2013)
+% Dirina californica Tuck. = Sigridea californica
+% Dirina franciscana Zahlbr. ex Herre = Dendrographa franciscana
+% Dirina hassei Zahlbr. = Sigridea californica
+% Dirina rediunta Hasse = Schismatomma rediunta
 Dirinaria aegialita (Afz.) B. J. Moore Syn.: Physcia aspera, P. aegialita
 Dirinaria applanata (Fée) D. D. Awasthi
 Dirinaria confluens (Fr.) D. D. Awasthi
@@ -3303,31 +3303,31 @@ Dirinaria neotropica Kalb  (Kalb 2004a)
 Dirinaria papillulifera (Nyl.) D. D. Awasthi
 Dirinaria picta (Sw.) Clem. & Shear Syns.: Physcia picta, Pyxine picta, P. picta var. erythrocardia
 Dirinaria purpurascens (Vainio) B. J. Moore  Syn.: Physcia purpurascens
-Dirinaria aspera (H. Magn.) D. D. Awasthi = D. aegialita
-Discothecium gemmiferum Vouaux = an uncertain species of Endococcus
+% Dirinaria aspera (H. Magn.) D. D. Awasthi = D. aegialita
+% Discothecium gemmiferum Vouaux = an uncertain species of Endococcus
 Distopyrenis americana Aptroot
 Distopyrenis pachyospora Aptroot (Harris 1995a)
 Distopyrenis quercicola R. C. Harris (Harris 1995a)
 Distopyrenis submuriformis R. C. Harris (Harris 1995a)
-Ditremis albiseda (Nyl.) R. C. Harris = Anisomeridium albisedum
-Ditremis ambigua (Zahlbr.) R. C. Harris = Anisomeridium ambiguum
-Ditremis anisoloba (Müll. Arg.) R. C. Harris = Anisomeridium anisolobum
-Ditremis biformis (Borrer) R. C. Harris = Anisomeridium biforme
-Ditremis carinthiaca (Steiner) R. C. Harris = Anisomeridium carinthiacum
-Ditremis distans (Willey) R. C. Harris = Anisomeridium distans
-Ditremis finkii R. C. Harris = Anisomeridium finkii
-Ditremis leucochlora (Müll. Arg.) R. C. Harris = Anisomeridium leucochlorum
-Ditremis macrospora R. C. Harris = Anisomeridium aureopunctatum
-Ditremis nyssigena (Ellis & Everh.) R. C. Harris = Anisomeridium polypori
-Ditremis quaternaria R. C. Harris = Anisomeridium quaternarium
-Ditremis sanfordensis (Zahlbr.) R. C. Harris = Anisomeridium excaecariae
-Ditremis subprostans (Nyl.) R. C. Harris = Anisomeridium subprostans
-Ditremis tamarindii (Fée) R. C. Harris = Anisomeridium tamarindii
-Ditremis terminata (Nyl.) R. C. Harris = Anisomeridium terminatum
-Ditremis tuckerae (R. C. Harris) R. C. Harris = Anisomeridium tuckerae
+% Ditremis albiseda (Nyl.) R. C. Harris = Anisomeridium albisedum
+% Ditremis ambigua (Zahlbr.) R. C. Harris = Anisomeridium ambiguum
+% Ditremis anisoloba (Müll. Arg.) R. C. Harris = Anisomeridium anisolobum
+% Ditremis biformis (Borrer) R. C. Harris = Anisomeridium biforme
+% Ditremis carinthiaca (Steiner) R. C. Harris = Anisomeridium carinthiacum
+% Ditremis distans (Willey) R. C. Harris = Anisomeridium distans
+% Ditremis finkii R. C. Harris = Anisomeridium finkii
+% Ditremis leucochlora (Müll. Arg.) R. C. Harris = Anisomeridium leucochlorum
+% Ditremis macrospora R. C. Harris = Anisomeridium aureopunctatum
+% Ditremis nyssigena (Ellis & Everh.) R. C. Harris = Anisomeridium polypori
+% Ditremis quaternaria R. C. Harris = Anisomeridium quaternarium
+% Ditremis sanfordensis (Zahlbr.) R. C. Harris = Anisomeridium excaecariae
+% Ditremis subprostans (Nyl.) R. C. Harris = Anisomeridium subprostans
+% Ditremis tamarindii (Fée) R. C. Harris = Anisomeridium tamarindii
+% Ditremis terminata (Nyl.) R. C. Harris = Anisomeridium terminatum
+% Ditremis tuckerae (R. C. Harris) R. C. Harris = Anisomeridium tuckerae
 Dolichousnea diffracta (Vainio) Articus Syn.: Usnea diffracta
 Dolichousnea longisssima (Ach.) Articus Syn.: Usnea longissima
-Dufourea madreporiformis (Ach.) Ach. = Allocetraria madreporiformis
+% Dufourea madreporiformis (Ach.) Ach. = Allocetraria madreporiformis
 Dyplolabia afzelii (Ach.) A. Massal. Syn.: Graphis afzelii (Staiger 2002)
 Echinodiscus lesdainii (Vouaux) Etayo & Diederich (Kocourková et al. 2010) = Neoechinodiscus lesdainii (Sierra & Molinari-Novoa 2020)
 Echinoplaca areolata Lücking & W. R. Buck  (Lücking et al. 2007)
@@ -3340,7 +3340,7 @@ Echinoplaca pellicula (Müll. Arg.) R. Sant.
 Echinoplaca similis Kalb & Vězda  (Lücking et al. 2007)
 Echinoplaca tetraplaca (Zahlbr.) Lücking  (Lücking  (Lücking et al. 2007)
 Echinothecium aerophilum Alstrup & M. S. Cole (Alstrup & Cole 1998)
-Echinothecium reticulatum Zopf = Sphaerellothecium reticulatum
+% Echinothecium reticulatum Zopf = Sphaerellothecium reticulatum
 Edrudia constipans (Nyl.) W. P. Jordan Syn.: Caloplaca constipans, Lecanora constipans
 Eiglera flavida (Hepp) Hafellner Syns.: Lecanora flavida, Aspicilia flavida
 Elixia flexella (Ach.) Lumbsch (Spribille & Björk 2008)
@@ -3358,8 +3358,8 @@ Enchylium limosum (Ach.) Otálora, P. M. Jørg. & Wedin  Syns.: Collema glaucesc
 Enchylium polycarpon (Hoffm.) Otálora, P. M. Jørg. & Wedin  Syns.: Collema melaenum var. polycarpon, Collema polycarpon, Synechoblastus polycarpus, S. wyomingensis
 Enchylium substellatum (H. Magn.) P. M. Jørg.  (Jørgensen & Goward 2015)
 Enchylium tenax (Sw.) Gray  Syn.: Collema tenax
-Endocarpiscum bolanderi (Nyl.) Tuck. (Tuckerman 1882) = Peltula bolanderi
-Endocarpiscum guepinii (Delise) Nyl. (Tuckerman 1882) = Peltula euploca
+% Endocarpiscum bolanderi (Nyl.) Tuck. (Tuckerman 1882) = Peltula bolanderi
+% Endocarpiscum guepinii (Delise) Nyl. (Tuckerman 1882) = Peltula euploca
 Endocarpon adscendens (Anzi) Müll. Arg.
 Endocarpon adsurgens Vainio
 Endocarpon lepidallum Nyl.
@@ -3372,18 +3372,18 @@ Endocarpon pusillum Hedwig
 Endocarpon schisticola B. de Lesd. (Breuss 2002a)
 Endocarpon simplicatum (Nyl.) Nyl. (Breuss 2002a)
 Endocarpon subnitescens Nyl.
-Endocarpon arboreum Schwein.  (Mohr 1901) = Placidium arboreum
-Endocarpon diffractellum (Nyl.) Gueidan & Cl. Roux (Gueidan et al. 2007) = Willeya diffractella (Gueidan & Lendemer 2015)
-Endocarpon drummondii (Tuck.) M. Choisy = Staurothele drummondii
-Endocarpon miniatum (L.) Schaerer (Mohr 1901) = Dermatocarpon miniatum
-Endocarpon moenium Vainio = Acarospora moenium
-Endocarpon monicae Zahlbr. = Staurothele monicae
-Endocarpon ochroleucum Tuck. = Heterocarpon ochroleucum
-Endocarpon pulvinatum Th. Fr. = Staurothele pulvinata (Heiðmarsson et al. 2017) Syns.: Endocarpon pulvinatum, Pyrenothamnia brandegei, P. spraguei, Staurothele brandegei
-Endocarpon tenuissimum (Degel.) Lendemer & E. Tripp =Willeya diffractella (Gueidan & Lendemer 2015)
-Endocarpon tortuosum Herre = Staurothele pulvinatum (Heiðmarsson et al. 2017)
-Endocarpon tuckermanii Rav. ex Mont. = Placidium arboreum (Lendemer & Yahr 2004)
-Endocarpon wilmsoides Zahlbr. = Staurothele drummondii
+% Endocarpon arboreum Schwein.  (Mohr 1901) = Placidium arboreum
+% Endocarpon diffractellum (Nyl.) Gueidan & Cl. Roux (Gueidan et al. 2007) = Willeya diffractella (Gueidan & Lendemer 2015)
+% Endocarpon drummondii (Tuck.) M. Choisy = Staurothele drummondii
+% Endocarpon miniatum (L.) Schaerer (Mohr 1901) = Dermatocarpon miniatum
+% Endocarpon moenium Vainio = Acarospora moenium
+% Endocarpon monicae Zahlbr. = Staurothele monicae
+% Endocarpon ochroleucum Tuck. = Heterocarpon ochroleucum
+% Endocarpon pulvinatum Th. Fr. = Staurothele pulvinata (Heiðmarsson et al. 2017) Syns.: Endocarpon pulvinatum, Pyrenothamnia brandegei, P. spraguei, Staurothele brandegei
+% Endocarpon tenuissimum (Degel.) Lendemer & E. Tripp =Willeya diffractella (Gueidan & Lendemer 2015)
+% Endocarpon tortuosum Herre = Staurothele pulvinatum (Heiðmarsson et al. 2017)
+% Endocarpon tuckermanii Rav. ex Mont. = Placidium arboreum (Lendemer & Yahr 2004)
+% Endocarpon wilmsoides Zahlbr. = Staurothele drummondii
 Endococcus apiciicola (J. Steiner) R. Sant. (Diederich 2003)
 Endococcus incrassatus Etayo & Breuss (Knudsen & Kocourková 2008b)
 Endococcus macrosporus (Arnold) Nyl.  (Hafellner et al. 2002)
@@ -3398,19 +3398,19 @@ Endococcus stigma (Körber) Stizenb.  (Hafellner et al. 2002)
 Endococcus thelommatis Kocourk. & K. Knudsen (Kocourková & Knudsen 2011)
 Endococcus verrucosus Hafellner  (Hafellner et al. 2002)
 Endococcus zahlbrucknerellae (Henssen) D. Hawksw. Syn.: Ticothecium zahlbrucknerella
-Endococcus buelliae (C. W. Dodge) Matzer (Matzer et al. 1996) = E. matzeri for North American reports
+% Endococcus buelliae (C. W. Dodge) Matzer (Matzer et al. 1996) = E. matzeri for North American reports
 Endohyalina ericina Giralt, van den Boom & Elix var. ericina  (Giralt et al. 2010)
 Endohyalina insularis (Arnold) Giralt, van den Boom & Elix  Syn.: Rinodina insularis (Nadyeina et al. 2010)
 Endohyalina rappii (Imshaug ex R. C. Harris) Marbach  Syn.:  Buellia rappii (Marbach 2000)
-Endohyalina circumpallida (H. Magn.) Marbach (Marbach 2000) =  Buellia circumpallida (Giralt et al. 2010)
-Endopyrenium americanum B. de Lesd. = Verrucaria americana
-Endopyrenium bajadanae B. de Lesd. = Placidium acarosporoides
-Endopyrenium crustaceum B. de Lesd. = Catapyrenium granulosum
-Endopyrenium granulosum B. de Lesd. = Catapyrenium granulosum
-Endopyrenium novomexicanum B. de Lesd. = Placidium acarosporoides
-Endopyrenium plumbeum B. de Lesd. = Verrucaria inficiens
-Endopyrenium rupicola B. de Lesd. = Verrucaria othmarii
-Endopyrenium tuckermanii (Rav. ex Mont.) Müll. Arg. = Placidium arboreum
+% Endohyalina circumpallida (H. Magn.) Marbach (Marbach 2000) =  Buellia circumpallida (Giralt et al. 2010)
+% Endopyrenium americanum B. de Lesd. = Verrucaria americana
+% Endopyrenium bajadanae B. de Lesd. = Placidium acarosporoides
+% Endopyrenium crustaceum B. de Lesd. = Catapyrenium granulosum
+% Endopyrenium granulosum B. de Lesd. = Catapyrenium granulosum
+% Endopyrenium novomexicanum B. de Lesd. = Placidium acarosporoides
+% Endopyrenium plumbeum B. de Lesd. = Verrucaria inficiens
+% Endopyrenium rupicola B. de Lesd. = Verrucaria othmarii
+% Endopyrenium tuckermanii (Rav. ex Mont.) Müll. Arg. = Placidium arboreum
 Enterographa bagliettoae F. Seavey & J. Seavey (Seavey et al. 2017)
 Enterographa bradleyana F. Seavey & J. Seavey (Seavey & Seavey 2014b)
 Enterographa caudata F. Seavey & J. Seavey (Seavey & Seavey 2014b)
@@ -3425,15 +3425,15 @@ Enterographa pallidella (Nyl.) Redinger (Seavey & Seavey 2012)
 Enterographa quassiicola Fée
 Enterographa subserialis (Nyl.) Redinger (Seavey & Seavey 2014a)
 Enterographa zonata (Körber) Källsten  Syn.: Opegrapha zonata (Ertz et al. 2009)
-Enterographa anguinella (Nyl.) Redinger (Sparrius 2004b) = Opegrapha anguinella
-Enterographa carnea (Eckfeldt) R. C. Harris = Mazosia ocellata
-Enterographa elegans (Eschw.) Tuck. = Sclerophyton elegans
-Enterographa lecanoroides R. C. Harris = Opegrapha anguinella 
-Enterostigma montagnaei (Tuck) Fink (Fink 1935) = Cryptothecia striata (Thor 1991)
-Entosthelia saxicola B. de Lesd. = unknown Dermatocarpon sp.
+% Enterographa anguinella (Nyl.) Redinger (Sparrius 2004b) = Opegrapha anguinella
+% Enterographa carnea (Eckfeldt) R. C. Harris = Mazosia ocellata
+% Enterographa elegans (Eschw.) Tuck. = Sclerophyton elegans
+% Enterographa lecanoroides R. C. Harris = Opegrapha anguinella 
+% Enterostigma montagnaei (Tuck) Fink (Fink 1935) = Cryptothecia striata (Thor 1991)
+% Entosthelia saxicola B. de Lesd. = unknown Dermatocarpon sp.
 Eopyrenula intermedia Coppins Syn.: Pyrenula leucoplaca var. pluriloculata
 Eopyrenula parvispora R. C. Harris & Aptroot
-Eopyrenula leucoplaca (Wallr.) R. C. Harris = misidentification for North America (fide R. Harris)
+% Eopyrenula leucoplaca (Wallr.) R. C. Harris = misidentification for North America (fide R. Harris)
 Epaphroconidia hawksworthii Calat. & V. Atienza (Diederich 2003)
 Ephebe americana Henssen
 Ephebe hispidula (Ach.) Horw.  Syn.: Ephebeia hispidula
@@ -3441,15 +3441,15 @@ Ephebe lanata (L.) Vainio
 Ephebe ocellata Henssen
 Ephebe perspinulosa Nyl.
 Ephebe solida Bornet
-Ephebe lesquereuxii Bornet (Tuckerman 1882) = E. solida
-Ephebe mamillosum (Lyngb.) E. Fr. (Fink 1935)  Possibly Stigonema mamillosum, a cyanobacterium
-Ephebe pubescens (Ach.) Fr. = Pseudephebe pubescens
-Ephebeia hispidula (Ach.) Nyl. = Ephebe hispidula
+% Ephebe lesquereuxii Bornet (Tuckerman 1882) = E. solida
+% Ephebe mamillosum (Lyngb.) E. Fr. (Fink 1935)  Possibly Stigonema mamillosum, a cyanobacterium
+% Ephebe pubescens (Ach.) Fr. = Pseudephebe pubescens
+% Ephebeia hispidula (Ach.) Nyl. = Ephebe hispidula
 Epicladonia sandstedei (Zopf) D. Hawksw. (Scholz 1998)
 Epicladonia simplex D. Hawksw.  (Esslinger & Egan 1995)
 Epicladonia stenospora (Harm) D. Hawksw. (Zhurbenko & Pino-Bodas 2017, Seaward et al. 2017)
 Epicoccum nigrum Link (Diederich et al. 2018)
-Epicoccum purpurascens Schltdl. (Diederich 2003) = E. nigrum
+% Epicoccum purpurascens Schltdl. (Diederich 2003) = E. nigrum
 Epigloea diversispora McCune (McCune 2020a)
 Epigloea intermedia Döbbeler (Lendemer & Harris 2004)
 Epigloea medioincrassata (Grummann) Döbbeler (Fryday 2004a)
@@ -3465,7 +3465,7 @@ Erinacellus dendroides (Henssen) T. Sprib., Muggia & Tønsberg  Syn.: Spilonema 
 Erioderma mollissimum (Samp.) Du Rietz
 Erioderma pedicellatum (Hue) P. M. Jørg.
 Erioderma sorediatum D. J. Galloway & P. M. Jørg.
-Erioderma boreale Ahlner = E. pedicellatum
+% Erioderma boreale Ahlner = E. pedicellatum
 Erythricium aurantiacum (Lasch) D. Hawksw. & A. Henrici  Syn.: Marchandiobasidium aurantiacum (Hawksworth & Helcini 2015)
 Eschatogonia prolifera (Mont.) R. Sant. (Seavey et al. 2014)
 Esslingeriana idahoensis (Essl.) Hale & M. J. Lai Syn.: Cetraria idahoensis
@@ -3477,20 +3477,20 @@ Evernia divaricata (L.) Ach.
 Evernia mesomorpha Nyl.
 Evernia perfragilis Llano
 Evernia prunastri (L.) Ach.
-Evernia ceratea (Ach.) Zopf (Fink 1935) = Pseudevernia furfuracea (L.) Zopf, but a misidentification for North America
-Evernia esorediosa (Müll. Arg.) Du Rietz = misidentification for North America (Bird 1974)
-Evernia furfuracea (L.) W. Mann = Pseudevernia consocians and P. intensa for North American records
-Evernia furfuracea var. cladonia Tuck. (Tuckerman 1882) = Pseudevernia cladonia
-Evernia thamnodes (Flotow) Arnold = E. mesomorpha
-Evernia vulpina (L.) Ach. = Letharia vulpina
-Everniastrum catawbiense (Degel.) Hale ex Sipman = Hypotrachyna catawbiensis
-Everniastrum sorocheilum (Vainio) Hale ex Sipman = Hypotrachyna sorocheila, but reports apparently based on H. catawbiense
-Everniicola flexispora D. Hawksw.
+% Evernia ceratea (Ach.) Zopf (Fink 1935) = Pseudevernia furfuracea (L.) Zopf, but a misidentification for North America
+% Evernia esorediosa (Müll. Arg.) Du Rietz = misidentification for North America (Bird 1974)
+% Evernia furfuracea (L.) W. Mann = Pseudevernia consocians and P. intensa for North American records
+% Evernia furfuracea var. cladonia Tuck. (Tuckerman 1882) = Pseudevernia cladonia
+% Evernia thamnodes (Flotow) Arnold = E. mesomorpha
+% Evernia vulpina (L.) Ach. = Letharia vulpina
+% Everniastrum catawbiense (Degel.) Hale ex Sipman = Hypotrachyna catawbiensis
+% Everniastrum sorocheilum (Vainio) Hale ex Sipman = Hypotrachyna sorocheila, but reports apparently based on H. catawbiense
+% Everniicola flexispora D. Hawksw.
 Farnoldia hypocrita (A. Massal.) Fröberg Syns.: Lecidea hypocrita, L. lithospersa, L. ypocrita
 Farnoldia jurana (Schaerer) Hertel Syns.: Lecidea jurana, L. albosuffusa, Tremolecia jurana, Melanolecia jurana
 Farnoldia micropsis (A. Massal.) Hertel Syns.: Lecidea rhaetica, Melanolecia micropsis, Tremolecia nivalis, T. micropsis
-Fayodia leucophylla (Gillet) M. T. Lange = Gamundia leucophylla (Bigelow 1983)
-Fayodia striatula (Kühner) Singer = Gamundia striatula (Raitelhuber 1983)
+% Fayodia leucophylla (Gillet) M. T. Lange = Gamundia leucophylla (Bigelow 1983)
+% Fayodia striatula (Kühner) Singer = Gamundia striatula (Raitelhuber 1983)
 Felipes leucopellaeus (Ach.) Frisch & G. Thor Syn.: Arthonia leucopellaea
 Fellhanera aurantiaca (Vězda) Vězda Syn.: Bacidia aurantiaca
 Fellhanera bouteillei (Desm.) Vězda Syn.: Catillaria bouteillei
@@ -3510,7 +3510,7 @@ Fellhaneropsis vezdae (Coppins & P. James) Sérus. & Coppins (Tønsberg 1997)
 Feltgeniomyces mongolicus Zhurb. (Zhurbenko 2020)
 Fibrillithecis confusa Lücking, Kalb & Rivas Plata (Rivas Plata et al. 2010)
 Fibrillithecis halei (Tuck. & Mont.) Mangold  Syns.: Myriotrema halei, Thelotrema halei (Lücking et al. 2016)
-Fibrillithecis insignis (Zahlbr.) A. Frisch (Frisch 2006) = F. confusa (Rivas Plata et al. 2010)
+% Fibrillithecis insignis (Zahlbr.) A. Frisch (Frisch 2006) = F. confusa (Rivas Plata et al. 2010)
 Fissurina aggregatula Common & Lücking  (Lücking et al. 2011b)
 Fissurina albolabiata F. Seavey & J. Seavey (Seavey et al. 2017)
 Fissurina alligatorensis Lendemer & R. C. Harris (Lendemer & Harris 2014a)
@@ -3545,14 +3545,14 @@ Fissurina subnitidula (Nyl.) Staiger Syns.: Graphina subnitidiula, Graphis subni
 Fissurina tachygrapha (Nyl.) Staiger  (Lücking et al. 2011b)
 Fissurina tuckermaniana Common & Lücking  (Lücking et al. 2011b)
 Fissurina varieseptata Common & Lücking  (Lücking et al. 2011b)
-Fissurina subcontexta (Nyl.) Nyl. = F. rufula  (Lücking et al. 2011b)
-Fistulariella almquistii (Vainio) Bowler & Rundel = Ramalina almquistii
-Fistulariella dilacerata (Hoffm.) Bowler & Rundel = Ramalina dilacerata
-Fistulariella geniculata (Hooker f. & Taylor) Bowler & Rundel = Ramalina geniculata
-Fistulariella inflata (Hooker f. & Taylor) Bowler & Rundel = Ramalina inflata
-Fistulariella minuscula (Nyl.) Bowler & Rundel = Ramalina dilacerata
-Fistulariella roesleri (Hochst. ex Schaerer) Bowler & Rundel = Ramalina roesleri
-Fistulariella scoparia (Vainio) Bowler & Rundel = Ramalina scoparia
+% Fissurina subcontexta (Nyl.) Nyl. = F. rufula  (Lücking et al. 2011b)
+% Fistulariella almquistii (Vainio) Bowler & Rundel = Ramalina almquistii
+% Fistulariella dilacerata (Hoffm.) Bowler & Rundel = Ramalina dilacerata
+% Fistulariella geniculata (Hooker f. & Taylor) Bowler & Rundel = Ramalina geniculata
+% Fistulariella inflata (Hooker f. & Taylor) Bowler & Rundel = Ramalina inflata
+% Fistulariella minuscula (Nyl.) Bowler & Rundel = Ramalina dilacerata
+% Fistulariella roesleri (Hochst. ex Schaerer) Bowler & Rundel = Ramalina roesleri
+% Fistulariella scoparia (Vainio) Bowler & Rundel = Ramalina scoparia
 Flakea papillata O. E. Erikss. (Hansen 2003; Perlmutter 2006)
 Flavocetraria cucullata (Bellardi) Kärnefelt & A. Thell Syns.: Cetraria cucullata, Allocetraria cucullata
 Flavocetraria minuscula (Elenkin & Savicz) Ahti, Poryadina & Zhurb. (Zhurbenko et al. 2005)
@@ -3571,18 +3571,18 @@ Flavopunctelia darrowi (J. W. Thomson) Hale Syns.: Parmelia darrowi, Punctelia d
 Flavopunctelia flaventior (Stirton) Hale Syns.: Parmelia flaventior, P. andreana, P. kernstockii, Punctelia flaventior
 Flavopunctelia praesignis (Nyl.) Hale Syns.: Parmelia praesignis, P. incorrupta, P. caperata var. incorrupta, Punctelia praesignis
 Flavopunctelia soredica (Nyl.) Hale Syns.: Parmelia soredica, P. ulophyllodes, P. manshurica, Punctelia soredica
-Forssellia minnesotensis (Fink) Fink = Lichinella minnesotensis
-Forssellia neglecta Erichsen = Pterygiopsis neglecta
+% Forssellia minnesotensis (Fink) Fink = Lichinella minnesotensis
+% Forssellia neglecta Erichsen = Pterygiopsis neglecta
 Fouragea filicina (Mont.) Trevisan  Syn.: Opegrapha filicina (Frisch et al. 2014)
 Frutidella caesioatra (Schaerer) Kalb (Kalb 1994) Syn.: Lecidea caesioatra, L. arctica
 Frutidella furfuracea (Anzi) M. Westb. & M. Svensson (Svensson et al. 2017) Syns.:  Biatora pullata, Lecidea pullata
-Frutidella pullata (Norman) Schmull (Schmull et al. 2011) = F. furfuracea (Svensson et al. 2017)
-Fulgensia bracteata (Hoffm.) Räsänen subsp. bracteata = Gyalolechia bracteata subsp. bracteata
-Fulgensia bracteata subsp. bracteata var. alpina (Th. Fr.) Poelt = Gyalolechia bracteata subsp. bracteata var. alpina
-Fulgensia bracteata subsp. deformis Poelt  (Esslinger & Egan 1995) = Gyalolechia bracteata subsp. deformis
-Fulgensia desertorum (Tomin) Poelt = Gyalolechia desertorum
-Fulgensia fulgens (Sw.) Elenkin = Gyalolechia fulgens
-Fulgensia subbracteata (Nyl.) Poelt (Brodo et al. 2001, Kasalicky 2004) = Gyalolechia subbracteata
+% Frutidella pullata (Norman) Schmull (Schmull et al. 2011) = F. furfuracea (Svensson et al. 2017)
+% Fulgensia bracteata (Hoffm.) Räsänen subsp. bracteata = Gyalolechia bracteata subsp. bracteata
+% Fulgensia bracteata subsp. bracteata var. alpina (Th. Fr.) Poelt = Gyalolechia bracteata subsp. bracteata var. alpina
+% Fulgensia bracteata subsp. deformis Poelt  (Esslinger & Egan 1995) = Gyalolechia bracteata subsp. deformis
+% Fulgensia desertorum (Tomin) Poelt = Gyalolechia desertorum
+% Fulgensia fulgens (Sw.) Elenkin = Gyalolechia fulgens
+% Fulgensia subbracteata (Nyl.) Poelt (Brodo et al. 2001, Kasalicky 2004) = Gyalolechia subbracteata
 Fulgidea oligospora (Timdal) Bendiksby & Timdal  Syn.: Hypocenomyce oligospora
 Fulgidea sierrae (Timdal) Bendiksby & Timdal  Syn.: Hypocenomyce sierrae
 Fulvophyton calcicola (Sparrius) Tehler & Ertz  Syn.: Dirina calcicola (Tehler et al. 2013)
@@ -3602,12 +3602,12 @@ Fuscidea recensa var arcuatula (Arnold) Fryday  Syns. Lecidea arcuatula, L. gyro
 Fuscidea scrupulosa (Eckfeldt) Fryday (Fryday 2008)  Syns.: Biatora scrupulosa, Lecidea scrupulosa, L. kochiana var. subreagens
 Fuscidea texana Fryday  (Fryday 2008)
 Fuscidea thomsonii Brodo & V. Wirth (Brodo & Wirth 1998)
-Fuscidea cyathoides (Ach.) V. Wirth & Vězda  = misidentification for North America (Fryday 2008)
-Fuscidea kochiana (Hepp) V. Wirth & Vězda   = misidentification for North America (Fryday 2008)
-Fuscidea lightfootii (Sm.) Coppins & P. James (Aptroot 1996) = misidentification for North America (Tønsberg 2002, Fryday 2008)
-Fuscidea placidensis (H. Magn.) R. C. Harris = Lecanora placidensis
-Fuscidea subfilamentosa (Zahlbr.) Brako = Lecidea subfilamentosa (Fryday 2008)
-Fuscidea subreagens (H. Magn.) Oberholl. & V. Wirth = Fuscidea scrupulosa (Fryday 2008)
+% Fuscidea cyathoides (Ach.) V. Wirth & Vězda  = misidentification for North America (Fryday 2008)
+% Fuscidea kochiana (Hepp) V. Wirth & Vězda   = misidentification for North America (Fryday 2008)
+% Fuscidea lightfootii (Sm.) Coppins & P. James (Aptroot 1996) = misidentification for North America (Tønsberg 2002, Fryday 2008)
+% Fuscidea placidensis (H. Magn.) R. C. Harris = Lecanora placidensis
+% Fuscidea subfilamentosa (Zahlbr.) Brako = Lecidea subfilamentosa (Fryday 2008)
+% Fuscidea subreagens (H. Magn.) Oberholl. & V. Wirth = Fuscidea scrupulosa (Fryday 2008)
 Fuscopannaria ahlneri (P. M. Jørg.) P. M. Jørg. Syn.: Pannaria ahlneri
 Fuscopannaria alaskana P. M. Jørg. & Tønsberg (Jørgensen 2000c)
 Fuscopannaria aurita P. M. Jørg. (Jørgensen 2000c)
@@ -3632,13 +3632,13 @@ Fuscopannaria ramulina P. M. Jørg. & Tønsberg (Jørgensen 2000c)
 Fuscopannaria sorediata P. M. Jørg. (Jørgensen 2000b)
 Fuscopannaria thiersii P. M. Jørg. (Jørgensen 2000c)
 Fuscopannaria viridescens P. M. Jørg. & Zhurb. (Jørgensen & Zhurbenko 2002)
-Fuscopannaria californica (Tuck.) P. M. Jørg. (Jørgensen 2000c) = Vahliella californica
-Fuscopannaria globigera Fryday & P. M. Jørg. (Fryday 2004a) = Vahliella globigera
-Fuscopannaria hookerioides P. M. Jørg. (Jørgensen 2000c) = Vahliella hookerioides
-Fuscopannaria labrata P. M. Jørg.  (Jørgensen 2005) = Vahliella labrata
-Fuscopannaria laceratula (Hue) P. M. Jørg. = Steineropsis laceratula (Spribille et al. 2020)
-Fuscopannaria leucophaea (Vahl) P. M. Jørg. = Vahliella leucophaea
-Fuscopannaria saubinetii (Mont.) P. M. Jørg. = Vahliella saubinetii
+% Fuscopannaria californica (Tuck.) P. M. Jørg. (Jørgensen 2000c) = Vahliella californica
+% Fuscopannaria globigera Fryday & P. M. Jørg. (Fryday 2004a) = Vahliella globigera
+% Fuscopannaria hookerioides P. M. Jørg. (Jørgensen 2000c) = Vahliella hookerioides
+% Fuscopannaria labrata P. M. Jørg.  (Jørgensen 2005) = Vahliella labrata
+% Fuscopannaria laceratula (Hue) P. M. Jørg. = Steineropsis laceratula (Spribille et al. 2020)
+% Fuscopannaria leucophaea (Vahl) P. M. Jørg. = Vahliella leucophaea
+% Fuscopannaria saubinetii (Mont.) P. M. Jørg. = Vahliella saubinetii
 Gabura fascicularis (L.) P. M. Jørg.  (Jørgensen 2014)  Syns.: Collema fasciculare, Synechoblastus aggregatus, S. fascicularis
 Gabura insignis (P. M. Jørg. & Tønsberg) Magain & Serusiaux (Magain et al. 2020)  Syn.: Leptogium insigne
 Gamundia leucophylla (Gillet) H. E. Bigelow  Syn.: Fayodia leucophylla (Bigelow 1983)
@@ -3646,14 +3646,14 @@ Gamundia striatula (Kühner) Raitelh.  Syn.: Fayodia striatula (Raitelhuber 1983
 Gassicurtia catasema (Tuck.) Marbach Syn.: Buellia catasema, B. caloosensis (Marbach 2000)
 Gassicurtia coccinea Fée  Syn.:  Buellia coccinea (Marbach 2000)
 Gassicurtia subpulcella (Vainio) Marbach Syns.: Buellia subpulcella, B. pachnidisca (Marbach 2000)
-Gassicurtia elizae (Tuck.) Marbach (Marbach 2000) = Buellia elizae (Lendemer et al. 2013)
-Gassicurtia vernicoma (Tuck.) Marbach = Buellia vernicoma (Lendemer et al. 2013)
+% Gassicurtia elizae (Tuck.) Marbach (Marbach 2000) = Buellia elizae (Lendemer et al. 2013)
+% Gassicurtia vernicoma (Tuck.) Marbach = Buellia vernicoma (Lendemer et al. 2013)
 Geisleria sychnogonioides Nitschke  Syn.: Strigula sychnogonioides
 Gelatinopsis geoglossi (Ellis & Everh.) Rambold & Triebel (Diederich et al. 2010)
-Gelatinopsis acarosporicola Kocourk. & K. Knudsen (Kocourková & Knudsen 2009a) = Llimoniella acarosporicola
+% Gelatinopsis acarosporicola Kocourk. & K. Knudsen (Kocourková & Knudsen 2009a) = Llimoniella acarosporicola
 Geltingia associata (Th. Fr.) Alstrup & D. Hawksw. Syn.: Lecidea associata
-Glaucomaria rupicola (L.) M. Choisy = Lecanora rupicola
-Glaucomaria sordida (Pers.) Th. Fr. = Lecanora rupicola
+% Glaucomaria rupicola (L.) M. Choisy = Lecanora rupicola
+% Glaucomaria sordida (Pers.) Th. Fr. = Lecanora rupicola
 Glaucotrema glaucophaenum (Kremp.) Rivas Plata & Lumbsch  Syns.: Myriotrema glaucophaenum, Ocellularia glaucophaena  Presence in N.A. is doubtful
 Globosphaeria jamesii D. Hawksw. (Diederich 2003)
 Gloeoheppia polyspora Henssen (Schultz 2002c)
@@ -3663,57 +3663,57 @@ Glyphis atrofusca (Müll. Arg.) Lücking  (Lücking et al. 2011b)  Syn.: Graphis
 Glyphis cicatricosa Ach.
 Glyphis scyphulifera (Ach.) Staiger  Syn.: Gyrostomum scyphuliferum (Staiger 2002, Lücking et al. 2011b)
 Glyphis substriatula (Nyl.) Staiger  Syn.:  Graphina substriatula (Staiger 2002, Tripp et al. 2010)
-Glyphis achariana Tuck. = G. cicatricosa
-Glyphis confluens Zenker = G. cicatricosa
-Glyphis favulosa Ach. = G. cicatricosa
+% Glyphis achariana Tuck. = G. cicatricosa
+% Glyphis confluens Zenker = G. cicatricosa
+% Glyphis favulosa Ach. = G. cicatricosa
 Glypholecia scabra (Pers.) Müll. Arg. Syns.: Acarospora rhagadiosa, A. scabra, A. saxicola
 Gomphillus americanus Essl.
 Gomphillus calycioides (Duby) Nyl. (Buck 1998)
-Gongylia muscorum Zschacke (North American only) = Protothelenella pluriseptata (Fryday 2004b)
-Gongylia nadvornikii Servít = Segestria mammillosa, but a misidentification for North America (Fryday 2004b)
-Gonohymenia cribellifera (Nyl.) Henssen = Lichinella cribellifera
-Gonohymenia melamphylla (Tuck.) Henssen = Lichinella melamphylla
-Gonohymenia minnesotensis (Fink) Henssen = Lichinella minnesotensis
-Gonohymenia nigritella (Lettau) Henssen = Lichinella nigritella
+% Gongylia muscorum Zschacke (North American only) = Protothelenella pluriseptata (Fryday 2004b)
+% Gongylia nadvornikii Servít = Segestria mammillosa, but a misidentification for North America (Fryday 2004b)
+% Gonohymenia cribellifera (Nyl.) Henssen = Lichinella cribellifera
+% Gonohymenia melamphylla (Tuck.) Henssen = Lichinella melamphylla
+% Gonohymenia minnesotensis (Fink) Henssen = Lichinella minnesotensis
+% Gonohymenia nigritella (Lettau) Henssen = Lichinella nigritella
 Gowardia arctica P. Halonen, L. Myllys, S. Velmala, & H. Hyvärinen  Syn.:  Alectoria gowardii
 Gowardia nigricans (Ach.) P. Halonen, L. Myllys, S. Velmala, & H. Hyvärinen  Syn.: Alectoria nigricans
 Gowardia zebrina Goward & Myllys (Goward & Myllys 2020)
 Granulopyrenis hymnothora (Ach.) Aptroot Syns.: Verrucaria hymnothora, Microthelia hymnothora, Sphaeria bignoniae
-Graphina abaphoides (Nyl.) Müll. Arg. = Acanthothecis leucopepla 
-Graphina acharii (Fée) Müll. Arg. = Allographa acharii
-Graphina acrophaea Müll. Arg. = Graphis parilis
-Graphina adscribens (Nyl.) Müll. Arg. = Fissurina scolecitis for North American records
-Graphina anguina (Mont.) Müll. Arg. = Thalloloma anguinum
-Graphina antillarum (Vainio) Zahlbr. = Graphis antillarum
-Graphina babingtonii (Mont.) Zahlbr. = Fissurina insculpta
-Graphina colliculosa (Mont.) Hale = Platythecium colliculosum
-Graphina columbina (Tuck.) M. Wirth & Hale = Fissurina columbina
-Graphina cypressi Müll. Arg. = Fissurina cypressi
-Graphina dimidiata (Vainio) Zahlbr. = misidentification for North America
-Graphina dumastioides (Fink) ined. = Fissurina dumastioides
-Graphina floridana (Tuck.) R. C. Harris = Platythecium floridanum
-Graphina glaucoderma (Nyl.) Müll. Arg. = Fissurina incrustans
-Graphina incrustans (Fée) Müll. Arg. = Fissurina incrustans
-Graphina intertexta (Müll. Arg.) R. C. Harris = Acanthothecis aurantiaca
-Graphina leprocarpa (Nyl.) Zahlbr. = Chapsa leprocarpa
-Graphina marcescens (Fée) Müll. Arg. = Carbacanthographis marcescens
-Graphina mendax (Nyl.) Müll. Arg. = misidentification for North America
-Graphina nitidescens (Nyl.) Riddle = Fissurina nitidescens
-Graphina leuconephela (Nyl.) Zahlbr. = Fissurina leuconephela
-Graphina parilis (Kremp.) Müll. Arg. = Graphis parilis
-Graphina peplophora M. Wirth & Hale = Acanthothecis peplophora
-Graphina platycarpa (Eschw.) Zahlbr. = misidentification for North America
-Graphina platyleuca (Nyl.) Zahlbr. (Harris 1995a) = Diorygma pruinosum
-Graphina plittii Zahlbr. = Carbacanthographis marcescens
-Graphina scolecitis (Tuck.) Fink = Fissurina scolecitis
-Graphina sophisticascens (Nyl.) Zahlbr. = Graphis sophisticascens
-Graphina subnitida (Nyl.) Zahlbr. = Fissurina subnitida
-Graphina subnitidula (Nyl.) Zahlbr. = Fissurina subnitidula
-Graphina substriatula (Nyl.) Zahlbr. = Glyphis substriatula
-Graphina subvirginalis (Nyl.) Müll. Arg. = Acanthothecis mosquitensis
-Graphina virginalis (Nyl.) Müll. Arg. = Fissurina columbina
-Graphina virginea (Eschw.) Müll. Arg.= Diorygma poitaei
-Graphina xylophaga R. C. Harris = Graphis xylophaga
+% Graphina abaphoides (Nyl.) Müll. Arg. = Acanthothecis leucopepla 
+% Graphina acharii (Fée) Müll. Arg. = Allographa acharii
+% Graphina acrophaea Müll. Arg. = Graphis parilis
+% Graphina adscribens (Nyl.) Müll. Arg. = Fissurina scolecitis for North American records
+% Graphina anguina (Mont.) Müll. Arg. = Thalloloma anguinum
+% Graphina antillarum (Vainio) Zahlbr. = Graphis antillarum
+% Graphina babingtonii (Mont.) Zahlbr. = Fissurina insculpta
+% Graphina colliculosa (Mont.) Hale = Platythecium colliculosum
+% Graphina columbina (Tuck.) M. Wirth & Hale = Fissurina columbina
+% Graphina cypressi Müll. Arg. = Fissurina cypressi
+% Graphina dimidiata (Vainio) Zahlbr. = misidentification for North America
+% Graphina dumastioides (Fink) ined. = Fissurina dumastioides
+% Graphina floridana (Tuck.) R. C. Harris = Platythecium floridanum
+% Graphina glaucoderma (Nyl.) Müll. Arg. = Fissurina incrustans
+% Graphina incrustans (Fée) Müll. Arg. = Fissurina incrustans
+% Graphina intertexta (Müll. Arg.) R. C. Harris = Acanthothecis aurantiaca
+% Graphina leprocarpa (Nyl.) Zahlbr. = Chapsa leprocarpa
+% Graphina marcescens (Fée) Müll. Arg. = Carbacanthographis marcescens
+% Graphina mendax (Nyl.) Müll. Arg. = misidentification for North America
+% Graphina nitidescens (Nyl.) Riddle = Fissurina nitidescens
+% Graphina leuconephela (Nyl.) Zahlbr. = Fissurina leuconephela
+% Graphina parilis (Kremp.) Müll. Arg. = Graphis parilis
+% Graphina peplophora M. Wirth & Hale = Acanthothecis peplophora
+% Graphina platycarpa (Eschw.) Zahlbr. = misidentification for North America
+% Graphina platyleuca (Nyl.) Zahlbr. (Harris 1995a) = Diorygma pruinosum
+% Graphina plittii Zahlbr. = Carbacanthographis marcescens
+% Graphina scolecitis (Tuck.) Fink = Fissurina scolecitis
+% Graphina sophisticascens (Nyl.) Zahlbr. = Graphis sophisticascens
+% Graphina subnitida (Nyl.) Zahlbr. = Fissurina subnitida
+% Graphina subnitidula (Nyl.) Zahlbr. = Fissurina subnitidula
+% Graphina substriatula (Nyl.) Zahlbr. = Glyphis substriatula
+% Graphina subvirginalis (Nyl.) Müll. Arg. = Acanthothecis mosquitensis
+% Graphina virginalis (Nyl.) Müll. Arg. = Fissurina columbina
+% Graphina virginea (Eschw.) Müll. Arg.= Diorygma poitaei
+% Graphina xylophaga R. C. Harris = Graphis xylophaga
 Graphis analoga Nyl. (Seavey & Seavey 2011)
 Graphis anfractuosa Eschw.
 Graphis antillarum Vainio  Syn.: Graphina antillarum
@@ -3779,64 +3779,64 @@ Graphis striatula (Ach.) Sprengel
 Graphis supracola A. W. Archer (Seavey & Seavey 2011)
 Graphis tenella Ach.
 Graphis xylophaga (R. C. Harris) Lendemer  Syn.: Graphina xylophaga (Lendemer & Knudsen 2008b)
-Graphis acharii Fée = Allographa acharii
-Graphis afzelii Ach. = Dyplolabia afzelii
-Graphis amicta Nyl. (1935) = Carbacanthographis amicta (Nyl.) Staiger & Kalb (Staiger 2002)  Probable misidentification for North America (Esslinger & Tucker 2009)
-Graphis anguilliformis Taylor (Fink 1935)  Identity uncertain; probable misidentification for North America (Esslinger & Tucker 2009)
-Graphis argentata Lücking & Umaña  (Lücking et al. 2011b) = Allographa argentata
-Graphis atrorubens Tuck. ex Fink = Dimidiographa longissima
-Graphis babingtonii Tuck. (Tuckerman 1888) = Fissurina insculpta
-Graphis balbisina Nyl. (Fink 1935) = G. implicata Fée  Probable misidentification for North America (Esslinger & Tucker 2009)
-Graphis beaumontii Tuck. = Fissurina insidiosa
-Graphis candidata Nyl. = Carbacanthographis candidata
-Graphis celtidis Müll. Arg. = G. librata
-Graphis cinerea Fée (Fink 1935)  Probable misidentification for North America (Esslinger & Tucker 2009)
-Graphis columbina Tuck. (Tuckerman 1888) = Fissurina columbina
-Graphis dendritica (Ach.) Ach. (Mohr 1901) = Phaeographis dendritica
-Graphis diversa Nyl. (Fink 1935) =  Leiorreuma exaltata (Zahlbruckner 1924, Staiger 2002)
-Graphis dumastii (Fée) Sprengel (Fink 1935) = Fissurina dumastii Fée  Probable misidentification for North America (Esslinger & Tucker 2009)
-Graphis dumastioides Fink = Fissurina dumastioides
-Graphis elongata Zenker (Seavey et al. 2017) = Allographa elongata
-Graphis ferrugineodisca F. Seavey & J. Seavey (Seavey et al. 2017) = Glyphis atrofusca
-Graphis floridana Tuck. = Platythecium floridanum
-Graphis glaucoderma Nyl. (Tuckerman 1888) = Fissurina incrustans
-Graphis grammatis Fée = Platythecium grammitis
-Graphis illiterata R. C. Harris = Fissurina illiterata
-Graphis incrustans  = Fissurina incrustans
-Graphis insidiosa (C. Knight & Mitten) Hooker f. = Fissurina insidiosa
-Graphis intertexta Müll. Arg. = Acanthothecis aurantiaca
-Graphis inustula Stirton (Stirton 1875) = Thalloloma anguinum
-Graphis lactea (Fée) Sprengel (Fink 1935)  Identity uncertain (Esslinger & Tucker 2009)
-Graphis leuconephela Nyl. (Tuckerman 1888) = Fissurina leuconephela
-Graphis leucopepla Tuck. = Acanthothecis leucopepla
-Graphis longula Kremp.  (Lücking et al. 2011b) = Allographa longula
-Graphis lumbricina Vainio = Allographa lumbricina
-Graphis marcescens  = Carbacanthographis marcescens
-Graphis mosquitensis Tuck. = Acanthothecis mosquitensis
-Graphis nitida (Eschw.) Tuck. = Fissurina nitida
-Graphis nitidescens Nyl. = Fissurina nitidescens
-Graphis pavoniana Fée =  Allographa pavoniana
-Graphis poitaeoides Nyl. =Acanthothecis poitaeoides
-Graphis pseudocinerea Lücking  (Lücking et al. 2011b) = Allographa pseudocinerea
-Graphis radiata (Mont.) Nyl. (Fink 1935)   Identity uncertain (Esslinger & Tucker 2009)
-Graphis rigidula Müll. Arg.  (Lendemer & Yahr 2004) = G. leptoclada (Lücking 2009)
-Graphis ramificans Nyl. (Fink 1935)   Identity uncertain (Esslinger & Tucker 2009)
-Graphis rimulosa (Mont.) Trevisan = Allographa rimulosa
-Graphis rufula Mont. = Fissurina rufula
-Graphis saxorum Egea & Torrente (Egea & Torrente 1997) = Redonographa saxorum (Lücking et al. 2013a)
-Graphis scalpturata Ach. (Mohr 1901) = Phaeographis scalpturata
-Graphis scolecitis Tuck. = Fissurina scolecitis
-Graphis scripta var. varia Ach. (Fink 1935) = G. scripta
-Graphis sterlingiana E. Tripp & Lendemer (Lendemer et al. 2013) = Allographa sterlingiana
-Graphis subamylacea Zahlbr. = Allographa subamylacea
-Graphis subdiversa Nyl. (Fink 1935)  a nomen nudum; identity uncertain
-Graphis subelegans Nyl. = G. endoxantha (Lücking 2009)
-Graphis subflexibilis Lücking & Chaves (Lücking et al. 2011b) = Allographa sublexilis
-Graphis subnitidula Nyl. = Fissurina subnitidula
-Graphis subparilis Nyl. = Fissurina rufula
-Graphis tamiamiensis Lendemer (Lendemer 2010b) = Allographa tamiamiensis
-Graphis turbulenta Nyl. = Anomomorpha turbulenta
-Graphis xanthospora Müll. Arg.  (Lücking et al. 2011b) = Allographa xanthospora
+% Graphis acharii Fée = Allographa acharii
+% Graphis afzelii Ach. = Dyplolabia afzelii
+% Graphis amicta Nyl. (1935) = Carbacanthographis amicta (Nyl.) Staiger & Kalb (Staiger 2002)  Probable misidentification for North America (Esslinger & Tucker 2009)
+% Graphis anguilliformis Taylor (Fink 1935)  Identity uncertain; probable misidentification for North America (Esslinger & Tucker 2009)
+% Graphis argentata Lücking & Umaña  (Lücking et al. 2011b) = Allographa argentata
+% Graphis atrorubens Tuck. ex Fink = Dimidiographa longissima
+% Graphis babingtonii Tuck. (Tuckerman 1888) = Fissurina insculpta
+% Graphis balbisina Nyl. (Fink 1935) = G. implicata Fée  Probable misidentification for North America (Esslinger & Tucker 2009)
+% Graphis beaumontii Tuck. = Fissurina insidiosa
+% Graphis candidata Nyl. = Carbacanthographis candidata
+% Graphis celtidis Müll. Arg. = G. librata
+% Graphis cinerea Fée (Fink 1935)  Probable misidentification for North America (Esslinger & Tucker 2009)
+% Graphis columbina Tuck. (Tuckerman 1888) = Fissurina columbina
+% Graphis dendritica (Ach.) Ach. (Mohr 1901) = Phaeographis dendritica
+% Graphis diversa Nyl. (Fink 1935) =  Leiorreuma exaltata (Zahlbruckner 1924, Staiger 2002)
+% Graphis dumastii (Fée) Sprengel (Fink 1935) = Fissurina dumastii Fée  Probable misidentification for North America (Esslinger & Tucker 2009)
+% Graphis dumastioides Fink = Fissurina dumastioides
+% Graphis elongata Zenker (Seavey et al. 2017) = Allographa elongata
+% Graphis ferrugineodisca F. Seavey & J. Seavey (Seavey et al. 2017) = Glyphis atrofusca
+% Graphis floridana Tuck. = Platythecium floridanum
+% Graphis glaucoderma Nyl. (Tuckerman 1888) = Fissurina incrustans
+% Graphis grammatis Fée = Platythecium grammitis
+% Graphis illiterata R. C. Harris = Fissurina illiterata
+% Graphis incrustans  = Fissurina incrustans
+% Graphis insidiosa (C. Knight & Mitten) Hooker f. = Fissurina insidiosa
+% Graphis intertexta Müll. Arg. = Acanthothecis aurantiaca
+% Graphis inustula Stirton (Stirton 1875) = Thalloloma anguinum
+% Graphis lactea (Fée) Sprengel (Fink 1935)  Identity uncertain (Esslinger & Tucker 2009)
+% Graphis leuconephela Nyl. (Tuckerman 1888) = Fissurina leuconephela
+% Graphis leucopepla Tuck. = Acanthothecis leucopepla
+% Graphis longula Kremp.  (Lücking et al. 2011b) = Allographa longula
+% Graphis lumbricina Vainio = Allographa lumbricina
+% Graphis marcescens  = Carbacanthographis marcescens
+% Graphis mosquitensis Tuck. = Acanthothecis mosquitensis
+% Graphis nitida (Eschw.) Tuck. = Fissurina nitida
+% Graphis nitidescens Nyl. = Fissurina nitidescens
+% Graphis pavoniana Fée =  Allographa pavoniana
+% Graphis poitaeoides Nyl. =Acanthothecis poitaeoides
+% Graphis pseudocinerea Lücking  (Lücking et al. 2011b) = Allographa pseudocinerea
+% Graphis radiata (Mont.) Nyl. (Fink 1935)   Identity uncertain (Esslinger & Tucker 2009)
+% Graphis rigidula Müll. Arg.  (Lendemer & Yahr 2004) = G. leptoclada (Lücking 2009)
+% Graphis ramificans Nyl. (Fink 1935)   Identity uncertain (Esslinger & Tucker 2009)
+% Graphis rimulosa (Mont.) Trevisan = Allographa rimulosa
+% Graphis rufula Mont. = Fissurina rufula
+% Graphis saxorum Egea & Torrente (Egea & Torrente 1997) = Redonographa saxorum (Lücking et al. 2013a)
+% Graphis scalpturata Ach. (Mohr 1901) = Phaeographis scalpturata
+% Graphis scolecitis Tuck. = Fissurina scolecitis
+% Graphis scripta var. varia Ach. (Fink 1935) = G. scripta
+% Graphis sterlingiana E. Tripp & Lendemer (Lendemer et al. 2013) = Allographa sterlingiana
+% Graphis subamylacea Zahlbr. = Allographa subamylacea
+% Graphis subdiversa Nyl. (Fink 1935)  a nomen nudum; identity uncertain
+% Graphis subelegans Nyl. = G. endoxantha (Lücking 2009)
+% Graphis subflexibilis Lücking & Chaves (Lücking et al. 2011b) = Allographa sublexilis
+% Graphis subnitidula Nyl. = Fissurina subnitidula
+% Graphis subparilis Nyl. = Fissurina rufula
+% Graphis tamiamiensis Lendemer (Lendemer 2010b) = Allographa tamiamiensis
+% Graphis turbulenta Nyl. = Anomomorpha turbulenta
+% Graphis xanthospora Müll. Arg.  (Lücking et al. 2011b) = Allographa xanthospora
 Graphium aphthosae Alstrup & D. Hawksw. (Esslinger & Egan 1995)
 Gregorella humida (Kullh.) Lumbsch (McCune & Stone 2020)
 Gyalecta erythrozona Lettau
@@ -3857,16 +3857,16 @@ Gyalecta obesispora R. C. Harris & Lendemer (Lendemer et al. 2013a)
 Gyalecta peziza (Mont.) Anzi
 Gyalecta russula (Körber ex Nyl.) Baloch, Lumbsch & Wedin  Syns.: Belonia fennica, B. russula (Baloch et al. 2013a)
 Gyalecta truncigena (Ach.) Hepp
-Gyalecta cupularis (Hedwig) Schaerer  = G. jenensis
-Gyalecta farlowii Tuck. ex Nyl. = Petractis farlowii
-Gyalecta geoica (Wahlenb. Ex Ach.) Ach. var. trivialis Willey ex Tuck. (Tuckerman 1882) = Absconditella trivialis
-Gyalecta lamprospora Nyl. = Bactrospora metabola (Joseph et al. 2021)
-Gyalecta lutea (Dickson) Tuck. = Coenogonium luteum
-Gyalecta odora Ach. (Fink 1935) = Ionaspis odora
-Gyalecta pineti (Ach.) Tuck. (Tuckerman 1882) = Coenogonium pineti
-Gyalecta radiatilis Tuck. = Skyttea radiatilis
-Gyalecta rhexoblephara (Nyl.) Tuck. (Tuckerman 1882) = Rhexophiale rhexoblephara
-Gyalecta valenzueliana (Mont.) Tuck. (Tuckerman 1882) = Ramonia valenzueliana
+% Gyalecta cupularis (Hedwig) Schaerer  = G. jenensis
+% Gyalecta farlowii Tuck. ex Nyl. = Petractis farlowii
+% Gyalecta geoica (Wahlenb. Ex Ach.) Ach. var. trivialis Willey ex Tuck. (Tuckerman 1882) = Absconditella trivialis
+% Gyalecta lamprospora Nyl. = Bactrospora metabola (Joseph et al. 2021)
+% Gyalecta lutea (Dickson) Tuck. = Coenogonium luteum
+% Gyalecta odora Ach. (Fink 1935) = Ionaspis odora
+% Gyalecta pineti (Ach.) Tuck. (Tuckerman 1882) = Coenogonium pineti
+% Gyalecta radiatilis Tuck. = Skyttea radiatilis
+% Gyalecta rhexoblephara (Nyl.) Tuck. (Tuckerman 1882) = Rhexophiale rhexoblephara
+% Gyalecta valenzueliana (Mont.) Tuck. (Tuckerman 1882) = Ramonia valenzueliana
 Gyalectaria diluta (Björk, G. Thor & T. B. Wheeler) Schmitt, T. Sprib. & Lumbsch (Schmitt et al. 2010)
 Gyalectidium appendiculatum Lücking, Lendemer & E. Tripp (Lücking et al. 2007, Lendemer & Tripp 2008)
 Gyalectidium catenulatum (Cavalc. & A. A. Silva) L. I. Ferraro, Lücking & Sérus.  (Lücking et al. 2007)
@@ -3878,7 +3878,7 @@ Gyalectidium tuckerae Lücking & Lendemer (Lücking et al. 2007)
 Gyalectidium ulloae Herrera-Campos & Lücking  (Lücking et al. 2011b)
 Gyalectidium viride Lücking, W. R. Buck & Rivas Plata (Lücking et al. 2007)
 Gyalectidium yahriae W. R. Buck & Sérus. (Buck & Sérusiaux 2000)
-Gyalectidium rotuliforme Müll. Arg. = Asterothyrium rotuliforme
+% Gyalectidium rotuliforme Müll. Arg. = Asterothyrium rotuliforme
 Gyalectina carneolutea (Turner) Vězda = Gyalecta carneolutea
 Gyalidea asteriscus (Anzi) Aptroot & Lücking (Aptroot & Lücking 2003) Syn.: Solorinella asteriscus
 Gyalidea fritzei (Stein) Vězda (Hutten et al. 2013)
@@ -3888,8 +3888,8 @@ Gyalidea lecideopsis var. eucarpa (Servít) Vězda
 Gyalidea lecideopsis var. kurdistanica (J. Steiner) Vězda
 Gyalidea roseola (Arnold) Lettau (Brodo 1995)
 Gyalidea subscutellaris (Vězda) Vězda (Spribille et al. 2020)
-Gyalidea dodgei Vězda = G. hyalinescens
-Gyalidea lecideopsis var. convarians (Nyl.) Vězda = G. lecideopsis var. eucarpa
+% Gyalidea dodgei Vězda = G. hyalinescens
+% Gyalidea lecideopsis var. convarians (Nyl.) Vězda = G. lecideopsis var. eucarpa
 Gyalideopsis africana Kalb & Vězda (Lücking et al. 2007)
 Gyalideopsis americana Lücking & W. R. Buck (Lücking et al. 2007)
 Gyalideopsis bartramiorum Lendemer (Lendemer 2017b)
@@ -3912,10 +3912,10 @@ Gyalideopsis submonospora Lücking & W. R. Buck (Lücking et al. 2007)
 Gyalideopsis vainioi Kalb & Vězda var. semicirculata Lücking & W. R. Buck (Lücking et al. 2007)
 Gyalideopsis vainioi Kalb & Vězda var. vainioi
 Gyalideopsis wesselsii Lücking, Sipman & Chaves (Lücking et al. 2007)
-Gyalideopsis alnicola W. Noble & Vězda = G. piceicola
-Gyalideopsis anastomosans P. James & Vězda = Jamesiella anastomosans
-Gyalideopsis athalloides (Nyl.) Vězda = Diploschistella athalloides
-Gyalideopsis muscicola P. James & Vězda (Tønsberg 1997) = misidentification of G. moodyae (Lücking et al. 2007)
+% Gyalideopsis alnicola W. Noble & Vězda = G. piceicola
+% Gyalideopsis anastomosans P. James & Vězda = Jamesiella anastomosans
+% Gyalideopsis athalloides (Nyl.) Vězda = Diploschistella athalloides
+% Gyalideopsis muscicola P. James & Vězda (Tønsberg 1997) = misidentification of G. moodyae (Lücking et al. 2007)
 Gyalolechia allochroa (Y. Joshi, Vondrák & Hur) Søchting, Frödén & Arup (Spribille et al. 2020)
 Gyalolechia bracteata (Hoffm.) A. Massal. subsp. bracteata  Syn.: Caloplaca bracteata, Fulgensia bracteata
 Gyalolechia bracteata subsp. bracteata var. alpina (Th. Fr.) ined.  Syn.: Fulgensia bracteata subsp. bracteata var. alpina
@@ -3930,33 +3930,33 @@ Gyalolechia stantonii (W. A. Weber ex Arup) Søchting, Frödén & Arup  Syn.: Ca
 Gyalolechia stipitata (Wetmore) Søchting, Frödén & Arup  Syn.: Caloplaca stipitata
 Gyalolechia subbracteata (Nyl.) Søchting, Frödén & Arup  Syn.: Fulgensia subbracteata
 Gyalolechia xanthostigmoidea (Räsänen) Søchting, Frödén & Arup  Syns.: C. discolor, C. xanthostigmoidea, Placodium ferrugineum var. discolor
-Gyalolechia arizonica (H. Magn.) Søchting, Frödén & Arup = G. epiphyta (Vondrák et al. 2016)
-Gymnoderma lineare (A. Evans) Yoshim. & Sharp = Cetradonia linearis
+% Gyalolechia arizonica (H. Magn.) Søchting, Frödén & Arup = G. epiphyta (Vondrák et al. 2016)
+% Gymnoderma lineare (A. Evans) Yoshim. & Sharp = Cetradonia linearis
 Gypsoplaca macrophylla (Zahlbr.) Timdal
 Gypsoplaca rosulata H. X. Shi, Li S.Wang and Timdal (Shi et al. 2018)
 Gyrographa gyrocarpa (Flotow) Ertz & Tehler  Syn.: Opegrapha gyrocarpa (Ertz et al. 2015b)
-Gyrophora angulata (Tuck.) Herre = Umbilicaria angulata
-Gyrophora anthracina (Wulfen) Körber = Umbilicaria rigida
-Gyrophora arctica Ach. = Umbilicaria arctica
-Gyrophora cylindrica (L.) Ach. = Umbilicaria cylindrica
-Gyrophora decussata (Vill.) Zahlbr. = Umbilicaria decussata
-Gyrophora deusta (L.) Ach. = Umbilicaria deusta
-Gyrophora dillenii (Tuck.) Müll. Arg. = Umbilicaria mammulata
-Gyrophora erosa (G. Weber) Ach. = Umbilicaria torrefacta
-Gyrophora flocculosa (Wulfen) Turner & Borrer =  Umbilicaria deusta
-Gyrophora grisea Swartz (Fink 1935) = Umbilicaria grisea Hoffm.  = misidentification for North America (Esslinger & Tucker 2009)
-Gyrophora hyperborea Ach. = Umbilicaria hyperborea var. hyperborea
-Gyrophora muhlenbergii Ach. = Umbilicaria muhlenbergii
-Gyrophora phaea (Tuck.) Nyl. = Umbilicaria phaea
-Gyrophora polyphylla (L.) Funck = Umbilicaria polyphylla
-Gyrophora polyrrhiza (L.) Körber = Umbilicaria polyrrhiza
-Gyrophora proboscidea (L.) Ach. (Fink 1935) = Umbilicaria proboscidea
-Gyrophora rugifera (Nyl.) Th. Fr. (Fink 1935) = Umbilicaria virginis (Llano 1950)
-Gyrophora torrefacta (Lightf.) Cromb. (Fink 1935) = Umbilicaria torrefacta
-Gyrophora vellea (L.) Ach. = Umbilicaria vellea
+% Gyrophora angulata (Tuck.) Herre = Umbilicaria angulata
+% Gyrophora anthracina (Wulfen) Körber = Umbilicaria rigida
+% Gyrophora arctica Ach. = Umbilicaria arctica
+% Gyrophora cylindrica (L.) Ach. = Umbilicaria cylindrica
+% Gyrophora decussata (Vill.) Zahlbr. = Umbilicaria decussata
+% Gyrophora deusta (L.) Ach. = Umbilicaria deusta
+% Gyrophora dillenii (Tuck.) Müll. Arg. = Umbilicaria mammulata
+% Gyrophora erosa (G. Weber) Ach. = Umbilicaria torrefacta
+% Gyrophora flocculosa (Wulfen) Turner & Borrer =  Umbilicaria deusta
+% Gyrophora grisea Swartz (Fink 1935) = Umbilicaria grisea Hoffm.  = misidentification for North America (Esslinger & Tucker 2009)
+% Gyrophora hyperborea Ach. = Umbilicaria hyperborea var. hyperborea
+% Gyrophora muhlenbergii Ach. = Umbilicaria muhlenbergii
+% Gyrophora phaea (Tuck.) Nyl. = Umbilicaria phaea
+% Gyrophora polyphylla (L.) Funck = Umbilicaria polyphylla
+% Gyrophora polyrrhiza (L.) Körber = Umbilicaria polyrrhiza
+% Gyrophora proboscidea (L.) Ach. (Fink 1935) = Umbilicaria proboscidea
+% Gyrophora rugifera (Nyl.) Th. Fr. (Fink 1935) = Umbilicaria virginis (Llano 1950)
+% Gyrophora torrefacta (Lightf.) Cromb. (Fink 1935) = Umbilicaria torrefacta
+% Gyrophora vellea (L.) Ach. = Umbilicaria vellea
 Gyrophthorus perforans Hafellner & Sancho (McCune 2020b)
-Gyrostomum curtisii Tuck. (Fink 1935) = Baculifera curtisii
-Gyrostomum scyphuliferum (Ach.) Nyl. = Glyphis scyphuliferum
+% Gyrostomum curtisii Tuck. (Fink 1935) = Baculifera curtisii
+% Gyrostomum scyphuliferum (Ach.) Nyl. = Glyphis scyphuliferum
 Haematomma accolens (Stirton) Hillm. (Staiger & Kalb 1995)
 Haematomma americanum Kalb & Staiger (Staiger & Kalb 1995)
 Haematomma fenzlianum A. Massal. (Staiger & Kalb 1995)
@@ -3967,31 +3967,31 @@ Haematomma ochroleucum (Necker) J. R. Laundon var. ochroleucum
 Haematomma ochroleucum (Necker) J. R. Laundon var. porphyrium (Pers.) J. R. Laundon  Syn.: H. porphyrium
 Haematomma persoonii (Fée) A. Massal. (Staiger & Kalb 1995)
 Haematomma rufidulum (Fée) A. Massal. (Staiger & Kalb 1995)
-Haematomma caesium Coppins & P. James = Mycoblastus caesius
-Haematomma californicum Sigal & D. Toren = Ophioparma rubricosa (Ekman1996)
-Haematomma cismonicum Beltr. = Loxospora cismonica
-Haematomma coccineum (Dickson) Körber = misidentification for North America
-Haematomma elatinum (Ach.) A. Massal. = Loxospora elatina
-Haematomma lapponicum Räsänen = Ophioparma lapponica
-Haematomma ochrophaeum (Tuck.) A. Massal. = Loxospora ochrophaea
-Haematomma pacificum Hasse = Ophioparma rubricosa (Staiger & Kalb 1995, Ekman 1996)
-Haematomma porphyrium (Pers.) Zopf = H. ochroleucum var. porphyrium
-Haematomma puniceum (Sw.) A. Massal.  North Amrican records are H. persoonii
-Haematomma pustulatum Brodo & W. L. Culb. = Lepra pustulata
-Haematomma rappii Zahlbr. = Schismatomma rappii
-Haematomma subpuniceum (Fée) B. de Lesd. = H. fenzlianum
-Haematomma ventosum (L.) A. Massal. = Ophioparma ventosa
-Hafellia arnoldii (Servít) Hafellner & Türk = Buellia arnoldii
-Hafellia bahiana (Malme) Sheard = Buellia bahiana
-Hafellia bahiana var. pleiotera (Malme) Sheard = Buellia pleiotera (Perlmutter & Rivas Plata 2018)
-Hafellia bahiana var. pleiotropa (Malme) Sheard = Buellia pleiotera (Perlmutter & Rivas Plata 2018)
-Hafellia callispora (C. Knight) H. Mayrhofer & Sheard = Buellia callispora
-Hafellia curatellae (Malme) Marbach  (Marbach 2000) = Buellia curatellae
-Hafellia disciformis (Fr.) Marbach & H. Mayrhofer = Buellia disciformis
-Hafellia fosteri Imshaug & Sheard = a species of Buellia
-Hafellia parastata (Nyl.) Kalb = Buellia parastata
-Hafellia pleiotera (Malme) Marbach (Hansen et al. 2008) = Buellia pleiotera
-Hafellnera parasemella (Nyl.) Houmeau & Cl. Roux = Schaereria parasemella
+% Haematomma caesium Coppins & P. James = Mycoblastus caesius
+% Haematomma californicum Sigal & D. Toren = Ophioparma rubricosa (Ekman1996)
+% Haematomma cismonicum Beltr. = Loxospora cismonica
+% Haematomma coccineum (Dickson) Körber = misidentification for North America
+% Haematomma elatinum (Ach.) A. Massal. = Loxospora elatina
+% Haematomma lapponicum Räsänen = Ophioparma lapponica
+% Haematomma ochrophaeum (Tuck.) A. Massal. = Loxospora ochrophaea
+% Haematomma pacificum Hasse = Ophioparma rubricosa (Staiger & Kalb 1995, Ekman 1996)
+% Haematomma porphyrium (Pers.) Zopf = H. ochroleucum var. porphyrium
+% Haematomma puniceum (Sw.) A. Massal.  North Amrican records are H. persoonii
+% Haematomma pustulatum Brodo & W. L. Culb. = Lepra pustulata
+% Haematomma rappii Zahlbr. = Schismatomma rappii
+% Haematomma subpuniceum (Fée) B. de Lesd. = H. fenzlianum
+% Haematomma ventosum (L.) A. Massal. = Ophioparma ventosa
+% Hafellia arnoldii (Servít) Hafellner & Türk = Buellia arnoldii
+% Hafellia bahiana (Malme) Sheard = Buellia bahiana
+% Hafellia bahiana var. pleiotera (Malme) Sheard = Buellia pleiotera (Perlmutter & Rivas Plata 2018)
+% Hafellia bahiana var. pleiotropa (Malme) Sheard = Buellia pleiotera (Perlmutter & Rivas Plata 2018)
+% Hafellia callispora (C. Knight) H. Mayrhofer & Sheard = Buellia callispora
+% Hafellia curatellae (Malme) Marbach  (Marbach 2000) = Buellia curatellae
+% Hafellia disciformis (Fr.) Marbach & H. Mayrhofer = Buellia disciformis
+% Hafellia fosteri Imshaug & Sheard = a species of Buellia
+% Hafellia parastata (Nyl.) Kalb = Buellia parastata
+% Hafellia pleiotera (Malme) Marbach (Hansen et al. 2008) = Buellia pleiotera
+% Hafellnera parasemella (Nyl.) Houmeau & Cl. Roux = Schaereria parasemella
 Halecania alpivaga (Th. Fr.) M. Mayrhofer Syns.: Lecania alpivaga, L. disceptans, L. thallophila, Lecanora disceptans
 Halecania athallina Fryday (Spribille et al. 2020)
 Halecania australis Lumbsch  (van den Boom & Ryan 2004a)
@@ -4000,15 +4000,15 @@ Halecania viridescens Coppins & P. James
 Halegrapha floridana Common & Lücking
 Halospora discrepans (J. Lahm ex Arnold) Hafellner (Dillman et al. 2012)
 Harpidium nashii Scheid. (Schultz et al. 2000)
-Harpidium glaucophanum (Hasse) Hasse = Rhizoplaca glaucophana
-Hassea bacillosa (Nyl.) Zahlbr. = Sarcopyrenia bacillosa
-Hazslinszkya gibberulosa (Ach.) Körber  Misidentifications for North America (Perlmutter et al. 2015)
+% Harpidium glaucophanum (Hasse) Hasse = Rhizoplaca glaucophana
+% Hassea bacillosa (Nyl.) Zahlbr. = Sarcopyrenia bacillosa
+% Hazslinszkya gibberulosa (Ach.) Körber  Misidentifications for North America (Perlmutter et al. 2015)
 Hawksworthiana peltigericola (D. Hawks.) U. Braun
 Heiomasia seaveyorum Nelsen & Lücking
 Helminthocarpon leprevostii Fée
 Helocarpon crassipes Th. Fr. Syns.: Lecidea crassipes, Micarea crassipes
 Helocarpon lesdainii (Zahlbr.) Breuss (Breuss 2001)
-Helocarpon corticola Breuss (Etayo 1998) = H. lesdainii
+% Helocarpon corticola Breuss (Etayo 1998) = H. lesdainii
 Hemigrapha graphidicola Diederich & Common (Diederich et al. 2019)
 Henrica americana Breuss (Breuss 2002c)
 Henrica melaspora (Taylor) Savić & Tibell  Syn.: Polyblastia melaspora  (Savić & Tibell 2008)
@@ -4017,29 +4017,29 @@ Heppia adglutinata (Kremp.) A. Massal.
 Heppia conchiloba Zahlbr.
 Heppia despreauxii (Mont.) Tuck. (Büdel et al. 2002)  Syns.:  Anema dodgei, Solorinaria despreauxii (Schultz 2007b)
 Heppia lutosa (Ach.) Nyl.
-Heppia alumenensis Herre Excluded from North American flora; type not found.
-Heppia bolanderi (Tuck.) Vainio = Peltula bolanderi
-Heppia deserticola Zahlbr. = Peltula obscurans var. deserticola
-Heppia euploca (Ach.) Vainio = Peltula euploca
-Heppia guepinii (Delise) Nyl. = Peltula euploca
-Heppia hassei Zahlbr. = Peltula hassei
-Heppia leptopholis Nyl. ex Hasse = Peltula patellata
-Heppia macrospora B. de Lesd. = H. conchiloba
-Heppia placodizans Zahlbr. = Peltula placodizans.
-Heppia planescens Nyl. Excluded from North American flora; type not found.
-Heppia polyphylla B. de Lesd. = Peltula euploca
-Heppia polyspora Tuck. = Peltula patellata
-Heppia psammophila Nyl. = misidentification for North America
-Heppia richardsii Herre = Peltula richardsii
-Heppia terrena Nyl. ex Hasse = Peltula patellata
-Heppia tortuosa (Nees) Vainio = Peltula tortuosa
-Heppia virescens (Despr.) Nyl. = H. lutosa
-Heppia zahlbruckneri Hasse = Peltula zahlbruckneri
+% Heppia alumenensis Herre Excluded from North American flora; type not found.
+% Heppia bolanderi (Tuck.) Vainio = Peltula bolanderi
+% Heppia deserticola Zahlbr. = Peltula obscurans var. deserticola
+% Heppia euploca (Ach.) Vainio = Peltula euploca
+% Heppia guepinii (Delise) Nyl. = Peltula euploca
+% Heppia hassei Zahlbr. = Peltula hassei
+% Heppia leptopholis Nyl. ex Hasse = Peltula patellata
+% Heppia macrospora B. de Lesd. = H. conchiloba
+% Heppia placodizans Zahlbr. = Peltula placodizans.
+% Heppia planescens Nyl. Excluded from North American flora; type not found.
+% Heppia polyphylla B. de Lesd. = Peltula euploca
+% Heppia polyspora Tuck. = Peltula patellata
+% Heppia psammophila Nyl. = misidentification for North America
+% Heppia richardsii Herre = Peltula richardsii
+% Heppia terrena Nyl. ex Hasse = Peltula patellata
+% Heppia tortuosa (Nees) Vainio = Peltula tortuosa
+% Heppia virescens (Despr.) Nyl. = H. lutosa
+% Heppia zahlbruckneri Hasse = Peltula zahlbruckneri
 Herpothallon echinatum Aptroot, Lücking & Will-Wolf  (Lücking et al. 2011b)
 Herpothallon hyposticticum F. Seavey & J. Seavey (Seavey & Seavey 2014a)
 Herpothallon rubrocinctum (Ehrenb.: Fr.) Aptroot, Lücking & G. Thor  Syns. Cryptothecia rubrocincta, C. sanguineum
 Herpothallon rubroechinatum Frisch & G. Thor (Frisch et al. 2010)
-Herpothallon antillarum (Vainio) Aptroot, Lücking & G. Thor (Lücking et al. 2011b) = Diorygma antillarum
+% Herpothallon antillarum (Vainio) Aptroot, Lücking & G. Thor (Lücking et al. 2011b) = Diorygma antillarum
 Herteliana alaskensis (Nyl.) S. Ekman Syns.: Bacidia alaskensis, Lecidea alaskensis (Ekman 1996)
 Herteliana schuyleriana Lendemer (Lendemer 2016c)
 Hertelidea botryosa (Fr.) Printzen & Kantvilas  Syns.:  Biatora botryosa, Lecidea botryosa (Printzen & Kantvilas 2004)
@@ -4078,63 +4078,63 @@ Heterodermia sitchensis Goward & W. Noble
 Heterodermia speciosa (Wulfen) Trevisan Syns.: Anaptychia pseudospeciosa var. tremulans, A. speciosa
 Heterodermia squamulosa (Degel.) W. L. Culb. Syn.: Anaptychia squamulosa
 Heterodermia tropica (Kurok.) Sipman Syn.: Anaptychia tropica (Marcano et al. 1996)
-Heterodermia barbifera (Nyl.) K. P. Singh = misidentification for N.A. (Lendemer 2009a)
-Heterodermia corallophora (Taylor) Skorepa = H. crocea for North American reports
-Heterodermia domingensis (Ach.) Trevisan = H. albicans
-Heterodermia leucomelaena (L.) Poelt = H. leucomela
-Heterodermia neoleucomelaena (Kurok.) Follmann & Redón = H. boryi
-Heterodermia propagulifera (Vainio) J. P. Dey  = misidentification for North America, mostly H. neglecta (Lendemer et al. 2007)
-Heterodermia tremulans (Müll. Arg.) W. L. Culb. = H. speciosa
+% Heterodermia barbifera (Nyl.) K. P. Singh = misidentification for N.A. (Lendemer 2009a)
+% Heterodermia corallophora (Taylor) Skorepa = H. crocea for North American reports
+% Heterodermia domingensis (Ach.) Trevisan = H. albicans
+% Heterodermia leucomelaena (L.) Poelt = H. leucomela
+% Heterodermia neoleucomelaena (Kurok.) Follmann & Redón = H. boryi
+% Heterodermia propagulifera (Vainio) J. P. Dey  = misidentification for North America, mostly H. neglecta (Lendemer et al. 2007)
+% Heterodermia tremulans (Müll. Arg.) W. L. Culb. = H. speciosa
 Heteroplacidium compactum (A. Massal.) Gueidan & Cl. Roux (Prieto et al. 2012) Syns.: Catapyrenium compactum, Dermatocarpon compactum, Verrucaria compacta
 Heteroplacidium congestum (Breuss & McCune) Breuss Syn.: Catapyrenium congestum
 Heteroplacidium transmutans K. Knudsen, Breuss & Kocourk. (Knudsen et al. 2014a)
 Heteroplacidium zamenhofianum (Clauzade & Cl. Roux) Cl. Roux (Kocourková et al. 2012) Syn.: Verrucaria zamenhofiana
-Heteroplacidium acarosporoides (Zahlbr.) Breuss = Placidium acarosporoides
-Heteroplacidium podolepis (Breuss) Breuss = Placidium podolepis
-Heterothecium augustinii (Tuck.) Tuck. (Tuckerman 1888) = Lopadium augustinii
-Heterothecium conspersum (Fée) Flotow = Piccolia conspersa
-Heterothecium domingense (Pers.) Flowtow = Letrouitia domingense
-Heterothecium grossum (Pers. ex Nyl.) Tuck. (Tuckerman 1888) = Megalaria grossa
-Heterothecium leptocheilum Tuck. (Tuckerman 1888) = Megalaria leptocheila
-Heterothecium leucoxanthum (Sprengel) A. Massal. = Brigantiaea leucoxantha
-Heterothecium nannarium Tuck. = Piccolia nannaria
-Heterothecium pachycheilum Tuck. = Megalospora pachycheila
-Heterothecium pezizoideum (Ach.) Stizenb. (Tuckerman 1888) = Lopadium pezizoideum
-Heterothecium porphyrites (Tuck.) Tuck. (Tuckerman 1888) = Megalospora porphyritis
-Heterothecium sanguinarium (L.) Flotow (Tuckerman 1888) = Mycoblastus sanguinarius
-Heterothecium tuberculosum (Fée) Flotow = Megalospora tuberculosa
-Heterothecium versicolor Flotow (Tuckerman 1888) = Megalaria versicolor
-Heterothecium vulpinum (Tuck.) Tuck. (Tuckerman 1888) = Letrouitia vulpina
-Hobsonia christiansenii B. L. Brady & D. Hawksw. = Illosporiopsis christiansenii
+% Heteroplacidium acarosporoides (Zahlbr.) Breuss = Placidium acarosporoides
+% Heteroplacidium podolepis (Breuss) Breuss = Placidium podolepis
+% Heterothecium augustinii (Tuck.) Tuck. (Tuckerman 1888) = Lopadium augustinii
+% Heterothecium conspersum (Fée) Flotow = Piccolia conspersa
+% Heterothecium domingense (Pers.) Flowtow = Letrouitia domingense
+% Heterothecium grossum (Pers. ex Nyl.) Tuck. (Tuckerman 1888) = Megalaria grossa
+% Heterothecium leptocheilum Tuck. (Tuckerman 1888) = Megalaria leptocheila
+% Heterothecium leucoxanthum (Sprengel) A. Massal. = Brigantiaea leucoxantha
+% Heterothecium nannarium Tuck. = Piccolia nannaria
+% Heterothecium pachycheilum Tuck. = Megalospora pachycheila
+% Heterothecium pezizoideum (Ach.) Stizenb. (Tuckerman 1888) = Lopadium pezizoideum
+% Heterothecium porphyrites (Tuck.) Tuck. (Tuckerman 1888) = Megalospora porphyritis
+% Heterothecium sanguinarium (L.) Flotow (Tuckerman 1888) = Mycoblastus sanguinarius
+% Heterothecium tuberculosum (Fée) Flotow = Megalospora tuberculosa
+% Heterothecium versicolor Flotow (Tuckerman 1888) = Megalaria versicolor
+% Heterothecium vulpinum (Tuck.) Tuck. (Tuckerman 1888) = Letrouitia vulpina
+% Hobsonia christiansenii B. L. Brady & D. Hawksw. = Illosporiopsis christiansenii
 Hobsoniopsis santessonii (Lowen & D. Hawksw.) D. Hawksw. (Diederich 2003)
 Homostegia dermatocarpi Alstrup & M. S. Cole (Alstrup & Cole 1998)
 Homostegia hertelii D. Hawksw., V. Atienza & M. Cole  (Hawksworth et al. 2004)
 Homostegia piggotii (Berk. & Broome) P. Karsten  (Esslinger & Egan 1995)
-Homostegia parmeliana (Jacz.) Vouaux (Cole & Hawksworth 2001) Erroneous report based on H. hertelii (Hawksworth et al. 2004)
+% Homostegia parmeliana (Jacz.) Vouaux (Cole & Hawksworth 2001) Erroneous report based on H. hertelii (Hawksworth et al. 2004)
 Hubbsia californica (Räsänen) W. A. Weber Syn.: Reinkella californica
-Hubbsia lumbricoides W. A. Weber = Schizopelte lumbricoides (Ertz & Tehler 2011), but not known north of Mexico
-Hubbsia parishii (Hasse) Tehler, Loht., Myllys & Sundin = Schizopelte parishii (Ertz & Tehler 2011)
-Huilia albocaerulescens (Wulfen) Hertel = Porpidia albocaerulescens
-Huilia cinereoatra (Ach.) Hertel = Porpidia cinereoatra
-Huilia crustulata (Ach.) Hertel = Porpidia crustulata
-Huilia elegantior ( H. Magn.) Hertel = Amygdalaria elegantior
-Huilia flavocaerulescens (Hornem.) Hertel = Porpidia flavicunda
-Huilia glaucophaea (Körber) Hertel = Porpidia rugosa
-Huilia macrocarpa (DC.) Hertel = Porpidia macrocarpa
-Huilia melinodes (Körber) Hertel = Porpidia melinodes
-Huilia nigrocruenta (Anzi) Hertel = Porpidia macrocarpa
-Huilia panaeola (Ach.) Hertel = Amygdalaria panaeola
-Huilia platycarpoides (Bagl.) Hertel = Porpidia platycarpoides
-Huilia soredizodes (Lamy ex Nyl.) Hertel = Porpidia soredizodes
-Huilia superba (Körber) Hertel = Porpidia superba
-Huilia tuberculosa (Sm.) P. James = Porpidia tuberculosa
+% Hubbsia lumbricoides W. A. Weber = Schizopelte lumbricoides (Ertz & Tehler 2011), but not known north of Mexico
+% Hubbsia parishii (Hasse) Tehler, Loht., Myllys & Sundin = Schizopelte parishii (Ertz & Tehler 2011)
+% Huilia albocaerulescens (Wulfen) Hertel = Porpidia albocaerulescens
+% Huilia cinereoatra (Ach.) Hertel = Porpidia cinereoatra
+% Huilia crustulata (Ach.) Hertel = Porpidia crustulata
+% Huilia elegantior ( H. Magn.) Hertel = Amygdalaria elegantior
+% Huilia flavocaerulescens (Hornem.) Hertel = Porpidia flavicunda
+% Huilia glaucophaea (Körber) Hertel = Porpidia rugosa
+% Huilia macrocarpa (DC.) Hertel = Porpidia macrocarpa
+% Huilia melinodes (Körber) Hertel = Porpidia melinodes
+% Huilia nigrocruenta (Anzi) Hertel = Porpidia macrocarpa
+% Huilia panaeola (Ach.) Hertel = Amygdalaria panaeola
+% Huilia platycarpoides (Bagl.) Hertel = Porpidia platycarpoides
+% Huilia soredizodes (Lamy ex Nyl.) Hertel = Porpidia soredizodes
+% Huilia superba (Körber) Hertel = Porpidia superba
+% Huilia tuberculosa (Sm.) P. James = Porpidia tuberculosa
 Hyalopeziza rapax Huhtinen (Huhtinen et al. 2008)
 Hydropunctaria alaskana Thüs & Pérez-Ort. (Spribille et al. 2020)
 Hydropunctaria amphibia (Clemente) Orange  (Orange 2012)  Syn.: Verrucaria amphibia
 Hydropunctaria maura (Wahlenb.) C. Keller, Gueidan & Thüs  Syn.:  Verrucaria maura
 Hydropunctaria rheitrophila (Zschacke) C. Keller, Gueidan & Thüs  Syns.:  Verrucaria kernstockii, V. rheitrophila
 Hydropunctaria scabra (Vězda) C. Keller, Gueidan & Thüs  (McCune et al. 2014b)
-Hydrothyria venosa J. L. Russell = Peltigera hydrothyria
+% Hydrothyria venosa J. L. Russell = Peltigera hydrothyria
 Hymenelia arctica (Lynge) Lutzoni Syn.: Ionaspis arctica, I. epulotica var. arctica
 Hymenelia ceracea (Arnold ) M. Choisy
 Hymenelia cyanocarpa (Anzi) Lutzoni (Miller et al. 2005)
@@ -4143,24 +4143,24 @@ Hymenelia heteromorpha (Kremp.) Lutzoni Syns.: Ionaspis heteromorpha, I. annular
 Hymenelia melanocarpa (Kremp.) Arnold Syn.: Ionaspis melanocarpa
 Hymenelia parva Fryday & J. W. McCarthy (Fryday & McCarthy 2018)
 Hymenelia rhodopis (Sommerf.) Lutzoni Syns.: Ionaspis ochromicra, I. rhodopis
-Hymenelia lacustris (With.) M. Choisy = Ionaspis lacustris
-Hymenelia ochrolemma (Vainio) Gowan & Ahti = Porpidia ochrolemma
-Hymenelia prevostii (Duby) Kremp. = H. epulotica
+% Hymenelia lacustris (With.) M. Choisy = Ionaspis lacustris
+% Hymenelia ochrolemma (Vainio) Gowan & Ahti = Porpidia ochrolemma
+% Hymenelia prevostii (Duby) Kremp. = H. epulotica
 Hyperphyscia adglutinata (Flörke) H. Mayrhofer & Poelt Syns.: Parmelia obscura var. adglutinata, Physcia adglutinata, P. elaeina, Physciopsis adglutinata, P. elaeina
 Hyperphyscia confusa Essl., C. A. Morse & S. Leavitt (Esslinger et al. 2012)
 Hyperphyscia minor (Fée) D. D. Awasthi Syns.: Physcia minor, Physciopsis minor
 Hyperphyscia pyrithrocardia (Müll. Arg.) Moberg & Aptroot (Esslinger et al. 2012) Syn.: Physcia adglutinata f. pyrithrocardia
 Hyperphyscia syncolla (Tuck. ex Nyl.) Kalb Syns.: Physcia syncolla, Physciopsis syncolla
 Hypocenomyce scalaris (Ach. ex Lilj.) M. Choisy Syns.: Biatora ostreata, Lecidea scalaris, L. ostreata, Psora scalaris, P. ostreata
-Hypocenomyce anthracophila (Nyl.) P. James & Gotth. Schneider (Timdal 2002a) = Carbonicola anthracophila
-Hypocenomyce castaneocinerea (Räsänen) Timdal = Carbonicola myrmecina
-Hypocenomyce friesii (Ach.) P. James & Gotth. Schneider = Xylopsora friesii
-Hypocenomyce leucococca R. Sant. = Toensbergia leucococca
-Hypocenomyce oligospora Timdal (Timdal 2001) = Fulgidea oligospora
-Hypocenomyce praestabilis (Nyl.) Timdal = Pycnora praestabilis
-Hypocenomyce sierrae Timdal (Timdal 2001) = Fulgidea sierrae
-Hypocenomyce sorophora (Vainio) P. James & Poelt = Pycnora sorophora
-Hypocenomyce xanthococca (Sommerf.) P. James & Gotth. Schneider = Pycnora xanthococca
+% Hypocenomyce anthracophila (Nyl.) P. James & Gotth. Schneider (Timdal 2002a) = Carbonicola anthracophila
+% Hypocenomyce castaneocinerea (Räsänen) Timdal = Carbonicola myrmecina
+% Hypocenomyce friesii (Ach.) P. James & Gotth. Schneider = Xylopsora friesii
+% Hypocenomyce leucococca R. Sant. = Toensbergia leucococca
+% Hypocenomyce oligospora Timdal (Timdal 2001) = Fulgidea oligospora
+% Hypocenomyce praestabilis (Nyl.) Timdal = Pycnora praestabilis
+% Hypocenomyce sierrae Timdal (Timdal 2001) = Fulgidea sierrae
+% Hypocenomyce sorophora (Vainio) P. James & Poelt = Pycnora sorophora
+% Hypocenomyce xanthococca (Sommerf.) P. James & Gotth. Schneider = Pycnora xanthococca
 Hypogymnia apinnata Goward & McCune
 Hypogymnia austerodes (Nyl.) Räsänen Syn.: Parmelia austerodes
 Hypogymnia beringiana (Krog) McCune (McCune 2008)
@@ -4199,15 +4199,15 @@ Hypogymnia tubulosa (Schaerer) Hav. Syn.: Parmelia tubulosa
 Hypogymnia verruculosa Goward (Goward et al. 2012)
 Hypogymnia vittata (Ach.) Parrique Syn.: Parmelia physodes var. vittata, P. vittata
 Hypogymnia wilfiana Goward, T. Sprib. & Ahti (Goward et al. 2010)
-Hypogymnia amplexa Goward, Björk & T. B. Wheeler (Lumbsch et al. 2011) = H. imshaugii (McCune et al. 2011)
-Hypogymnia atrofusca (Schaerer) Räsänen = Brodoa atrofusca, but North American reports are misidentifications
-Hypogymnia bitteriana (Zahlbr.) Räsänen = H. farinacea
-Hypogymnia elongata (Hillm.) Rass. = H. duplicata
-Hypogymnia encausta (Sm.) Walter Watson = Brodoa intestiniformis (but see below)
-Hypogymnia intestiniformis (Vill.) Räsänen = Brodoa intestiniformis, but North American records are misidentifications of, e.g., Brodoa oroarctica
-Hypogymnia metaphysodes (Asahina) Rass. = misidentification for North America (Goward et al. 2010)
-Hypogymnia oroarctica Krog = Brodoa oroarctica
-Hypogymnia pseudophysodes (Asahina) Rass. North American reports are H. oceanica
+% Hypogymnia amplexa Goward, Björk & T. B. Wheeler (Lumbsch et al. 2011) = H. imshaugii (McCune et al. 2011)
+% Hypogymnia atrofusca (Schaerer) Räsänen = Brodoa atrofusca, but North American reports are misidentifications
+% Hypogymnia bitteriana (Zahlbr.) Räsänen = H. farinacea
+% Hypogymnia elongata (Hillm.) Rass. = H. duplicata
+% Hypogymnia encausta (Sm.) Walter Watson = Brodoa intestiniformis (but see below)
+% Hypogymnia intestiniformis (Vill.) Räsänen = Brodoa intestiniformis, but North American records are misidentifications of, e.g., Brodoa oroarctica
+% Hypogymnia metaphysodes (Asahina) Rass. = misidentification for North America (Goward et al. 2010)
+% Hypogymnia oroarctica Krog = Brodoa oroarctica
+% Hypogymnia pseudophysodes (Asahina) Rass. North American reports are H. oceanica
 Hypotrachyna afrorevoluta (Krog & Swinscow) Krog & Swinscow  (Knudsen & Lendemer 2005b)
 Hypotrachyna appalachensis Lendemer & J. L. Allen (Lendemer & Allen 2020)
 Hypotrachyna britannica (D. Hawksw. & P. James) Coppins (Lendemer & Allen 2020)
@@ -4251,13 +4251,13 @@ Hypotrachyna swinscowii (Hale) Krog & Swinscow  Syns.: Parmelia swinscowii, Parm
 Hypotrachyna taylorensis (M. E. Mitch.) Hale (Groner & Dietrich 1996)
 Hypotrachyna thysanota (Kurok.) Hale Syn.: Parmelia thysanota
 Hypotrachyna virginica (Hale) Hale Syn.: Parmelia virginica
-Hypotrachyna formosana (Zahlbr.) Hale = H. osseoalba
-Hypotrachyna rachista (Hale) Hale = H. prolongata
-Hypotrachyna sorocheila (Vainio) Divakar, A. Crespo, Sipman, Elix & Lumbsch  Reports apparently based on H. catawbiensis (Egan 1987)
+% Hypotrachyna formosana (Zahlbr.) Hale = H. osseoalba
+% Hypotrachyna rachista (Hale) Hale = H. prolongata
+% Hypotrachyna sorocheila (Vainio) Divakar, A. Crespo, Sipman, Elix & Lumbsch  Reports apparently based on H. catawbiensis (Egan 1987)
 Icmadophila ericetorum (L.) Zahlbr.  Syn.: Baeomyces aeruginosa
 Illosporiopsis christiansenii (B. L. Brady & D. Hawksw.) D. Hawks. (Sikaroodi et al. 2001)
 Illosporium carneum Fr.
-Illosporium corallinum Roberge = Marchandiomyces corallinus
+% Illosporium corallinum Roberge = Marchandiomyces corallinus
 Immersaria athroocarpa (Ach.) Rambold & Pietschm.
 Immersaria carbonoidea (J. W. Thomson) Esnault & Cl. Roux Syn.: Lecidea carbonoidea
 Imshaugia aleurites (Ach.) S. F. Meyer Syns.: Cetraria aleurites, Parmelia aleurites, P. ambigua var. albescens, Parmeliopsis aleurites
@@ -4275,19 +4275,19 @@ Ionaspis lavata H. Magn. Syn.: Lecanora lavata
 Ionaspis obtecta (Vainio) R. Sant.  (McCune et al. 2014b)
 Ionaspis odora (Ach.) Th. Fr. ex Stein  Syns.:  Gyalecta odora, Lecanora odora
 Ionaspis suaveolens (Fr.) Th. Fr. ex Stein
-Ionaspis annularis H. Magn. (Thomson 1997) = Hymenelia heteromorpha
-Ionaspis arctica Lynge = Hymenelia arctica
-Ionaspis chrysophana (Körber) Stein = I. suaveolens
-Ionaspis epulotica (Ach.) Blomb. & Forssell = Hymenelia epulotica
-Ionaspis epulotica var. arctica (Lynge) H. Magn. = Hymenelia arctica
-Ionaspis heteromorpha (Kremp.) Arnold = Hymenelia heteromorpha
-Ionaspis melanocarpa (Kremp.) Arnold = Hymenelia melanocarpa
-Ionaspis ochracella (Nyl.) H. Magn. = Hymenelia heteromorpha
-Ionaspis ochromicra (Nyl.) Hue = Hymenelia rhodopis
-Ionaspis reducta H. Magn. = Hymenelia heteromorpha
-Ionaspis rhodopis (Sommerf.) Blomb. & Forssell = Hymenelia rhodopis
-Ionaspis schismatopis (Nyl.) Hue = Hymenelia heteromorpha
-Ionaspis spitsbergensis H. Magn. = nom. Invalidum
+% Ionaspis annularis H. Magn. (Thomson 1997) = Hymenelia heteromorpha
+% Ionaspis arctica Lynge = Hymenelia arctica
+% Ionaspis chrysophana (Körber) Stein = I. suaveolens
+% Ionaspis epulotica (Ach.) Blomb. & Forssell = Hymenelia epulotica
+% Ionaspis epulotica var. arctica (Lynge) H. Magn. = Hymenelia arctica
+% Ionaspis heteromorpha (Kremp.) Arnold = Hymenelia heteromorpha
+% Ionaspis melanocarpa (Kremp.) Arnold = Hymenelia melanocarpa
+% Ionaspis ochracella (Nyl.) H. Magn. = Hymenelia heteromorpha
+% Ionaspis ochromicra (Nyl.) Hue = Hymenelia rhodopis
+% Ionaspis reducta H. Magn. = Hymenelia heteromorpha
+% Ionaspis rhodopis (Sommerf.) Blomb. & Forssell = Hymenelia rhodopis
+% Ionaspis schismatopis (Nyl.) Hue = Hymenelia heteromorpha
+% Ionaspis spitsbergensis H. Magn. = nom. Invalidum
 Ivanpisutia hypophaea (Printzen & Tønsberg) S. Y. Kondr.  Syn.: Biatora hypophaea
 Ivanpisutia ocelliformis (Nyl.) S. Y. Kondr.  Syn.: Biatora ocelliformis
 Jamesiella anastomosans (P. James & Vězda) Lücking, Sérus. & Vězda (Lücking et al. 2007) Syn.: Gyalideopsis anastomosans
@@ -4295,7 +4295,7 @@ Jamesiella dacryoidea Fryday (Fryday & Dillman 2021)
 Jamesiella scotica (P. James) Lücking, Sérus. & Vězda (Tønsberg 2016)
 Japewia subaurifera Muhr & Tønsberg
 Japewia tornoënsis (Nyl.) Tønsberg Syns.: Biatora tornoënsis, Lecidea tornoënsis, Mycoblastus tornoënsis
-Japewia carrollii (Coppins & P. James) Tønsberg (Aptroot 1996) = misidentification for North America (Printzen 1999)
+% Japewia carrollii (Coppins & P. James) Tønsberg (Aptroot 1996) = misidentification for North America (Printzen 1999)
 Japewiella dollypartoniana J. L. Allen & Lendemer (Allen & Lendemer 2015)
 Jarxia ilicicola R. C. Harris (Harris 1995a)
 Jarxia thelenula R. C. Harris (Harris 1995a)
@@ -4314,8 +4314,8 @@ Kaernefeltia californica (Tuck.) A. Thell & Goward (Thell & Goward 1996) Syns.: 
 Kaernefeltia merrillii (Du Rietz) A. Thell & Goward (Thell & Goward 1996) Syns.:Cetraria merrillii, Tuckermannopsis merrillii
 Kalchbrenneriella cyanescens (Kalchbr.) Diederich & M. S. Christ. (Diederich 2002)
 Karschia talcophila (Ach.) Körber  (Hafellner et al. 2002)
-Karschia athallina (Müll. Arg.) Vouaux = Sclerococcum athallinum
-Karschia inops Triebel & Rambold = Buelliella inops
+% Karschia athallina (Müll. Arg.) Vouaux = Sclerococcum athallinum
+% Karschia inops Triebel & Rambold = Buelliella inops
 Karsteniomyces peltigerae (P. Karsten) D. Hawksw. (Alstrup & Cole 1998)
 Kephartia crystalligera R. C. Harris & Lendemer
 Kephartia spinadiaboli R. C. Harris & Lendemer
@@ -4327,14 +4327,14 @@ Kiliasia superioris (Timdal) Timdal (Kistenich et al. 2018) Syn.: Toninia superi
 Kiliasia tristis (Müll. Arg.) Hafellner  Syn.: Toninia subnitida
 Knufia peltigerae (Fuckel) Réblová & Unter.  Syn.: Capronia peltigerae (Réblová et al. 2013)
 Koerberia biformis A. Massal.
-Koerberia sonomensis (Tuck.) Henssen = Tingiopsidium sonomense (Hafellner & Spribille 2016)
+% Koerberia sonomensis (Tuck.) Henssen = Tingiopsidium sonomense (Hafellner & Spribille 2016)
 Koerberiella wimmeriana (Körber) Stein
-Kohlmeyera complicatula (Nyl.) Schatz = Mastodia tesselata (Kohlmeyer et al. 2004)
+% Kohlmeyera complicatula (Nyl.) Schatz = Mastodia tesselata (Kohlmeyer et al. 2004)
 Labrocarpon canariense (D. Hawksw.) Etayo & Pérez-Ortega (Seavey & Seavey 2014a)
 Laetisaria buckii (Diederich & Lawrey) Diederich, Lawrey & Ghobad-Nejhad  Syn.: Marchandiomyces buckii (Diederich et al. 2018)
-Laeviomyces lecanoricola M. S. Cole & D. Hawksw. (Cole & Hawksworth 2001) = Lichenodiplis lecanoricola
-Laeviomyces pertusariicola (Nyl.) D. Hawksw. = Lichenodiplis pertusariicola
-Lahmia fueistingii Körber = Arthrorhaphis grisea
+% Laeviomyces lecanoricola M. S. Cole & D. Hawksw. (Cole & Hawksworth 2001) = Lichenodiplis lecanoricola
+% Laeviomyces pertusariicola (Nyl.) D. Hawksw. = Lichenodiplis pertusariicola
+% Lahmia fueistingii Körber = Arthrorhaphis grisea
 Lambiella aliphatica T. Sprib. & Resl (Spribille et al. 2020)
 Lambiella arenosa McCune & Lumbsch (McCune & Lumbsch 2017)
 Lambiella caeca (J. Lowe) Resl & T. Sprib.  Syns.: Lecidea caeca, Rimularia caeca (Resl et al. 2015)
@@ -4343,12 +4343,12 @@ Lambiella gyrizans (Nyl.) M. Westb. & Resl  Syn.: Rimularia gyrizans (Resl et al
 Lambiella impavida (Th. Fr.) M. Westb. & Resl.  Syns.: Lecidea impavida, Rimularia impavida (Resl. et al. 2015)
 Lambiella insularis (Nyl.) T. Sprib.  (Spribille et al. 2014a)  Syns.:  Lecidea insularis, Rimularia insularis
 Lambiella sphacelata (Th. Fr.) M. Westb. & Resl  Syns.: Lecidea sphacelata, Rimularia sphacelata (Resl et al. 2015)
-Lambiella fuscosora (Muhr & Tønsberg) M. Westb. & Resl (Seaward et al. 2017)  N.A. report is Japewiella dollypartoniana (Lendemer & Brodo 2018)
+% Lambiella fuscosora (Muhr & Tønsberg) M. Westb. & Resl (Seaward et al. 2017)  N.A. report is Japewiella dollypartoniana (Lendemer & Brodo 2018)
 Lasallia caroliniana (Tuck.) Davydov, Peršoh & Rambold  Syn.: Umbilicaria caroliniana (Davydov et al. 2010)
 Lasallia papulosa (Ach.) Llano Syns.: Umbilicaria pustulata var. papulosa, U. papulosa
 Lasallia pensylvanica (Hoffm.) Llano Syn.: Umbilicaria pensylvanica
 Lasallia pustulata (L.) Mérat Syn.: Umbilicaria pustulata
-Lasallia pustulata subsp. papulosa (Ach.) W. A. Weber = L. papulosa
+% Lasallia pustulata subsp. papulosa (Ach.) W. A. Weber = L. papulosa
 Lasiosphaeriopsis lecanorae Pérez-Ort. & Halici (Spribille et al. 2020)
 Lasiosphaeriopsis stereocaulicola (Lindsay) O. E. Eriksson & R. Sant. (Zhurbenko & Daniëls 2003)
 Lathagrium auriforme (With.) Otálora, P. M. Jørg. & Wedin  Syn.: Collema auriculatum, C. auriforme, C. granosum auct.
@@ -4357,11 +4357,11 @@ Lathagrium dichotomum (With.) Otálora, P. M. Jørg. & Wedin  Syns.: Collema dic
 Lathagrium fuscovirens (With.) Otálora, P. M. Jørg. & Wedin  Syns.: Collema furvum, C. fuscovirens, C. tuniforme
 Lathagrium undulatum (Flotow) Otálora, P. M. Jørg. & Wedin  Syn.: Collema undulatum
 Lathagrium undulatum var. granulosum (Degel.) M. Schulz & McCune (McCune et al. 2018)
-Lauderlindsaya borreri (Tul.) J. C. David & D. Hawksw. (McCune 1997a) = Normandina pulchella
-Laurera madreporiformis (Eschw.) Riddle = Bathelium madreporiforme (Harris 1995a)
-Laurera megasperma (Mont.) Riddle = Astrothelium megaspermum
-Laurera subdisjuncta (Müll. Arg.) R. C. Harris = Astrothelium subdisjunctum
-Laurera varia (Fée) Zahlbr. = misidentification for North America
+% Lauderlindsaya borreri (Tul.) J. C. David & D. Hawksw. (McCune 1997a) = Normandina pulchella
+% Laurera madreporiformis (Eschw.) Riddle = Bathelium madreporiforme (Harris 1995a)
+% Laurera megasperma (Mont.) Riddle = Astrothelium megaspermum
+% Laurera subdisjuncta (Müll. Arg.) R. C. Harris = Astrothelium subdisjunctum
+% Laurera varia (Fée) Zahlbr. = misidentification for North America
 Lawalreea lecanorae Diederich (Haldeman 2020)
 Lawreya glyphidiphila U. Braun, Common, Diederich & Ertz (Diederich et al. 2019)
 Lecanactis abietina (Ach.) Körber
@@ -4369,20 +4369,20 @@ Lecanactis californica Tuck.
 Lecanactis dubia G. Merr.
 Lecanactis epileuca (Nyl.) Tehler Syns.: Platygrapha subattingens, Schismatomma subattingens
 Lecanactis salicina Zahlbr.
-Lecanactis amylacea (Ehrh. ex Pers.) Arnold = Lecanographa amylacea
-Lecanactis chloroconia Tuck. = Cresponea chloroconia
-Lecanactis dimelaenoides Egea & Torrente = Lecanographa dimelaenoides
-Lecanactis grumulosa (Dufour) Fr. = Paralecanographa grumulosa
-Lecanactis illicebrosa (Dufour) Fr. = Lecanographa amylacea
-Lecanactis megaspora (G. Merr.) Brodo = L. abietina
-Lecanactis nashii Egea & Torrente = Lecanographa hypothallina
-Lecanactis patellarioides (Nyl.) Vainio = Bactrospora patellarioides
-Lecanactis premnea (Ach.) Arnold = Cresponea premnea
-Lecanactis premnea var. chloroconia (Tuck.) Tuck. (Tuckerman 1882) = Cresponea chloroconia
-Lecanactis ravenelii (Tuck.) R. C. Harris = Opegrapha ravenelii
-Lecanactis subattingens (Nyl.) R. C. Harris = L. epileuca
-Lecanactis subdryophila Follmann & Vězda = Lecanographa subdryophila
-Lecanactis zahlbruckneri Herre (Fink 1935) = L. californica (Ryan & Tehler 2004)
+% Lecanactis amylacea (Ehrh. ex Pers.) Arnold = Lecanographa amylacea
+% Lecanactis chloroconia Tuck. = Cresponea chloroconia
+% Lecanactis dimelaenoides Egea & Torrente = Lecanographa dimelaenoides
+% Lecanactis grumulosa (Dufour) Fr. = Paralecanographa grumulosa
+% Lecanactis illicebrosa (Dufour) Fr. = Lecanographa amylacea
+% Lecanactis megaspora (G. Merr.) Brodo = L. abietina
+% Lecanactis nashii Egea & Torrente = Lecanographa hypothallina
+% Lecanactis patellarioides (Nyl.) Vainio = Bactrospora patellarioides
+% Lecanactis premnea (Ach.) Arnold = Cresponea premnea
+% Lecanactis premnea var. chloroconia (Tuck.) Tuck. (Tuckerman 1882) = Cresponea chloroconia
+% Lecanactis ravenelii (Tuck.) R. C. Harris = Opegrapha ravenelii
+% Lecanactis subattingens (Nyl.) R. C. Harris = L. epileuca
+% Lecanactis subdryophila Follmann & Vězda = Lecanographa subdryophila
+% Lecanactis zahlbruckneri Herre (Fink 1935) = L. californica (Ryan & Tehler 2004)
 Lecania aipospila (Wahlenb.) Th. Fr. (McCune 2017)  Syn.: Lecanora spodophaeiza
 Lecania arizonica B. D. Ryan & van den Boom (van den Boom & Ryan 2004b)
 Lecania brunonis (Tuck.) Herre Syn.: Lecanora brunonis
