@@ -1,0 +1,5 @@
+c:/Lichen/datastor/NE/MA/sb/csp.scr  Caloplaca pyracea|awk -F "|" '{print "/^"$NF"|/ s/|Caloplaca pyracea|/|Athallia pyracea|/2"} ' > Caloplaca_pyracea1016AA.sed
+sed -f Caloplaca_pyracea1016AA.sed df > tmp.df; c:/Lichen/datastor/NE/MA/sb/test.scr
+#c:/Lichen/datastor/NE/MA/sb/csp.scr  Caloplaca pyracea|awk -F "|" '{print "/^"$NF"|/ s/|Caloplaca pyracea|/|Athallia pyracea|/2"} ' > Caloplaca_pyracea1016AA.sed
+#sed -f Caloplaca_pyracea1016AA.sed df > tmp.df; c:/Lichen/datastor/NE/MA/sb/test.scr
+#diff df tmp.df
