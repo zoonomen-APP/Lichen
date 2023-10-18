@@ -74,8 +74,8 @@ Caloplaca flavorubescens					Caloplaca.flavorubescens
 #Caloplaca vitellinula						Caloplaca.vitellinula
 #Caloplaca xanthostigmoidea					Caloplaca.xanthostigmoidea
 #Candelariella epixantha						Candelariella.epixantha
-Catapyrenium tuckermanii					Catapyrenium.tuckermanii
-Catillaria atropurpurea						Catillaria.atropurpurea
+#Catapyrenium tuckermanii					Catapyrenium.tuckermanii
+#Catillaria atropurpurea						Catillaria.atropurpurea
 Catillaria globulosa						Catillaria.globulosa
 Catillaria griffithii						Catillaria.griffithii
 Catillaria grossa						Catillaria.grossa
