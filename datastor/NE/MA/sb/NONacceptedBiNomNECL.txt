@@ -69,9 +69,9 @@ Caloplaca flavorubescens					Caloplaca.flavorubescens
 #Caloplaca sorediata						Caloplaca.sorediata
 #Caloplaca subnigricans						Caloplaca.subnigricans
 #Caloplaca subsoluta						Caloplaca.subsoluta
-Caloplaca verruculifera						Caloplaca.verruculifera
-Caloplaca vicaria						Caloplaca.vicaria
-Caloplaca vitellinula						Caloplaca.vitellinula
+#Caloplaca verruculifera						Caloplaca.verruculifera
+#Caloplaca vicaria						Caloplaca.vicaria
+#Caloplaca vitellinula						Caloplaca.vitellinula
 Caloplaca xanthostigmoidea					Caloplaca.xanthostigmoidea
 Candelariella epixantha						Candelariella.epixantha
 Catapyrenium tuckermanii					Catapyrenium.tuckermanii
