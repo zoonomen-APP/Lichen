@@ -10,17 +10,23 @@ rm c:/Lichen/datastor/NE/MA/*x.txt
 rm c:/Lichen/datastor/NE/CT/*x.txt
 rm c:/Lichen/datastor/NE/RI/*x.txt
 #
-c:/Lichen/datastor/NE/tools/ME04.scr
-c:/Lichen/datastor/NE/tools/NH04.scr
-c:/Lichen/datastor/NE/tools/VT04.scr
-c:/Lichen/datastor/NE/tools/MA04.scr
-c:/Lichen/datastor/NE/tools/CT04.scr
-c:/Lichen/datastor/NE/tools/RI04.scr
+#Create dfbn -- restricting dataset to binomials
+#(and excluding "___ sp." and "____ indet"
+c:/Lichen/datastor/NE/tools/NEstates.scr
 #
-cat  c:/Lichen/datastor/NE/ME/*x.txt > c:/Lichen/datastor/NE/01ME.01
-cat  c:/Lichen/datastor/NE/NH/*x.txt > c:/Lichen/datastor/NE/02NH.01
-cat  c:/Lichen/datastor/NE/VT/*x.txt > c:/Lichen/datastor/NE/03VT.01
-cat  c:/Lichen/datastor/NE/MA/*x.txt > c:/Lichen/datastor/NE/04MA.01
-cat  c:/Lichen/datastor/NE/CT/*x.txt > c:/Lichen/datastor/NE/05CT.01
-cat  c:/Lichen/datastor/NE/RI/*x.txt > c:/Lichen/datastor/NE/06RI.01
+c:/Lichen/datastor/NE/tools/ME05.scr
+c:/Lichen/datastor/NE/tools/NH05.scr
+c:/Lichen/datastor/NE/tools/VT05.scr
+c:/Lichen/datastor/NE/tools/MA05.scr
+c:/Lichen/datastor/NE/tools/CT05.scr
+c:/Lichen/datastor/NE/tools/RI05.scr
+#
+cat  c:/Lichen/datastor/NE/ME/*x.txt > c:/Lichen/datastor/NE/01ME.01 > c:/Lichen/datastor/NE/NEsumm.txt
+cat  c:/Lichen/datastor/NE/NH/*x.txt > c:/Lichen/datastor/NE/02NH.01 >> c:/Lichen/datastor/NE/NEsumm.txt
+cat  c:/Lichen/datastor/NE/VT/*x.txt > c:/Lichen/datastor/NE/03VT.01 >> c:/Lichen/datastor/NE/NEsumm.txt
+cat  c:/Lichen/datastor/NE/MA/*x.txt > c:/Lichen/datastor/NE/04MA.01 >> c:/Lichen/datastor/NE/NEsumm.txt
+cat  c:/Lichen/datastor/NE/CT/*x.txt > c:/Lichen/datastor/NE/05CT.01 >> c:/Lichen/datastor/NE/NEsumm.txt
+cat  c:/Lichen/datastor/NE/RI/*x.txt > c:/Lichen/datastor/NE/06RI.01 >> c:/Lichen/datastor/NE/NEsumm.txt
+#
+vi c:/Lichen/datastor/NE/NEsumm.txt
 
