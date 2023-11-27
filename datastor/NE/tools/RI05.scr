@@ -1,0 +1,322 @@
+#  2023.05.01 add code to exclude " .sp" taxa
+# 2023.02.07 add RI Counties. 
+# 2023.01.31
+# 2023.02.01
+# 2023.02.02
+# 2023.06.13
+# changes change "print $68" to "print $101"
+# change RIdf to RIdfbn
+# change LOCALITY top -10 to LOCALITY top-20
+
+#
+# Genus only records excluded.
+# YearMoDa excluded.
+# source file RIdfbn
+# RHODE_ISLAND
+	STATEAB=RI
+	 #State land area 2707 km^2
+        STATEAREA=2707
+	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+	 #Statecount sine date STATECNTSD
+        STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+                echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo  Rhode_Island land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+                echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+
+#	STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$98~/Year/' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+#		echo \#\#\ Rhode_Island\ \#\# > c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#	#	echo  $RHODEISLANDCNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#		echo --- >> c:/Lichen/datastor/NE/RI/00AARhode_Islandx.txt
+#
+#[ PROVIDENCE. 501
+# #
+#
+# DATES OF COLLECTION 501a
+ 	COUNTY=PROVIDENCE
+		echo $COUNTY County. > c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo Providence Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Providence/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/501aProvidencedatey.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/501aProvidencedatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/501Ay.txt
+        awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/501Ay.txt >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+# Density of collection 501a
+ 	COUNTYAREA=1059
+		echo Providence County. >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Providence_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo --- >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo Providence Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo Providence County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		#
+		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/501aProvidencedatex.txt
+#
+# COLLECTORS 501b
+# Blank line to start.
+		echo > c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$3~/Providence_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo Providence County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		#echo >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo Providence Co. COLLECTOR top 20. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Providence/&&$19~/ /&&$24!~/sp\./ {print $99}' c:/Lichen/datastor/NE/RI/RIdfbn|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/501bProvidenceCollx.txt
+#
+# LOCALITY
+		echo Providence Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Providence/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/RI/RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
+#
+# TAXA
+		echo Providence Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Providence/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI//501dProvidencetaxax.txt
+		echo --- >> c:/Lichen/datastor/NE/RI//501dProvidencetaxax.txt
+#]
+#[ KENT. 502
+# #
+#
+# DATES OF COLLECTION 502a
+ 	COUNTY=KENT
+		echo $COUNTY County. > c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo Kent Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Kent/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/502aKentdatey.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/502aKentdatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/502Ay.txt
+        awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/502Ay.txt >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+# Density of collection 502a
+ 	COUNTYAREA=440
+		echo Kent County. >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Kent_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo --- >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo Kent Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo Kent County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		#
+		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/502aKentdatex.txt
+#
+# COLLECTORS 502b
+# Blank line to start.
+		echo > c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$3~/Kent_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo Kent County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		#echo >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo Kent Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Kent/&&$19~/ /&&$24!~/sp\./ {print $99}' c:/Lichen/datastor/NE/RI/RIdfbn|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/502bKentCollx.txt
+#
+# LOCALITY
+		echo Kent Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Kent/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/RI/RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
+#
+# TAXA
+		echo Kent Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Kent/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI//502dKenttaxax.txt
+		echo --- >> c:/Lichen/datastor/NE/RI//502dKenttaxax.txt
+#]
+#[ BRISTOL. 503
+# #
+#
+# DATES OF COLLECTION 503a
+ 	COUNTY=BRISTOL
+		echo $COUNTY County. > c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo Bristol Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/503aBristoldatey.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/503aBristoldatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/503Ay.txt
+        awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/503Ay.txt >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+# Density of collection 503a
+# Density of collection Area km^2
+ 	COUNTYAREA=60
+# Density of collection Area km^2
+		echo Bristol County. >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Bristol_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo --- >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo Bristol Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo Bristol County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		#
+		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/503aBristoldatex.txt
+#
+# COLLECTORS 503b
+# Blank line to start.
+		echo > c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$3~/Bristol_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo Bristol County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		#echo >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo Bristol Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./ {print $99}' c:/Lichen/datastor/NE/RI/RIdfbn|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/503bBristolCollx.txt
+#
+# LOCALITY
+		echo Bristol Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/RI/RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
+#
+# TAXA
+		echo Bristol Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI//503dBristoltaxax.txt
+		echo --- >> c:/Lichen/datastor/NE/RI//503dBristoltaxax.txt
+#]
+#[ NEWPORT. 504
+# #
+#
+# DATES OF COLLECTION 504a
+ 	COUNTY=NEWPORT
+		echo $COUNTY County. > c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo Newport Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/504aNewportdatey.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/504aNewportdatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/504Ay.txt
+        awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/504Ay.txt >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+# Density of collection 504a
+# Density of collection Area km^2
+ 	COUNTYAREA=260
+# Density of collection Area km^2
+		echo Newport County. >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Newport_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo --- >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo Newport Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo Newport County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		#
+		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/504aNewportdatex.txt
+#
+# COLLECTORS 504b
+# Blank line to start.
+		echo > c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$3~/Newport_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo Newport County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		#echo >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo Newport Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./ {print $99}' c:/Lichen/datastor/NE/RI/RIdfbn|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/504bNewportCollx.txt
+#
+# LOCALITY
+		echo Newport Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/RI/RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
+#
+# TAXA
+		echo Newport Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI//504dNewporttaxax.txt
+		echo --- >> c:/Lichen/datastor/NE/RI//504dNewporttaxax.txt
+#]
+#[ WASHINGTON. 505
+# #
+#
+# DATES OF COLLECTION 505a
+ 	COUNTY=WASHINGTON
+		echo $COUNTY County. > c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo Washington Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/RI/RIdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/RI/505aWashingtondatey.txt
+        cut -c 1-4 c:/Lichen/datastor/NE/RI/505aWashingtondatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/RI/505Ay.txt
+        awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/RI/505Ay.txt >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+# Density of collection 505a
+# Density of collection Area km^2
+ 	COUNTYAREA=850
+# Density of collection Area km^2
+		echo Washington County. >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$24!~/sp\./&&$3~/Washington_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo --- >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo Washington Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo Washington County land area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		#
+		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+		echo >> c:/Lichen/datastor/NE/RI/505aWashingtondatex.txt
+#
+# COLLECTORS 505b
+# Blank line to start.
+		echo > c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$19~/ /&&$3~/Washington_Co./' c:/Lichen/datastor/NE/RI/RIdfbn|wc -l)
+		echo Washington County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		#echo >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo Washington Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./ {print $99}' c:/Lichen/datastor/NE/RI/RIdfbn|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+		echo >> c:/Lichen/datastor/NE/RI/505bWashingtonCollx.txt
+#
+# LOCALITY
+		echo Washington Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./ {print $101}' c:/Lichen/datastor/NE/RI/RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
+		echo >> c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
+		echo --- >> c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
+#
+# TAXA
+		echo Washington Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+		echo >> c:/Lichen/datastor/NE/RI//505dWashingtontaxax.txt
+		echo --- >> c:/Lichen/datastor/NE/RI//505dWashingtontaxax.txt
+#]
