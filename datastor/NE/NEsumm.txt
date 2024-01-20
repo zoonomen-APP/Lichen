@@ -1,0 +1,5184 @@
+## Maine ##
+39733 Non genus-only specimens
+1187 Maine state taxon count (Non-genus only taxa)
+---
+Maine land area = 80005 km^2
+ME State count density (STATECNT/STATEAREA*100 km^2) :  39733/80005 =  49.6631
+
+---
+WASHINGTON County.
+---
+Washington Co. DATE -- genus-only records excluded
+
+WASHINGTON county date : min = 1844, max = 2021, median = 2001, mean = 1992
+---
+Washington County.
+---
+Washington Co. COLLECTION DENSITY -- genus-only records excluded
+Washington County area = 6640 km^2
+ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4789/6640 =  72.1235
+
+
+Washington County Count 4789 - genus-only records excluded
+proportion of State count (%)  (4789/39733) =  12.053
+
+Washington Co. COLLECTOR top 10. - genus-only records excluded
+
+454 LendemerJC
+419 MayPF
+411 HarrisRC
+360 HindsPLMs
+309 LayEMs
+222 HindsJW
+191 UebelEC
+175 BrodoIM
+131 MehlinEGMs
+128 HaleMEJr
+
+Washington Co. LOCALITY top 20. - genus-only records excluded
+
+899 Steuben
+551 Great_Wass_Island
+502 Eagle_Hill
+295 McClellan_Park
+180 NoLoc
+96 North_Lubec
+87 Town_of_Cutler_Cutler_Coastal_Public_Lands_Loop_Trail_via_Black_Point_Cove_Cutoff_S_of_ME_191_NE_of_Cutler
+80 Lead_Mountain
+74 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_to_Ice_House_and_trail_to_mowed_area_near_houses
+71 Roque_Island
+62 T18_ED_BPP_Maine_Public_Reserve_Lands_S_end_of_Rocky_Lake_025-05_mi_W_of_jct_of_Diamond_Match_Road_and_ME_191
+62 Eastport
+56 Jonesport
+46 Black_Mountain
+44 Machias_Bog_Se_of_Machias
+42 Humboldt_Field_Research_Institute_near_Red_Trail_about_100_m_from_parking_lot
+34 "Steuben_Eagle_Hill_property_yellow_trail"
+32 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_through_open_area
+29 Head_Harbor_Island
+29 Cobscook_Bay_State_Park_Edmunds_Township
+
+---
+Washington Co. Maine Taxon count. genus-only records excluded :622
+
+Washington Co. TAXA top 10. - genus-only records excluded
+
+81 Platismatia_glauca
+79 Hypogymnia_krogiae
+64 Cladonia_maxima
+62 Lobaria_pulmonaria
+58 Loxospora_elatina
+57 Loxospora_ochrophaea
+56 Cladonia_uncialis
+53 Ramboldia_elabens
+51 Lepra_amara
+48 Cladonia_rangiferina
+
+---
+HANCOCK County.
+---
+Hancock Co. DATE -- genus-only records excluded
+
+HANCOCK county date : min = 1856, max = 2021, median = 1983, mean = 1976
+---
+Hancock County.
+---
+Hancock Co. COLLECTION DENSITY -- genus-only records excluded
+Hancock County area = 4110 km^2
+ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  12445/4110 =  302.798
+
+
+Hancock County Count 12445 - genus-only records excluded
+proportion of State count (%)  (12445/39733) =  31.3216
+
+Hancock Co. COLLECTOR top 10. - genus-only records excluded
+
+3956 SullivanTJ
+1027 WetmoreCM
+765 PlittCC
+601 BiazrovLG
+555 TaylorRM
+554 EganRS
+430 LendemerJC
+362 LlanoGA
+299 HindsPLMs
+250 HarrisRC
+
+Hancock Co. LOCALITY top 20. - genus-only records excluded
+
+7892 Mt_Desert_Island_and_adjacent_islands
+1118 Schoodic_Peninsula_region
+811 Lead_Mountain
+380 Tunk_Lake
+294 NoLoc
+204 Tunk_Mountain
+198 Black_Mountain
+177 [data_not_captured]
+119 Deer_Isle
+109 Callahan_Mine_site
+65 Swans_Island
+50 "Harborside_Callahan_Mine"
+43 Aurora
+34 "Little_Deer_Island_Pine_Hill"
+32 Town_T10_SD_along_ME_182_ca_4_mi_W_of_jct_with_Unionville_Road
+31 No_locality_information_available
+25 Franklin
+24 Eastbrook
+22 Stonington
+22 Orland
+
+---
+Hancock Co. Maine Taxon count. genus-only records excluded :698
+
+Hancock Co. TAXA top 10. - genus-only records excluded
+698
+
+228 Cladonia_squamosa
+210 Cladonia_rangiferina
+207 Hypogymnia_physodes
+204 Lobaria_pulmonaria
+186 Platismatia_tuckermanii
+182 Cladonia_uncialis
+176 Parmelia_squarrosa
+169 Punctelia_rudecta
+165 Loxospora_ochrophaea
+160 Hypogymnia_krogiae
+
+---
+WALDO County.
+---
+Waldo Co. DATE -- genus-only records excluded
+
+WALDO county date : min = 1905, max = 2013, median = 1958, mean = 1958
+---
+Waldo County.
+---
+Waldo Co. COLLECTION DENSITY -- genus-only records excluded
+Waldo County area = 1900 km^2
+ME WALDO county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  396/1900 =  20.8421
+
+
+Waldo County Count 396 - genus-only records excluded
+proportion of State count (%)  (396/39733) =  0.996653
+
+Waldo Co. COLLECTOR top 10. - genus-only records excluded
+
+88 ParlinJC
+51 HarrisRC
+37 FriesnerRC
+29 ParkerSBMs
+29 HindsPLMs
+28 RossbachGB
+19 MalcolmJF
+15 MathiesonAC
+15 HindsJW
+10 PennellFWMs
+
+Waldo Co. LOCALITY top 20. - genus-only records excluded
+
+97 Lincolnville
+84 Freedom
+46 Megunticook_Lake
+41 Islesboro
+14 NoLoc
+13 Isleboro
+9 Searsport
+4 VERONA_SANDY_POINT-_HERSEY_RETREAT
+4 UNITY_POWER_LINE-_NEAR_RR_TRACKS
+4 Searsport_Sears_Island
+4 Prospect
+4 Liberty
+4 LINCOLNVILLE_FERNALD_NECK_NAT_CONS_PRES
+4 Brooks
+3 Frankfort
+3 Donaldson_Woodlot_Route_105
+3 BROOKS_SPHAGNUM_BOG-_ALONG_RR_TRAC
+2 Thorndike
+2 Swanville
+2 SEARSPORT_MOOSE_POINT_STATE_PARK
+
+---
+Waldo Co. Maine Taxon count. genus-only records excluded :166
+
+Waldo Co. TAXA top 10. - genus-only records excluded
+
+15 Hydropunctaria_maura
+11 Cladonia_stellaris
+11 Cladonia_rangiferina
+9 Cladonia_uncialis
+9 Cladonia_squamosa
+8 Platismatia_tuckermanii
+8 Cladonia_arbuscula
+7 Usnea_trichodea
+7 Porpidia_macrocarpa
+7 Flavoparmelia_caperata
+
+---
+KNOX County.
+---
+Knox Co. DATE -- genus-only records excluded
+
+KNOX county date : min = 1897, max = 2021, median = 1912, mean = 1931
+---
+Knox County.
+---
+Knox Co. COLLECTION DENSITY -- genus-only records excluded
+Knox County area = 950 km^2
+ME KNOX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  5009/950 =  527.263
+
+
+Knox County Count 5009 - genus-only records excluded
+proportion of State count (%)  (5009/39733) =  12.6066
+
+Knox Co. COLLECTOR top 10. - genus-only records excluded
+
+3267 MerrillGK
+641 SullivanTJ
+239 PlittCC
+195 HarrisRC
+123 CrockettALMs
+113 HindsPLMs
+58 BuckWR
+55 HindsJW
+47 FlennikenD
+30 ChurchML
+
+Knox Co. LOCALITY top 20. - genus-only records excluded
+
+1063 Rockport
+825 Rockland
+648 Isle_au_Haut
+369 South_Thomaston
+327 Camden
+308 Warren
+155 NoLoc
+155 Mt_Battie
+146 Thomaston
+62 Vinalhaven_Huber_Preserve
+59 Megunticook_Lake
+46 Oakland
+42 Vinalhaven_Starboard_Rock_Sanctuary
+41 Matinicus_Island
+35 within_ten_miles_of_Penobscot_Bay
+29 [data_not_captured]
+27 Town_of_Camden_Camden_Hills_State_Park_along_Old_Carriage_Road_near_ME_52
+22 Matinicus
+20 Warren_Maine
+19 Vinalhaven
+
+---
+Knox Co. Maine Taxon count. genus-only records excluded :552
+
+Knox Co. TAXA top 10. - genus-only records excluded
+
+78 Cladonia_furcata
+72 Xanthoria_parietina
+72 Cladonia_squamosa
+66 Lepra_amara
+57 Umbilicaria_mammulata
+55 Cladonia_boryi
+53 Gyalolechia_flavorubescens
+51 Cladonia_uncialis
+50 Cladonia_cristatella
+49 Parmelia_sulcata
+
+---
+LINCOLN County.
+---
+Lincoln Co. DATE -- genus-only records excluded
+
+LINCOLN county date : min = 1890, max = 2019, median = 1953, mean = 1953
+---
+Lincoln County.
+---
+Lincoln Co. COLLECTION DENSITY -- genus-only records excluded
+Lincoln County area = 1180 km^2
+ME LINCOLN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  820/1180 =  69.4915
+
+
+Lincoln County Count 820 - genus-only records excluded
+proportion of State count (%)  (820/39733) =  2.06378
+
+Lincoln Co. COLLECTOR top 10. - genus-only records excluded
+
+115 GroverFO
+82 HillSR
+79 WileyFAMs
+49 RosentreterR
+39 FernaldML
+36 HodgdonAR
+36 BlakeSF
+29 HutchinsonWA
+26 AllenBH
+23 FassettNC
+
+Lincoln Co. LOCALITY top 20. - genus-only records excluded
+
+72 Appalachian_Camps_Boothbay_Harbor
+48 Boothbay_Harbor_ME_Near_Sea_level
+36 Southport
+29 NoLoc
+29 Hog_Island_Medomak
+29 Boothbay_Harbor
+26 Hog_Island
+18 Ira_C_Darling_Center
+18 Boothbay
+17 [data_not_captured]
+14 Appalachee_Camps_Boothbay_Harbor
+13 Waldoboro
+12 Wiscasset_Sheepscott_River
+11 Wiscasset
+11 New_Harbor
+11 Bristol
+10 N_Whitefield
+10 Bristol_Round_Pond_region
+9 Walpole
+9 Darling_Center
+
+---
+Lincoln Co. Maine Taxon count. genus-only records excluded :164
+
+Lincoln Co. TAXA top 10. - genus-only records excluded
+
+49 Xanthoria_parietina
+37 Lobaria_scrobiculata
+25 Usnea_strigosa
+25 Cladonia_squamosa
+25 Cladonia_cristatella
+22 Hypogymnia_physodes
+21 Lobaria_pulmonaria
+19 Flavoparmelia_caperata
+18 Hydropunctaria_maura
+17 Tuckermannopsis_ciliaris
+
+---
+SAGADAHOC County.
+---
+Sagadahoc Co. DATE -- genus-only records excluded
+
+SAGADAHOC county date : min = 1908, max = 2012, median = 1987, mean = 1970
+---
+Sagadahoc County.
+---
+Sagadahoc Co. COLLECTION DENSITY -- genus-only records excluded
+Sagadahoc County area = 660 km^2
+ME SAGADAHOC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  494/660 =  74.8485
+
+
+Sagadahoc County Count 494 - genus-only records excluded
+proportion of State count (%)  (494/39733) =  1.2433
+
+Sagadahoc Co. COLLECTOR top 10. - genus-only records excluded
+
+97 TaylorRM
+71 HarrisRC
+49 LayEMs
+35 BuckWR
+25 NelsonJMs
+25 LinderDH
+24 SelvaSB
+17 GreenwoodHEMs
+16 NortonAH
+16 EsslingerTL
+
+Sagadahoc Co. LOCALITY top 20. - genus-only records excluded
+
+51 Bates-Morse_Mountain_Coastal_Research_Area_c_5_mi_S_of_Phippsburg_along_Hwy_216
+39 Popham_Beach
+37 Reid_State_Park
+24 Mill_Island_off_Arrowsic_Island_Vicinity_of_121_Mill_Island_Road
+23 Near_the_bay_Reid_State_Park
+22 Bath
+17 Sagadahoc_County_Phippsburg_Township_Bates-Morse_Mountain_Coastal_Research_Area_approx_5_miles_south_of_Phippsbug_along_Highway_216
+16 NoLoc
+12 S_of_Bath_near_point_of_peninsula
+11 Georgetown
+10 Phippsburg_Bates-Morse_Mt_Conservation_Area_More_Mt_Rd_to_Morse_Mountain_and_Seawall_Beach
+10 Bates-Morse_Mountain_Coastal_Research_Area_c_5_mi_S_of_Phippsburg_along_Hwy_216_granite_outcrop
+8 Bates-Morse_Mountain_Coastal_Research_Area_c_5_mi_S_of_Phippsburg_along_Hwy_216_mixed_woods
+7 Sagadahoc_County_Woolwich_Township_Merrymeeting_Bay_The_New_England_Wild_Flower_Society's_PT_Coffin_Wild_Flower_Sanctuary_approx_6_miles_north_of_Woolwich_along_Highway_128
+7 Mcmahon_Island
+6 near_the_bay_Reid_State_Park
+6 Five_Islands
+6 Along_the_shore_Reid_State_Park
+5 Sanctuary_Merrymeeting_Bay_c_6_mi_N_of_Woolwich_along_Hwy_128
+5 Popham_Walked_from_Popham_Beach_parking_lot_north_to_Popham_Fort_returned_south_along_Rt_209_to_start
+
+---
+Sagadahoc Co. Maine Taxon count. genus-only records excluded :155
+
+Sagadahoc Co. TAXA top 10. - genus-only records excluded
+
+17 Usnea_trichodea
+13 Hypogymnia_physodes
+13 Flavoparmelia_caperata
+13 Cladonia_gracilis
+12 Xanthoria_parietina
+12 Umbilicaria_mammulata
+12 Lasallia_papulosa
+12 Cladonia_arbuscula
+11 Evernia_mesomorpha
+10 Lepra_amara
+
+---
+CUMBERLAND County.
+---
+Cumberland Co. DATE -- genus-only records excluded
+
+CUMBERLAND county date : min = 1834, max = 2009, median = 1922, mean = 1924
+---
+Cumberland County.
+---
+Cumberland Co. COLLECTION DENSITY -- genus-only records excluded
+Cumberland County area = 2160 km^2
+ME CUMBERLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1469/2160 =  68.0093
+
+
+Cumberland County Count 1469 - genus-only records excluded
+proportion of State count (%)  (1469/39733) =  3.69718
+
+Cumberland Co. COLLECTOR top 10. - genus-only records excluded
+
+232 BlakeJRev
+218 DegeliusGBF
+196 TaylorRM
+174 NortonAH
+92 TrueRH
+68 JewettHS
+51 MerrillGK
+42 CrockettALMs
+33 MathiesonAC
+33 CroswellELMs
+
+Cumberland Co. LOCALITY top 20. - genus-only records excluded
+
+174 Prince's_Point
+145 Cumberland
+100 Recompense_Shores
+68 Westbrook
+66 Harrison
+58 Brunswick
+56 NoLoc
+56 Littlejohn_Island_Casco_Bay
+51 Cape_Elizabeth
+50 Scarborough
+39 Freeport
+39 Camden
+28 Orrs_Island
+26 Along_the_shore_Bailey_Island
+23 Portland
+22 Bailey_Island
+18 Harpswell
+13 Along_the_shore_Gurnet_near_Brunswick
+12 Gorham
+11 Gurnet_near_Brunswick
+
+---
+Cumberland Co. Maine Taxon count. genus-only records excluded :274
+
+Cumberland Co. TAXA top 10. - genus-only records excluded
+
+38 Flavoparmelia_caperata
+37 Hydropunctaria_maura
+37 Evernia_mesomorpha
+37 Cladonia_uncialis
+33 Cladonia_squamosa
+32 Hypogymnia_physodes
+25 Punctelia_rudecta
+24 Xanthoria_parietina
+24 Lobaria_pulmonaria
+24 Cladonia_cristatella
+
+---
+YORK County.
+---
+York Co. DATE -- genus-only records excluded
+
+YORK county date : min = 1841, max = 2010, median = 1992, mean = 1964
+---
+York County.
+---
+York Co. COLLECTION DENSITY -- genus-only records excluded
+York County area = 2570 km^2
+ME YORK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  848/2570 =  32.9961
+
+
+York County Count 848 - genus-only records excluded
+proportion of State count (%)  (848/39733) =  2.13425
+
+York Co. COLLECTOR top 10. - genus-only records excluded
+
+102 PierAMMs
+78 BuckWR
+75 HindsPLMs
+74 HindsJW
+62 BlakeJRev
+60 LayEMs
+51 HarrisRC
+50 LendemerJC
+37 MathiesonAC
+34 ThaxterR
+
+York Co. LOCALITY top 20. - genus-only records excluded
+
+75 Kennebunkport
+56 Wells
+49 Massabesic_Experimental_Forest_South_Unit_Government_Road_0-05_mi_N_of_intersection_with_Whichers_Mill_Road
+34 Town_of_Alfred_Massabesic_Experimental_Forest_Southern_Unit_ENE_of_Ida_Jim_Road
+32 NoLoc
+30 York_County_Alfred_and_Lyman_Townships_The_Massabesic_Experimental_Forest_owned_and_operated_by_the_Northeastern_Research_Station_of_the_USDA_Forest_Service
+28 Town_of_Saco_Ferry_Beach_State_Park_W_of_Long_Pond
+25 Town_of_Lyman_Massabesic_Experimental_Forest_Northern_Unit_N_of_SW_end_of_CC_Road
+22 Town_of_Alfred_Messabesic_Experimental_Forest_Southern_Unit_North-east_of_Ida_Jim_Road_south_of_intersection_with_Mouse_Lane_Atlantic_White_Cedar_Swamp
+21 York
+18 Town_of_Lyman_Messabesic_Experimental_Forest_Northern_Unit_North_of_south-west_end_of_CC_Road
+17 Town_of_Saco_Saco_Heath_Preserve_NE_of_ME_112_02_mi_SE_of_Louden_Road
+15 Cape_Porpoise
+14 SHAPLEIGH_WATERBORO_BARRENS
+11 Saco
+11 Kittery_Point
+10 Town_of_Saco_Ferry_Beach_State_Park_Tupelo_Swamp
+10 Lyman
+9 [data_not_captured]
+9 York_Harbor
+
+---
+York Co. Maine Taxon count. genus-only records excluded :227
+
+York Co. TAXA top 10. - genus-only records excluded
+
+48 Hydropunctaria_maura
+34 Usnea_strigosa
+28 Xanthoria_parietina
+22 Umbilicaria_mammulata
+16 Micarea_neostipitata
+15 Hypogymnia_physodes
+14 Cladonia_uncialis
+14 Cladonia_cristatella
+14 Chaenotheca_brunneola
+13 Flavoparmelia_caperata
+
+---
+AROOSTOOK County.
+---
+Aroostook Co. DATE -- genus-only records excluded
+
+AROOSTOOK county date : min = 1880, max = 2012, median = 1987, mean = 1971
+---
+Aroostook County.
+---
+Aroostook Co. COLLECTION DENSITY -- genus-only records excluded
+Aroostook County area = 17280 km^2
+ME AROOSTOOK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4979/17280 =  28.8137
+
+
+Aroostook County Count 4979 - genus-only records excluded
+proportion of State count (%)  (4979/39733) =  12.5311
+
+Aroostook Co. COLLECTOR top 10. - genus-only records excluded
+
+3285 SelvaSB
+840 CummingsCEMs
+394 HindsPLMs
+288 HindsJW
+264 TellerEAMs
+60 RiddleLW
+57 SharnoffS
+55 ClaydenSR
+52 OgdenEC
+46 SharnoffSDMs
+
+Aroostook Co. LOCALITY top 20. - genus-only records excluded
+
+721 Fort_Kent
+408 St_Francis
+189 Yankeetuladi_Pond
+155 Carr_Pond_Mt
+150 Van_Buren
+143 Aroostook_County_T13_R11_WELS_off_to_the_south_of_unnamed_road_approx_37_miles_west_of_the_Rocky_Brook/Sag_Pond_roads_junction_and_6_miles_east_of_the_Dead_Horse_Gulch_road_junction
+139 Aroostook_County_east-central_section_of_T15_R9_WELS_Maine_Public_Reserve_Land/Deboullie_Mountain_Township_north_of_the_Red_River_Picea_rubens-dominated_stand_on_steep_NW-facing_slope_that_overlooks_Deboullie_Pond_to_the_northwest
+133 Aroostook_County_T13_R10_WELS_southwest_section_of_township_near_end_of_Rocky_Brook_tributary
+115 Black_Mountain
+115 Aroostook_County_T14_R13_WELS_Musquacook_old-growth_hardwood_forest
+103 Aroostook_County_TD_R2_WELS_northwest_slope_of_Number_Nine_Mountain
+93 Aroostook_County_south-central_section_of_T18_R12_WELS_Picea_rubens-dominated_stand_at_the_summit_of_Rocky_Mountain
+83 Aroostook_County_Presque_Isle_Township_off_to_the_west_side_of_unnamed_county_road_2_miles_west_of_Route_1_approx_25_mile_north_of_its_junction_with_Route_164
+79 Aroostook_County_T16_R5_WELS_southern_end_of_Cross_Lake_just_south_of_Minnow_Brook_approx_75_mile_by_shoreline_from_International_Paper's_picnic_area_and_boatlanding_Off_Route_161
+77 Ft_Fairfield
+70 Aroostook_County_T10_R9_WELS_south_side_of_the_Jack_Mountain_road_between_Bartlett_Stream_and_the_Mooseleuk_Stream_road
+67 Aroostook_County_south-eastern_section_of_T15_R9_WELS_Maine_Public_Reserve_Land/Deboullie_Mountain_Township_Picea_rubens-dominated_stand_northeast_of_Denny_Pond_on_Whitman_Mountain
+65 NoLoc
+65 Aroostook_County_T15_R9_WELS_rockslide_along_north_shore_of_Deboullie_Pond
+64 Aroostook_County_Northwestern_section_of_T15_R8_WELS_along_the_western_branch_of_Rocky_Brook
+
+---
+Aroostook Co. Maine Taxon count. genus-only records excluded :433
+
+Aroostook Co. TAXA top 10. - genus-only records excluded
+
+177 Chaenotheca_chrysocephala
+159 Chaenotheca_trichialis
+156 Calicium_parvum
+114 Chaenothecopsis_pusilla
+99 Mycocalicium_subtile
+93 Calicium_trabinellum
+78 Sphinctrina_turbinata
+71 Chaenotheca_ferruginea
+65 Stenocybe_major
+59 Buellia_disciformis
+
+---
+PISCATAQUIS County.
+---
+Piscataquis Co. DATE -- genus-only records excluded
+
+PISCATAQUIS county date : min = 1847, max = 2009, median = 1987, mean = 1974
+---
+Piscataquis County.
+---
+Piscataquis Co. COLLECTION DENSITY -- genus-only records excluded
+Piscataquis County area = 10260 km^2
+ME PISCATAQUIS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3829/10260 =  37.3197
+
+
+Piscataquis County Count 3829 - genus-only records excluded
+proportion of State count (%)  (3829/39733) =  9.63683
+
+Piscataquis Co. COLLECTOR top 10. - genus-only records excluded
+
+1252 SelvaSB
+580 HindsJW
+182 HindsPLMs
+176 CraneJL
+171 FrydayAM
+171 DegeliusGBF
+157 AllardHA
+136 DibbleACMs
+99 BlakeJRev
+94 NortonAH
+
+Piscataquis Co. LOCALITY top 20. - genus-only records excluded
+
+1657 Mt_Katahdin_massif
+619 Big_Reed_Pond_Preserve
+155 Togue_Pond
+147 Piscataquis_County_Trout_Brook_Township_Baxter_State_Park_Boody_Brook_Reserve
+98 Piscataquis_County_Township_6_Ranges_9_and_10_in_the_northwest_corner_of_Baxter_State_Park_Frost_Pond_old-growth_forest_within_the_Scientific_Forest_Management_Area
+85 Piscataquis_County_T4_R9_WELS_Baxter_State_Park_Old-Growth_Forest_Reserve_on_the_north_side_of_North_Turner_Brook_off_the_Tracy_Horse_Trail
+56 Piscataquis_County_T5_R9_WELS_Baxter_State_Park_Old-Growth_forest_reserve_approx_5km_north_of_the_flat_just_short_of_the_summit_of_North_Traveler_Mountain
+55 Piscataquis_County_T8_R9_WELS_approx_5_mile_north_of_milestone_41_of_the_Pinkham_road
+50 Piscataquis_County_Elliotsville_Township_National_Audubon_Society's_Borestone_Mountain_Wildlife_Sanctuary_Spruce-fir_ridge_above_the_eastern_shore_of_Midday_Pond
+48 NoLoc
+37 Mt_Katahdin_Twp
+34 Lily_Bay_State_Park
+27 [data_not_captured]
+27 Piscataquis_County_Nesourdnahunk_Township_Baxter_State_Park_South_of_McCarty_Field_Station_along_Hathorn_River
+17 Piscataquis_County_T4_R10_WELS_Baxter_State_Park_Along_the_fire_road_which_heads_east_off_the_Park_Tote_Road_near_the_southern_end_of_Nesowadnehunk_Lake
+16 Boreal_Forest_Ripogenus_Dam
+16 Atkinson_near_Piscataquis_River
+14 T4_R9_WELS
+14 North_Traveller_Baxter_State_Park
+13 Blanchard
+
+---
+Piscataquis Co. Maine Taxon count. genus-only records excluded :533
+
+Piscataquis Co. TAXA top 10. - genus-only records excluded
+
+96 Cladonia_rangiferina
+68 Chaenotheca_trichialis
+68 Chaenotheca_chrysocephala
+65 Calicium_parvum
+63 Chaenothecopsis_pusilla
+62 Cladonia_squamosa
+59 Cladonia_gracilis
+56 Cetraria_laevigata
+54 Mycocalicium_subtile
+44 Hypogymnia_physodes
+
+---
+SOMERSET County.
+---
+Somerset Co. DATE -- genus-only records excluded
+
+SOMERSET county date : min = 1887, max = 2007, median = 1983, mean = 1972
+---
+Somerset County.
+---
+Somerset Co. COLLECTION DENSITY -- genus-only records excluded
+Somerset County area = 10160 km^2
+ME SOMERSET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  443/10160 =  4.36024
+
+
+Somerset County Count 443 - genus-only records excluded
+proportion of State count (%)  (443/39733) =  1.11494
+
+Somerset Co. COLLECTOR top 10. - genus-only records excluded
+
+184 HindsPLMs
+110 HindsJW
+56 LaddDM
+31 HarveyFL
+23 CraneJL
+19 NortonAH
+18 MehlinEGMs
+15 FrankEMMs
+15 FlennikenD
+12 SchoknechtJD
+
+Somerset Co. LOCALITY top 20. - genus-only records excluded
+
+33 T7_R16_WELS
+27 Jackman
+20 NoLoc
+18 SANDY_BAY_TWP_SANDY_BAY_MOUNTAIN
+16 T8_R16_WELS
+9 FAIRFIELD_RICH_WOODS_W_OF_TEN_LOTS_RD
+8 PIERCE_POND_TWP_UPPER_PIERCE_POND
+8 On_east_side_of_Parkman_Hill_ca_35_miles_E/SE_of_Solon
+8 Caratunk
+7 MOXIE_GORE_TRAIL_IN_WOODS_-_MOXIE_FALLS
+7 DEAD_RIVER_TWP_LITTLE_BIGELOW_MOUNTAIN_TRAIL
+7 BIGELOW_TWP_BIGELOW_MOUNTAIN
+7 ATTEAN_TWP_ATTEAN_LAKE
+6 St_Francis_Lake
+6 Avery_Peak_8_miles_E_of_Stratton_Bigelow_Mtns
+6 Avery_Park_8_miles_E_of_Stratton_Bigelow_Mtns
+5 St_Albans
+5 MADISON_LEDGES-_KENNEBEC_RIVE
+5 DEAD_RIVER_TWP_TRAIL-_LITTLE_BIGELOW_MOUNTAI
+4 [data_not_captured]
+
+---
+Somerset Co. Maine Taxon count. genus-only records excluded :186
+
+Somerset Co. TAXA top 10. - genus-only records excluded
+
+13 Evernia_mesomorpha
+12 Hypogymnia_physodes
+10 Cladonia_gracilis
+9 Cladonia_squamosa
+8 Cladonia_rangiferina
+8 Cladonia_cristatella
+8 Bryoria_furcellata
+7 Flavoparmelia_caperata
+7 Cladonia_rei
+7 Cladonia_mitis
+
+---
+PENOBSCOT County.
+---
+Penobscot Co. DATE -- genus-only records excluded
+
+PENOBSCOT county date : min = 1847, max = 2016, median = 1985, mean = 1966
+---
+Penobscot County.
+---
+Penobscot Co. COLLECTION DENSITY -- genus-only records excluded
+Penobscot County area = 8800 km^2
+ME PENOBSCOT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1360/8800 =  15.4545
+
+
+Penobscot County Count 1360 - genus-only records excluded
+proportion of State count (%)  (1360/39733) =  3.42285
+
+Penobscot Co. COLLECTOR top 10. - genus-only records excluded
+
+547 HindsPLMs
+280 HindsJW
+135 OgdenEC
+113 SelvaSB
+81 NULLx
+48 RiddleLW
+46 HarveyFL
+36 OgdenEBMs
+36 FernaldML
+31 MalcolmJF
+
+Penobscot Co. LOCALITY top 20. - genus-only records excluded
+
+684 Orono
+113 Lunksoos_Mountain
+108 Bangor
+64 Alton
+44 Old_Town
+28 Bradley
+21 NoLoc
+13 2_mi_north_of_Dexter_along_SR-23_cemetery
+11 Milford
+10 East_Eddington
+9 Oldtown
+8 T1_R8_WELS_MILLINOCKET_LAKE
+8 MILFORD_MOIST_WOODS-_COUNTY_ROAD
+7 MILLINOCKET_ROADSIDE-_ROUTE_157
+6 Hudson
+5 Dexter
+5 BRADLEY_NO_26_SWAMP_MAINE_PUBLIC_RESERVE_LAND_OFF_BAKER_BROOK_ROAD_44_53N/68_32W
+4 near_Lee
+4 Seboeis_River_floodplain_Seboeis_River_Campsite_Maine_Route_159_T_6_R_7_Wels
+4 OLD_TOWN_UNIVERSITY_FOREST-_PINKHAM_RD
+
+---
+Penobscot Co. TAXA top 10. - genus-only records excluded
+
+36 Hypogymnia_physodes
+32 Bryoria_furcellata
+28 Evernia_mesomorpha
+27 Usnea_subfloridana
+26 Cladonia_cristatella
+25 Usnea_dasopoga
+24 Ricasolia_quercizans
+24 Ramalina_americana
+24 Platismatia_tuckermanii
+22 Tuckermannopsis_americana
+
+---
+KENNEBEC County.
+---
+Kennebec Co. DATE -- genus-only records excluded
+
+KENNEBEC county date : min = 1843, max = 2002, median = 1935, mean = 1943
+---
+Kennebec County.
+---
+Kennebec Co. COLLECTION DENSITY -- genus-only records excluded
+Kennebec County area = 2250 km^2
+ME KENNEBEC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  238/2250 =  10.5778
+
+
+Kennebec County Count 238 - genus-only records excluded
+proportion of State count (%)  (238/39733) =  0.598998
+
+Kennebec Co. COLLECTOR top 10. - genus-only records excluded
+
+34 MerrillGK
+30 ParlinJC
+23 SargentFL
+14 HindsPLMs
+13 HindsJW
+13 CarlsonDC
+13 BuckWR
+11 NelsonJMs
+11 HarrisRC
+10 ScribnerFL
+
+Kennebec Co. LOCALITY top 20. - genus-only records excluded
+
+38 Manchester
+27 Albion
+9 Oakland_Pine_Hill
+9 Oakland
+9 Belgrade
+8 Monmouth
+8 Long_Pond_Township
+7 Kent's_Hill
+6 Pittston
+6 Mud_Pond_c_3_mi_SW_of_Litchfield_along_Hwy_126_swamp_forest
+6 Litchfield
+5 Mud_Pond_c_3_mi_SW_of_Litchfield_on_Hwy_126
+4 WINSLOW_ALONG_KENNEBEC_RIVER
+4 NoLoc
+4 Mud_Pond_c_3_mi_SW_of_Litchfield_along_Hwy_126
+3 [data_not_captured]
+3 Winslow
+3 Vienna
+3 Randolph
+3 Near_Monmouth
+
+---
+Kennebec Co. Maine Taxon count. genus-only records excluded :126
+
+Kennebec Co. TAXA top 10. - genus-only records excluded
+
+8 Ramalina_americana
+7 Platismatia_tuckermanii
+7 Parmelia_sulcata
+7 Hypogymnia_physodes
+6 Ricasolia_quercizans
+5 Vulpicida_pinastri
+5 Physcia_stellaris
+5 Parmelia_saxatilis
+5 Cladonia_rangiferina
+5 Cladonia_cristatella
+Kennebec Co. TAXA top 10. - genus-only records excluded
+
+8 Ramalina_americana
+7 Platismatia_tuckermanii
+7 Parmelia_sulcata
+7 Hypogymnia_physodes
+6 Ricasolia_quercizans
+5 Vulpicida_pinastri
+5 Physcia_stellaris
+5 Parmelia_saxatilis
+5 Cladonia_rangiferina
+5 Cladonia_cristatella
+
+---
+ANDROSCOGGIN County.
+---
+Androscoggin Co. DATE -- genus-only records excluded
+
+ANDROSCOGGIN county date : min = 1871, max = 2002, median = 1928, mean = 1921
+---
+Androscoggin County.
+---
+Androscoggin Co. COLLECTION DENSITY -- genus-only records excluded
+Androscoggin County area = 1210 km^2
+ME ANDROSCOGGIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  169/1210 =  13.9669
+
+
+Androscoggin County Count 169 - genus-only records excluded
+proportion of State count (%)  (169/39733) =  0.425339
+
+Androscoggin Co. COLLECTOR top 10. - genus-only records excluded
+
+69 ParlinJC
+40 MerrillED
+24 MerrillGK
+8 PikeLH
+7 HindsJW
+5 HindsPLMs
+2 RamsdellMJ
+2 ForthDLMs
+2 CianoN
+1 WilleyH
+
+Androscoggin Co. LOCALITY top 20. - genus-only records excluded
+
+55 Turner
+21 Auburn
+16 East_Auburn
+12 Livermore
+10 Turner_Ctr
+8 Lisbon
+5 NoLoc
+4 AUBURN_CEMETERY
+3 [no_additional_data]
+3 Minot
+2 [data_not_captured]
+2 Turner_in_Nezinscot_River
+2 Greene
+2 Ea_Auburn
+2 Behind_Gary_Labbe_home_on_Hinkley_Hill_S_of_Livermore_Falls
+1 on_sandy_hillside_behind_Gary_Labbe_home_on_Hinkley_Hill_S_of_Liver-more_Falls
+1 near_Nezinscott_River_Turner_Ctr
+1 at_the_Francis_Pike_home_on_Rte_17_3_mi_SW_of_Livermore_Falls
+1 Turner_bank_of_Nezinceat_River
+1 Turner_Nezinscot_River
+
+---
+Androscoggin Co. Maine Taxon count. genus-only records excluded :104
+
+6 Cladonia_scabriuscula
+5 Ramalina_americana
+5 Graphis_scripta
+4 Trapeliopsis_granulosa
+4 Stereocaulon_paschale
+4 Cladonia_furcata
+3 Stereocaulon_pileatum
+3 Punctelia_rudecta
+3 Physconia_detersa
+3 Physcia_adscendens
+
+---
+
+FRANKLIN County.
+---
+Franklin Co. DATE -- genus-only records excluded
+
+min = 1880, max = 2009, median = 1970, mean = 1960
+---
+Franklin County.
+---
+Franklin Co. COLLECTION DENSITY -- genus-only records excluded
+Franklin County land area = 4400 km^2
+ME FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  558/4400 =  12.6818
+
+
+Franklin County Count 558 - genus-only records excluded
+proportion of State count (%)  (558/39733) =  1.40437
+
+Franklin Co. COLLECTOR top 10. - genus-only records excluded
+
+80 HindsPLMs
+71 HindsJW
+58 NortonAH
+52 OakesHMs
+42 CraneJL
+31 OgdenEC
+29 CopelandM
+28 PikeLH
+24 RiddleLW
+23 FrankEMMs
+
+Franklin Co. LOCALITY top 20. - genus-only records excluded
+
+83 Rangeley
+23 Saddleback_Mountain_Sandy_River_Sandy_River_Plt
+21 NoLoc
+20 Sugarloaf_Mountain
+12 T2_R6_WBKP_CHAIN_OF_PONDS
+12 Horne_Pond_5_mi_S_of_Stratton_Bigelow_Mtns
+10 New_Sharon
+10 Kingfield
+9 [data_not_captured]
+9 State_Park_at_Small's_Falls_near_Rangeley
+9 SADDLEBACK_MT_TOP_44_56N/70_30W
+9 Pine_forest_near_Rangeley_Lake
+8 STRONG_STUBBS_MOUNTAIN
+7 Sandy_River_Plt
+7 FARMINGTON_COMMERCIAL_MAPLE_SUGAR_FARM
+7 Cranberry_Peak_35_miles_E_of_Stratton_Bigelow_Mtns
+6 Salem
+6 Jim_Pond_T1R5
+6 CARRABASSET_VALLEY_NARROW_GAUGE_RAILROAD_TRAIL
+5 east_of_Stratton
+
+---
+Franklin Co. Maine Taxon count. genus-only records excluded :185
+Franklin Co. TAXA top 10. - genus-only records excluded
+
+23 Cetraria_laevigata
+16 Evernia_mesomorpha
+15 Hypogymnia_physodes
+15 Cladonia_squamosa
+15 Cladonia_rangiferina
+14 Usnea_subfloridana
+13 Cladonia_stellaris
+13 Cladonia_cristatella
+11 Vulpicida_pinastri
+10 Cladonia_mitis
+
+---
+
+OXFORD County.
+---
+Oxford Co. DATE -- genus-only records excluded
+
+OXFORD county date : min = 1854, max = 2019, median = 1940, mean = 1945
+---
+Oxford County.
+---
+Oxford Co. COLLECTION DENSITY -- genus-only records excluded
+Oxford County area = 5380 km^2
+ME OXFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1177/5380 =  21.8773
+
+
+Oxford County Count 1177 - genus-only records excluded
+proportion of State count (%)  (1177/39733) =  2.96227
+
+Oxford Co. COLLECTOR top 10. - genus-only records excluded
+
+763 ParlinJC
+53 LayEMs
+42 HindsJW
+33 MalcolmJF
+33 HindsPLMs
+29 NortonAH
+29 CraneJL
+27 OgdenEC
+20 RichardsCD
+15 EisenmanS
+
+Oxford Co. LOCALITY top 20. - genus-only records excluded
+
+298 Canton_Point
+167 Buckfield
+68 Canton
+50 Hartford
+28 NoLoc
+25 Howard_Hill_S_Hartford
+12 [data_not_captured]
+12 Old_Speck_Grafton_Township
+12 Hebron_and_South_Paris_Streaked_Mountain
+12 Fryeburg
+11 S_Hartford_Howard_Hill
+11 Rumford_Center
+11 Paris
+11 Greenwood_Fern_Grotto
+10 Summit_Brush_Mountain_Roxbury
+9 Newry
+9 Howard_Hill_Hartford
+9 Hastings
+8 Woods_by_Cupsuptic_Lake_Campground_Adamstown_Township
+8 DENMARK_TRAIL_UP_PLEASANT_MOUNTAIN
+
+---
+Oxford Co. Maine Taxon count. genus-only records excluded :285
+Oxford Co. TAXA top 10. - genus-only records excluded
+
+39 Cladonia_rangiferina
+33 Cladonia_squamosa
+25 Graphis_scripta
+25 Cladonia_gracilis
+24 Cladonia_cristatella
+21 Peltigera_polydactylon
+20 Lecanora_allophana
+16 Ramalina_americana
+15 Evernia_mesomorpha
+14 Ropalospora_chlorantha
+
+---
+Mt._Katahdin_massif Maine Taxon count. genus-only records excluded :332
+
+Mt._Katahdin_massif TAXA total. - genus-only records excluded
+
+64 Cladonia_rangiferina_MKm
+48 Cetraria_laevigata_MKm
+30 Cladonia_squamosa_MKm
+30 Cladonia_gracilis_MKm
+28 Mycoblastus_sanguinarioides_MKm
+28 Cladonia_amaurocraea_MKm
+26 Melanelia_hepatizon_MKm
+25 Flavocetraria_nivalis_MKm
+24 Lasallia_papulosa_MKm
+23 Umbilicaria_proboscidea_MKm
+23 Cladonia_stellaris_MKm
+23 Arctoparmelia_centrifuga_MKm
+21 Rhizocarpon_geographicum_MKm
+21 Fuscidea_appalachensis_MKm
+20 Fuscidea_lowensis_MKm
+20 Flavocetraria_cucullata_MKm
+19 Umbilicaria_deusta_MKm
+17 Ropalospora_lugubris_MKm
+17 Cetraria_islandica_MKm
+16 Umbilicaria_torrefacta_MKm
+16 Umbilicaria_hyperborea_MKm
+16 Parmelia_saxatilis_MKm
+16 Ochrolechia_frigida_MKm
+15 Melanelia_stygia_MKm
+15 Lecanora_polytropa_MKm
+15 Cladonia_stygia_MKm
+14 Vulpicida_pinastri_MKm
+14 Cladonia_coccifera_MKm
+14 Cetrariella_delisei_MKm
+13 Usnocetraria_oakesiana_MKm
+13 Platismatia_glauca_MKm
+13 Parmeliopsis_hyperopta_MKm
+13 Helocarpon_crassipes_MKm
+13 Cladonia_uncialis_MKm
+13 Cladonia_pleurota_MKm
+12 Thamnolia_vermicularis_MKm
+12 Sphaerophorus_fragilis_MKm
+12 Rhizocarpon_lavatum_MKm
+12 Micarea_lignaria_MKm
+11 Rhizocarpon_infernulum_MKm
+11 Porpidia_tuberculosa_MKm
+11 Porpidia_thomsonii_MKm
+11 Lecanora_placidensis_MKm
+11 Icmadophila_ericetorum_MKm
+11 Hypogymnia_physodes_MKm
+11 Cladonia_crispata_MKm
+10 Protoparmelia_cupreobadia_MKm
+10 Orphniospora_moriopsis_MKm
+10 Fuscidea_mollis_MKm
+10 Cladonia_arbuscula_MKm
+10 Bryobilimbia_hypnorum_MKm
+9 Stereocaulon_glaucescens_MKm
+9 Rhizocarpon_badioatrum_MKm
+9 Pseudevernia_cladonia_MKm
+9 Ionaspis_lacustris_MKm
+9 Cladonia_maxima_MKm
+8 Protomicarea_limosa_MKm
+8 Lecanora_symmicta_MKm
+8 Lecanora_intricata_MKm
+8 Lecanora_circumborealis_MKm
+8 Cladonia_sulphurina_MKm
+8 Cecidonia_xenophana_MKm
+7 Umbilicaria_muhlenbergii_MKm
+7 Stereocaulon_alpinum_MKm
+7 Rhizocarpon_hochstetteri_MKm
+7 Montanelia_panniformis_MKm
+7 Lepraria_neglecta_MKm
+7 Lecidoma_demissum_MKm
+7 Lecanora_wisconsinensis_MKm
+7 Fusciea_lowensis_MKm
+7 Fuscidea_arboricola_MKm
+7 Cladonia_furcata_MKm
+6 Xylographa_parellela_MKm
+6 Trapeliopsis_granulosa_MKm
+6 Stereocaulon_subcoralloides_MKm
+6 Schaereria_fuscocinerea_MKm
+6 Ricasolia_quercizans_MKm
+6 Rhizocarpon_anaperum_MKm
+6 Porpidia_superba_MKm
+6 Porpidia_cinereoatra_MKm
+6 Parmeliopsis_ambigua_MKm
+6 Parmelia_sulcata_MKm
+6 Micarea_peliocarpa_MKm
+6 Lecidea_haerjedalica_MKm
+6 Hypogymnia_krogiae_MKm
+6 Fuscidea_scrupulosa_MKm
+6 Fuscidea_recensa_MKm
+6 Evernia_mesomorpha_MKm
+6 Cladonia_pocillum_MKm
+5 Stereocaulon_paschale_MKm
+5 Protoparmelia_badia_MKm
+5 Phaeocalicium_matthewsianum_MKm
+5 Peltigera_polydactylon_MKm
+5 Peltigera_aphthosa_MKm
+5 Mycocalicium_subtile_MKm
+5 Lobaria_pulmonaria_MKm
+5 Cladonia_deformis_MKm
+5 Cladonia_coniocraea_MKm
+5 Bryoria_nadvornikiana_MKm
+5 Baeomyces_rufus_MKm
+5 Aspicilia_cinerea_MKm
+5 Arctoparmelia_incurva_MKm
+4 Xylographa_vitiligo_MKm
+4 Umbilicaria_mammulata_MKm
+4 Stereocaulon_plicatile_MKm
+4 Stereocaulon_nanodes_MKm
+4 Stereocaulon_dactylophyllum_MKm
+4 Rhizocarpon_eupetraeoides_MKm
+4 Pseudevernia_consocians_MKm
+4 Porpidia_rugosa_MKm
+4 Porpidia_flavicunda_MKm
+4 Platismatia_tuckermanii_MKm
+4 Phaeocalicium_compressulum_MKm
+4 Pertusaria_consocians_MKm
+4 Parmelia_omphalodes_MKm
+4 Ophioparma_ventosa_MKm
+4 Miriquidica_pycnocarpa_MKm
+4 Miriquidica_leucophaea_MKm
+4 Lecidella_wulfenii_MKm
+4 Lecidea_lapicida_MKm
+4 Lecidea_herteliana_MKm
+4 Lecanora_caesiosora_MKm
+4 Cladonia_ochrochlora_MKm
+3 Tuckermannopsis_sepincola_MKm
+3 Tremolecia_atrata_MKm
+3 Tephromela_atra_MKm
+3 Stereocaulon_symphycheilum_MKm
+3 Sporastatia_testudinea_MKm
+3 Sarcogyne_clavus_MKm
+3 Rhizocarpon_superficiale_MKm
+3 Rhizocarpon_reductum_MKm
+3 Rhizocarpon_polycarpum_MKm
+3 Rhizocarpon_eupetraeum_MKm
+3 Punctelia_rudecta_MKm
+3 Porpidia_crustulata_MKm
+3 Parmotrema_arnoldii_MKm
+3 Metamelanea_umbonata_MKm
+3 Melanohalea_septentrionalis_MKm
+3 Melanohalea_olivacea_MKm
+3 Melanohalea_halei_MKm
+3 Lepra_ophthalmiza_MKm
+3 Hymenelia_cyanocarpa_MKm
+3 Gyrographa_gyrocarpa_MKm
+3 Dibaeis_baeomyces_MKm
+3 Cladonia_wainioi_MKm
+3 Cladonia_straminea_MKm
+3 Cladonia_macrophyllodes_MKm
+3 Cladonia_macrophylla_MKm
+3 Cladonia_ecmocyna_MKm
+3 Cetraria_muricata_MKm
+3 Candelariella_vitellina_MKm
+3 Aspicilia_grisea_MKm
+2 Xanthoparmelia_conspersa_MKm
+2 Verrucaria_hydrela_MKm
+2 Usnea_dasopoga_MKm
+2 Umbilicaria_vellea_MKm
+2 Tuckermannopsis_americana_MKm
+2 Trapelia_coarctata_MKm
+2 Thelidium_minutulum_MKm
+2 Sterocaulon_plicatile_MKm
+2 Stereocaulon_saxatile_MKm
+2 Stereocaulon_condensatum_MKm
+2 Sporastatia_polyspora_MKm
+2 Scoliciosporum_umbrinum__MKm
+2 Scoliciosporum_umbrinum_MKm
+2 Scoliciosporum_intrusum_MKm
+2 Rusavskia_elegans_MKm
+2 Ropalospora_viridis_MKm
+2 Ropalospora_chlorantha_MKm
+2 Rinodina_subminuta_MKm
+2 Rhizocarpon_timdalii_MKm
+2 Rhizocarpon_jemtlandicum_MKm
+2 Pyxine_sorediata_MKm
+2 Pycnothelia_papillaris_MKm
+2 Protothelenella_corrosa_MKm
+2 Porpidia_macrocarpa_MKm
+2 Polyblastia_cruenta_MKm
+2 Placynthiella_uliginosa_MKm
+2 Pertusaria_subdactylina_MKm
+2 Parmeliopsis_capitata_MKm
+2 Ochrolechia_arborea_MKm
+2 Micarea_paratropa_MKm
+2 Micarea_melaena_MKm
+2 Micarea_marginata_MKm
+2 Micarea_leprosula_MKm
+2 Melanohalea_exasperata_MKm
+2 Loxospora_ochrophaea_MKm
+2 Lichenomphalia_hudsoniana_MKm
+2 Lecidea_nylanderi_MKm
+2 Lecidea_lactea_MKm
+2 Lecidea_brunneofusca_MKm
+2 Lecanora_monticola_MKm
+2 Lecanora_leptacina_MKm
+2 Lecanora_hybocarpa_MKm
+2 Lecanora_cenisia_MKm
+2 Gyalecta_russula_MKm
+2 Epilichen_scabrosus_MKm
+2 Ephebe_lanata_MKm
+2 Ephebe_hispidula_MKm
+2 Dimelaena_oreina_MKm
+2 Cryptodiscus_gloeocapsa_MKm
+2 Clauzadeana_macula_MKm
+2 Cladonia_verticillata_MKm
+2 Cladonia_rei_MKm
+2 Cladonia_merochlorophaea_MKm
+2 Cladonia_macilenta_MKm
+2 Cladonia_floerkeana_MKm
+2 Cladonia_cristatella_MKm
+2 Cladonia_cornuta_MKm
+2 Cladonia_boryi_MKm
+2 Cetraria_aculeata_MKm
+2 Carbonia_intrusa_MKm
+2 Calicium_trabinellum_MKm
+2 Bellemerea_cinereorufescens_MKm
+2 Baeomyces_placophyllus_MKm
+2 Baeomyces_carneus_MKm
+2 Arthrorhaphis_grisea_MKm
+2 Arthrorhaphis_alpina_MKm
+1 Xanthoparmelia_hypofusca_MKm
+1 Xanthoparmelia_angustiphylla_MKm
+1 Xanthomendoza_ulophyllodes_MKm
+1 Vulpicida_prunastri_MKm
+1 Usnea_subrubicunda_MKm
+1 Usnea_subfloridana_MKm
+1 Umbilicaria_hirsuta_MKm
+1 Trapeliopsis_flexuosa_MKm
+1 Trapelia_glebulosa_MKm
+1 Tonina_squalescens_MKm
+1 Toensbergia_geminipara__MKm
+1 Stereocaulon_tomentosum_MKm
+1 Stereocaulon_pileatum_MKm
+1 Staurothele_fissa_MKm
+1 Squamulea_subsoluta_MKm
+1 Sporodictyon_cruentum_MKm
+1 Spilonema_revertens_MKm
+1 Spilonema_paradoxum_MKm
+1 Scoliciosporum_chlorococcum_MKm
+1 Sclerococcum_attendendum_MKm
+1 Sarcoyne_clavus_MKm
+1 Rhizoplaca_subdiscrepans_MKm
+1 Rhizocarpon_sylvaticum_MKm
+1 Rhizocarpon_subgeminatum_MKm
+1 Rhizocarpon_rubescens_MKm
+1 Rhizocarpon_grande_MKm
+1 Rhizocarpon_amphibium_MKm
+1 Rhizocarpon_alpicola_MKm
+1 Ramboldia_cinnabarina_MKm
+1 Ramalina_intermedia_MKm
+1 Pycnothelia_papillaria_MKm
+1 Porpidia_grisea_MKm
+1 Porpidia_contraponenda_MKm
+1 Polycauliona_polycarpa_MKm
+1 Placynthiella_oligotropha_MKm
+1 Placynthiella_oligotropa_MKm
+1 Placynthiella_icmalea_MKm
+1 Physcia_millegrana_MKm
+1 Physcia_dubia_MKm
+1 Phlyctis_speirea_MKm
+1 Phaeophyscia_sp_MKm
+1 Phaeophyscia_rubropulchra_MKm
+1 Phaeophyscia_adiastola_MKm
+1 Phaeocalicium_flabelliforme_MKm
+1 Pertusaria_rubefacta_MKm
+1 Peltigera_evansiana_MKm
+1 Omphalina__sp_MKm
+1 Ochrolechia_trochophora_MKm
+1 Ochrolechia_pseudopallescens_MKm
+1 Ochrolechia_farinacea_MKm
+1 Nephroma_helveticum_MKm
+1 Nephroma_bellum_MKm
+1 Myelochroa_aurulenta_MKm
+1 Mycoblastus_affinis_MKm
+1 Miriquidica_lulensis_MKm
+1 Micarea_coppinsii__MKm
+1 Melanelixia_subargentifera_MKm
+1 Melanelia__hepatizon_MKm
+1 Lobaria_scrobiculata_MKm
+1 Lithographa_tesserata_MKm
+1 Leptogium_cyanescens_MKm
+1 Lepraria_finkii_MKm
+1 Lepra_trachythallina_MKm
+1 Lepra_subdactylina_MKm
+1 Lepra_dactylina_MKm
+1 Lepra_amara_MKm
+1 Lecidella_stigmatea_MKm
+1 Lecidea_swartzioides_MKm
+1 Lecidea_auriculata_MKm
+1 Lecanora_saligna_MKm
+1 Lecanora_pulicaris_MKm
+1 Lecanora_fuscescens_MKm
+1 Lecanora_epibryon_MKm
+1 Lambiella_impavida_MKm
+1 Lambiella_gyrizans_MKm
+1 Japewia_tornoense_MKm
+1 Imshaugia_aleurites_MKm
+1 Hypogymnia_tubulosa_MKm
+1 Hypogymnia_incurvoides_MKm
+1 Graphis_scripta_MKm
+1 Fuscidea_gothoburgensis_MKm
+1 Evernia_prunastri_MKm
+1 Epigloea_soleiformis_MKm
+1 Coenogonium_pineti_MKm
+1 Cladonia_subulata_MKm
+1 Cladonia_strepsilis_MKm
+1 Cladonia_scabriuscula_MKm
+1 Cladonia_ramulosa_MKm
+1 Cladonia_mitis_MKm
+1 Cladonia_incrassata_MKm
+1 Cladonia_decorticata_MKm
+1 Cladonia_chlorophaea_MKm
+1 Cladonia_carneola_MKm
+1 Cladonia_acuminata_MKm
+1 Cetraria_arenaria_MKm
+1 Cetraria__laevigata_MKm
+1 Carbonea_vorticosa_MKm
+1 Calvitimela_aglaea_MKm
+1 Caloplaca_lithophila_MKm
+1 Buellla__sp_MKm
+1 Buellia_disciformis_MKm
+1 Bryoria_trichodes_MKm
+1 Bryoria_kockiana_MKm
+1 Bryoria_fuscescens_MKm
+1 Bryoria_americana_MKm
+1 Athallia_vitellinula_MKm
+1 Aspilidea_myrinii_MKm
+1 Arthrorhaphis_citrinella_MKm
+1 Arthroraphis_citrinella_MKm
+1 Anaptychia_palmulata_MKm
+1 Adelolecia_kolaensis_MKm
+1 Acarospora_thamnina_MKm
+1 Acarospora_fuscata_MKm
+
+---
+## New_Hampshire ##
+---
+18920 Non genus-only specimens
+1456 excluded Non genus-only specimens with date neither given nor inferrable
+---
+New_Hampshire land area = 23187 km^2
+NH State count density (STATECNT/STATEAREA*100 km^2) :  18920/23187 =  81.5974
+
+---
+COOS County.
+---
+Coos Co. DATE -- genus-only records excluded
+
+min = 1826, max = 2018, median = 1972, mean = 1945
+---
+Coos County.
+---
+Coos Co. COLLECTION DENSITY -- genus-only records excluded
+Coos County land area = 4648 km^2
+NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9467/4648 =  203.679
+
+
+Coos County Count 9467 - genus-only records excluded
+proportion of State count (%)  (9467/18920) =  50.037
+Coos County Count 9467 - genus-only records excluded
+(9467/18920) =  
+Coos Co. COLLECTOR top 10. - genus-only records excluded
+
+1083 WetmoreCM
+998 FarlowWG
+805 SelvaSB
+733 TuckermanE
+732 CraneJL
+328 DibbleACMs
+328 CleavittN
+236 WilleyH
+231 NULL
+221 MannHJr
+
+Coos Co. LOCALITY top 20. - genus-only records excluded
+
+4607 Mt_Washington_massif
+2990 White_Mountains
+415 Shelburne
+233 Norton_Pool_old-grwoth_spruce-fir_forest
+134 NoLoc
+130 [no_additional_data]
+123 [data_not_captured]
+79 Randolph
+77 Stewartstown_Hurlbert_Swamp_Preserve
+53 Wildcat_Mountain
+34 Gorham
+26 Berlin_Falls
+25 Jefferson
+23 Twin_Mountain
+22 Mt_Moriah
+20 Dummer
+11 Colebrook
+10 No_locality_information_available
+9 about_7_miles_S_of_Gorham_along_Peabody_R_at_Dolly_Copp_Picnic_Area
+9 Mt_Cabot
+
+---
+Coos Co. New_Hampshire Taxon count. genus-only records excluded :655
+
+Coos Co. TAXA top 20. - genus-only records excluded
+
+191 Hypogymnia_physodes
+177 Umbilicaria_proboscidea
+156 Cetraria_islandica
+155 Umbilicaria_hyperborea
+153 Arctoparmelia_centrifuga
+147 Flavocetraria_cucullata
+145 Thamnolia_vermicularis
+145 Flavocetraria_nivalis
+140 Platismatia_glauca
+132 Cladonia_rangiferina
+131 Cladonia_squamosa
+130 Mycoblastus_sanguinarioides
+126 Cladonia_gracilis
+125 Usnocetraria_oakesiana
+119 Sphaerophorus_fragilis
+114 Melanelia_hepatizon
+110 Parmelia_saxatilis
+105 Hypogymnia_krogiae
+105 Cetraria_laevigata
+94 Evernia_mesomorpha
+
+---
+Mt._Washington_massif New_Hampshire Taxon count. genus-only records excluded :424
+
+Mt._Washington_massif TAXA top 20. - genus-only records excluded
+
+134 Umbilicaria_proboscidea_MWm
+115 Cetraria_islandica_MWm
+112 Umbilicaria_hyperborea_MWm
+112 Thamnolia_vermicularis_MWm
+111 Flavocetraria_cucullata_MWm
+104 Flavocetraria_nivalis_MWm
+101 Arctoparmelia_centrifuga_MWm
+88 Sphaerophorus_fragilis_MWm
+84 Platismatia_glauca_MWm
+83 Hypogymnia_physodes_MWm
+73 Melanelia_hepatizon_MWm
+73 Cladonia_rangiferina_MWm
+71 Cladonia_squamosa_MWm
+71 Cetraria_laevigata_MWm
+70 Parmelia_saxatilis_MWm
+67 Cladonia_gracilis_MWm
+65 Cetrariella_delisei_MWm
+64 Mycoblastus_sanguinarioides_MWm
+61 Usnocetraria_oakesiana_MWm
+60 Hypogymnia_krogiae_MWm
+
+---
+CARROLL County.
+---
+Carroll Co. DATE -- genus-only records excluded
+
+CARROLL county date : min = 1843, max = 2017, median = 1925, mean = 1938
+---
+Carroll County.
+---
+Carroll Co. COLLECTION DENSITY -- genus-only records excluded
+Carroll County area = 2414 km^2
+NH CARROLL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2385/2414 =  98.7987
+
+
+Carroll County Count 2385 - genus-only records excluded
+proportion of State count (%)  (2385/18920) =  12.6057
+
+Carroll Co. COLLECTOR top 10. - genus-only records excluded
+
+479 FarlowWG
+278 RobbinsCA
+190 SelvaSB
+150 FlennikenD
+126 FaxonE
+101 NULL
+99 HigginsonS
+90 EsslingerTL
+63 HarrisSK__et_al
+58 MayPF
+
+Carroll Co. LOCALITY top 20. - genus-only records excluded
+
+342 Jackson
+295 Mt_Chocorua
+208 White_Mountains
+169 Chocorua
+125 NoLoc
+123 Carroll_County_Municipality_of_Tamworth_Hemenway_State_Forest_Big_Pines_Special_Use_Permit_Area
+56 [data_not_captured]
+50 North_Conway
+31 Lake_Winnipesaukee_just_E_of_town_of_Center_Harbor
+31 Gate_of_Notch
+30 Moultonboro_Bald_Knob
+30 Center_Ossipee
+27 Just_E_of_town_of_Center_Harbor_Green's_Basin_Lake_Winnipesaukee
+22 Attitash_Mt_Peak_2_miles_south_of_Bartlett_along_US-302
+17 White_Mountain_National_Forest_across_Sandwich_Notch_Road_from_Beebe_Falls_parking_lot
+16 Crawford_Notch
+15 Wolfeboro
+14 Glen_Ellis_Falls
+14 Cathedral_Ledges_State_Park_near_North_Conway
+14 Carroll_County_White_Mountains_National_Forest_Crawford_Notch_Gibb's_Brook_Research_Natural_Area_south_of_Gibb's_Brook_Trail_630_m
+
+---
+Carroll County New_Hampshire Taxon count. genus-only records excluded :363
+
+Carroll Co. TAXA top 10. - genus-only records excluded
+
+56 Hypogymnia_physodes
+51 Cladonia_squamosa
+48 Umbilicaria_mammulata
+47 Cladonia_multiformis
+47 Cladonia_crispata
+38 Platismatia_tuckermanii
+37 Cladonia_rangiferina
+33 Lobaria_pulmonaria
+33 Evernia_mesomorpha
+31 Cladonia_furcata
+
+---
+GRAFTON County.
+---
+Grafton Co. DATE -- genus-only records excluded
+
+GRAFTON county date : min = 1840, max = 2016, median = 1906, mean = 1931
+---
+Grafton County.
+---
+Grafton Co. COLLECTION DENSITY -- genus-only records excluded
+Grafton County area = 4425 km^2
+NH GRAFTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4187/4425 =  94.6215
+
+
+Grafton County Count 4187 - genus-only records excluded
+proportion of State count (%)  (4187/18920) =  22.13
+
+Grafton Co. COLLECTOR top 10. - genus-only records excluded
+
+1785 CummingsCEMs
+598 SelvaSB
+141 ThomsonJWJr
+136 PikeLH
+128 FarlowWG
+97 HarrisSK
+92 LayEMs
+84 LambIM
+84 ClyneABMs
+69 AndersonGPMs
+
+Grafton Co. LOCALITY top 20. - genus-only records excluded
+
+862 Mt_Moosilauke
+574 North_Woodstock
+305 Plymouth
+287 Mt_Lafayette
+202 Livermore
+195 Thornton
+138 Mt_Cardigan
+130 Benton
+106 Grafton_County_Municipality_of_Waterville_Valley_White_Mountains_National_Forest_The_Bowl_Research_Natural_Area_northwest_of_Mt_Wonalancet
+100 Mt_Liberty
+93 [data_not_captured]
+71 NoLoc
+63 Franconia_Notch
+47 Franconia
+38 Lisbon
+34 White_Mountain_National_Forest_Cone_Pond_Research_Area_NW_of_NH_49_NE_of_Campton_ledges_above_pond
+32 Sculptured_Rocks_near_Canaan_Groton_Tsp
+31 Warren
+27 Off_the_south_side_of_US_3_about_5_miles_south_of_Twin_Mountain_along_the_Beaver_Brook_picnic_area
+27 Hanover
+
+---
+Grafton County New_Hampshire Taxon count. genus-only records excluded :417
+
+Grafton Co. TAXA top 10. - genus-only records excluded
+
+
+103 Bacidia_schweinitzii
+100 Cladonia_squamosa
+83 Hypogymnia_physodes
+71 Cladonia_gracilis
+69 Cetraria_laevigata
+67 Umbilicaria_mammulata
+67 Porpidia_macrocarpa
+67 Cladonia_furcata
+64 Pseudevernia_cladonia
+62 Cladonia_uncialis
+
+---
+Mt._Moosilauke New_Hampshire Taxon count. genus-only records excluded :157
+
+Mt._Moosilauke_massif TAXA top 20. - genus-only records excluded
+
+52 Porpidia_macrocarpa_MMo
+49 Cetraria_laevigata_MMo
+46 Flavocetraria_cucullata_MMo
+36 Cladonia_uncialis_MMo
+35 Trapeliopsis_granulosa_MMo
+33 Mycoblastus_sanguinarioides_MMo
+30 Micarea_lignaria_MMo
+27 Rhizocarpon_oederi_MMo
+24 Cladonia_gracilis_MMo
+23 Umbilicaria_torrefacta_MMo
+23 Cladonia_coccifera_MMo
+21 Cladonia_pleurota_MMo
+20 Lecanora_polytropa_MMo
+19 Schaereria_fuscocinerea_MMo
+18 Lecanora_intricata_MMo
+16 Ophioparma_ventosa_MMo
+13 Stereocaulon_dactylophyllum_MMo
+13 Cladonia_deformis_MMo
+12 Baeomyces_rufus_MMo
+10 Cladonia_stellaris_MMo
+
+---
+BELKNAP County.
+---
+Belknap Co. DATE -- genus-only records excluded
+
+BELKNAP county date : min = 1849, max = 2014, median = 1904, mean = 1910
+---
+Belknap County.
+---
+Belknap Co. COLLECTION DENSITY -- genus-only records excluded
+Belknap County area = 1041 km^2
+NH BELKNAP county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  283/1041 =  27.1854
+
+
+Belknap County Count 283 - genus-only records excluded
+proportion of State count (%)  (283/18920) =  1.49577
+
+Belknap Co. COLLECTOR top 10. - genus-only records excluded
+
+74 BlakeJRev
+72 CarterLAMs
+58 HarrisSK
+22 HodgdonAR
+19 CurtisCL
+14 StevensMLMs
+12 NULL
+9 LuntJR
+7 PeaseAS
+4 SpragueCJ
+
+Belknap Co. LOCALITY top 20. - genus-only records excluded
+
+57 Gilmanton
+23 Sanbornton_Mt_Hersey
+20 Laconia
+19 Mt_Major
+19 Gilford
+17 Lake_Winnipesaukee
+14 Sanbornton
+12 [data_not_captured]
+12 NoLoc
+9 Lake_Winnipasauckee_Pine_Island_Meredith
+7 Alton
+6 Porcupine_Ledge_Belmont
+6 Gilmonton
+5 Gilford_Saltmarsh_Hill
+4 Alton_Bay
+3 Town_of_Gilford_Timber_Island_Lake_Winnipesaukee
+3 Pine_Island_Lake_Winnepesaukee_Meredith
+3 Meredith
+3 Belmont
+2 Timber_Island_Lake_Winnipesaukee
+
+---
+Belknap County New_Hampshire Taxon count. genus-only records excluded :103
+
+Belknap Co. TAXA top 10. - genus-only records excluded
+
+15 Cladonia_turgida
+15 Cladonia_squamosa
+13 Umbilicaria_mammulata
+10 Umbilicaria_deusta
+8 Cladonia_furcata
+7 Ricasolia_quercizans
+7 Ramalina_americana
+7 Platismatia_tuckermanii
+6 Lasallia_papulosa
+5 Stereocaulon_paschale
+
+---
+SULLIVAN County.
+---
+Sullivan Co. DATE -- genus-only records excluded
+
+SULLIVAN county date : min = 1913, max = 1936, median = 1923, mean = 1923
+---
+Sullivan County.
+---
+Sullivan Co. COLLECTION DENSITY -- genus-only records excluded
+Sullivan County area = 1392 km^2
+NH SULLIVAN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  32/1392 =  2.29885
+
+
+Sullivan County Count 32 - genus-only records excluded
+proportion of State count (%)  (32/18920) =  0.169133
+
+Sullivan Co. COLLECTOR top 10. - genus-only records excluded
+
+11 JonesKAMs
+10 ThorogoodAMs
+4 ButlerAMs
+2 NULL
+1 WrightChloeMs
+1 WilsonMLMs
+1 RaaschHL
+1 HarrisSK__et_al
+1 ChesterKS
+
+Sullivan Co. LOCALITY top 20. - genus-only records excluded
+
+10 Grantham
+8 Croydon
+2 Washington
+2 NoLoc
+2 Newport
+2 Lempster
+1 [illegible]_[=_Lempster_--APP]
+1 [=_Lempster_-APP]
+1 South_Kingston
+1 New_Hampshire_Grantham
+1 Meriden_New_Hampshire_U_S_A
+1 Dempster_[Lempster_presumed_--APP]
+
+---
+Sullivan County New_Hampshire Taxon count. genus-only records excluded :19
+
+Sullivan Co. TAXA top 10. - genus-only records excluded
+
+11 Chaenotheca_furfuracea
+2 Parmotrema_perlatum
+2 Lobaria_pulmonaria
+2 Lepra_amara
+1 Usnocetraria_oakesiana
+1 Umbilicaria_deusta
+1 Punctelia_rudecta
+1 Platismatia_tuckermanii
+1 Parmelia_sulcata
+1 Hypogymnia_physodes
+
+---
+STRAFFORD County.
+---
+Strafford Co. DATE -- genus-only records excluded
+
+STRAFFORD county date : min = 1933, max = 2006, median = 1935, mean = 1941
+---
+Strafford County.
+---
+Strafford Co. COLLECTION DENSITY -- genus-only records excluded
+Strafford County area = 956 km^2
+NH STRAFFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  201/956 =  21.0251
+
+
+Strafford County Count 201 - genus-only records excluded
+proportion of State count (%)  (201/18920) =  1.06237
+
+Strafford Co. COLLECTOR top 10. - genus-only records excluded
+
+133 HodgdonAR
+102 HarrisSK
+13 PeaseAS
+9 HodgdonAR__et_al
+8 HoyJMs
+7 CulbersonWL
+5 BeckingRW
+4 ReynoldsNB
+3 SmithLB
+2 MathiesonAC
+
+Strafford Co. LOCALITY top 20. - genus-only records excluded
+
+30 Barrington
+16 New_Durham
+15 Milton
+12 Strafford
+12 Dover
+9 Parker_Mt_Strafford
+7 Milton_Mount_Teneriffe_area_near_spur
+7 Middleton_Dump_Reservoir
+6 NoLoc
+6 Madbury
+6 Lee_Wheelwright_Pond
+5 Strafford_Saunders_Ledge
+5 Merrymeeting_Lake_New_Durham
+5 Dover_Point_Bellamy_River
+5 Dover_Dover_Point_Hilton_Park
+4 [data_not_captured]
+4 Middleton
+4 Barrington_Mt_Misery
+3 Strafford_Parker_Mt
+3 New_Durham_Merrymeeting_Lake
+
+---
+Strafford County New_Hampshire Taxon count. genus-only records excluded :74
+
+Strafford Co. TAXA top 10. - genus-only records excluded
+
+9 Tuckermannopsis_ciliaris
+8 Umbilicaria_mammulata
+8 Platismatia_tuckermanii
+8 Hydropunctaria_maura
+7 Cladonia_turgida
+7 Cladonia_cristatella
+6 Flavoparmelia_caperata
+6 Dibaeis_baeomyces
+6 Cladonia_uncialis
+6 Cladonia_rangiferina
+
+---
+MERRIMACK County.
+---
+Merrimack Co. DATE -- genus-only records excluded
+
+MERRIMACK county date : min = 1911, max = 2006, median = 1939, mean = 1950
+---
+Merrimack County.
+---
+Merrimack Co. COLLECTION DENSITY -- genus-only records excluded
+Merrimack County area = 2416 km^2
+NH MERRIMACK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  133/2416 =  5.50497
+
+
+Merrimack County Count 133 - genus-only records excluded
+proportion of State count (%)  (133/18920) =  0.70296
+
+Merrimack Co. COLLECTOR top 10. - genus-only records excluded
+
+34 RiddleLW
+20 HarrisSK
+15 HodgdonAR
+12 NorrisDH
+12 HillyardNMMs
+11 SmithLB
+10 HarrisHFMs
+9 NelsonJMs
+7 DirigR
+6 WileyFAMs
+
+Merrimack Co. LOCALITY top 20. - genus-only records excluded
+
+36 Mt_Kearsarge
+28 North_Sutton
+9 Newbury
+8 NoLoc
+6 Newbury_Sunapee_Mt
+6 Franklin
+5 [data_not_captured]
+3 Warner
+3 Sutton
+3 Hooksett
+3 Bear_Brook_State_Park
+2 Near_Spruce_Pond_Campground_Bear_Brook_State_Park
+2 Mt_Newbury_Sunapee
+2 Concord_near_Concord_Airport_Merrimack_River_valley_along_utility_pole_ROW_S_of_Pembroke_Road_E_of_Guay_Street
+2 Concord_Near_Concord_Airport_Merrimack_River_Valley_along_utility_pole_ROW_S_of_Pembroke_Rd_E_of_Guay_St_Corticolous
+1 along_road_through_campground_Spruce_Lake_Campground_Bear_Brook_State_Park
+1 [no_additional_data]
+1 Wing_Road
+1 Sutton_Atlantic_White_Cedar_swamp
+1 Spruce_Lake_Campground_Bear_Brook_Park
+
+---
+Merrimack County New_Hampshire Taxon count. genus-only records excluded :72
+
+Merrimack Co. TAXA top 10. - genus-only records excluded
+
+7 Hypogymnia_physodes
+7 Hypocenomyce_scalaris
+5 Platismatia_tuckermanii
+5 Melanelia_hepatizon
+4 Usnocetraria_oakesiana
+4 Evernia_mesomorpha
+4 Cladonia_rangiferina
+3 Vulpicida_pinastri
+3 Stereocaulon_paschale
+3 Ricasolia_quercizans
+
+---
+HILLSBOROUGH County.
+---
+Hillsborough Co. DATE -- genus-only records excluded
+
+HILLSBOROUGH county date : min = 1887, max = 2016, median = 1977, mean = 1963
+---
+Hillsborough County.
+---
+Hillsborough Co. COLLECTION DENSITY -- genus-only records excluded
+Hillsborough County area = 2270 km^2
+NH HILLSBOROUGH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  260/2270 =  11.4537
+
+
+Hillsborough County Count 260 - genus-only records excluded
+proportion of State count (%)  (260/18920) =  1.37421
+
+Hillsborough Co. COLLECTOR top 10. - genus-only records excluded
+
+60 HoyJMs
+26 HarrisRC
+23 LayEMs
+19 KelsoRW
+14 LeahyCW
+13 MayrE
+12 HarrisSK
+12 CraneCJr
+12 BlakeSF
+10 MottP
+
+Hillsborough Co. LOCALITY top 20. - genus-only records excluded
+
+25 Deering_along_Hedgehog_Mountain_road_to_Hedgehog_Mountain_Trail
+24 Peterborough
+23 Southern_end_of_Lovern's_Mill_Swamp
+20 Miller_State_Park_Pack_Monadnock_off_Rt_101_opposite_Temple_Mt
+14 NoLoc
+14 Hollis
+12 Nashua
+12 54_mi_NW_of_Wilton
+10 New_Ipswich
+9 Goffstown_Mt_Uncanoonuc
+8 Vicinity_of_floating_mat_Lovern's_Mill_Swamp
+8 Center_of_Lovern's_Mill_Swamp
+7 Wales_Preserve_Nature_Conservancy_upper_trail
+6 Amherst
+5 [data_not_captured]
+4 Spruce_Pond_Camp_near_Manchester
+4 Round_Pond_Nashua
+3 Peterboro
+3 North_of_floating_mat_Lovern's_Mill_Swamp
+3 Lovern's_Mill_Swamp
+
+---
+Hillsborough County New_Hampshire Taxon count. genus-only records excluded :132
+
+Hillsborough Co. TAXA top 10. - genus-only records excluded
+
+10 Flavoparmelia_caperata
+9 Platismatia_tuckermanii
+8 Tuckermannopsis_ciliaris
+8 Cladonia_cristatella
+7 Cladonia_squamosa
+6 Usnea_strigosa
+6 Parmelia_sulcata
+6 Cladonia_macilenta
+6 Bryoria_furcellata
+5 Umbilicaria_mammulata
+
+---
+ROCKINGHAM County.
+---
+Rockingham Co. DATE -- genus-only records excluded
+
+ROCKINGHAM county date : min = 1871, max = 2008, median = 1975, mean = 1965
+---
+Rockingham County.
+---
+Rockingham Co. COLLECTION DENSITY -- genus-only records excluded
+Rockingham County area = 1801 km^2
+NH ROCKINGHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  425/1801 =  23.598
+
+
+Rockingham County Count 425 - genus-only records excluded
+proportion of State count (%)  (425/18920) =  2.2463
+
+Rockingham Co. COLLECTOR top 10. - genus-only records excluded
+
+56 LayEMs
+50 HoyJMs
+37 HindsPLMs
+37 HindsJW
+26 HarrisSK
+23 MathiesonAC
+23 Dow
+21 TaylorRM
+19 GreeneDN
+16 ConwayJ
+
+Rockingham Co. LOCALITY top 20. - genus-only records excluded
+
+41 Nottingham_Pawtuckaway_State_Park_northern_portion_of_North_Mountain_Bypass_Trail
+30 NoLoc
+27 Exeter
+24 PAWTUCKAWAY_STATE_PARK
+20 Nottingham_Path_To_Dead_Pond_Pawtuckaway_State_Forest
+16 Rye
+14 North_Hampton
+13 Portsmouth_Light_Portsmouth_Harbor
+10 Nottingham
+9 No_locality_information_available
+9 4-H_CAMP_-_BEAR_BROOK_ST_PK
+8 West_of_RR_tracks_Portsmouth_Cedar_Swamp
+7 Fort_Stark
+7 East_side_of_RR_tracks_Portsmouth_Cedar_Swamp
+6 ca_06_miles_S_of_Jenness_State_Beach_along_Hwy_1A_near_intersection_of_Ocean_Blvd_&_Sea_Road
+6 [data_not_captured]
+6 Prescott
+6 Nottingham_Pawtuckaway_State_Park_Northern_portion_of_North_Mt_By-Pass_Trail
+5 Isles_of_Shoals
+5 Deerfield_Spruce_Pond_camp_Bear_Brook_State_Park
+
+---
+Rockingham County New_Hampshire Taxon count. genus-only records excluded :141
+
+Rockingham Co. TAXA top 10. - genus-only records excluded
+
+62 Hydropunctaria_maura
+12 Umbilicaria_mammulata
+9 Physcia_millegrana
+9 Flavoparmelia_caperata
+9 Cladonia_cristatella
+8 Platismatia_tuckermanii
+8 Lecanora_strobilina
+7 Usnea_strigosa
+7 Tuckermannopsis_americana
+7 Punctelia_rudecta
+
+---
+CHESHIRE County.
+---
+Cheshire Co. DATE -- genus-only records excluded
+
+CHESHIRE county date : min = 1850, max = 2010, median = 1914, mean = 1924
+---
+Cheshire County.
+---
+Cheshire Co. COLLECTION DENSITY -- genus-only records excluded
+Cheshire County area = 1830 km^2
+NH CHESHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1188/1830 =  64.918
+
+
+Cheshire County Count 1188 - genus-only records excluded
+proportion of State count (%)  (1188/18920) =  6.27907
+
+Cheshire Co. COLLECTOR top 10. - genus-only records excluded
+
+354 HoweRHJr
+86 SeymourAB
+73 HarrisSK__et_al
+66 SelvaSB
+61 RussellJL
+51 RiddleLW
+46 LayEMs
+45 NULL
+45 DarrowRA
+35 FarlowWG
+
+Cheshire Co. LOCALITY top 20. - genus-only records excluded
+
+390 Mt_Monadnock
+198 Fitzwilliam
+84 Alstead
+75 Jaffrey
+63 Cheshire_County_north-eastern_section_of_the_Municipality_of_Stoddard_The_Stoddard_Preserve_located_on_Lightning_Hill_in_the_Charles_Peirce_Wildlife_Reservation
+62 Keene
+38 Hinsdale
+36 NoLoc
+30 Wantastiquet_Mountain
+23 Mine_Mt_Hinsdale
+14 Lang_Rd_2_mi_west_on_Rt_119_from_intersection_with_Rt_32_Lay's_place
+13 [data_not_captured]
+13 Rindge
+11 Richmond
+9 Dublin
+7 Troy_Bigelow_Hill
+6 On_west_side_of_March_Hill
+5 Marlow
+4 FitzwilliamNew_Hampshire
+3 four_miles_east_of_Winchester
+
+---
+Cheshire County New_Hampshire Taxon count. genus-only records excluded :241
+
+Cheshire Co. TAXA top 10. - genus-only records excluded
+
+42 Peltigera_hydrothyria
+35 Cladonia_rangiferina
+32 Umbilicaria_mammulata
+30 Flavoparmelia_caperata
+28 Cladonia_cristatella
+24 Lobaria_pulmonaria
+24 Cladonia_squamosa
+22 Usnea_strigosa
+22 Cladonia_uncialis
+19 Parmelia_sulcata
+
+---
+## Vermont ##
+13344 Non genus-only specimens
+823 excluded Non genus-only specimens with date neither given nor inferrable
+---
+Vermont land area = 23957 km^2
+VT State count density (STATECNT/STATEAREA*100 km^2) :  13344/23957 =  55.6998
+
+---
+Mt._Mansfield_massif TAXA total. - genus-only records excluded
+
+47 Umbilicaria_hyperborea_MMm
+44 Cetraria_laevigata_MMm
+40 Usnocetraria_oakesiana_MMm
+37 Flavocetraria_cucullata_MMm
+36 Umbilicaria_proboscidea_MMm
+34 Rhizocarpon_geographicum_MMm
+33 Pseudevernia_cladonia_MMm
+33 Platismatia_glauca_MMm
+29 Lasallia_papulosa_MMm
+29 Cladonia_squamosa_MMm
+28 Cladonia_coccifera_MMm
+26 Mycoblastus_sanguinarioides_MMm
+24 Stereocaulon_glaucescens_MMm
+20 Tuckermannopsis_sepincola_MMm
+20 Stereocaulon_paschale_MMm
+20 Porpidia_macrocarpa_MMm
+19 Ophioparma_ventosa_MMm
+18 Trapeliopsis_granulosa_MMm
+17 Hypogymnia_physodes_MMm
+16 Cladonia_furcata_MMm
+15 Pertusaria_leioplaca_MMm
+15 Lecanora_intricata_MMm
+15 Arctoparmelia_centrifuga_MMm
+14 Melanelia_stygia_MMm
+14 Melanelia_hepatizon_MMm
+14 Graphis_scripta_MMm
+14 Cladonia_deformis_MMm
+13 Lecanora_allophana_MMm
+13 Cladonia_stygia_MMm
+13 Cladonia_gracilis_MMm
+12 Icmadophila_ericetorum_MMm
+11 Vulpicida_pinastri_MMm
+11 Pseudevernia_consocians_MMm
+11 Parmelia_saxatilis_MMm
+11 Cladonia_pleurota_MMm
+11 Bryoria_bicolor_MMm
+11 Biatora_vernalis_MMm
+11 Aspicilia_cinerea_MMm
+10 Umbilicaria_muhlenbergii_MMm
+10 Lecanora_polytropa_MMm
+10 Cladonia_rangiferina_MMm
+9 Thamnolia_vermicularis_MMm
+9 Loxospora_elatina_MMm
+9 Lichenomphalia_hudsoniana_MMm
+9 Cladonia_amaurocraea_MMm
+8 Umbilicaria_torrefacta_MMm
+8 Umbilicaria_deusta_MMm
+8 Orphniospora_moriopsis_MMm
+8 Cladonia_uncialis_MMm
+7 Umbilicaria_mammulata_MMm
+7 Solorina_saccata_MMm
+6 Varicellaria_velata_MMm
+6 Rusavskia_elegans_MMm
+6 Punctelia_appalachensis_MMm
+6 Porpidia_crustulata_MMm
+6 Nephroma_arcticum_MMm
+6 Lecidoma_demissum_MMm
+6 Catapyrenium_cinereum_MMm
+6 Arctoparmelia_incurva_MMm
+5 Usnea_subfloridana_MMm
+5 Psora_rubiformis_MMm
+5 Protopannaria_pezizoides_MMm
+5 Flavocetraria_nivalis_MMm
+5 Evernia_mesomorpha_MMm
+5 Cladonia_stellaris_MMm
+5 Cladonia_digitata_MMm
+5 Cladonia_caespiticia_MMm
+5 Acarospora_fuscata_MMm
+4 Usnea_dasopoga_MMm
+4 Pyxine_sorediata_MMm
+4 Protoparmelia_badia_MMm
+4 Porpidia_cinereoatra_MMm
+4 Parmelia_sulcata_MMm
+4 Loxospora_ochrophaea_MMm
+4 Enchylium_tenax_MMm
+4 Caloplaca_cerina_MMm
+4 Bryoria_furcellata_MMm
+3 Umbilicaria_polyphylla_MMm
+3 Tuckermannopsis_ciliaris_MMm
+3 Stereocaulon_saxatile_MMm
+3 Stereocaulon_pileatum_MMm
+3 Stereocaulon_botryosum_MMm
+3 Stereocaulon_alpinum_MMm
+3 Rhizocarpon_hochstetteri_MMm
+3 Rhizocarpon_grande_MMm
+3 Physcia_millegrana_MMm
+3 Peltigera_aphthosa_MMm
+3 Parmeliopsis_hyperopta_MMm
+3 Parmelia_omphalodes_MMm
+3 Melanohalea_olivacea_MMm
+3 Melanohalea_halei_MMm
+3 Lecidea_auriculata_MMm
+3 Imshaugia_aleurites_MMm
+3 Dermatocarpon_luridum_MMm
+3 Cladonia_terrae-novae_MMm
+3 Cladonia_ochrochlora_MMm
+3 Cladonia_macilenta_MMm
+3 Cladonia_coniocraea_MMm
+3 Cetraria_islandica_MMm
+3 Cetraria_arenaria_MMm
+2 Xylographa_parallela_MMm
+2 Usnea_ceratina_MMm
+2 Stereocaulon_tomentosum_MMm
+2 Rinodina_ascociscana_MMm
+2 Rhizocarpon_eupetraeum_MMm
+2 Ramalina_intermedia_MMm
+2 Ramalina_americana_MMm
+2 Porpidia_albocaerulescens_MMm
+2 Platismatia_tuckermanii_MMm
+2 Placynthiella_uliginosa_MMm
+2 Physcia_tenella_MMm
+2 Pertusaria_rubefacta_MMm
+2 Peltigera_rufescens_MMm
+2 Parmeliopsis_capitata_MMm
+2 Montanelia_panniformis_MMm
+2 Micarea_lignaria_MMm
+2 Leptogium_cyanescens_MMm
+2 Lepraria_neglecta_MMm
+2 Lepraria_finkii_MMm
+2 Lepra_dactylina_MMm
+2 Lecanora_symmicta_MMm
+2 Lecanora_pulicaris_MMm
+2 Lecanora_hybocarpa_MMm
+2 Lecanora_chlarotera_MMm
+2 Lasallia_pustulata_MMm
+2 Hypogymnia_krogiae_MMm
+2 Fuscidea_scrupulosa_MMm
+2 Fuscidea_recensa_MMm
+2 Cryptodiscus_gloeocapsa_MMm
+2 Cladonia_sulphurina_MMm
+2 Cladonia_rei_MMm
+2 Cladonia_pyxidata_MMm
+2 Cladonia_pocillum_MMm
+2 Cladonia_multiformis_MMm
+2 Cladonia_mitis_MMm
+2 Cladonia_fimbriata_MMm
+2 Cladonia_cyanipes_MMm
+2 Cetrelia_chicitae_MMm
+2 Cetrariella_delisei_MMm
+2 Calvitimela_aglaea_MMm
+2 Baeomyces_rufus_MMm
+2 Bacidia_schweinitzii_MMm
+2 Anaptychia_palmulata_MMm
+2 Alectoria_sarmentosa_MMm
+1 Xanthoparmelia_plittii_MMm
+1 Xanthoparmelia_cumberlandia_MMm
+1 Usnea_subscabrosa_MMm
+1 Usnea_rubicunda_MMm
+1 Tuckermannopsis_orbata_MMm
+1 Tuckermannopsis_americana_MMm
+1 Trapelia_placodioides_MMm
+1 Thelocarpon_impressellum_MMm
+1 Tephromela_atra_MMm
+1 Stereocaulon_dactylophyllum_MMm
+1 Stereocaulon_condensatum_MMm
+1 Schaereria_cinereorufa_MMm
+1 Sarcogyne_hypophaea_MMm
+1 Rimularia_gibbosa_MMm
+1 Rimularia_badioatra_MMm
+1 Rhizoplaca_subdiscrepans_MMm
+1 Rhizoplaca_chrysoleuca_MMm
+1 Rhizocarpon_sylvaticum_MMm
+1 Rhizocarpon_reductum_MMm
+1 Rhizocarpon_lecanorinum_MMm
+1 Rhizocarpon_distinctum_MMm
+1 Rhizocarpon_badioatrum_MMm
+1 Ramalina_labiosorediata_MMm
+1 Pyrenula_laevigata_MMm
+1 Punctelia_caseana_MMm
+1 Psora_globifera_MMm
+1 Protoblastenia_rupestris_MMm
+1 Porpidia_tuberculosa_MMm
+1 Porpidia_speirea_MMm
+1 Porpidia_nigrocruenta_MMm
+1 Porpidia_contraponenda_MMm
+1 Porpidia_carlottiana_MMm
+1 Phaeophyscia_ciliata_MMm
+1 Phaeophyscia_adiastola_MMm
+1 Peltigera_polydactylon_MMm
+1 Peltigera_didactyla_MMm
+1 Parmelia_squarrosa_MMm
+1 Ophioparma_lapponica_MMm
+1 Ochrolechia_trochophora_MMm
+1 Normandina_pulchella_MMm
+1 Nesolechia_oxyspora_MMm
+1 Nephroma_laevigatum_MMm
+1 Myelochroa_aurulenta_MMm
+1 Montanellia_panniformis_MMm
+1 Micarea_peliocarpa_MMm
+1 Megaspora_verrucosa_MMm
+1 Lepra_ophthalmiza_MMm
+1 Leimonis_erratica_MMm
+1 Lecidea_confluens_MMm
+1 Lecanora_subrugosa_MMm
+1 Lecanora_cinereofusca_MMm
+1 Lecanora_chlorophaeodes_MMm
+1 Lecanora_argopholis_MMm
+1 Hypogymnia_vittata_MMm
+1 Hypogymnia_tubulosa_MMm
+1 Fuscidea_lowensis_MMm
+1 Cladonia_verticillata_MMm
+1 Cladonia_straminea_MMm
+1 Cladonia_decorticata_MMm
+1 Cladonia_cristatella_MMm
+1 Cladonia_chlorophaea_MMm
+1 Circinaria_caesiocinerea_MMm
+1 Cetrelia_olivetorum_MMm
+1 Cetraria_ericetorum_MMm
+1 Cetraria_aculeata_MMm
+1 Candelariella_vitellina_MMm
+1 Candelaria_fibrosa_MMm
+1 Calicium_lenticulare_MMm
+1 Bryoria_pseudofuscescens_MMm
+1 Bryoria_fuscescens_MMm
+1 Bryoria_americana_MMm
+1 Bilimbia_sabuletorum_MMm
+1 Bacidina_inundata_MMm
+1 Bacidia_rubella_MMm
+1 Amygdalaria_panaeola_MMm
+1 Amandinea_punctata_MMm
+1 Alectoria_ochroleuca_MMm
+
+---
+ESSEX County.
+---
+Essex Co. DATE -- genus-only records excluded
+
+ESSEX county date : min = 1918, max = 2008, median = 2008, mean = 2002
+---
+Essex County.
+---
+Essex Co. COLLECTION DENSITY -- genus-only records excluded
+Essex County area = 1722 km^2
+VT ESSEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  407/1722 =  23.6353
+
+
+Essex County Count 407 - genus-only records excluded
+proportion of State count (%)  (407/13344) =  3.05006
+
+Essex Co. COLLECTOR top 10. - genus-only records excluded
+
+256 HarrisRC
+79 SelvaSB
+53 BuckWR
+6 EganRS
+3 WelchWHMs
+3 TaylorWR
+2 SorensonER
+2 LapinM
+1 PeaseAS
+1 NULL
+
+Essex Co. LOCALITY top 20. - genus-only records excluded
+
+79 East_Haven_summit_East_Mt
+75 Umpire_Mountain
+68 Town_of_Averill_Quimby_Country_resort_property_SW_of_Forest_Lake_Road_near_new_leach_field
+62 Town_of_Brunswick_West_Mountain_Wildlife_Management_Area_Dennis_Pond_Wetlands
+51 Moose_Bog
+16 Town_of_Lemington_Lemington_Sand_and_Gravel_Pit_at_entrance_to_Monadnock_Mt_Trail
+15 NoLoc
+6 Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_near_Moose_Bog
+6 Town_of_Averill_Quimby_Country_resort_property_trail_to_Sandy_Beach_on_Great_Averill_Pond
+2 Victory
+2 Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_trail_to_Moose_Bog
+2 Town_of_Ferdinand
+2 No_locality_information_available
+2 Near_Moose_Bog_Wenlock_Wildlife_Management_Area
+2 Guildhall_Tsp
+2 Dennis_Pond_Wetlands_West_Mountain_Wildlife_Management_Area
+1 West_Mtn_Ledge
+1 West_Mt_Ledge
+1 Wenlock_Wildlife_Management_Area_near_Moose_Bog
+1 United_States_of_America_Vermont_Essex_County_Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_trail_to_Moose_Bog_-_elev_350_m_-_Lat_44°_45’_44’’N_Long_71°_44’_09’’W_-
+
+---
+Essex County Vermont Taxon count. genus-only records excluded :184
+
+Essex Co. TAXA top 10. - genus-only records excluded
+
+11 Cladonia_squamosa
+10 Biatora_vernalis
+10 Bacidia_kekesiana
+8 Inoderma_byssaceum
+8 Cladonia_macilenta
+7 Pseudevernia_cladonia
+7 Lepraria_finkii
+6 Hypogymnia_physodes
+6 Cladonia_coniocraea
+5 Melanohalea_halei
+
+---
+CALEDONIA County.
+---
+Caledonia Co. DATE -- genus-only records excluded
+
+min = 1882, max = 2020, median = 2010, mean = 1987
+---
+Caledonia County.
+---
+Caledonia Co. COLLECTION DENSITY -- genus-only records excluded
+Caledonia County area = 1680 km^2
+VT CALEDONIA county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  185/1680 =  11.0119
+
+
+Caledonia County Count 185 - genus-only records excluded
+proportion of State count (%)  (185/13344) =  1.38639
+
+Caledonia Co. COLLECTOR top 10. - genus-only records excluded
+
+122 LendemerJC
+21 BlissCB
+8 NorrisDH
+8 HillyardNMMs
+7 SeymourFC
+7 FaxonE
+6 HaleMEJr
+3 SchoriMMs
+2 FaxonCE
+1 ThomasWS
+
+Caledonia Co. LOCALITY top 20. - genus-only records excluded
+
+119 Wheelock_Farm
+16 Groton_State_Forest
+12 McIndoe_Falls
+10 NoLoc
+7 Mt_Hor
+4 Lake_Willoughby_region
+3 [data_not_captured]
+3 Peacham
+1 Owl's_Head_Peacham
+1 Mountain_Brooks
+1 McIndoes_Falls
+1 Lookout_Mountain_East_side_of_Mt
+1 Hardwick
+1 Hancock
+1 Groton
+1 Frost
+1 East_Rygate
+1 East_Hardwick_Fire_District_land
+1 Along_Wells_River_Ricker's_Mills_Groton
+
+---
+Caledonia County Vermont Taxon count. genus-only records excluded :116
+
+Caledonia Co. TAXA top 10. - genus-only records excluded
+
+11 Flavoparmelia_caperata
+5 Punctelia_rudecta
+5 Parmelia_sulcata
+5 Lepraria_finkii
+5 Hypogymnia_physodes
+4 Usnea_subfloridana
+4 Usnea_dasopoga
+4 Usnea_ceratina
+4 Platismatia_glauca
+4 Peltigera_polydactylon
+
+---
+ORANGE County.
+---
+Orange Co. DATE -- genus-only records excluded
+
+min = 1879, max = 1982, median = 1934, mean = 1927
+---
+Orange County.
+---
+Orange Co. COLLECTION DENSITY -- genus-only records excluded
+Orange County area = 1780 km^2
+VT ORANGE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  83/1780 =  4.66292
+
+
+Orange County Count 83 - genus-only records excluded
+proportion of State count (%)  (83/13344) =  0.622002
+
+Orange Co. COLLECTOR top 10. - genus-only records excluded
+
+30 MillerMFMs
+9 SeymourFC
+8 WhiteECMs
+7 CroasdaleHTMs
+7 AndersonGPMs
+3 RhoadesF
+2 NelsonJMs
+2 NULL
+2 HutchinsonEPMs
+2 FaxonE
+
+Orange Co. LOCALITY top 20. - genus-only records excluded
+
+29 Tunbridge
+7 Braintree_Mountain
+6 Lake_Fairlee
+3 NoLoc
+3 Connecticut_River_S_of_Newbury
+2 [data_not_captured]
+2 West_Fairlee
+2 Wells_River
+2 Thetford
+2 Savidge_Farm_Chelsea_Vermont
+2 Newbury_twinflower_farm
+2 Hull's_Pond_W_of_Newbury
+2 Dippre_property
+2 Bradford_roadside_along_Rowell_Brook
+2 Bradford_along_Rowell_Brook
+1 Whitney_Hill
+1 West_Fairlee_soil_impregnated_with_copper_sulfide_growing_in_square_yards_on_waste_material_at_Copper_Mine
+1 West_Fairlee_Orange_Co_Vermont_USA
+1 Twinflower_Farm_Newberry
+1 Thetford_fairles_lake
+
+---
+Orange County Vermont Taxon count. genus-only records excluded :40
+Orange Co. TAXA top 10. - genus-only records excluded
+
+11 Evernia_mesomorpha
+9 Cladonia_squamosa
+6 Evernia_prunastri
+5 Stereocaulon_paschale
+4 Cladonia_coniocraea
+3 Ramalina_farinacea
+3 Platismatia_tuckermanii
+3 Hypogymnia_physodes
+3 Dibaeis_baeomyces
+3 Cetrelia_olivetorum
+
+---
+WINDSOR County.
+---
+Windsor Co. DATE -- genus-only records excluded
+
+min = 1873, max = 2001, median = 1924, mean = 1940
+---
+Windsor County.
+---
+Windsor Co. COLLECTION DENSITY -- genus-only records excluded
+Windsor County area = 2510 km^2
+VT WINDSOR county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1119/2510 =  44.5817
+
+
+Windsor County Count 1119 - genus-only records excluded
+proportion of State count (%)  (1119/13344) =  8.38579
+
+Windsor Co. COLLECTOR top 10. - genus-only records excluded
+
+398 DuttonDL
+171 RyanBD
+77 HoweRHJr
+54 LutzoniF
+52 FrostCC
+48 ThomsonJWJr
+45 EvansAW
+43 NelsonJMs
+37 BrodoIM
+21 WilhelmG
+
+Windsor Co. LOCALITY top 20. - genus-only records excluded
+
+208 Mt_Horrid
+168 Rochester
+156 Quechee_Gorge
+149 Mt_Ascutney
+57 North_Pomfret
+48 Hartland_Bog
+45 NoLoc
+35 [data_not_captured]
+27 Woodstock
+22 Ascutney
+15 Hartland_bog_Woodstock
+14 Region_Mt_Horrid
+10 Sharon
+9 Hartford
+9 Barnard
+7 Rochester_Maple_Hill
+7 Hartland_Bog_Woodstock
+6 Windsor
+5 North
+4 Tyson
+
+---
+Windsor County Vermont Taxon count. genus-only records excluded :284
+Windsor Co. TAXA top 10. - genus-only records excluded
+39 Stereocaulon_paschale
+28 Cladonia_gracilis
+23 Vulpicida_pinastri
+23 Umbilicaria_vellea
+20 Cladonia_cristatella
+18 Cladonia_furcata
+17 Umbilicaria_mammulata
+17 Rinodina_ascociscana
+16 Trapeliopsis_granulosa
+16 Stereocaulon_pileatum
+
+---
+WINDHAM County.
+---
+Windham Co. DATE -- genus-only records excluded
+
+min = 1836, max = 2000, median = 1935, mean = 1939
+---
+Windham County.
+---
+Windham Co. COLLECTION DENSITY -- genus-only records excluded
+Windham County area = 2030 km^2
+VT WINDHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  849/2030 =  41.8227
+
+
+Windham County Count 849 - genus-only records excluded
+proportion of State count (%)  (849/13344) =  6.36241
+
+Windham Co. COLLECTOR top 10. - genus-only records excluded
+
+183 FrostCC
+87 WetmoreCM
+66 DobbinF
+56 MooreJA
+49 NelsonJMs
+36 HarrisSK
+35 HoweMA
+35 HammerSH
+31 EvansAW
+27 RussellJL
+
+Windham Co. LOCALITY top 20. - genus-only records excluded
+
+243 Brattleboro
+46 Jamaica
+42 Wardsboro_Center
+41 NoLoc
+34 Newfane
+30 Stratton
+26 Wardsboro_Center_Rice_Hill
+22 Putney
+22 Halifax
+13 Newfane_Bailey's_Brook
+12 immediately_south_of_Windham
+12 Chimney_Swallows_Newfane
+11 Marlboro
+11 Bellows_Falls
+10 Stratton_Mt
+9 Wil_Gton
+8 North_Windham_at_edge_of_field_03_mi_south_of_Route_11_on_Route_121
+8 Immediately_south_of_Windham
+8 Grout_Pond_Stratton
+8 Brookline
+
+---
+Windham County Vermont Taxon count. genus-only records excluded :258
+Windham Co. TAXA top 10. - genus-only records excluded
+
+26 Flavoparmelia_caperata
+25 Hypogymnia_physodes
+24 Lobaria_pulmonaria
+19 Cladonia_rangiferina
+17 Umbilicaria_mammulata
+16 Peltigera_polydactylon
+15 Leptorhaphis_epidermidis
+15 Cladonia_furcata
+14 Punctelia_rudecta
+13 Thelotrema_subtile
+
+---
+ORLEANS County.
+---
+Orleans Co. DATE -- genus-only records excluded
+
+min = 1852, max = 2020, median = 1973, mean = 1962
+---
+Orleans County.
+---
+Orleans Co. COLLECTION DENSITY -- genus-only records excluded
+Orleans County area = 1790 km^2
+VT ORLEANS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  534/1790 =  29.8324
+
+
+Orleans County Count 534 - genus-only records excluded
+proportion of State count (%)  (534/13344) =  4.0018
+
+Orleans Co. COLLECTOR top 10. - genus-only records excluded
+
+137 LendemerJC
+98 EganRS
+74 FaxonE
+62 HarrisRC
+37 FaxonCE
+21 NelsonJMs
+19 BuckWR
+18 FarlowWG
+6 CoburnG
+5 SchoriMMs
+
+Orleans Co. LOCALITY top 20. - genus-only records excluded
+
+254 Lake_Willoughby_region
+64 Craftsbury
+32 Between_Jay_Peak_And_Big_Jay
+25 Town_of_Westfield_Long_Trail_State_Forest_Hazen_Notch
+14 E_End_of_Daniels_Pond_Glover
+12 NoLoc
+11 Town_of_Westfield_Green_Mountains_Hazen's_Notch_along_VT_58_Hazen's_Notch_Road_along_Long_Trail
+11 Summit_of_Jay_Peak
+10 Town_of_Troy_Big_Falls_State_Park_Big_Falls_of_Missisquoi_River_along_River_Road_N_of_village_of_Troy
+6 Town_of_Lowell_West_Farman_Hill_E_of_VT_100_just_S_of_bridge_over_Missisquoi_River
+5 Owl's_Head_Groton_State_Forest
+4 ridge_between_Jay_Peak_and_Big_Jay_about_113_km_NW_of_Westfield
+4 Ridge_between_Jay_Peak_and_Big_Jay_about_7_miles_NW_of_Westfield
+4 Orleans_County_Ridge_between_Jay_Peak_and_Big_Jay_elevation_3500_ft_1064_m_about_7_miles_NW_of_Westfield
+4 Jay_Peak
+3 Town_of_Troy_Big_Falls_State_Park_Big_Falls_of_the_Missisquoi_River_along_River_Road_north_of_village_of_Troy
+3 Lake_Memphremagog
+2 north_side_of_"The_Pines"
+2 [data_not_captured]
+2 Town_of_Troy_Big_Falls_State_Park_Big_Falls_of_the_Missisquoi_River_along_River_Road_N_of_village_of_Troy_ca_350_m_roadbanks_and_rocky_riverside_in_northern_hardwood-conifer_forest
+
+---
+Orleans County Vermont Taxon count. genus-only records excluded :229
+Orleans Co. TAXA top 10. - genus-only records excluded
+
+16 Solorina_saccata
+13 Pyxine_sorediata
+11 Parmelia_saxatilis
+10 Menegazzia_terebrata
+10 Anaptychia_crinalis
+9 Peltigera_canina
+9 Imshaugia_aleurites
+8 Umbilicaria_vellea
+8 Phlyctis_argena
+7 Vahliella_leucophaea
+
+---
+LAMOILLE County.
+---
+Lamoille Co. DATE -- genus-only records excluded
+
+min = 1850, max = 2016, median = 1934, mean = 1946
+---
+Lamoille County.
+---
+Lamoille Co. COLLECTION DENSITY -- genus-only records excluded
+Lamoille County area = 1190 km^2
+VT LAMOILLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1151/1190 =  96.7227
+
+
+Lamoille County Count 1151 - genus-only records excluded
+proportion of State count (%)  (1151/13344) =  8.6256
+
+Lamoille Co. COLLECTOR top 10. - genus-only records excluded
+
+292 DuttonDL
+145 BowleyDR
+129 PringleCG
+121 HarrisRC
+104 LendemerJC
+40 MerrillGK
+35 AndersonGPMs
+32 SmithLHII
+20 LayEMs
+19 NelsonJMs
+
+Lamoille Co. LOCALITY top 20. - genus-only records excluded
+
+757 Mt_Mansfield_massif
+81 Town_of_Eden_Babcock_Nature_Preserve_of_Johnson_State_College
+46 Cambridge
+43 NoLoc
+36 Molly_Bog_N_of_Stowe
+31 Town_of_Belvidere_gravel_road_along_Calavale_Brook_05_mi_W_of_intersection_of_VT_109_and_VT_1118_in_Belvidere_Corners
+8 Stowe
+6 Moss_Glen_Falls_NE_of_Stowe
+6 Morristown
+6 Molly_Bog_FHM_Plot_octothorpe__NE9421_N_of_Stowe_Vermont
+6 Johnson
+5 Wolcott_Bear_Swamp
+5 Morrisville
+3 along_Long_Trail_North_32_km_from_intersection_with_VT_Route_108_north_of_Stowe_UTM_18_677672E_4935911N
+3 along_Hwy_109_near_intersection_with_Hwy_15_vicinity_of_Jeffersonville_rest_area_near_river
+3 [data_not_captured]
+3 Molly_Bog_Town_of_Morristown
+3 Jeffersville_road_to_Mt_Mansfield
+3 Forest_Health_Monitoring_Plot__octothorpe_21_Molly_Bog_North_of_Stowe_VT_Clean_air_site
+2 next_to_Whiteface_Shelter_Long_Trail_North_Whiteface_Mountain_33_miles_from_Sterling_Lake_46_miles_from_intersection_with_VT_Route_108_north_of_Stowe
+
+---
+Lamoille County Vermont Taxon count. genus-only records excluded :287
+Lamoille Co. TAXA top 10. - genus-only records excluded
+
+41 Usnocetraria_oakesiana
+26 Cetraria_laevigata
+25 Pseudevernia_cladonia
+23 Cladonia_squamosa
+22 Trapeliopsis_granulosa
+21 Rhizocarpon_geographicum
+21 Flavocetraria_cucullata
+20 Umbilicaria_hyperborea
+20 Mycoblastus_sanguinarioides
+18 Lasallia_papulosa
+17 Umbilicaria_mammulata
+16 Platismatia_glauca
+16 Cladonia_furcata
+15 Pseudevernia_consocians
+15 Porpidia_macrocarpa
+15 Graphis_scripta
+14 Stereocaulon_glaucescens
+14 Micarea_peliocarpa
+13 Evernia_mesomorpha
+12 Tuckermannopsis_sepincola
+
+---
+WASHINGTON County.
+---
+Washington Co. DATE -- genus-only records excluded
+
+min = 1860, max = 2020, median = 1971, mean = 1976
+---
+Washington County.
+---
+Washington Co. COLLECTION DENSITY -- genus-only records excluded
+Washington County area = 1780 km^2
+VT WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  421/1780 =  23.6517
+
+
+Washington County Count 421 - genus-only records excluded
+proportion of State count (%)  (421/13344) =  3.15498
+
+Washington Co. COLLECTOR top 10. - genus-only records excluded
+
+174 EganRS
+80 LaddDM
+49 SelvaSB
+26 FlennikenD
+12 LayEMs
+10 KutzA
+8 NorrisDH
+8 HillyardNMMs
+7 GreeneDN
+6 RhoadesF
+
+Washington Co. LOCALITY top 20. - genus-only records excluded
+
+83 Camels_Hump
+72 NoLoc
+49 Moretown_Gap
+48 Groton_State_Forest
+16 Little_River_State_Park_main_entrance_area
+8 Northfield
+7 Along_trail_to_Spruce_Mountain_southeast_of_Plainfield
+6 Mooretown_Gap_Nw_Northfield
+5 Waterbury_Reservoir
+5 Northfield_65_Mi_Nw_of
+5 Moretown
+5 Little_River_State_Park_on_dam
+5 Green_Mountains_65_mi_WSW_of_Waterbury
+4 Mt_Mansfield_State_Forest
+4 In_Barre_Town_Cemetery
+4 Barre_In_Barre_Town_Cemetery
+3 West_Hill
+3 Waterbury_Waterbury_Reservoir_on_dam
+3 Waterbury_Little_River_State_Park
+3 Mt_Mansfield_massif
+
+---
+Washington County Vermont Taxon count. genus-only records excluded :143
+Washington Co. TAXA top 10. - genus-only records excluded
+
+18 Punctelia_rudecta
+17 Cladonia_furcata
+15 Cladonia_squamosa
+14 Hypogymnia_physodes
+14 Cladonia_rangiferina
+11 Mycoblastus_sanguinarioides
+11 Lasallia_papulosa
+10 Xanthoparmelia_cumberlandia
+8 Usnocetraria_oakesiana
+8 Pseudevernia_consocians
+
+---
+FRANKLIN County.
+---
+Franklin Co. DATE -- genus-only records excluded
+
+min = 1830, max = 2011, median = 1939, mean = 1944
+---
+Franklin County.
+---
+Franklin Co. COLLECTION DENSITY -- genus-only records excluded
+Franklin County area = 1640 km^2
+VT FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  66/1640 =  4.02439
+
+
+Franklin County Count 66 - genus-only records excluded
+proportion of State count (%)  (66/13344) =  0.494604
+
+Franklin Co. COLLECTOR top 10. - genus-only records excluded
+
+15 PringleCG
+14 SpragueCJ
+13 HindsPLMs
+7 HarrisRC
+4 GriffinDB
+3 TuckermanE
+2 BuckWR
+1 TanBC
+1 RopesMMs
+1 NULLx
+
+Franklin Co. LOCALITY top 20. - genus-only records excluded
+
+13 ST_ALBANS_Horse_farm_at_2171_Kellogg_Road_with_pasture_areas_scattered_trees_and_limestone_rock_outcrops
+11 Highgate
+9 Montgomery
+6 St_Albans
+6 NoLoc
+5 Bakersfield_cliffs
+5 Bakersfield
+2 Lake_Champlain
+1 [data_not_captured]
+1 Swanton
+1 Old_Rossier_Road
+1 Mountain_brooks_Bakersfield
+1 Mountain_Brook
+1 Mallets_Bay_Lake_Champlain
+1 Highgate_Falls
+1 Haystack_Mt_Pawlett
+1 Bakersfield_Cliff
+
+---
+Franklin County Vermont Taxon count. genus-only records excluded :47
+Franklin Co. TAXA top 10. - genus-only records excluded
+
+5 Wahlenbergiella_mucosa
+5 Peltigera_venosa
+4 Graphis_eulectra
+3 Trapelia_coarctata
+3 Dermatocarpon_luridum
+2 Trapeliopsis_viridescens
+2 Placopyrenium_fuscellum
+2 Cladonia_gracilis
+2 Chaenotheca_chrysocephala
+1 Xanthoparmelia_conspersa
+
+---
+GRAND_ISLE County.
+---
+Grand_Isle Co. DATE -- genus-only records excluded
+
+min = 1978, max = 2003, median = 1996, mean = 1994
+---
+Grand_Isle County.
+---
+Grand_Isle Co. COLLECTION DENSITY -- genus-only records excluded
+Grand_Isle County area = 210 km^2
+VT GRAND_ISLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  13/210 =  6.19048
+
+
+Grand_Isle County Count 13 - genus-only records excluded
+proportion of State count (%)  (13/13344) =  0.0974221
+
+Grand_Isle Co. COLLECTOR top 10. - genus-only records excluded
+
+10 BuckWR
+1 WoodwardJEMs
+1 WhiteCMs
+1 DammanAWH
+
+Grand_Isle Co. LOCALITY top 20. - genus-only records excluded
+
+10 North_Hero_Island
+1 Velco_Substation_"Appletree"
+1 South_Hero_Island
+1 NoLoc
+
+---
+Grand_Isle County Vermont Taxon count. genus-only records excluded :11
+Grand_Isle Co. TAXA top 10. - genus-only records excluded
+
+
+2 Cresponea_chloroconia
+2 Alyxoria_varia
+1 Rusavskia_elegans
+1 Rinodina_pachysperma
+1 Punctelia_rudecta
+1 Punctelia_caseana
+1 Phaeocalicium_polyporaeum
+1 Phaeocalicium_curtisii
+1 Lecanora_thysanophora
+1 Cladonia_rei
+
+---
+CHITTENDEN County.
+---
+Chittenden Co. DATE -- genus-only records excluded
+
+min = 1850, max = 2011, median = 1922, mean = 1926
+---
+Chittenden County.
+---
+Chittenden Co. COLLECTION DENSITY -- genus-only records excluded
+Chittenden County area = 1390 km^2
+VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1900/1390 =  136.691
+
+
+Chittenden County Count 1900 - genus-only records excluded
+proportion of State count (%)  (1900/13344) =  14.2386
+
+Chittenden Co. COLLECTOR top 10. - genus-only records excluded
+
+442 PringleCG
+313 DuttonDL
+97 GriffinDB
+82 RiddleLW
+77 LendemerJC
+75 EganRS
+75 CookPW
+64 WeberWA
+63 BowleyDR
+48 FarlowWG
+
+Chittenden Co. LOCALITY top 20. - genus-only records excluded
+
+836 Mt_Mansfield_massif
+294 Charlotte
+81 Mallets_Bay
+76 NoLoc
+70 Camels_Hump
+52 [no_additional_data]
+43 Huntington
+38 City_of_Burlington_Lone_Rock_Point_above_Champlain_thrust_fault_E_shore_of_Lake_Champlain
+35 Underhill
+35 Hinesburg
+30 Jericho
+30 Colchester
+22 Charlotte_Mt_Philo
+21 Burlington
+17 Shelburne
+10 Winooski_River
+10 Jerico_Tarbox_Road_along_Mill_River
+8 Arrowhead_Mt
+6 Nebraska_Notch
+5 Green_Mountains_65_mi_WSW_of_Waterbury
+
+---
+Chittenden Co. TAXA top 10. - genus-only records excluded
+
+42 Cetraria_laevigata
+40 Umbilicaria_hyperborea
+38 Lasallia_papulosa
+37 Umbilicaria_proboscidea
+36 Platismatia_glauca
+36 Cladonia_squamosa
+32 Pseudevernia_cladonia
+32 Mycoblastus_sanguinarioides
+28 Flavocetraria_cucullata
+27 Stereocaulon_paschale
+
+---
+ADDISON County.
+---
+Addison Co. DATE -- genus-only records excluded
+
+min = 1877, max = 2010, median = 1925, mean = 1937
+---
+Addison County.
+---
+Addison Co. COLLECTION DENSITY -- genus-only records excluded
+Addison County area = 1980 km^2
+VT ADDISON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2084/1980 =  105.253
+
+
+Addison County Count 2084 - genus-only records excluded
+proportion of State count (%)  (2084/13344) =  15.6175
+
+Addison Co. COLLECTOR top 10. - genus-only records excluded
+
+962 DuttonDL
+216 LendemerJC
+184 EganRS
+138 PringleCG
+126 EvansAW
+87 SelvaSB
+58 LayEMs
+54 BurtEA
+45 FaxonE
+45 FarlowWG
+
+Addison Co. LOCALITY top 20. - genus-only records excluded
+
+293 Goshen
+160 Hancock
+146 Leicester
+135 Monkton
+115 Town_of_Bristol_Green_Mountain_National_Forest_Bristol_Cliffs_Wilderness_Area_W-facing_slopes_of_South_Mountain_talus_slopes_~3_mi_S_of_jct_of_Lower_Notch_Rd_and_Lovers_Lane
+102 Scanlon_Swamp
+92 Lake_Dunmore
+72 NoLoc
+64 Snake_Mountain_Wildlife_Management_Area_Snake_Mountain_W-facing_cliffs_S_of_summit
+62 Bristol
+45 Addison_County_Leicester_Township_Green_Mountain_National_Forest_Chandler_Ridge_Candidate_Research_Natural_Area
+32 Town_of_Ferrisburgh_Kingsland_Bay_State_Park_E_shore_of_Lake_Champlain
+22 Salisbury
+22 Green_Mountain_National_Forest_3_mi_WNW_of_Hancock
+19 Middlebury
+18 Marble_Ledges_and_Quarry_off_Halpin_Farm_off_Halpin_Road_near_Cove_Bridge
+18 Bristol_Cliffs_Wilderness_Area_off_Lower_Notch_Road
+16 Leicester_Brook_Swamp
+15 Texas_Falls_Recreation_Area_Green_Mountain_National_Forest_3_miles_WNW_of_Hancock
+15 Ripton_Middlebury_River
+
+---
+Addison Co. TAXA top 10. - genus-only records excluded
+
+71 Cladonia_furcata
+52 Cladonia_squamosa
+41 Lasallia_pensylvanica
+39 Graphis_scripta
+29 Cladonia_cristatella
+28 Lecanora_allophana
+27 Hypogymnia_physodes
+26 Punctelia_rudecta
+26 Cladonia_macilenta
+25 Cladonia_gracilis
+
+---
+RUTLAND County.
+---
+Rutland Co. DATE -- genus-only records excluded
+
+min = 1866, max = 2012, median = 1922, mean = 1932
+---
+Rutland County.
+---
+Rutland Co. COLLECTION DENSITY -- genus-only records excluded
+Rutland County area = 2400 km^2
+VT RUTLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3142/2400 =  130.917
+
+
+Rutland County Count 3142 - genus-only records excluded
+proportion of State count (%)  (3142/13344) =  23.5462
+
+Rutland Co. COLLECTOR top 10. - genus-only records excluded
+
+1980 DuttonDL
+428 EganRS
+235 KirkGL
+188 SelvaSB
+53 DodgeCW
+35 HarrisSK
+30 LaGrecaSA
+26 KentEC
+20 MerrillGK
+18 HaleMEJr
+
+Rutland Co. LOCALITY top 20. - genus-only records excluded
+
+1334 Brandon
+215 NoLoc
+142 Scanlon_Swamp
+118 Mt_Killington
+96 Gifford_Woods_State_Park
+91 Cape_Lookoff_Mountain
+79 Rutland
+45 Pawlet
+44 Mendon
+40 Pittsford
+35 Pittsfield
+26 East_Wallingford
+25 Sherburne
+25 Lyon_Hill
+19 Fair_Haven
+13 Chittenden_Nw_of_Reservoir
+12 Wallingford
+12 Region_Falls_Hill_Sherburne
+12 Aitken_State_Forest_3_mi_SE_of_Rutland
+11 Pond_Hill_Wells
+
+---
+Rutland Co. TAXA top 10. - genus-only records excluded
+
+129 Cladonia_furcata
+91 Cladonia_squamosa
+90 Cladonia_cristatella
+81 Cladonia_rangiferina
+67 Cladonia_turgida
+53 Graphis_scripta
+46 Peltigera_canina
+46 Flavoparmelia_caperata
+45 Cladonia_arbuscula
+44 Cladonia_pocillum
+
+---
+BENNINGTON County.
+---
+Bennington Co. DATE -- genus-only records excluded
+
+min = 1850, max = 2013, median = 1993, mean = 1986
+---
+Bennington County.
+---
+Bennington Co. COLLECTION DENSITY -- genus-only records excluded
+Bennington County area = 1750 km^2
+VT BENNINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1299/1750 =  74.2286
+
+
+Bennington County Count 1299 - genus-only records excluded
+proportion of State count (%)  (1299/13344) =  9.73471
+
+Bennington Co. COLLECTOR top 10. - genus-only records excluded
+
+593 WetmoreCM
+192 HammerSH
+162 DibbleACMs
+162 CleavittN
+97 HarrisSK
+62 SelvaSB
+32 TuckerSCMs
+31 EganRS
+22 DobbinF
+21 BurnhamSH
+
+Bennington Co. LOCALITY top 20. - genus-only records excluded
+
+792 Lye_Brook_Wilderness_Area
+192 Bondville
+35 Arlington
+31 NoLoc
+29 Summit_of_Equinox_Mountain_off_State_Hwy_7_SW_of_Manchester_Center
+27 Mt_Equinox
+26 Sunderland
+15 Searsburg
+13 Woodford
+11 Baffin_Island_Dorset_Emerald_Lake_State_Park
+10 Manchester_Hills_Auto_Camp
+7 Summit_of_Mt_Equinox
+6 Manchester
+5 Shaftsbury
+5 Searsburg_Green_Mountain_National_Forest_W_side_of_FS_71_16_km_N_of_VT_9_near_Searsburg_Reservoir
+5 Pownal
+5 Green_Mountain_National_Forest_W_side_of_FS_71_16_km_N_of_VT_9_near_Searsburg_Reservoir
+3 Mt_Equinox_To_Owls_Head
+3 Manchester_Mt_Equinox
+3 Dorset_Emerald_Lake_State_Park
+
+---
+Bennington Co. TAXA top 10. - genus-only records excluded
+
+40 Punctelia_rudecta
+36 Hypogymnia_physodes
+35 Melanelixia_subaurifera
+35 Cladonia_grayi
+33 Graphis_scripta
+29 Phaeophyscia_rubropulchra
+29 Flavoparmelia_caperata
+28 Cladonia_rei
+27 Usnocetraria_oakesiana
+24 Parmelia_sulcata
+
+---
+## Massachusetts ##
+25695 Non genus-only specimens
+3058 excluded Non genus-only specimens with date neither given nor inferrable
+---
+Massachusetts land area = 20306 km^2
+MA State count density (STATECNT/STATEAREA*100 km^2) :  25695/20306 =  126.539
+
+---
+ESSEX County.
+---
+Essex Co. DATE -- genus-only records excluded
+
+min = 1839, max = 2019, median = 1934, mean = 1939
+---
+Essex County.
+---
+Essex Co. COLLECTION DENSITY -- genus-only records excluded
+Essex County area = 1290 km^2
+MA ESSEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2341/1290 =  181.473
+
+
+Essex County Count 2341 - genus-only records excluded
+proportion of State count (%)  (2341/25695) =  9.11072
+
+Essex Co. COLLECTOR top 10. - genus-only records excluded
+
+469 CummingsCEMs
+414 MehlinEGMs
+218 HarrisSK
+119 TaylorRM
+114 LayEMs
+73 NULL
+62 SherwoodMAMs
+54 KneiperEMs
+54 KingmanCC
+53 SeymourAB
+
+Essex Co. LOCALITY top 20. - genus-only records excluded
+
+248 Annisquam
+178 Nahant
+167 NoLoc
+137 Cape_Ann
+128 Cape_Ann_Salt_Island
+96 Rockport
+90 Manchester
+66 Magnolia
+63 Ipswich
+47 Agassiz_Rock_Reservation_off_School_Street
+45 Andover
+44 Halibut_Point_near_Pigeon_Cove
+42 Essex
+38 Marblehead
+33 Dogtown
+32 Salem
+31 Saugus
+26 Lynnfield
+25 Lynn
+24 [data_not_captured]
+
+---
+Essex Co. TAXA top 10. - genus-only records excluded
+
+121 Xanthoria_parietina
+98 Lasallia_papulosa
+69 Wahlenbergiella_mucosa
+65 Verrucaria_ditmarsica
+57 Rusavskia_elegans
+56 Physcia_stellaris
+56 Cladonia_boryi
+50 Umbilicaria_muhlenbergii
+43 Xanthoparmelia_conspersa
+43 Cetraria_arenaria
+
+---
+SUFFOLK County.
+---
+Suffolk Co. DATE -- genus-only records excluded
+
+min = 1854, max = 2012, median = 2001, mean = 1972
+---
+Suffolk County.
+---
+Suffolk Co. COLLECTION DENSITY -- genus-only records excluded
+Suffolk County area = 150 km^2
+MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  758/150 =  505.333
+
+
+Suffolk County Count 758 - genus-only records excluded
+proportion of State count (%)  (758/25695) =  2.94999
+
+Suffolk Co. COLLECTOR top 10. - genus-only records excluded
+
+371 LayEMs
+63 GreeneDN
+44 FaxonCE
+42 FaxonE
+40 LaGrecaSA
+33 HigginsonS
+31 KneiperEMs
+26 AdamsTP
+22 SherwoodMAMs
+13 TuckermanE
+
+Suffolk Co. LOCALITY top 20. - genus-only records excluded
+
+431 Boston_Harbor_Islands
+47 Near_Boston
+32 Jamaica_Plain
+26 Bussey_Woods
+21 Boston_Roslindale
+16 Blue_Hill_Reservation_Wampatuck_Rd_Rattlesnake_Hill
+13 NoLoc
+11 [data_not_captured]
+8 Blue_Hill_Reservation_Red_Dot_Rail_to_top_of_Great_Blue_Hill_and_return
+7 Boston_Back_Bay's_Commonwealth_Avenue_Marlborough_St_and_Public_Garden
+7 Boston
+6 Pond_St_Jamaica_Plain
+6 Chelsea
+6 Cambridge
+4 West_Roxbury_Stony_Brook_Reservation
+4 Brighton
+3 [data_not_captured][West_Roxbury_-APP]
+3 Mattapan
+3 Forest_Hills
+3 Boston_Oakland_Garden
+
+---
+Suffolk Co. TAXA top 10. - genus-only records excluded
+
+26 Parmelia_sulcata
+24 Xanthoria_parietina
+23 Amandinea_punctata
+21 Collemopsidium_halodytes
+19 Lecanora_saligna
+18 Physcia_millegrana
+17 Rinodina_gennarii
+15 Cladonia_cristatella
+13 Pycnothelia_papillaria
+13 Physcia_stellaris
+
+---
+NORFOLK County.
+---
+Norfolk Co. DATE -- genus-only records excluded
+
+min = 1843, max = 2017, median = 1895, mean = 1914
+---
+Norfolk County.
+---
+Norfolk Co. COLLECTION DENSITY -- genus-only records excluded
+Norfolk County area = 1036 km^2
+MA NORFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2281/1036 =  220.174
+
+
+Norfolk County Count 2281 - genus-only records excluded
+proportion of State count (%)  (2281/25695) =  8.87721
+
+Norfolk Co. COLLECTOR top 10. - genus-only records excluded
+
+863 CummingsCEMs
+147 RiddleLW
+139 LayEMs
+131 WilleyH
+119 FaxonE
+96 SchaeferHar
+93 HigginsonS
+84 GreeneDN
+84 BlakeSF
+56 FaxonCE
+
+Norfolk Co. LOCALITY top 20. - genus-only records excluded
+
+924 Wellesley
+140 Weymouth
+114 NoLoc
+62 Dedham
+38 Stoughton
+37 Needham
+36 Milton
+26 Canton
+24 Brookline
+23 Sharon
+22 Dover
+17 [data_not_captured]
+17 Weymouth_Boston_Harbor_Islands_National_Park_Area_Slate_Island
+17 Weymouth_Boston_Harbor_Islands_National_Park_Area_Grape_Island
+17 Wellesley_Mass
+15 Boston_Harbor_Islands_Slate_Island
+14 Boston_Harbor_Islands
+14 Blue_Hill_Milton
+14 Blue_Hill
+12 Whitney_Thayer_Woods_Reservation
+
+---
+Norfolk Co. TAXA top 10. - genus-only records excluded
+
+77 Cladonia_cristatella
+67 Cladonia_rangiferina
+63 Dibaeis_baeomyces
+55 Flavoparmelia_caperata
+51 Cetraria_arenaria
+50 Calicium_tigillare
+40 Stictis_urceolatum
+36 Cladonia_furcata
+34 Gyalolechia_flavorubescens
+32 Stereocaulon_condensatum
+
+---
+PLYMOUTH County.
+---
+Plymouth Co. DATE -- genus-only records excluded
+
+min = 1844, max = 2017, median = 1926, mean = 1949
+---
+Plymouth County.
+---
+Plymouth Co. COLLECTION DENSITY -- genus-only records excluded
+Plymouth County area = 1712 km^2
+MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2989/1712 =  174.591
+
+
+Plymouth County Count 2989 - genus-only records excluded
+proportion of State count (%)  (2989/25695) =  11.6326
+
+Plymouth Co. COLLECTOR top 10. - genus-only records excluded
+
+1331 RobbinsCA
+325 HammerSH
+227 LayEMs
+160 GreeneDN
+105 LaGrecaSA
+103 HarrisSK
+64 RussellJL
+49 TaylorRM
+49 CollinsCT
+40 HarrisRC
+
+Plymouth Co. LOCALITY top 20. - genus-only records excluded
+
+1019 Wareham
+83 NoLoc
+73 Hingham
+73 Boston_Harbor_Islands_Peddocks_Island
+68 Bridgewater
+57 Plymouth
+46 Carver
+45 Myles_Standish_State_Forest
+45 Duxbury
+43 Scituate
+34 East_Wareham
+32 Plympton
+27 [data_not_captured]
+24 Town_of_Carver_Myles_Standish_State_Forest_junction_of_Bare_Hill_Road_and_Musquash_Road
+23 Wareham_Mass
+22 Point_of_rock_at_public_beach_Brant_Rock
+22 Mattapoisett
+22 Kingston
+21 Hingham_Boston_Harbor_Islands_National_Park_Area_Langlee_Island
+20 Hingham_Boston_Harbor_Islands_National_Park_Area_Ragged_Island
+
+---
+Plymouth Co. TAXA top 10. - genus-only records excluded
+
+175 Cladonia_squamosa
+105 Cladonia_mitis
+97 Cladonia_floridana
+87 Cladonia_cristatella
+84 Cladonia_arbuscula
+83 Cladonia_uncialis
+73 Cladonia_subtenuis
+72 Cladonia_macilenta
+67 Cladonia_furcata
+67 Cladonia_boryi
+
+---
+BRISTOL County.
+---
+Bristol Co. DATE -- genus-only records excluded
+
+min = 1848, max = 2020, median = 1876, mean = 1885
+---
+Bristol County.
+---
+Bristol Co. COLLECTION DENSITY -- genus-only records excluded
+Bristol County area = 1440 km^2
+MA BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2889/1440 =  200.625
+
+
+Bristol County Count 2889 - genus-only records excluded
+proportion of State count (%)  (2889/25695) =  11.2434
+
+Bristol Co. COLLECTOR top 10. - genus-only records excluded
+
+2500 WilleyH
+97 HarrisSK
+74 HoweRHJr
+60 HodgdonAR
+47 EverhartBM
+33 HarrisSK__et_al
+22 RiddleLW
+16 SmithLB
+16 LayEMs
+10 DubeM
+
+Bristol Co. LOCALITY top 20. - genus-only records excluded
+
+2303 New_Bedford
+61 [data_not_captured]
+31 Dartmouth
+30 Near_New_Bedford
+24 NoLoc
+20 Taunton
+19 Fairhaven
+16 prope_New_Bedford
+16 Mansfield
+16 Dighton
+14 New_Bedford_and_Weymouth
+13 North_Attleboro
+13 Nonquitt
+13 Acushnet
+11 Attleboro
+10 Prope_New_Bedford_Massachusetts_in_Americae_boreali
+10 Berkeley
+9 Norton
+9 Bay_just_s_of_Fairhaven
+8 Russells_Mills_Village_Rockfase_Site_E_of_Fisher_Road_N_of_village
+
+---
+Bristol Co. TAXA top 10. - genus-only records excluded
+
+48 Melaspilea_demissa
+45 Cladonia_cristatella
+28 Arthonia_susa
+27 Pycnothelia_papillaria
+27 Flavoparmelia_caperata
+25 Ropalospora_chlorantha
+25 Arthonia_pyrrhuliza
+25 Amandinea_milliaria
+22 Platismatia_tuckermanii
+22 Parmotrema_perforatum
+
+---
+BARNSTABLE County.
+---
+Barnstable Co. DATE -- genus-only records excluded
+
+min = 1860, max = 2022, median = 1962, mean = 1956
+---
+Barnstable County.
+---
+Barnstable Co. COLLECTION DENSITY -- genus-only records excluded
+Barnstable County area = 1026 km^2
+MA BARNSTABLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2376/1026 =  231.579
+
+
+Barnstable County Count 2376 - genus-only records excluded
+proportion of State count (%)  (2376/25695) =  9.24694
+
+Barnstable Co. COLLECTOR top 10. - genus-only records excluded
+
+483 BrodoIM
+271 LayEMs
+145 CrockerLA
+131 MayPF
+111 HarrisSK__et_al
+88 HarrisSK
+80 SmithLB
+80 HodgdonAR
+57 TorreyRH
+50 FarlowWG
+
+Barnstable Co. LOCALITY top 20. - genus-only records excluded
+
+149 Brewster
+120 NoLoc
+84 Woods_Hole
+60 Provincetown
+54 Nicholson_State_Park
+45 Wellfleet
+41 [data_not_captured]
+39 Cape_Cod
+37 Eastham
+36 Falmouth
+35 Massachusetts_Cape_Cod_East_Dennis
+34 Barnstable
+26 Orleans
+26 Cape_Cod_Canal_on_north_side_ca_Pole_250_N_betw_upper_paved_path_and_Rt_6E
+23 Massachusetts_Cape_Cod_Near_Truro_on_Route_6
+22 West_Falmouth
+22 Chatham_Morris_Island
+22 Bourne
+21 Massachusetts_Cape_Cod_Hyannis
+21 Massachusetts_Cape_Cod_Chatham_Morris_Island
+
+---
+Barnstable Co. TAXA top 10. - genus-only records excluded
+
+110 Cladonia_boryi
+101 Usnea_strigosa
+67 Usnea_trichodea
+65 Xanthoria_parietina
+60 Ramalina_farinacea
+58 Flavoparmelia_caperata
+54 Cladonia_uncialis
+51 Cladonia_rangiferina
+50 Cladonia_cristatella
+49 Imshaugia_placorodia
+
+---
+DUKES County.
+---
+Dukes Co. DATE -- genus-only records excluded
+
+min = 1862, max = 2010, median = 1992, mean = 1965
+---
+Dukes County.
+---
+Dukes Co. COLLECTION DENSITY -- genus-only records excluded
+Dukes County area = 269 km^2
+MA DUKES county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  611/269 =  227.138
+
+
+Dukes County Count 611 - genus-only records excluded
+proportion of State count (%)  (611/25695) =  2.37789
+
+Dukes Co. COLLECTOR top 10. - genus-only records excluded
+
+132 LayEMs
+122 HarrisSK
+75 MayPF
+52 SharnoffSDMs
+50 SharnoffS
+45 LaGrecaSA
+27 MoulET
+17 LeahyCW
+14 WilleyH
+14 TorreyRH
+
+Dukes Co. LOCALITY top 20. - genus-only records excluded
+
+281 Marthas_Vineyard
+25 Penikese_Island
+19 West_Tisbury_Martha's_Vinyard
+17 Edgartown
+15 NoLoc
+14 [data_not_captured]
+13 Katama_Plains_Conservation_Area_airport_Site_3_Unit_G
+12 Oak_Bluffs_Martha's_Vinyard
+12 Edgartown_Martha's_Vinyard
+12 Chilmark_Martha's_Vinyard
+11 Tisbury_Martha's_Vinyard
+10 Gay_Head_Martha's_Vinyard
+9 Katama_Plains_Conservation_Area_airport_Site_1_Unit_H
+9 Katama_Plains_Conservation_Area_Airport_Site_15
+8 Martha's_Vinyard_West_Tisbury_Felix_Neck_Wildlife_Sanctuary
+8 Katama_Plains_Conservation_Area_airport_Site_10_Unit_B
+8 Cottage_City
+7 West_Tisbury
+7 Martha's_Vinyard_Within_the_State_Forest
+6 Chilmark
+
+---
+Dukes Co. TAXA top 10. - genus-only records excluded
+
+40 Cladonia_boryi
+27 Usnea_strigosa
+24 Amandinea_polyspora
+22 Xanthoria_parietina
+20 Rinodina_maculans
+18 Lecanora_strobilina
+16 Cladonia_subtenuis
+15 Physcia_millegrana
+15 Lobaria_pulmonaria
+13 Ramalina_willeyi
+
+---
+NANTUCKET County.
+---
+Nantucket Co. DATE -- genus-only records excluded
+
+min = 1850, max = 2002, median = 1962, mean = 1953
+---
+Nantucket County.
+---
+Nantucket Co. COLLECTION DENSITY -- genus-only records excluded
+Nantucket County area = 124 km^2
+MA NANTUCKET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  559/124 =  450.806
+
+
+Nantucket County Count 559 - genus-only records excluded
+proportion of State count (%)  (559/25695) =  2.17552
+
+Nantucket Co. COLLECTOR top 10. - genus-only records excluded
+
+280 BrodoIM
+44 BicknellEP
+41 LaGrecaSA
+41 HarrisSK__et_al
+40 TorreyRH
+32 MacKeeverFC
+26 LeahyCW
+19 SheldonWH
+10 TrueRH
+10 McAvoyM
+
+Nantucket Co. LOCALITY top 20. - genus-only records excluded
+
+559 Nantucket
+
+---
+Nantucket Co. TAXA top 10. - genus-only records excluded
+
+49 Cladonia_boryi
+36 Cladonia_terrae-novae
+21 Cladonia_rangiferina
+20 Usnea_strigosa
+19 Ramalina_willeyi
+19 Cladonia_subtenuis
+17 Flavoparmelia_caperata
+16 Cladonia_furcata
+13 Lecanora_chlarotera
+13 Cladonia_cristatella
+
+---
+MIDDLESEX County.
+---
+Middlesex Co. DATE -- genus-only records excluded
+
+min = 1829, max = 2019, median = 1906, mean = 1918
+---
+Middlesex County.
+---
+Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
+Middlesex County area = 2134 km^2
+MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2847/2134 =  133.411
+
+
+Middlesex County Count 2847 - genus-only records excluded
+proportion of State count (%)  (2847/25695) =  11.08
+
+Middlesex Co. COLLECTOR top 10. - genus-only records excluded
+
+269 HoweRHJr
+208 FinkB
+169 MannHJr
+143 KingmanCC
+130 GreeneDN
+123 JonesHL
+122 CummingsCEMs
+120 RiddleLW
+101 NULL
+99 CarrCMMs
+
+Middlesex Co. LOCALITY top 20. - genus-only records excluded
+
+387 Concord
+178 Cambridge
+134 Waltham
+116 Reading
+114 Arlington_Heights
+86 Pepperell
+85 Arlington
+76 Sudbury
+71 NoLoc
+58 Newton
+52 Natick
+49 Carlisle
+43 North_Reading
+41 South_Natick
+34 Bedford
+31 [data_not_captured]
+27 Chelmsford
+26 Weston
+24 Near_Cambridge
+23 Townsend
+
+---
+Middlesex Co. TAXA top 10. - genus-only records excluded
+
+91 Cladonia_cristatella
+87 Dibaeis_baeomyces
+77 Umbilicaria_mammulata
+70 Umbilicaria_muhlenbergii
+69 Lasallia_papulosa
+58 Physcia_stellaris
+58 Flavoparmelia_caperata
+45 Punctelia_rudecta
+42 Cladonia_uncialis
+42 Cladonia_rangiferina
+
+---
+WORCESTER County.
+---
+Worcester Co. DATE -- genus-only records excluded
+
+min = 1843, max = 2018, median = 1959, mean = 1966
+---
+Worcester County.
+---
+Worcester Co. COLLECTION DENSITY -- genus-only records excluded
+Worcester County area = 3919 km^2
+MA WORCESTER county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3467/3919 =  88.4664
+
+
+Worcester County Count 3467 - genus-only records excluded
+proportion of State count (%)  (3467/25695) =  13.4929
+
+Worcester Co. COLLECTOR top 10. - genus-only records excluded
+
+969 GatesBN
+600 MayPF
+285 AhmadjianV
+266 GatesWCMs
+215 ScharnaglKMs
+197 LayEMs
+120 HarrisSK
+89 HarrisSK__et_al
+84 SargentFL
+76 KneiperEMs
+
+Worcester Co. LOCALITY top 20. - genus-only records excluded
+
+518 Mt_Wachusett
+278 Devens_Reserve_Training_Area
+231 Harvard_Forest
+103 Princeton
+89 Sutton
+88 NoLoc
+83 [data_not_captured]
+79 Lunenburg
+68 Rutland
+66 Oakham
+50 Mt_Watatic
+45 Paxton
+43 Spencer
+40 Holden
+34 Worcester
+31 Templeton
+28 Sterling
+28 Royalston
+28 Brookfield
+27 Millbury
+
+---
+Worcester Co. TAXA top 10. - genus-only records excluded
+
+86 Physcia_stellaris
+72 Cladonia_cristatella
+57 Graphis_scripta
+54 Flavoparmelia_caperata
+54 Dibaeis_baeomyces
+53 Lepraria_neglecta
+46 Acarospora_fuscata
+44 Rhizoplaca_subdiscrepans
+43 Stereocaulon_saxatile
+43 Aspicilia_verrucigera
+
+---
+FRANKLIN County.
+---
+Franklin Co. DATE -- genus-only records excluded
+
+min = 1862, max = 2013, median = 1998, mean = 1967
+---
+Franklin County.
+---
+Franklin Co. COLLECTION DENSITY -- genus-only records excluded
+Franklin County area = 1818 km^2
+MA FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  538/1818 =  29.593
+
+
+Franklin County Count 538 - genus-only records excluded
+proportion of State count (%)  (538/25695) =  2.09379
+
+Franklin Co. COLLECTOR top 10. - genus-only records excluded
+
+129 MayPF
+78 HarrisSK__et_al
+56 HigginsonS
+55 GreeneDN
+42 LayEMs
+24 HarrisSK
+19 HarrisRC
+16 BuckWR
+13 HodgdonAR
+12 HutchinsonWA
+
+Franklin Co. LOCALITY top 20. - genus-only records excluded
+
+32 Orange
+24 Mohawk_Trail_State_Forest_Old_Growth_Area_2-9_about_halfway_up_S_slope_of_Todd_Mountain
+22 NoLoc
+22 Mohawk_Trail_State_Forest_Old_Growth_Area_1-4_01_km_NE_and_due_E_of_summit_of_Todd_Mountain
+18 Deerfield
+16 Town_of_Rowe_just_off_Tunnel_Road_38_mi_NW_of_Zoar_on_River_Road
+16 Mohawk_Trail_State_Forest_Old_Growth_Area_2-6_Todd_Mountain_02_km_SSE_of_summit
+15 Sunderland
+15 Orange_Tully_Mountain_in_North_Orange_Ledge_on_west_side_of_Tully_Mt_off_Mountain_Rd
+13 Shutesbury
+13 Deerfield_Stillwater
+12 Wendell
+11 [data_not_captured]
+11 Whately
+10 Orange_Cemetery_in_North_Orange_on_Warwick_Road_1/4_mile_west_of_Mountain_Rd
+10 Mt_Toby
+9 Williams_Property
+9 Tully_Mountain
+9 New_Salem
+9 Mohawk_Trail_State_Forest_Todd_Mountain_Old_Growth_Area_2-1
+
+---
+Franklin Co. TAXA top 10. - genus-only records excluded
+
+16 Cladonia_rangiferina
+12 Dibaeis_baeomyces
+10 Punctelia_rudecta
+10 Cladonia_cristatella
+10 Cladonia_arbuscula
+9 Umbilicaria_mammulata
+9 Pycnothelia_papillaria
+8 Pyrenula_pseudobufonia
+8 Physcia_stellaris
+8 Pertusaria_rubefacta
+
+---
+HAMPDEN County.
+---
+Hampden Co. DATE -- genus-only records excluded
+
+min = 1855, max = 2015, median = 1993, mean = 1962
+---
+Hampden County.
+---
+Hampden Co. COLLECTION DENSITY -- genus-only records excluded
+Hampden County area = 1600 km^2
+MA HAMPDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  591/1600 =  36.9375
+
+
+Hampden County Count 591 - genus-only records excluded
+proportion of State count (%)  (591/25695) =  2.30006
+
+Hampden Co. COLLECTOR top 10. - genus-only records excluded
+
+200 LayEMs
+111 HarrisSK
+110 HodgdonAR
+68 MayPF
+51 SharnoffS
+40 SeymourAB
+37 SharnoffSDMs
+21 HaleMEJr
+20 BoothMAMs
+14 KnowltonCH
+
+Hampden Co. LOCALITY top 20. - genus-only records excluded
+
+220 Westover_AFB
+50 Granville
+37 [data_not_captured]
+23 Blandford
+19 NoLoc
+17 Tolland
+16 Monson
+13 Wales
+13 Longmeadow
+11 Holland
+8 Westfield
+8 Southwick
+7 Montgomery
+7 Chicopee
+6 Springfield
+6 Norcross_Wildlife_Sanctuary_SE_of_Monson_S_of_Monson-Wales_Road_near_outlet_of_Big_Vineca_Lake
+5 Russell
+5 Norcross_Wildlife_Sanctuary_SE_of_Monson_S_of_Monson-Wales_Road_between_Piney_Road_&_Big_Vineca
+5 Norcross_Wildlife_Sanctuary_SE_of_Monson_S_of_Monson-Wales_Road_along_Tupper_Hill_Road
+5 Hampden_Bousquet
+
+---
+Hampden Co. TAXA top 10. - genus-only records excluded
+
+35 Cladonia_cristatella
+23 Punctelia_rudecta
+22 Flavoparmelia_caperata
+17 Physcia_stellaris
+17 Physcia_millegrana
+15 Hypocenomyce_scalaris
+15 Dibaeis_baeomyces
+14 Phaeophyscia_rubropulchra
+14 Lecanora_symmicta
+14 Hypogymnia_physodes
+
+---
+HAMPSHIRE County.
+---
+Hampshire Co. DATE -- genus-only records excluded
+
+min = 1848, max = 2022, median = 1937, mean = 1934
+---
+Hampshire County.
+---
+Hampshire Co. COLLECTION DENSITY -- genus-only records excluded
+Hampshire County area = 1370 km^2
+MA HAMPSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  669/1370 =  48.8321
+
+
+Hampshire County Count 669 - genus-only records excluded
+proportion of State count (%)  (669/25695) =  2.60362
+
+Hampshire Co. COLLECTOR top 10. - genus-only records excluded
+
+154 TuckermanE
+106 HarrisSK__et_al
+91 MayPF
+54 LayEMs
+53 RiddleLW
+49 ShushanS
+25 CobbNA
+21 RosentreterR
+20 ClarkA
+16 HarrisSK
+
+Hampshire Co. LOCALITY top 20. - genus-only records excluded
+
+145 Amherst
+44 Westover_AR_Base_Green_Meadow_Road_Radio_Station
+35 [data_not_captured]
+24 Pelham
+24 Cum_Gton
+22 NoLoc
+20 Chesterfield
+17 Chesterfield_River_Gorge_near_Worthington_Massachusetts
+16 Plainfield
+16 Hadley
+15 Enfield
+11 Prescott
+10 Mt_Tom
+9 South_Amherst
+9 Parttrigg's_Swamp_Amherst
+9 Granby_Sand_Plain_State_Park_vicinity_about_1_mile_NE_of_Granby
+8 Belchertown
+7 Williamsburg
+7 Huntington
+5 Granite_Ledge_South_Amherst
+
+---
+Hampshire Co. TAXA top 10. - genus-only records excluded
+
+25 Bryoria_furcellata
+24 Dibaeis_baeomyces
+24 Cladonia_arbuscula
+22 Collema_leptaleum
+21 Collema_flaccidum
+19 Cladonia_cristatella
+16 Graphis_scripta
+16 Cladonia_mitis
+15 Cladonia_rangiferina
+14 Varicellaria_velata
+
+---
+BERKSHIRE County.
+---
+Berkshire Co. DATE -- genus-only records excluded
+
+min = 1845, max = 2021, median = 1995, mean = 1980
+---
+Berkshire County.
+---
+Berkshire Co. COLLECTION DENSITY -- genus-only records excluded
+Berkshire County area = 2411 km^2
+MA BERKSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2140/2411 =  88.7599
+
+
+Berkshire County Count 2140 - genus-only records excluded
+proportion of State count (%)  (2140/25695) =  8.32847
+
+Berkshire Co. COLLECTOR top 10. - genus-only records excluded
+
+596 LayEMs
+462 MayPF
+155 HarrisRC
+124 LaGrecaSA
+101 RiddleLW
+82 BurnhamSH
+78 LendemerJC
+73 HindsJW
+70 HindsPLMs
+69 WilhelmG
+
+Berkshire Co. LOCALITY top 20. - genus-only records excluded
+
+93 Bartholomews_Cobble
+88 Lanesboro
+60 Near_the_summit_of_Mt_Everett
+37 Stockbridge
+33 NoLoc
+30 Town_of_Pittsfield_Pittsfield_State_Forest_E_of_Lulu_Cascade_N_of_Berry_Pond_Circuit_Road_02_mi_N_of_park_office
+29 Mt_Greylock
+28 Monroe_State_Park_Dunbar_Brook_4273_-73
+27 [data_not_captured]
+26 Mount_Everett_100-175_m_SE_of_summit_tower_inside_sharp_bend_in_Appalachian_trail
+26 Monroe_State_Park_Dunbar_Brook
+25 Town_of_Hancock_Pittsfield_State_Forest_summit_of_Berry_Mountain_Berry_Pond_Circuit_Road_~225_mi_NW_of_park_entrance
+25 Reed_Bark_Preserve_TNC_Reed_Brook_and_hill_on_its_W_side_S_of_E_end_of_Whitcomb_Hill_Rd
+25 Appalachian_Trail_and_Rt_23_S_at_Monterey_town_border_Mixed_mesic_forest_of_ashoakwhite_pineelmconifersaspen_birch_blown_down+devastated_by_huge_June_1_tornado
+24 Windsor_State_Forest_Windsor_Jambs_East_side_of_gorge
+22 Appalachian_Trail_and_Rt_23_S_at_Monterey_town_border
+20 Windsor_State_Forest_Windsor_Jambs_West_side_of_gorge
+20 Mount_Everett_75-150_m_N_to_NNW_of_summit_tower
+20 Mohawk_Trail_State_Forest_Old_Growth_Area_5-3_S_ridge_of_Clark_Mountain_035_km_NNE_of_junction_of_Black_Bk_Rd_and_MA_2
+19 Mount_Washington_Bash_Bish_Falls
+
+---
+Berkshire Co. TAXA top 10. - genus-only records excluded
+
+42 Graphis_scripta
+38 Umbilicaria_mammulata
+32 Punctelia_rudecta
+30 Phaeophyscia_adiastola
+30 Lepraria_neglecta
+26 Phaeophyscia_rubropulchra
+26 Palicella_filamentosa
+26 Hypogymnia_physodes
+24 Parmelia_sulcata
+24 Lepraria_finkii
+
+---
+## Connecticut ##
+8935 Non genus-only specimens
+286 excluded Non genus-only specimens with date neither given nor inferrable
+---
+Connecticut land area = 12559 km^2
+CT State count density (STATECNT/STATEAREA*100 km^2) :  8935/12559 =  71.1442
+
+---
+WINDHAM County.
+---
+Windham Co. DATE -- genus-only records excluded
+
+min = 1883, max = 2020, median = 2002, mean = 1964
+---
+Windham County.
+---
+Windham Co. COLLECTION DENSITY -- genus-only records excluded
+Windham County area = 1330 km^2
+CT WINDHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  862/1330 =  64.812
+
+
+Windham County Count 862 - genus-only records excluded
+proportion of State count (%)  (862/8935) =  9.64745
+
+Windham Co. COLLECTOR top 10. - genus-only records excluded
+
+218 SheldonJL
+166 HarrisRC
+93 BuckWR
+65 EvansAW
+51 GoffinetB
+41 LayEMs
+39 HadleySBMs
+36 BrodoIM
+34 HaydenWJ
+20 ProctorNS
+
+Windham Co. LOCALITY top 20. - genus-only records excluded
+
+192 Central_Village
+159 Ashford
+144 Windham
+55 Westford
+55 Eastford
+31 East_Putnam
+24 Pomfret
+19 [data_not_captured]
+18 NoLoc
+13 Woodstock
+11 Thompson
+11 South_Canterbury
+8 Canterbury
+7 Oneco_Twp_Sand_pit_road
+5 Pomfret_Cotton_Rd_1/8_mile_west_where_it_intersects_Quinebaug_River
+5 Oneco_Twp_State_Path_Pine_Barrens
+5 Moosup
+5 Dayville_side_of_Rt_12_at_intersection_with_Rt_101
+5 Chaplin
+4 Willemantic
+
+---
+Windham Co. TAXA top 10. - genus-only records excluded
+
+26 Flavoparmelia_caperata
+19 Usnea_strigosa
+19 Punctelia_rudecta
+16 Cladonia_cristatella
+15 Peltigera_praetextata
+15 Cladonia_furcata
+12 Lasallia_papulosa
+11 Physcia_stellaris
+10 Porpidia_albocaerulescens
+10 Graphis_scripta
+
+---
+TOLLAND County.
+---
+Tolland Co. DATE -- genus-only records excluded
+
+min = 1906, max = 2023, median = 1949, mean = 1960
+---
+Tolland County.
+---
+Tolland Co. COLLECTION DENSITY -- genus-only records excluded
+Tolland County area = 1063 km^2
+CT TOLLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  582/1063 =  54.7507
+
+
+Tolland County Count 582 - genus-only records excluded
+proportion of State count (%)  (582/8935) =  6.51371
+
+Tolland Co. COLLECTOR top 10. - genus-only records excluded
+
+136 EvansAW
+79 TorreyGS
+70 GoffinetB
+61 MishLB
+38 RiddleLW
+33 HarrisRC
+22 AndersonGPMs
+20 FryeHA
+16 BuckWR
+14 BrodoIM
+
+Tolland Co. LOCALITY top 20. - genus-only records excluded
+
+145 Mansfield
+133 Storrs
+93 Union
+38 Stafford
+24 Willington
+22 Andover
+11 NoLoc
+7 Bolton
+6 [data_not_captured]
+4 University_of_Connecticut_campus_nearby_Thomas_J_Dodd_Center_405_Babbidge_Road
+3 W_of_Rt_89_219_Mount_Hope_Road
+3 Town_of_Bolton_Bolton_Notch_off_US_6/44
+3 GST's_pine-knoll_Mansfield
+3 Bigelow_Hollow_State_Park_Union
+3 Along_lower_Valentine_Brook_Gurleyville
+2 Willington_Holt_Mt
+2 Union_Twp_W_side_of_Horse_Meadow_Pond
+2 Town_of_Tolland_Bonair_Lake_woods_on_S_side_of_lake
+2 The_Carey_Tract_Willington
+2 Somers
+
+---
+Tolland Co. TAXA top 10. - genus-only records excluded
+
+21 Punctelia_rudecta
+16 Physcia_stellaris
+16 Graphis_scripta
+15 Flavoparmelia_caperata
+13 Lasallia_papulosa
+12 Umbilicaria_mammulata
+12 Physcia_millegrana
+11 Cladonia_furcata
+11 Cladonia_chlorophaea
+10 Leptogium_cyanescens
+
+---
+HARTFORD County.
+---
+Hartford Co. DATE -- genus-only records excluded
+
+min = 1880, max = 2021, median = 1925, mean = 1923
+---
+Hartford County.
+---
+Hartford Co. COLLECTION DENSITY -- genus-only records excluded
+Hartford County area = 1900 km^2
+CT HARTFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  467/1900 =  24.5789
+
+
+Hartford County Count 467 - genus-only records excluded
+proportion of State count (%)  (467/8935) =  5.22664
+
+Hartford Co. COLLECTOR top 10. - genus-only records excluded
+
+137 EvansAW
+107 WrightChas
+29 BunnJM
+27 BishopJN
+15 WilsonMFMs
+15 TorreyGS
+15 StarmerLJ
+15 RiddleLW
+10 GoffinetB
+9 ParkerAD
+
+Hartford Co. LOCALITY top 20. - genus-only records excluded
+
+63 Southington
+39 Plainville
+32 Rocky_Hill
+28 Suffield
+25 Granby
+21 Newington
+19 Hartford
+19 Glastonbury
+17 Hartland
+16 [data_not_captured]
+16 South_Glastonbury
+15 West_Hartford
+14 Berlin
+11 East_Granby
+7 Penwood_State_Park_Simsbury
+5 Windsor
+5 Wethersfield
+5 NoLoc
+5 Marlboro
+5 Bristol
+
+---
+Hartford Co. TAXA top 10. - genus-only records excluded
+
+16 Tuckermannopsis_ciliaris
+14 Peltigera_rufescens
+11 Punctelia_rudecta
+10 Cladonia_subtenuis
+10 Cladonia_subcariosa
+10 Cladonia_rangiferina
+10 Cladonia_chlorophaea
+9 Physcia_millegrana
+9 Graphis_scripta
+9 Cladonia_cristatella
+
+---
+NEW_LONDON County.
+---
+New_London Co. DATE -- genus-only records excluded
+
+min = 1882, max = 2023, median = 1927, mean = 1954
+---
+New_London County.
+---
+New_London Co. COLLECTION DENSITY -- genus-only records excluded
+New_London County area = 1720 km^2
+CT NEW_LONDON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  874/1720 =  50.814
+
+
+New_London County Count 874 - genus-only records excluded
+proportion of State count (%)  (874/8935) =  9.78176
+
+New_London Co. COLLECTOR top 10. - genus-only records excluded
+
+197 EvansAW
+145 SetchellWA
+97 RaithelCJ
+82 HarrisRC
+60 NicholsGE
+59 ProctorNS
+42 MuschFA
+23 NashTHIII
+22 GoffinetB
+22 BuckWR
+
+New_London Co. LOCALITY top 20. - genus-only records excluded
+
+163 Voluntown
+94 Norwich
+86 Old_Lyme
+68 Ledyard
+40 Town_of_North_Stonington_Bell_Cedar_Swamp_Preserve_W_of_Boom_Bridge_Road_06_mi_S_of_CT_216
+32 East_Lyme
+31 Town_of_North_Stonington_Mashantucket_Pequot_Reservation_trail_up_N_slope_of_Lantern_Hill_S_of_Wintechog_Hill_Road_02_mi_S_of_CT_2
+23 [data_not_captured]
+13 North_Stonington_Lantern_Hill
+12 NoLoc
+11 Old_Lyme_Twp
+11 North_Stonington
+10 Groton_Long_Point
+9 Waterford
+9 Griswold
+8 Lyme_Twp_Nehantic_State_Forest
+7 Old_Lyme_Roger's_Lake
+7 East_Haddam_Twp_Millington_Cemetery_Rte_43
+6 Of_Mason's_Island_near_Mystic
+6 Franklin
+
+---
+New_London Co. TAXA top 10. - genus-only records excluded
+
+25 Flavoparmelia_caperata
+25 Dibaeis_baeomyces
+22 Punctelia_rudecta
+21 Physcia_millegrana
+18 Melanelixia_subaurifera
+17 Usnea_strigosa
+17 Parmotrema_hypotropum
+14 Hypogymnia_physodes
+12 Stereocaulon_condensatum
+12 Ropalospora_chlorantha
+
+---
+MIDDLESEX County.
+---
+Middlesex Co. DATE -- genus-only records excluded
+
+min = 1871, max = 2023, median = 1927, mean = 1926
+---
+Middlesex County.
+---
+Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
+Middlesex County area = 960 km^2
+CT MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  706/960 =  73.5417
+
+
+Middlesex County Count 706 - genus-only records excluded
+proportion of State count (%)  (706/8935) =  7.90151
+
+Middlesex Co. COLLECTOR top 10. - genus-only records excluded
+
+336 EvansAW
+121 HallFW
+82 ProctorNS
+45 WrightChas
+18 WileyD
+12 TorreyGS
+11 sc
+11 StarmerLJ
+11 MuschFA
+8 StarmerFW
+
+Middlesex Co. LOCALITY top 20. - genus-only records excluded
+
+124 Killingworth
+76 East_Hampton
+60 [data_not_captured]
+60 Middletown
+52 Old_Saybrook
+44 Clinton
+33 Portland
+32 Westbrook
+22 East_Haddam
+13 East_Haddam_Twp_Devil's_Hopyard_State_Park
+12 Saybrook
+12 Chester
+11 Durham
+11 Chester_Twp_Chester_Cedar_Swamp_Road
+10 Essex
+9 Killingworth_Twp_Bunnell_Bridge_Road
+8 Killingworth_Twp_Emmanuel_Church_Road_sand_pits
+7 Killingworth_Twp_Bunnell_Bridge_Road_River_path
+6 Middlefield
+5 River_Road_Middletown
+
+---
+Middlesex Co. TAXA top 10. - genus-only records excluded
+
+19 Cladonia_uncialis
+19 Cladonia_subtenuis
+17 Cladonia_macilenta
+16 Flavoparmelia_caperata
+16 Cladonia_chlorophaea
+15 Physcia_millegrana
+13 Cladonia_mitis
+12 Peltigera_polydactylon
+12 Parmelia_sulcata
+11 Lobaria_pulmonaria
+
+---
+NEW_HAVEN County.
+---
+New_Haven Co. DATE -- genus-only records excluded
+
+min = 1837, max = 2012, median = 1926, mean = 1923
+---
+New_Haven County.
+---
+New_Haven Co. COLLECTION DENSITY -- genus-only records excluded
+New_Haven County area = 1570 km^2
+CT NEW_HAVEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1881/1570 =  119.809
+
+
+New_Haven County Count 1881 - genus-only records excluded
+proportion of State count (%)  (1881/8935) =  21.052
+
+New_Haven Co. COLLECTOR top 10. - genus-only records excluded
+
+817 EvansAW
+131 ProctorNS
+114 EatonDC
+95 SetchellWA
+86 MeyrowitzRMs
+69 NicholsGE
+62 DarrowRA
+61 sc
+57 FulfordMHMs
+47 MuschFA
+
+New_Haven Co. LOCALITY top 20. - genus-only records excluded
+
+163 [data_not_captured]
+131 New_Haven
+124 Madison
+113 Bethany
+108 North_Haven
+95 Branford
+76 Guilford
+58 North_Branford
+58 Milford
+51 Oxford
+50 West_Rock
+49 East_Haven
+43 Hamden
+38 Beacon_Falls
+34 Southbury
+24 Woodbridge
+23 Mt_Carmel
+21 NoLoc
+18 Orange
+17 Hamden_Mt_Carmel
+
+---
+New_Haven Co. TAXA top 10. - genus-only records excluded
+
+53 Cladonia_cristatella
+48 Physcia_millegrana
+40 Cladonia_strepsilis
+39 Cladonia_macilenta
+39 Cetraria_arenaria
+36 Peltigera_hydrothyria
+33 Cladonia_uncialis
+33 Cladonia_furcata
+32 Cladonia_subtenuis
+32 Cladonia_mitis
+
+---
+FAIRFIELD County.
+---
+Fairfield Co. DATE -- genus-only records excluded
+
+min = 1874, max = 2019, median = 1928, mean = 1953
+---
+Fairfield County.
+---
+Fairfield Co. COLLECTION DENSITY -- genus-only records excluded
+Fairfield County area = 1620 km^2
+CT FAIRFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  696/1620 =  42.963
+
+
+Fairfield County Count 696 - genus-only records excluded
+proportion of State count (%)  (696/8935) =  7.78959
+
+Fairfield Co. COLLECTOR top 10. - genus-only records excluded
+
+290 EvansAW
+96 MangelsCR
+66 HarrisRC
+39 BuckWR
+29 BarnhartJH
+20 ProctorNS
+18 GreenHA
+15 LoweJDMs
+14 LayEMs
+13 MuschFA
+
+Fairfield Co. LOCALITY top 20. - genus-only records excluded
+
+99 Town_of_Redding_Highstead_Arboretum_W_of_CT_107_just_N_of_The_Redding_Country_Club
+64 Stamford
+37 Greenwich
+34 [data_not_captured]
+31 Darien
+30 Danbury
+29 Sherman
+25 Newtown_Twp_Brunot_Preserve_Newtown_Forest_Assoc
+25 Brookfield
+23 New_Canaan
+20 New_Fairfield
+19 Westport_Twp_Earthplace_Woodside_Lane
+13 Shelton
+13 Bethel_Twp_Franc_Preserve_Town_of_Bethel
+12 Branchville
+11 West_Gorham
+10 New_Fairfield_Twp_NE-facing_slope_Sweetcake_Mountain_vicinity
+9 Newtown
+9 Brookfield_Twp_W_of_powerline_corridor_bordering_Route_7_S_of_Silvermine_Road_Linear_Town_Park
+8 NoLoc
+
+---
+Fairfield Co. TAXA top 10. - genus-only records excluded
+
+29 Porpidia_albocaerulescens
+21 Physcia_millegrana
+18 Punctelia_rudecta
+18 Cladonia_subtenuis
+17 Parmelia_sulcata
+16 Physcia_stellaris
+15 Cladonia_rei
+14 Flavoparmelia_caperata
+14 Dibaeis_baeomyces
+13 Phaeophyscia_rubropulchra
+
+---
+LITCHFIELD County.
+---
+Litchfield Co. DATE -- genus-only records excluded
+
+min = 1875, max = 2012, median = 1954, mean = 1958
+---
+Litchfield County.
+---
+Litchfield Co. COLLECTION DENSITY -- genus-only records excluded
+Litchfield County area = 2390 km^2
+CT LITCHFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2714/2390 =  113.556
+
+
+Litchfield County Count 2714 - genus-only records excluded
+proportion of State count (%)  (2714/8935) =  30.3749
+
+Litchfield Co. COLLECTOR top 10. - genus-only records excluded
+
+515 HaleMEJr
+447 EvansAW
+249 LendemerJC
+224 GreenHA
+178 LayEMs
+146 HarrisRC
+90 BuckWR
+86 UnderwoodLM
+79 FlennikenD
+73 DarrowRA
+
+Litchfield Co. LOCALITY top 20. - genus-only records excluded
+
+635 Canaan
+221 Norfolk
+160 Cornwall
+125 Colebrook
+101 NoLoc
+83 Ellsworth
+81 Aton_Forest
+77 West_Goshen
+73 Washington
+59 Goshen
+52 Salisbury
+47 Kent
+46 Cornwall_Bridge
+45 Litchfield
+40 [data_not_captured]
+34 Barkhamsted
+29 North_Canaan
+24 Point_of_Rocks_west_of_Sand_Road
+19 New_Milford
+19 Gridley_Mountain
+
+---
+Litchfield Co. TAXA top 10. - genus-only records excluded
+
+57 Cladonia_furcata
+45 Punctelia_rudecta
+43 Parmelia_sulcata
+42 Peltigera_rufescens
+42 Hypogymnia_physodes
+41 Cladonia_subtenuis
+40 Gyalolechia_flavorubescens
+37 Cladonia_rangiferina
+35 Cladonia_arbuscula
+33 Usnocetraria_oakesiana
+
+---
+## Rhode_Island ##
+2242 Non genus-only specimens
+125 excluded Non genus-only specimens with date neither given nor inferrable
+---
+Rhode_Island land area = 2707 km^2
+RI State count density (STATECNT/STATEAREA*100 km^2) :  2242/2707 =  82.8223
+
+---
+PROVIDENCE County.
+---
+Providence Co. DATE -- genus-only records excluded
+
+min = 1840, max = 2020, median = 2001, mean = 1992
+---
+Providence County.
+---
+Providence Co. COLLECTION DENSITY -- genus-only records excluded
+Providence County land area = 1059 km^2
+RI PROVIDENCE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  405/1059 =  38.2436
+
+
+Providence County Count 405 - genus-only records excluded
+proportion of State count (%)  (405/2242) =  18.0642
+
+Providence Co. COLLECTOR top 20. - genus-only records excluded
+
+299 FlennikenD
+20 CollinsJF
+12 HarrisRC
+11 TorreyGS
+11 RaithelCJ
+11 LayEMs
+10 BuckWR
+5 SeymourFC
+5 GreeneDN
+4 BennettJL
+2 NULL
+2 CookSF
+2 BeattieF
+2 BeanRC
+1 ReedCF
+1 RI_Dept_of_Environ_Mngm
+1 ParkerSBMs
+1 LaferriereJE
+1 HoweRHJr
+1 HowardNO
+
+Providence Co. LOCALITY top 20. - genus-only records excluded
+
+60 Lincoln_Lime_Rock_Nature_Preserve
+36 Johnston_Snake_Den
+25 Buck_Hill_Management_Area_41986053_-71789319
+20 along_SR-146_1/2_mi_north_of_Iron_Mine_Hill_Road_41967296_-71503128
+19 Fort_Nature_Preserve_near_Primrose_41960885_-71552834
+13 Iron_Mine_Hill_Road_41954595_-71518921
+11 Clayville_churchyard_and_cemetery_41776524_-71679251
+10 Sprague_Farm_41908248_-71702748
+10 J_L_Curran_Park_41750267_-71545548
+10 Casimir_Pulaski_State_Park_41930351_-71795799
+9 Ponagansett_Public_Fishing_Area_41844657_-71741904
+9 Lincoln_Woods_State_Park_along_SR_123_41906882_-71437412
+9 Lake_Wallum_4200035_-71763627
+8 Providence
+8 Powder_Mill_Ledges_Wildlife_Refuge_41868472_-71529444
+8 Glocester
+7 Scituate_Reservoir_Area_R_12_east_of_SR_102_414774855_-71637586
+7 Foster
+7 Diamond_Hill_Park_SR_114_41000685_-71414462
+5 Scituate_Reservoir_Area_Rt_12_east_of_SR_102_414774855_-71637586
+
+---
+Providence Co. TAXA top 10. - genus-only records excluded
+
+24 Cladonia_grayi
+16 Dibaeis_baeomyces
+15 Umbilicaria_mammulata
+15 Flavoparmelia_caperata
+14 Lasallia_papulosa
+13 Xanthoparmelia_conspersa
+13 Punctelia_rudecta
+13 Cladonia_macilenta
+12 Hypogymnia_physodes
+12 Flavoparmelia_baltimorensis
+
+---
+KENT County.
+---
+Kent Co. DATE -- genus-only records excluded
+
+min = 1907, max = 2020, median = 2001, mean = 2002
+---
+Kent County.
+---
+Kent Co. COLLECTION DENSITY -- genus-only records excluded
+Kent County area = 440 km^2
+RI KENT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  310/440 =  70.4545
+
+
+Kent County Count 310 - genus-only records excluded
+proportion of State count (%)  (310/2242) =  13.8269
+
+Kent Co. COLLECTOR top 10. - genus-only records excluded
+
+275 FlennikenD
+29 RaithelCJ
+3 CollinsJF
+1 StesselGJ
+1 HahnGG
+1 AyersTT
+
+Kent Co. LOCALITY top 20. - genus-only records excluded
+
+28 NoLoc
+28 Big_River_Management_Area_along_Division_Street_sand_dunes_area_41647637_-71586225
+26 headwaters_of_Wood_River
+26 BioBlitz_2004_W_Alton_Jones_Campus_Environmental_Education_Center
+25 BioBlitz_2004_W_Alton_Jones_Campus_Nature_Preserve
+19 Nicholas_Farm_41681019_-71773898
+14 Frenchtown_Park_41627162_-71506707
+14 Big_River_Wildlife_Management_Area_sand_dunes_area_41647602_-71586784
+13 George_Parker_Woodland_41717963_-71697709
+11 Big_River_Wildlife_Management_Area_sand_dunes_41647623_-71586362
+10 W_Alton_Jones_Campus_EEC_41621383_-71703967
+7 Tillinghast_Pond_Management_Area_McAlpine_section_between_Hazard_Road_and_Coney_Brook
+7 Coventry_Center_Cemetery_along_SR_117
+7 BioBlitz_2004_W_Alton_Jones_Campus_cemetery
+6 W_Alton_Jones_Campus_Nature_Preserve
+6 Big_River_Wildlife_Management_Area_sand_dunes_area
+5 West_Greenwich
+4 West_Greenwich_Big_River_Management_Area_Weaver_Hill_Road
+3 W_Alton_Jones_Campus_Nature_Preserve_41621383_-71703967
+3 W_Alton_Jones_Campus_41621383_-71703967
+
+---
+Kent Co. TAXA top 10. - genus-only records excluded
+
+12 Cladonia_coniocraea
+10 Cladonia_macilenta
+10 Cladonia_grayi
+9 Melanelixia_subaurifera
+9 Flavoparmelia_caperata
+7 Punctelia_rudecta
+7 Physcia_stellaris
+7 Hypogymnia_physodes
+6 Usnea_strigosa
+6 Physcia_millegrana
+
+---
+BRISTOL County.
+---
+Bristol Co. DATE -- genus-only records excluded
+
+min = 1906, max = 2021, median = 2005, mean = 1957
+---
+Bristol County.
+---
+Bristol Co. COLLECTION DENSITY -- genus-only records excluded
+Bristol County land area = 60 km^2
+RI BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  121/60 =  201.667
+
+
+Bristol County Count 121 - genus-only records excluded
+proportion of State count (%)  (121/2242) =  5.39697
+
+Bristol Co. COLLECTOR top 10. - genus-only records excluded
+
+56 FlennikenD
+42 HoweRHJr
+17 ParkerSBMs
+5 RaithelCJ
+1 NULLX
+
+Bristol Co. LOCALITY top 20. - genus-only records excluded
+
+61 Bristol
+27 BioBlitz_2005_Haffenreffer_Museum
+24 BioBlitz_2005_Mt_Hope_Farm
+3 Saint_Mary_of_the_Bay_Cemetery_41724035_-71277785
+1 Saint_Mary_of_the_Bay_Cemetery
+1 Rhode_Island_Bristol
+1 Nov_Angli_Britsol__On_Acer_and_Juniperus-20_ft
+1 Nov_Angli_Bristol__On_soil_over_ledges
+1 Haile_Farm_Preserve
+1 Haffenreffer_Museum_of_Anthropology
+
+---
+Bristol Co. TAXA top 10. - genus-only records excluded
+
+12 Cladonia_furcata
+6 Parmotrema_perforatum
+4 Physcia_millegrana
+4 Flavoparmelia_caperata
+4 Cladonia_pocillum
+4 Cladonia_macilenta
+4 Cladonia_arbuscula
+3 Usnea_strigosa
+3 Ramalina_americana
+3 Punctelia_rudecta
+
+---
+NEWPORT County.
+---
+Newport Co. DATE -- genus-only records excluded
+
+min = 1873, max = 2020, median = 2001, mean = 1966
+---
+Newport County.
+---
+Newport Co. COLLECTION DENSITY -- genus-only records excluded
+Newport County land area = 260 km^2
+RI NEWPORT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  335/260 =  128.846
+
+
+Newport County Count 335 - genus-only records excluded
+proportion of State count (%)  (335/2242) =  14.942
+
+Newport Co. COLLECTOR top 10. - genus-only records excluded
+
+154 FlennikenD
+56 TaylorRM
+22 HoweRHJr
+21 RichardsHM
+17 RiddleLW
+13 CollinsJF
+10 RaithelCJ
+8 BlaineGB
+8 BennettJL
+4 MajestykP
+
+Newport Co. LOCALITY top 20. - genus-only records excluded
+
+60 Conanicut_Island
+47 Middletown
+38 Newport
+23 Norman_Bird_Sanctuary_41493951_-71259735
+16 BioBlitz_2003_Weetamoo_Woods
+12 BioBlitz_2003_Babbitt_Property_RI_Dept_Env_Mgt
+9 Cemetery_off_Beacon_Ave_along_SR_138_41527983_-71382464
+8 Oakland_Farms_41556024_-71260403
+8 Little_Compton
+7 NoLoc
+7 Jamestown_Island_Beavertail_lighthouse_41449467_-71399033
+7 Fort_Adams
+7 BioBlitz_2003_Pardon_Gray_Refuge_41590686_-71190967
+6 Tiverton_Four_Corners_Cemetery_41575023_-7119004
+6 Newport_Cemetery
+6 BioBlitz_2003_Emily_Ruecker_Refuge_Audubon_Society_of_RI_41591689_-71200108
+5 Tiverton
+4 Green_Animals_Park
+3 Little_Compton_WN_Sisson_farm
+3 Emile_Rueker_Refuge
+
+---
+Newport Co. TAXA top 10. - genus-only records excluded
+
+33 Verrucaria_halizoa
+17 Lasallia_pensylvanica
+16 Xanthoria_parietina
+16 Physcia_millegrana
+15 Candelariella_vitellina
+14 Verrucaria_erichsenii
+14 Parmelia_sulcata
+12 Flavoparmelia_caperata
+10 Usnea_strigosa
+9 Hydropunctaria_amphibia
+
+---
+WASHINGTON County.
+---
+Washington Co. DATE -- genus-only records excluded
+
+min = 1878, max = 2020, median = 2001, mean = 1995
+---
+Washington County.
+---
+Washington Co. COLLECTION DENSITY -- genus-only records excluded
+Washington County land area = 850 km^2
+RI WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  948/850 =  111.529
+
+
+Washington County Count 948 - genus-only records excluded
+proportion of State count (%)  (948/2242) =  42.2837
+
+Washington Co. COLLECTOR top 10. - genus-only records excluded
+
+427 FlennikenD
+184 RaithelCJ
+67 NashTHIII
+55 EvansAW
+34 BuckWR
+33 HarrisRC
+27 LayEMs
+25 TorreyGS
+14 SundbergS
+14 CollinsJF
+
+Washington Co. LOCALITY top 20. - genus-only records excluded
+
+125 South_Kingstown
+40 BioBlitz_2007_Trustom_Pond_National_Wildlife_Refuge
+30 Blue_Pond_41507732_-71752152
+22 Schoolhouse_Pond/Deep_Pond_41393173_-71664222
+22 Queen_River_area_41548748_-71558845
+21 Town_of_Hopkinton_Long_&_Ell_Ponds_Natural_Area_Narragansett_Trail_ca_15_mi_SW_of_Rockville_on_North_Road_via_Canonchet_Road
+21 NoLoc
+20 Ell_Pond_41506696_-71779091
+18 Grass_Pond_41491374_-71650576
+16 Black_Swamp_area_US-1_@_RR_tracks_41602416_-71455185
+16 Arcadia_Management_Area_Mt_Tom_ledges_south_of_Rt_165
+15 Tuckerman_sic_Park_Tucker_Pond_Area-_Matunuck_Hills_41427209_-71555141
+13 Great_Swamp_area_41470498_-71576888
+13 Cross_Mills_First_Baptist_churchyard_and_cemetery_4138214_-71640485
+13 Crandall_Swamp_41366444_-71786521
+12 Pawtucket_River_Pines_Wood_River_Junction_41440652_-71695198
+12 Kimball_Wildlife_Sanctuary_41372471_-71686786
+12 Beaver_River_41541567_-71646053
+11 Carolina_Management_Area_Kenyon_Hill_Trail_41487853_-71668847
+11 65_km_W_of_Charleston_town_line_on_route_I-A
+
+---
+Washington Co. TAXA top 10. - genus-only records excluded
+
+53 Parmotrema_hypotropum
+31 Parmotrema_hypoleucinum
+28 Flavoparmelia_caperata
+27 Punctelia_rudecta
+27 Cladonia_subtenuis
+25 Usnea_strigosa
+25 Lasallia_papulosa
+23 Flavoparmelia_baltimorensis
+23 Cladonia_grayi
+21 Cladonia_macilenta
+
+---
