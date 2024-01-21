@@ -4402,6 +4402,8 @@ Windham Co. LOCALITY top 20. - genus-only records excluded
 4 Willemantic
 
 ---
+Windham County Connecticut Taxon count. genus-only records excluded :253
+ ---
 Windham Co. TAXA top 10. - genus-only records excluded
 
 26 Flavoparmelia_caperata
@@ -4469,6 +4471,8 @@ Tolland Co. LOCALITY top 20. - genus-only records excluded
 2 Somers
 
 ---
+Tolland County Connecticut Taxon count. genus-only records excluded :190
+ ---
 Tolland Co. TAXA top 10. - genus-only records excluded
 
 21 Punctelia_rudecta
@@ -4536,6 +4540,8 @@ Hartford Co. LOCALITY top 20. - genus-only records excluded
 5 Bristol
 
 ---
+Hartford County Connecticut Taxon count. genus-only records excluded :162
+ ---
 Hartford Co. TAXA top 10. - genus-only records excluded
 
 16 Tuckermannopsis_ciliaris
@@ -4603,6 +4609,8 @@ New_London Co. LOCALITY top 20. - genus-only records excluded
 6 Franklin
 
 ---
+New_London County Connecticut Taxon count. genus-only records excluded :263
+ ---
 New_London Co. TAXA top 10. - genus-only records excluded
 
 25 Flavoparmelia_caperata
@@ -4648,7 +4656,7 @@ Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
 Middlesex Co. LOCALITY top 20. - genus-only records excluded
 
-124 Killingworth
+160 Killingworth
 76 East_Hampton
 60 [data_not_captured]
 60 Middletown
@@ -4663,13 +4671,15 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 11 Durham
 11 Chester_Twp_Chester_Cedar_Swamp_Road
 10 Essex
-9 Killingworth_Twp_Bunnell_Bridge_Road
-8 Killingworth_Twp_Emmanuel_Church_Road_sand_pits
-7 Killingworth_Twp_Bunnell_Bridge_Road_River_path
 6 Middlefield
 5 River_Road_Middletown
+5 NoLoc
+4 town_of_Middletown
+4 Old_Saybrook_Twp_Upper_Cemetery_at_end_of_Stage_Road
 
 ---
+Middlesex County Connecticut Taxon count. genus-only records excluded :196
+ ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
 19 Cladonia_uncialis
@@ -4737,6 +4747,8 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 17 Hamden_Mt_Carmel
 
 ---
+New_Haven County Connecticut Taxon count. genus-only records excluded :302
+ ---
 New_Haven Co. TAXA top 10. - genus-only records excluded
 
 53 Cladonia_cristatella
@@ -4804,6 +4816,8 @@ Fairfield Co. LOCALITY top 20. - genus-only records excluded
 8 NoLoc
 
 ---
+Fairfield County Connecticut Taxon count. genus-only records excluded :210
+ ---
 Fairfield Co. TAXA top 10. - genus-only records excluded
 
 29 Porpidia_albocaerulescens
@@ -4871,6 +4885,8 @@ Litchfield Co. LOCALITY top 20. - genus-only records excluded
 19 Gridley_Mountain
 
 ---
+Litchfield County Connecticut Taxon count. genus-only records excluded :416
+ ---
 Litchfield Co. TAXA top 10. - genus-only records excluded
 
 57 Cladonia_furcata
