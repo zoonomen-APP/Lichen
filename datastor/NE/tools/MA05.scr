@@ -258,8 +258,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/404cPlymouthlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/404cPlymouthlocalx.txt
 #
-# TAXA
-		echo Plymouth Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
+# TAXA 404d
+		echo -n Plymouth County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
+                awk -F "|" '$3~/Plymouth_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
+		echo Plymouth Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Plymouth/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/404dPlymouthtaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//404dPlymouthtaxax.txt
@@ -315,8 +318,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/405cBristollocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/405cBristollocalx.txt
 #
-# TAXA
-		echo Bristol Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
+# TAXA 405d
+		echo -n Bristol County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
+                awk -F "|" '$3~/Bristol_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
+		echo Bristol Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/405dBristoltaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//405dBristoltaxax.txt
@@ -372,8 +378,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/406cBarnstablelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/406cBarnstablelocalx.txt
 #
-# TAXA
-		echo Barnstable Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
+# TAXA 406d
+		echo -n Barnstable County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
+                awk -F "|" '$3~/Barnstable_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
+		echo Barnstable Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Barnstable/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/406dBarnstabletaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//406dBarnstabletaxax.txt
@@ -429,8 +438,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/407cDukeslocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/407cDukeslocalx.txt
 #
-# TAXA
-		echo Dukes Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
+# TAXA 407d
+		echo -n Dukes County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
+                awk -F "|" '$3~/Dukes_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
+		echo Dukes Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Dukes/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/407dDukestaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//407dDukestaxax.txt
@@ -486,8 +498,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/408cNantucketlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/408cNantucketlocalx.txt
 #
-# TAXA
-		echo Nantucket Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
+# TAXA 408d
+		echo -n Nantucket County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
+                awk -F "|" '$3~/Nantucket_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
+		echo Nantucket Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Nantucket/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/408dNantuckettaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//408dNantuckettaxax.txt
@@ -544,7 +559,10 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/409cMiddlesexlocalx.txt
 #
 # TAXA
-		echo Middlesex Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
+		echo -n Middlesex County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
+                awk -F "|" '$3~/Middlesex_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
+		echo Middlesex Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Middlesex/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/409dMiddlesextaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//409dMiddlesextaxax.txt
@@ -600,8 +618,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/410cWorcesterlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/410cWorcesterlocalx.txt
 #
-# TAXA
-		echo Worcester Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
+# TAXA 410d
+		echo -n Worcester County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
+                awk -F "|" '$3~/Worcester_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
+		echo Worcester Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Worcester/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/410dWorcestertaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//410dWorcestertaxax.txt
@@ -657,8 +678,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/411cFranklinlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/411cFranklinlocalx.txt
 #
-# TAXA
-		echo Franklin Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
+# TAXA 411d
+		echo -n Franklin County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
+                awk -F "|" '$3~/Franklin_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
+		echo Franklin Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Franklin/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/411dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//411dFranklintaxax.txt
@@ -714,8 +738,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/412cHampdenlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/412cHampdenlocalx.txt
 #
-# TAXA
-		echo Hampden Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
+# TAXA 412d
+		echo -n Hampden County Massachusetts Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
+                awk -F "|" '$3~/Hampden_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
+		echo Hampden Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Hampden/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/412dHampdentaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//412dHampdentaxax.txt
@@ -772,7 +799,10 @@
 		echo --- >> c:/Lichen/datastor/NE/MA/413cHampshirelocalx.txt
 #
 # TAXA
-		echo Hampshire Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
+		echo -n Hampshire County Massachusetts Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
+                awk -F "|" '$3~/Hampshire_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
+		echo Hampshire Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Hampshire/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/413dHampshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//413dHampshiretaxax.txt
@@ -828,8 +858,11 @@
 		echo >> c:/Lichen/datastor/NE/MA/414cBerkshirelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/MA/414cBerkshirelocalx.txt
 #
-# TAXA
-		echo Berkshire Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
+# TAXA 414d
+		echo -n Berkshire County Massachusetts Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
+                awk -F "|" '$3~/Berkshire_Co./&&$4~/Massachusetts/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/MA/MAdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
+		echo Berkshire Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Massachusetts/&&$3~/Berkshire/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/MA//MAdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/MA/414dBerkshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/MA//414dBerkshiretaxax.txt
