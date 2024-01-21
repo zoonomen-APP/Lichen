@@ -3233,7 +3233,6 @@ Addison Co. LOCALITY top 20. - genus-only records excluded
 
 ---
 Addison County Vermont Taxon count. genus-only records excluded :390
-Addison Co. TAXA top 10. - genus-only records excluded
  --- 
 Addison Co. TAXA top 10. - genus-only records excluded
 
@@ -3303,7 +3302,6 @@ Rutland Co. LOCALITY top 20. - genus-only records excluded
 
 ---
 Rutland County Vermont Taxon count. genus-only records excluded :386
-Rutland Co. TAXA top 10. - genus-only records excluded
 ---
 Rutland Co. TAXA top 10. - genus-only records excluded
 
@@ -3373,7 +3371,6 @@ Bennington Co. LOCALITY top 20. - genus-only records excluded
 
 ---
 Bennington County Vermont Taxon count. genus-only records excluded :216
-Bennington Co. TAXA top 10. - genus-only records excluded
 ---
 Bennington Co. TAXA top 10. - genus-only records excluded
 
