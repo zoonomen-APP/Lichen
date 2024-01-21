@@ -1,3 +1,4 @@
+# 2024.01.18 Many mods.
 # 2023.06.08 Modify to do only full species cases
 # This will use dfbn = df binomial 
 # to make dfbn $ awk 'BEGIN {FS=OFS="|"} $19~/ / &&$19!~/ sp\./ ' c:/Lichen/datastor/NE/MA/sb/df > c:/Lichen/datastor/NE/dfbn
@@ -15,18 +16,23 @@
 # YearMoDa excluded.
 # Source file: MEdfbn
 # MAINE
+# Partitions are registered by number 101-116 for counties. 120 for Mt. Katahdin massif.
 	STATEAB=ME
 	 #State land area 80005 km^2
         STATEAREA=80005
-	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
+	#STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
+	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ /' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
+	STATECNTSP=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l)
 	 #Statecount sine date STATECNTSD
-	STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /&&$98~/Year/' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
+	## 2024.01.18 STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /&&$98~/Year/' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
 		echo \#\#\ Maine\ \#\# > c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
-		echo  $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+	#	echo  -- $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+		echo  $STATECNTSP Maine state taxon count \(Non-genus only taxa\)  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+		#
                 echo  Maine land area =  $STATEAREA km^2 >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
-                echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+                echo -n $STATEAB State count density \(STATECNT/STATEAREA\*100 k\m^2\) : \  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
                 echo -n $STATECNT/$STATEAREA  = \   >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
                 awk "BEGIN {print ($STATECNT/$STATEAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
@@ -84,7 +90,10 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/101cWashingtonlocalx.txt
 #
 # TAXA
-		echo Washington Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
+		echo -n Washington Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
+	awk -F "|" '$3~/Washington_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt	
+		echo >> c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
+		echo Washington Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Washington/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/101dWashingtontaxax.txt
@@ -142,7 +151,11 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/102cHancocklocalx.txt
 #
 # TAXA
-		echo Hancock Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
+		echo -n Hancock Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
+	awk -F "|" '$3~/Hancock_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt	
+		echo >> c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
+		echo Hancock Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
+	awk -F "|" '$3~/Hancock_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Hancock/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/102dHancocktaxax.txt
@@ -199,8 +212,11 @@
 		echo >> c:/Lichen/datastor/NE/ME/103cWaldolocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/103cWaldolocalx.txt
 #
-# TAXA
-		echo Waldo Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
+# TAXA 103d
+		echo -n Waldo Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
+	awk -F "|" '$3~/Waldo_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt	
+		echo >> c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
+		echo Waldo Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Waldo/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/103dWaldotaxax.txt
@@ -257,8 +273,11 @@
 		echo >> c:/Lichen/datastor/NE/ME/104cKnoxlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/104cKnoxlocalx.txt
 #
-# TAXA
-		echo Knox Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
+# TAXA 104d
+	 echo -n Knox Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
+		awk -F "|" '$3~/Knox_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
+			echo >> c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
+		echo Knox Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Knox/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/104dKnoxtaxax.txt
@@ -315,8 +334,11 @@
 		echo >> c:/Lichen/datastor/NE/ME/105cLincolnlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/105cLincolnlocalx.txt
 #
-# TAXA
-		echo Lincoln Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
+# TAXA 105d
+	 echo -n Lincoln Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
+	awk -F "|" '$3~/Lincoln_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
+        echo >> c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
+		echo Lincoln Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Lincoln/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/105dLincolntaxax.txt
@@ -373,8 +395,11 @@
 		echo >> c:/Lichen/datastor/NE/ME/106cSagadahoclocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/106cSagadahoclocalx.txt
 #
-# TAXA
-		echo Sagadahoc Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
+# TAXA 106d
+		echo -n Sagadahoc Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
+        awk -F "|" '$3~/Sagadahoc_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
+		echo Sagadahoc Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Sagadahoc/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/106dSagadahoctaxax.txt
@@ -431,8 +456,12 @@
 		echo >> c:/Lichen/datastor/NE/ME/107cCumberlandlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/107cCumberlandlocalx.txt
 #
-# TAXA
-		echo Cumberland Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
+# TAXA 107d
+#
+                echo -n Cumberland Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
+        awk -F "|" '$3~/Cumberland_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
+		echo Cumberland Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Cumberland/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/107dCumberlandtaxax.txt
@@ -489,8 +518,12 @@
 		echo >> c:/Lichen/datastor/NE/ME/108cYorklocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/108cYorklocalx.txt
 #
-# TAXA
-		echo York Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
+# TAXA 108d
+#
+                echo -n York Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
+        awk -F "|" '$3~/York_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
+		echo York Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/York/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/108dYorktaxax.txt
@@ -540,15 +573,18 @@
         awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Aroostook/&&$19~/ / {print $99}' c:/Lichen/datastor/NE/ME/MEdfbn|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 		echo >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 #
-# LOCALITY
+# LOCALITY 109c
 		echo Aroostook Co. LOCALITY top 20. - genus-only records excluded > c:/Lichen/datastor/NE/ME/109cAroostooklocalx.txt
 		echo >> c:/Lichen/datastor/NE/ME/109cAroostooklocalx.txt
         awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Aroostook/&&$19~/ / {print $101}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/ME/109cAroostooklocalx.txt
 		echo >> c:/Lichen/datastor/NE/ME/109cAroostooklocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/109cAroostooklocalx.txt
 #
-# TAXA
-		echo Aroostook Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
+# TAXA 109d
+                echo -n Aroostook Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
+        awk -F "|" '$3~/Aroostook_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
+		echo Aroostook Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Aroostook/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/109dAroostooktaxax.txt
@@ -605,12 +641,37 @@
 		echo >> c:/Lichen/datastor/NE/ME/110cPiscataquislocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/110cPiscataquislocalx.txt
 #
-# TAXA
-		echo Piscataquis Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
-		echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
-	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Piscataquis/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
-		echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
-		echo --- >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+ # TAXA 110d
+                echo -n Piscataquis Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+        awk -F "|" '$3~/Piscataquis_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+                echo Piscataquis Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Piscataquis/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+                echo --- >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+
+# TAXA 110d
+#
+#
+#		echo Piscataquis Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+#		echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+#	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Piscataquis/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+#		echo >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+#		echo --- >> c:/Lichen/datastor/NE/ME/110dPiscataquistaxax.txt
+#
+# MKTTAXA
+                echo -n Mt._Katahdin_massif Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+        awk -F "|" '$NF~/Mt._Katahdin_massif/&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                echo Mt._Katahdin_massif  TAXA total. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                #echo Mt._Katahdin_massif  TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+        #awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$101~/Mt._Katahdin_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MKm"}' c:/Lichen/datastor/NE/ME//MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$101~/Mt._Katahdin_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MKm"}' c:/Lichen/datastor/NE/ME//MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+                echo --- >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+
 #]
 #[ SOMERSET. 111
 # #
@@ -664,7 +725,10 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/111cSomersetlocalx.txt
 #
 # TAXA
-		echo Somerset Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
+                echo -n Somerset Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
+        awk -F "|" '$3~/Somerset_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
+		echo Somerset Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Somerset/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/111dSomersettaxax.txt
@@ -779,8 +843,14 @@
 		echo >> c:/Lichen/datastor/NE/ME/113cKennebeclocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/113cKennebeclocalx.txt
 #
-# TAXA
-		echo Kennebec Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+# TAXA 113d
+	 echo -n Kennebec Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+        awk -F "|" '$3~/Kennebec_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+		echo Kennebec Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+		echo >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Kennebec/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
+		echo Kennebec Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Kennebec/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/113dKennebectaxax.txt
@@ -837,9 +907,10 @@
 		echo >> c:/Lichen/datastor/NE/ME/114cAndroscogginlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/114cAndroscogginlocalx.txt
 #
-# TAXA
-		echo Androscoggin Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
-		echo >> c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
+# TAXA 114d
+	 echo -n Androscoggin Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
+        awk -F "|" '$3~/Androscoggin_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Androscoggin/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/114dAndroscoggintaxax.txt
@@ -915,7 +986,10 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/115cFranklinlocalx.txt
 #
 # TAXA
-		echo Franklin Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
+                echo -n Franklin Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
+        awk -F "|" '$3~/Franklin_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/115Franklintaxax.txt
+		echo Franklin Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Franklin/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/115dFranklintaxax.txt
@@ -973,7 +1047,10 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/116cOxfordlocalx.txt
 #
 # TAXA
-		echo Oxford Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
+                echo -n Oxford Co. Maine Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
+        awk -F "|" '$3~/Oxford_Co./&&$4~/Maine/ {print $97}'  c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
+                echo >> c:/Lichen/datastor/NE/ME/116Oxfordtaxax.txt
+		echo Oxford Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Oxford/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt
 		echo >> c:/Lichen/datastor/NE/ME/116dOxfordtaxax.txt

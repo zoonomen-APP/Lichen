@@ -88,8 +88,11 @@
 		echo >> c:/Lichen/datastor/NE/VT/301cEssexlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/301cEssexlocalx.txt
 #
-# TAXA
-		echo Essex Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
+# TAXA 301d
+		echo -n Essex County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
+                awk -F "|" '$3~/Essex_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
+                echo >> c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
+		echo Essex Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Essex/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/301dEssextaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//301dEssextaxax.txt
@@ -145,8 +148,11 @@
 		echo >> c:/Lichen/datastor/NE/VT/302cCaledonialocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/302cCaledonialocalx.txt
 #
-# TAXA
-		echo Caledonia Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
+# TAXA 302d
+		echo -n Caledonia County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
+                awk -F "|" '$3~/Caledonia_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
+                echo >> c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
+		echo Caledonia Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Caledonia/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/302dCaledoniataxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//302dCaledoniataxax.txt
@@ -202,8 +208,10 @@
 		echo >> c:/Lichen/datastor/NE/VT/303cOrangelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/303cOrangelocalx.txt
 #
-# TAXA
-		echo Orange Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
+# TAXA 303d
+		echo -n Orange County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
+                awk -F "|" '$3~/Orange_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
+		echo Orange Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Orange/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/303dOrangetaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//303dOrangetaxax.txt
@@ -259,9 +267,11 @@
 		echo >> c:/Lichen/datastor/NE/VT/304cWindsorlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/304cWindsorlocalx.txt
 #
-# TAXA
-		echo Windsor Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
-		echo >> c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
+# TAXA 304d
+		echo -n Windsor County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
+                awk -F "|" '$3~/Windsor_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
+		echo Windsor Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
+		#echo Windsor Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Windsor/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/304dWindsortaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//304dWindsortaxax.txt
 		echo --- >> c:/Lichen/datastor/NE/VT//304dWindsortaxax.txt
@@ -316,8 +326,10 @@
 		echo >> c:/Lichen/datastor/NE/VT/305cWindhamlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/305cWindhamlocalx.txt
 #
-# TAXA
-		echo Windham Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
+# TAXA 305d
+		echo -n Windham County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
+                awk -F "|" '$3~/Windham_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
+		echo Windham Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Windham/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/305dWindhamtaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//305dWindhamtaxax.txt
@@ -373,8 +385,10 @@
 		echo >> c:/Lichen/datastor/NE/VT/310cOrleanslocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/310cOrleanslocalx.txt
 #
-# TAXA
-		echo Orleans Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
+# TAXA 310d
+		echo -n Orleans County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
+                awk -F "|" '$3~/Orleans_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
+		echo Orleans Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Orleans/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/310dOrleanstaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//310dOrleanstaxax.txt
@@ -430,9 +444,10 @@
 		echo >> c:/Lichen/datastor/NE/VT/311cLamoillelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/311cLamoillelocalx.txt
 #
-# TAXA
-		#echo Lamoille Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
-		echo Lamoille Co. TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
+# TAXA 311d
+		echo -n Lamoille County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
+                awk -F "|" '$3~/Lamoille_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
+		echo Lamoille Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
 	#awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Lamoille/&&$19~/ / {print $19}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Lamoille/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/VT/311dLamoilletaxax.txt
@@ -489,8 +504,10 @@
 		echo >> c:/Lichen/datastor/NE/VT/312cWashingtonlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/312cWashingtonlocalx.txt
 #
-# TAXA
-		echo Washington Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
+# TAXA 312d
+		echo -n Washington County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
+                awk -F "|" '$3~/Washington_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
+		echo Washington Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Washington/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/312dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//312dWashingtontaxax.txt
@@ -547,7 +564,9 @@
 		echo --- >> c:/Lichen/datastor/NE/VT/320cFranklinlocalx.txt
 #
 # TAXA
-		echo Franklin Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
+		echo -n Franklin County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
+                awk -F "|" '$3~/Franklin_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
+		echo Franklin Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Franklin/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/320dFranklintaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//320dFranklintaxax.txt
@@ -603,8 +622,11 @@
 		echo >> c:/Lichen/datastor/NE/VT/321cGrand_Islelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/321cGrand_Islelocalx.txt
 #
-# TAXA
-		echo Grand_Isle Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
+# TAXA 321d
+		echo -n Grand_Isle County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
+                awk -F "|" '$3~/Grand_Isle_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
+		echo Grand_Isle Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
+		echo  >> c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Grand_Isle/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/321dGrand_Isletaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//321dGrand_Isletaxax.txt
@@ -660,20 +682,42 @@
 		echo >> c:/Lichen/datastor/NE/VT/322cChittendenlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/322cChittendenlocalx.txt
 #
-# TAXA
-		echo Chittenden Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+# TAXA 322d
+		echo -n Chittenden County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+                awk -F "|" '$3~/Chittenden_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+		echo Chittenden Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+		echo  " -- " >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Chittenden/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//322dChittendentaxax.txt
-
-# MMFTAXA
-		echo Mt._Mansfield  TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
-		echo >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
-	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
-		echo >> c:/Lichen/datastor/NE/VT//201eMMFtaxax.txt
-		echo --- >> c:/Lichen/datastor/NE/VT//201eMMFtaxax.txt
+		# MMFTAXA
+                echo -n Mt._Mansfield_massif Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+                awk -F "|" '$3~/Chittenden_Co./&&$4~/Vermont/&&$97~/ /&&$101~/Mt._Mansfield_massif/ {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+                #echo Mt.Mansfield_massif  TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+                echo Mt._Mansfield_massif  TAXA total. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+        #       echo Mt._Mansfield_massif  TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+                echo >> c:/Lichen/datastor/NE/VT/3222eMMFtaxax.txt
+        #awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+                echo >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+                echo --- >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
 #]
-	echo --- >> c:/Lichen/datastor/NE/VT//322dChittendentaxax.txt
+        echo --- >> c:/Lichen/datastor/NE/VT//322eChittendentaxax.txt
+
+
+## MMFTAXA
+#		echo -n Mt._Mansfield_massif Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/322dMMFtaxax.txt
+#                awk -F "|" '$3~/Chittenden_Co./&&$4~/Vermont/&&$97~/ /&&$101~/Mt._Mansfield_massif/ {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/322dMMFtaxax.txt
+#		#echo Mt.Mansfield_massif  TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/322dChittendentaxax.txt
+#		echo Mt._Mansfield_massif  TAXA total. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+#	#	echo Mt._Mansfield_massif  TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+#		echo >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+#	#awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+#	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/VT/201eMMFtaxax.txt
+#		echo >> c:/Lichen/datastor/NE/VT//201eMMFtaxax.txt
+#		echo --- >> c:/Lichen/datastor/NE/VT//201eMMFtaxax.txt
+##]
+#	echo --- >> c:/Lichen/datastor/NE/VT//322dChittendentaxax.txt
 #]
 #[ ADDISON. 323
 # #
@@ -725,8 +769,15 @@
 		echo >> c:/Lichen/datastor/NE/VT/323cAddisonlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/VT/323cAddisonlocalx.txt
 #
-# TAXA
-		echo Addison Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+# TAXA 323d
+		#echo -n Addison County Vermont Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+                #awk -F "|" '$3~/Addison_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+		#echo Addison Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+		#echo  " -- " >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+		echo -n Addison County Vermont Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+                awk -F "|" '$3~/Addison_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+		echo  " --- " >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
+		echo Addison Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Addison/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/323dAddisontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//323dAddisontaxax.txt
@@ -783,7 +834,10 @@
 		echo --- >> c:/Lichen/datastor/NE/VT/324cRutlandlocalx.txt
 #
 # TAXA
-		echo Rutland Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
+		echo -n Rutland County Vermont Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
+                awk -F "|" '$3~/Rutland_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
+		echo   ---  >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
+		echo Rutland Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Rutland/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/324dRutlandtaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//324dRutlandtaxax.txt
@@ -840,7 +894,10 @@
 		echo --- >> c:/Lichen/datastor/NE/VT/325cBenningtonlocalx.txt
 #
 # TAXA
-		echo Bennington Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
+		echo -n Bennington County Vermont Taxon count. genus-only records excluded : >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
+                awk -F "|" '$3~/Bennington_Co./&&$4~/Vermont/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/VT/VTdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
+		echo   ---  >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
+		echo Bennington Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$3~/Bennington/&&$19~/ / {print $97}' c:/Lichen/datastor/NE/VT/VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/VT/325dBenningtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/VT//325dBenningtontaxax.txt
