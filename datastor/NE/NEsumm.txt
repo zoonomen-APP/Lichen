@@ -2218,231 +2218,6 @@ Vermont land area = 23957 km^2
 VT State count density (STATECNT/STATEAREA*100 km^2) :  13344/23957 =  55.6998
 
 ---
-Mt._Mansfield_massif TAXA total. - genus-only records excluded
-
-47 Umbilicaria_hyperborea_MMm
-44 Cetraria_laevigata_MMm
-40 Usnocetraria_oakesiana_MMm
-37 Flavocetraria_cucullata_MMm
-36 Umbilicaria_proboscidea_MMm
-34 Rhizocarpon_geographicum_MMm
-33 Pseudevernia_cladonia_MMm
-33 Platismatia_glauca_MMm
-29 Lasallia_papulosa_MMm
-29 Cladonia_squamosa_MMm
-28 Cladonia_coccifera_MMm
-26 Mycoblastus_sanguinarioides_MMm
-24 Stereocaulon_glaucescens_MMm
-20 Tuckermannopsis_sepincola_MMm
-20 Stereocaulon_paschale_MMm
-20 Porpidia_macrocarpa_MMm
-19 Ophioparma_ventosa_MMm
-18 Trapeliopsis_granulosa_MMm
-17 Hypogymnia_physodes_MMm
-16 Cladonia_furcata_MMm
-15 Pertusaria_leioplaca_MMm
-15 Lecanora_intricata_MMm
-15 Arctoparmelia_centrifuga_MMm
-14 Melanelia_stygia_MMm
-14 Melanelia_hepatizon_MMm
-14 Graphis_scripta_MMm
-14 Cladonia_deformis_MMm
-13 Lecanora_allophana_MMm
-13 Cladonia_stygia_MMm
-13 Cladonia_gracilis_MMm
-12 Icmadophila_ericetorum_MMm
-11 Vulpicida_pinastri_MMm
-11 Pseudevernia_consocians_MMm
-11 Parmelia_saxatilis_MMm
-11 Cladonia_pleurota_MMm
-11 Bryoria_bicolor_MMm
-11 Biatora_vernalis_MMm
-11 Aspicilia_cinerea_MMm
-10 Umbilicaria_muhlenbergii_MMm
-10 Lecanora_polytropa_MMm
-10 Cladonia_rangiferina_MMm
-9 Thamnolia_vermicularis_MMm
-9 Loxospora_elatina_MMm
-9 Lichenomphalia_hudsoniana_MMm
-9 Cladonia_amaurocraea_MMm
-8 Umbilicaria_torrefacta_MMm
-8 Umbilicaria_deusta_MMm
-8 Orphniospora_moriopsis_MMm
-8 Cladonia_uncialis_MMm
-7 Umbilicaria_mammulata_MMm
-7 Solorina_saccata_MMm
-6 Varicellaria_velata_MMm
-6 Rusavskia_elegans_MMm
-6 Punctelia_appalachensis_MMm
-6 Porpidia_crustulata_MMm
-6 Nephroma_arcticum_MMm
-6 Lecidoma_demissum_MMm
-6 Catapyrenium_cinereum_MMm
-6 Arctoparmelia_incurva_MMm
-5 Usnea_subfloridana_MMm
-5 Psora_rubiformis_MMm
-5 Protopannaria_pezizoides_MMm
-5 Flavocetraria_nivalis_MMm
-5 Evernia_mesomorpha_MMm
-5 Cladonia_stellaris_MMm
-5 Cladonia_digitata_MMm
-5 Cladonia_caespiticia_MMm
-5 Acarospora_fuscata_MMm
-4 Usnea_dasopoga_MMm
-4 Pyxine_sorediata_MMm
-4 Protoparmelia_badia_MMm
-4 Porpidia_cinereoatra_MMm
-4 Parmelia_sulcata_MMm
-4 Loxospora_ochrophaea_MMm
-4 Enchylium_tenax_MMm
-4 Caloplaca_cerina_MMm
-4 Bryoria_furcellata_MMm
-3 Umbilicaria_polyphylla_MMm
-3 Tuckermannopsis_ciliaris_MMm
-3 Stereocaulon_saxatile_MMm
-3 Stereocaulon_pileatum_MMm
-3 Stereocaulon_botryosum_MMm
-3 Stereocaulon_alpinum_MMm
-3 Rhizocarpon_hochstetteri_MMm
-3 Rhizocarpon_grande_MMm
-3 Physcia_millegrana_MMm
-3 Peltigera_aphthosa_MMm
-3 Parmeliopsis_hyperopta_MMm
-3 Parmelia_omphalodes_MMm
-3 Melanohalea_olivacea_MMm
-3 Melanohalea_halei_MMm
-3 Lecidea_auriculata_MMm
-3 Imshaugia_aleurites_MMm
-3 Dermatocarpon_luridum_MMm
-3 Cladonia_terrae-novae_MMm
-3 Cladonia_ochrochlora_MMm
-3 Cladonia_macilenta_MMm
-3 Cladonia_coniocraea_MMm
-3 Cetraria_islandica_MMm
-3 Cetraria_arenaria_MMm
-2 Xylographa_parallela_MMm
-2 Usnea_ceratina_MMm
-2 Stereocaulon_tomentosum_MMm
-2 Rinodina_ascociscana_MMm
-2 Rhizocarpon_eupetraeum_MMm
-2 Ramalina_intermedia_MMm
-2 Ramalina_americana_MMm
-2 Porpidia_albocaerulescens_MMm
-2 Platismatia_tuckermanii_MMm
-2 Placynthiella_uliginosa_MMm
-2 Physcia_tenella_MMm
-2 Pertusaria_rubefacta_MMm
-2 Peltigera_rufescens_MMm
-2 Parmeliopsis_capitata_MMm
-2 Montanelia_panniformis_MMm
-2 Micarea_lignaria_MMm
-2 Leptogium_cyanescens_MMm
-2 Lepraria_neglecta_MMm
-2 Lepraria_finkii_MMm
-2 Lepra_dactylina_MMm
-2 Lecanora_symmicta_MMm
-2 Lecanora_pulicaris_MMm
-2 Lecanora_hybocarpa_MMm
-2 Lecanora_chlarotera_MMm
-2 Lasallia_pustulata_MMm
-2 Hypogymnia_krogiae_MMm
-2 Fuscidea_scrupulosa_MMm
-2 Fuscidea_recensa_MMm
-2 Cryptodiscus_gloeocapsa_MMm
-2 Cladonia_sulphurina_MMm
-2 Cladonia_rei_MMm
-2 Cladonia_pyxidata_MMm
-2 Cladonia_pocillum_MMm
-2 Cladonia_multiformis_MMm
-2 Cladonia_mitis_MMm
-2 Cladonia_fimbriata_MMm
-2 Cladonia_cyanipes_MMm
-2 Cetrelia_chicitae_MMm
-2 Cetrariella_delisei_MMm
-2 Calvitimela_aglaea_MMm
-2 Baeomyces_rufus_MMm
-2 Bacidia_schweinitzii_MMm
-2 Anaptychia_palmulata_MMm
-2 Alectoria_sarmentosa_MMm
-1 Xanthoparmelia_plittii_MMm
-1 Xanthoparmelia_cumberlandia_MMm
-1 Usnea_subscabrosa_MMm
-1 Usnea_rubicunda_MMm
-1 Tuckermannopsis_orbata_MMm
-1 Tuckermannopsis_americana_MMm
-1 Trapelia_placodioides_MMm
-1 Thelocarpon_impressellum_MMm
-1 Tephromela_atra_MMm
-1 Stereocaulon_dactylophyllum_MMm
-1 Stereocaulon_condensatum_MMm
-1 Schaereria_cinereorufa_MMm
-1 Sarcogyne_hypophaea_MMm
-1 Rimularia_gibbosa_MMm
-1 Rimularia_badioatra_MMm
-1 Rhizoplaca_subdiscrepans_MMm
-1 Rhizoplaca_chrysoleuca_MMm
-1 Rhizocarpon_sylvaticum_MMm
-1 Rhizocarpon_reductum_MMm
-1 Rhizocarpon_lecanorinum_MMm
-1 Rhizocarpon_distinctum_MMm
-1 Rhizocarpon_badioatrum_MMm
-1 Ramalina_labiosorediata_MMm
-1 Pyrenula_laevigata_MMm
-1 Punctelia_caseana_MMm
-1 Psora_globifera_MMm
-1 Protoblastenia_rupestris_MMm
-1 Porpidia_tuberculosa_MMm
-1 Porpidia_speirea_MMm
-1 Porpidia_nigrocruenta_MMm
-1 Porpidia_contraponenda_MMm
-1 Porpidia_carlottiana_MMm
-1 Phaeophyscia_ciliata_MMm
-1 Phaeophyscia_adiastola_MMm
-1 Peltigera_polydactylon_MMm
-1 Peltigera_didactyla_MMm
-1 Parmelia_squarrosa_MMm
-1 Ophioparma_lapponica_MMm
-1 Ochrolechia_trochophora_MMm
-1 Normandina_pulchella_MMm
-1 Nesolechia_oxyspora_MMm
-1 Nephroma_laevigatum_MMm
-1 Myelochroa_aurulenta_MMm
-1 Montanellia_panniformis_MMm
-1 Micarea_peliocarpa_MMm
-1 Megaspora_verrucosa_MMm
-1 Lepra_ophthalmiza_MMm
-1 Leimonis_erratica_MMm
-1 Lecidea_confluens_MMm
-1 Lecanora_subrugosa_MMm
-1 Lecanora_cinereofusca_MMm
-1 Lecanora_chlorophaeodes_MMm
-1 Lecanora_argopholis_MMm
-1 Hypogymnia_vittata_MMm
-1 Hypogymnia_tubulosa_MMm
-1 Fuscidea_lowensis_MMm
-1 Cladonia_verticillata_MMm
-1 Cladonia_straminea_MMm
-1 Cladonia_decorticata_MMm
-1 Cladonia_cristatella_MMm
-1 Cladonia_chlorophaea_MMm
-1 Circinaria_caesiocinerea_MMm
-1 Cetrelia_olivetorum_MMm
-1 Cetraria_ericetorum_MMm
-1 Cetraria_aculeata_MMm
-1 Candelariella_vitellina_MMm
-1 Candelaria_fibrosa_MMm
-1 Calicium_lenticulare_MMm
-1 Bryoria_pseudofuscescens_MMm
-1 Bryoria_fuscescens_MMm
-1 Bryoria_americana_MMm
-1 Bilimbia_sabuletorum_MMm
-1 Bacidina_inundata_MMm
-1 Bacidia_rubella_MMm
-1 Amygdalaria_panaeola_MMm
-1 Amandinea_punctata_MMm
-1 Alectoria_ochroleuca_MMm
-
----
 ESSEX County.
 ---
 Essex Co. DATE -- genus-only records excluded
@@ -3109,6 +2884,7 @@ Grand_Isle Co. TAXA top 10. - genus-only records excluded
 1 Cladonia_rei
 
 ---
+
 CHITTENDEN County.
 ---
 Chittenden Co. DATE -- genus-only records excluded
@@ -3140,10 +2916,10 @@ Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 
 Chittenden Co. LOCALITY top 20. - genus-only records excluded
 
-836 Mt_Mansfield_massif
-294 Charlotte
+838 Mt_Mansfield_massif
+295 Charlotte
 81 Mallets_Bay
-76 NoLoc
+72 NoLoc
 70 Camels_Hump
 52 [no_additional_data]
 43 Huntington
@@ -3153,7 +2929,7 @@ Chittenden Co. LOCALITY top 20. - genus-only records excluded
 30 Jericho
 30 Colchester
 22 Charlotte_Mt_Philo
-21 Burlington
+22 Burlington
 17 Shelburne
 10 Winooski_River
 10 Jerico_Tarbox_Road_along_Mill_River
@@ -3162,7 +2938,9 @@ Chittenden Co. LOCALITY top 20. - genus-only records excluded
 5 Green_Mountains_65_mi_WSW_of_Waterbury
 
 ---
+Chittenden County Vermont Taxon count. genus-only records excluded :391
 Chittenden Co. TAXA top 10. - genus-only records excluded
+ -- 
 
 42 Cetraria_laevigata
 40 Umbilicaria_hyperborea
@@ -3174,6 +2952,231 @@ Chittenden Co. TAXA top 10. - genus-only records excluded
 32 Mycoblastus_sanguinarioides
 28 Flavocetraria_cucullata
 27 Stereocaulon_paschale
+
+---
+Mt._Mansfield_massif Vermont Taxon count. genus-only records excluded :160
+Mt._Mansfield_massif TAXA total. - genus-only records excluded
+47 Umbilicaria_hyperborea_MMm
+44 Cetraria_laevigata_MMm
+40 Usnocetraria_oakesiana_MMm
+37 Flavocetraria_cucullata_MMm
+36 Umbilicaria_proboscidea_MMm
+34 Rhizocarpon_geographicum_MMm
+34 Platismatia_glauca_MMm
+33 Pseudevernia_cladonia_MMm
+29 Lasallia_papulosa_MMm
+29 Cladonia_squamosa_MMm
+28 Cladonia_coccifera_MMm
+26 Mycoblastus_sanguinarioides_MMm
+24 Stereocaulon_glaucescens_MMm
+20 Tuckermannopsis_sepincola_MMm
+20 Stereocaulon_paschale_MMm
+20 Porpidia_macrocarpa_MMm
+19 Ophioparma_ventosa_MMm
+18 Trapeliopsis_granulosa_MMm
+17 Hypogymnia_physodes_MMm
+16 Cladonia_furcata_MMm
+15 Pertusaria_leioplaca_MMm
+15 Lecanora_intricata_MMm
+15 Arctoparmelia_centrifuga_MMm
+14 Melanelia_stygia_MMm
+14 Melanelia_hepatizon_MMm
+14 Graphis_scripta_MMm
+14 Cladonia_deformis_MMm
+13 Lecanora_allophana_MMm
+13 Cladonia_stygia_MMm
+13 Cladonia_gracilis_MMm
+12 Icmadophila_ericetorum_MMm
+11 Vulpicida_pinastri_MMm
+11 Pseudevernia_consocians_MMm
+11 Parmelia_saxatilis_MMm
+11 Cladonia_pleurota_MMm
+11 Bryoria_bicolor_MMm
+11 Biatora_vernalis_MMm
+11 Aspicilia_cinerea_MMm
+10 Umbilicaria_muhlenbergii_MMm
+10 Lecanora_polytropa_MMm
+10 Cladonia_rangiferina_MMm
+9 Thamnolia_vermicularis_MMm
+9 Loxospora_elatina_MMm
+9 Lichenomphalia_hudsoniana_MMm
+9 Cladonia_amaurocraea_MMm
+8 Umbilicaria_torrefacta_MMm
+8 Umbilicaria_deusta_MMm
+8 Orphniospora_moriopsis_MMm
+8 Cladonia_uncialis_MMm
+7 Umbilicaria_mammulata_MMm
+7 Solorina_saccata_MMm
+6 Varicellaria_velata_MMm
+6 Rusavskia_elegans_MMm
+6 Punctelia_appalachensis_MMm
+6 Porpidia_crustulata_MMm
+6 Nephroma_arcticum_MMm
+6 Lecidoma_demissum_MMm
+6 Catapyrenium_cinereum_MMm
+6 Arctoparmelia_incurva_MMm
+5 Usnea_subfloridana_MMm
+5 Psora_rubiformis_MMm
+5 Protopannaria_pezizoides_MMm
+5 Flavocetraria_nivalis_MMm
+5 Evernia_mesomorpha_MMm
+5 Cladonia_stellaris_MMm
+5 Cladonia_digitata_MMm
+5 Cladonia_caespiticia_MMm
+5 Acarospora_fuscata_MMm
+4 Usnea_dasopoga_MMm
+4 Stereocaulon_botryosum_MMm
+4 Pyxine_sorediata_MMm
+4 Protoparmelia_badia_MMm
+4 Porpidia_cinereoatra_MMm
+4 Parmelia_sulcata_MMm
+4 Loxospora_ochrophaea_MMm
+4 Enchylium_tenax_MMm
+4 Caloplaca_cerina_MMm
+4 Bryoria_furcellata_MMm
+3 Umbilicaria_polyphylla_MMm
+3 Tuckermannopsis_ciliaris_MMm
+3 Stereocaulon_saxatile_MMm
+3 Stereocaulon_pileatum_MMm
+3 Stereocaulon_alpinum_MMm
+3 Rhizocarpon_hochstetteri_MMm
+3 Rhizocarpon_grande_MMm
+3 Physcia_millegrana_MMm
+3 Peltigera_aphthosa_MMm
+3 Parmeliopsis_hyperopta_MMm
+3 Parmelia_omphalodes_MMm
+3 Melanohalea_olivacea_MMm
+3 Melanohalea_halei_MMm
+3 Lecidea_auriculata_MMm
+3 Imshaugia_aleurites_MMm
+3 Dermatocarpon_luridum_MMm
+3 Cladonia_terrae-novae_MMm
+3 Cladonia_ochrochlora_MMm
+3 Cladonia_macilenta_MMm
+3 Cladonia_coniocraea_MMm
+3 Cetraria_islandica_MMm
+3 Cetraria_arenaria_MMm
+2 Xylographa_parallela_MMm
+2 Usnea_ceratina_MMm
+2 Stereocaulon_tomentosum_MMm
+2 Rinodina_ascociscana_MMm
+2 Rhizocarpon_eupetraeum_MMm
+2 Ramalina_intermedia_MMm
+2 Ramalina_americana_MMm
+2 Porpidia_albocaerulescens_MMm
+2 Platismatia_tuckermanii_MMm
+2 Placynthiella_uliginosa_MMm
+2 Physcia_tenella_MMm
+2 Pertusaria_rubefacta_MMm
+2 Peltigera_rufescens_MMm
+2 Parmeliopsis_capitata_MMm
+2 Montanelia_panniformis_MMm
+2 Micarea_lignaria_MMm
+2 Leptogium_cyanescens_MMm
+2 Lepraria_neglecta_MMm
+2 Lepraria_finkii_MMm
+2 Lepra_dactylina_MMm
+2 Lecanora_symmicta_MMm
+2 Lecanora_pulicaris_MMm
+2 Lecanora_hybocarpa_MMm
+2 Lecanora_chlarotera_MMm
+2 Lasallia_pustulata_MMm
+2 Hypogymnia_krogiae_MMm
+2 Fuscidea_scrupulosa_MMm
+2 Fuscidea_recensa_MMm
+2 Cryptodiscus_gloeocapsa_MMm
+2 Cladonia_sulphurina_MMm
+2 Cladonia_rei_MMm
+2 Cladonia_pyxidata_MMm
+2 Cladonia_pocillum_MMm
+2 Cladonia_multiformis_MMm
+2 Cladonia_mitis_MMm
+2 Cladonia_fimbriata_MMm
+2 Cladonia_cyanipes_MMm
+2 Cetrelia_chicitae_MMm
+2 Cetrariella_delisei_MMm
+2 Calvitimela_aglaea_MMm
+2 Baeomyces_rufus_MMm
+2 Bacidia_schweinitzii_MMm
+2 Anaptychia_palmulata_MMm
+2 Alectoria_sarmentosa_MMm
+1 Xanthoparmelia_plittii_MMm
+1 Xanthoparmelia_cumberlandia_MMm
+1 Usnea_subscabrosa_MMm
+1 Usnea_rubicunda_MMm
+1 Tuckermannopsis_orbata_MMm
+1 Tuckermannopsis_americana_MMm
+1 Trapelia_placodioides_MMm
+1 Thelocarpon_impressellum_MMm
+1 Tephromela_atra_MMm
+1 Stereocaulon_dactylophyllum_MMm
+1 Stereocaulon_condensatum_MMm
+1 Schaereria_cinereorufa_MMm
+1 Sarcogyne_hypophaea_MMm
+1 Rimularia_gibbosa_MMm
+1 Rimularia_badioatra_MMm
+1 Rhizoplaca_subdiscrepans_MMm
+1 Rhizoplaca_chrysoleuca_MMm
+1 Rhizocarpon_sylvaticum_MMm
+1 Rhizocarpon_reductum_MMm
+1 Rhizocarpon_lecanorinum_MMm
+1 Rhizocarpon_distinctum_MMm
+1 Rhizocarpon_badioatrum_MMm
+1 Ramalina_labiosorediata_MMm
+1 Pyrenula_laevigata_MMm
+1 Punctelia_caseana_MMm
+1 Psora_globifera_MMm
+1 Protoblastenia_rupestris_MMm
+1 Porpidia_tuberculosa_MMm
+1 Porpidia_speirea_MMm
+1 Porpidia_nigrocruenta_MMm
+1 Porpidia_contraponenda_MMm
+1 Porpidia_carlottiana_MMm
+1 Phaeophyscia_ciliata_MMm
+1 Phaeophyscia_adiastola_MMm
+1 Peltigera_polydactylon_MMm
+1 Peltigera_didactyla_MMm
+1 Parmelia_squarrosa_MMm
+1 Ophioparma_lapponica_MMm
+1 Ochrolechia_trochophora_MMm
+1 Normandina_pulchella_MMm
+1 Nesolechia_oxyspora_MMm
+1 Nephroma_laevigatum_MMm
+1 Myelochroa_aurulenta_MMm
+1 Montanellia_panniformis_MMm
+1 Micarea_peliocarpa_MMm
+1 Megaspora_verrucosa_MMm
+1 Lepra_ophthalmiza_MMm
+1 Leimonis_erratica_MMm
+1 Lecidea_confluens_MMm
+1 Lecanora_subrugosa_MMm
+1 Lecanora_cinereofusca_MMm
+1 Lecanora_chlorophaeodes_MMm
+1 Lecanora_argopholis_MMm
+1 Hypogymnia_vittata_MMm
+1 Hypogymnia_tubulosa_MMm
+1 Fuscidea_lowensis_MMm
+1 Cladonia_verticillata_MMm
+1 Cladonia_straminea_MMm
+1 Cladonia_decorticata_MMm
+1 Cladonia_cristatella_MMm
+1 Cladonia_chlorophaea_MMm
+1 Circinaria_caesiocinerea_MMm
+1 Cetrelia_olivetorum_MMm
+1 Cetraria_ericetorum_MMm
+1 Cetraria_aculeata_MMm
+1 Candelariella_vitellina_MMm
+1 Candelaria_fibrosa_MMm
+1 Calicium_lenticulare_MMm
+1 Bryoria_pseudofuscescens_MMm
+1 Bryoria_fuscescens_MMm
+1 Bryoria_americana_MMm
+1 Bilimbia_sabuletorum_MMm
+1 Bacidina_inundata_MMm
+1 Bacidia_rubella_MMm
+1 Amygdalaria_panaeola_MMm
+1 Amandinea_punctata_MMm
+1 Alectoria_ochroleuca_MMm
 
 ---
 ADDISON County.
@@ -3229,6 +3232,9 @@ Addison Co. LOCALITY top 20. - genus-only records excluded
 15 Ripton_Middlebury_River
 
 ---
+Addison County Vermont Taxon count. genus-only records excluded :390
+Addison Co. TAXA top 10. - genus-only records excluded
+ --- 
 Addison Co. TAXA top 10. - genus-only records excluded
 
 71 Cladonia_furcata
@@ -3296,6 +3302,9 @@ Rutland Co. LOCALITY top 20. - genus-only records excluded
 11 Pond_Hill_Wells
 
 ---
+Rutland County Vermont Taxon count. genus-only records excluded :386
+Rutland Co. TAXA top 10. - genus-only records excluded
+---
 Rutland Co. TAXA top 10. - genus-only records excluded
 
 129 Cladonia_furcata
@@ -3343,25 +3352,28 @@ Bennington Co. LOCALITY top 20. - genus-only records excluded
 
 792 Lye_Brook_Wilderness_Area
 192 Bondville
+87 Mt_Equinox
 35 Arlington
 31 NoLoc
-29 Summit_of_Equinox_Mountain_off_State_Hwy_7_SW_of_Manchester_Center
-27 Mt_Equinox
 26 Sunderland
 15 Searsburg
 13 Woodford
 11 Baffin_Island_Dorset_Emerald_Lake_State_Park
 10 Manchester_Hills_Auto_Camp
-7 Summit_of_Mt_Equinox
 6 Manchester
 5 Shaftsbury
 5 Searsburg_Green_Mountain_National_Forest_W_side_of_FS_71_16_km_N_of_VT_9_near_Searsburg_Reservoir
 5 Pownal
 5 Green_Mountain_National_Forest_W_side_of_FS_71_16_km_N_of_VT_9_near_Searsburg_Reservoir
-3 Mt_Equinox_To_Owls_Head
-3 Manchester_Mt_Equinox
 3 Dorset_Emerald_Lake_State_Park
+3 Bogs_of_Etchowog_about_Perch_Pond_Pownal_Center
+3 8_km_E_of_Arlington
+3 5_mi_E_of_Arlington
+2 around_Hall's_Auto_Camp_Manchester
 
+---
+Bennington County Vermont Taxon count. genus-only records excluded :216
+Bennington Co. TAXA top 10. - genus-only records excluded
 ---
 Bennington Co. TAXA top 10. - genus-only records excluded
 
