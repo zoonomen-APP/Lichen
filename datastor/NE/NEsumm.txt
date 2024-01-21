@@ -3388,12 +3388,15 @@ Bennington Co. TAXA top 10. - genus-only records excluded
 ---
 ## Massachusetts ##
 25695 Non genus-only specimens
-3058 excluded Non genus-only specimens with date neither given nor inferrable
+3056 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Massachusetts land area = 20306 km^2
 MA State count density (STATECNT/STATEAREA*100 km^2) :  25695/20306 =  126.539
 
 ---
+---
+ ---
+ ---
 ESSEX County.
 ---
 Essex Co. DATE -- genus-only records excluded
@@ -3447,6 +3450,7 @@ Essex Co. LOCALITY top 20. - genus-only records excluded
 24 [data_not_captured]
 
 ---
+Essex County Massachusetts Taxon count. genus-only records excluded :309
 Essex Co. TAXA top 10. - genus-only records excluded
 
 121 Xanthoria_parietina
@@ -3514,6 +3518,7 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 3 Boston_Oakland_Garden
 
 ---
+Suffolk County Massachusetts Taxon count. genus-only records excluded :215
 Suffolk Co. TAXA top 10. - genus-only records excluded
 
 26 Parmelia_sulcata
@@ -3581,6 +3586,7 @@ Norfolk Co. LOCALITY top 20. - genus-only records excluded
 12 Whitney_Thayer_Woods_Reservation
 
 ---
+Norfolk County Massachusetts Taxon count. genus-only records excluded :360
 Norfolk Co. TAXA top 10. - genus-only records excluded
 
 77 Cladonia_cristatella
@@ -3648,6 +3654,8 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 20 Hingham_Boston_Harbor_Islands_National_Park_Area_Ragged_Island
 
 ---
+Plymouth County Massachusetts Taxon count. genus-only records excluded :283
+ ---
 Plymouth Co. TAXA top 10. - genus-only records excluded
 
 175 Cladonia_squamosa
@@ -3715,6 +3723,8 @@ Bristol Co. LOCALITY top 20. - genus-only records excluded
 8 Russells_Mills_Village_Rockfase_Site_E_of_Fisher_Road_N_of_village
 
 ---
+Bristol County Massachusetts Taxon count. genus-only records excluded :508
+ ---
 Bristol Co. TAXA top 10. - genus-only records excluded
 
 48 Melaspilea_demissa
@@ -3782,6 +3792,8 @@ Barnstable Co. LOCALITY top 20. - genus-only records excluded
 21 Massachusetts_Cape_Cod_Chatham_Morris_Island
 
 ---
+Barnstable County Massachusetts Taxon count. genus-only records excluded :282
+ ---
 Barnstable Co. TAXA top 10. - genus-only records excluded
 
 110 Cladonia_boryi
@@ -3849,6 +3861,8 @@ Dukes Co. LOCALITY top 20. - genus-only records excluded
 6 Chilmark
 
 ---
+Dukes County Massachusetts Taxon count. genus-only records excluded :138
+ ---
 Dukes Co. TAXA top 10. - genus-only records excluded
 
 40 Cladonia_boryi
@@ -3897,6 +3911,8 @@ Nantucket Co. LOCALITY top 20. - genus-only records excluded
 559 Nantucket
 
 ---
+Nantucket County Massachusetts Taxon count. genus-only records excluded :111
+ ---
 Nantucket Co. TAXA top 10. - genus-only records excluded
 
 49 Cladonia_boryi
@@ -3964,6 +3980,8 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 23 Townsend
 
 ---
+Middlesex County Massachusetts Taxon count. genus-only records excluded :376
+ ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
 91 Cladonia_cristatella
@@ -4031,6 +4049,8 @@ Worcester Co. LOCALITY top 20. - genus-only records excluded
 27 Millbury
 
 ---
+Worcester County Massachusetts Taxon count. genus-only records excluded :407
+ ---
 Worcester Co. TAXA top 10. - genus-only records excluded
 
 86 Physcia_stellaris
@@ -4098,6 +4118,8 @@ Franklin Co. LOCALITY top 20. - genus-only records excluded
 9 Mohawk_Trail_State_Forest_Todd_Mountain_Old_Growth_Area_2-1
 
 ---
+Franklin County Massachusetts Taxon count. genus-only records excluded :211
+ ---
 Franklin Co. TAXA top 10. - genus-only records excluded
 
 16 Cladonia_rangiferina
@@ -4165,6 +4187,8 @@ Hampden Co. LOCALITY top 20. - genus-only records excluded
 5 Hampden_Bousquet
 
 ---
+Hampden County Massachusetts Taxon count. genus-only records excluded :151
+ ---
 Hampden Co. TAXA top 10. - genus-only records excluded
 
 35 Cladonia_cristatella
@@ -4210,28 +4234,30 @@ Hampshire Co. COLLECTOR top 10. - genus-only records excluded
 
 Hampshire Co. LOCALITY top 20. - genus-only records excluded
 
-145 Amherst
+146 Amherst
 44 Westover_AR_Base_Green_Meadow_Road_Radio_Station
-35 [data_not_captured]
+31 [data_not_captured]
+28 Cummington
 24 Pelham
-24 Cum_Gton
-22 NoLoc
 20 Chesterfield
+19 NoLoc
 17 Chesterfield_River_Gorge_near_Worthington_Massachusetts
 16 Plainfield
 16 Hadley
 15 Enfield
 11 Prescott
-10 Mt_Tom
+11 Mt_Tom
 9 South_Amherst
 9 Parttrigg's_Swamp_Amherst
 9 Granby_Sand_Plain_State_Park_vicinity_about_1_mile_NE_of_Granby
 8 Belchertown
 7 Williamsburg
 7 Huntington
-5 Granite_Ledge_South_Amherst
+6 Granby
 
 ---
+Hampshire County Massachusetts Taxon count. genus-only records excluded :185
+ ---
 Hampshire Co. TAXA top 10. - genus-only records excluded
 
 25 Bryoria_furcellata
@@ -4299,6 +4325,8 @@ Berkshire Co. LOCALITY top 20. - genus-only records excluded
 19 Mount_Washington_Bash_Bish_Falls
 
 ---
+Berkshire County Massachusetts Taxon count. genus-only records excluded :421
+ ---
 Berkshire Co. TAXA top 10. - genus-only records excluded
 
 42 Graphis_scripta
