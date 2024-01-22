@@ -4972,6 +4972,8 @@ Providence Co. LOCALITY top 20. - genus-only records excluded
 5 Scituate_Reservoir_Area_Rt_12_east_of_SR_102_414774855_-71637586
 
 ---
+Providence County Rhode_Island Taxon count. genus-only records excluded :108
+ ---
 Providence Co. TAXA top 10. - genus-only records excluded
 
 24 Cladonia_grayi
@@ -5013,28 +5015,30 @@ Kent Co. COLLECTOR top 10. - genus-only records excluded
 
 Kent Co. LOCALITY top 20. - genus-only records excluded
 
+85 Alton_Jones_Nature_Preserve
 28 NoLoc
 28 Big_River_Management_Area_along_Division_Street_sand_dunes_area_41647637_-71586225
 26 headwaters_of_Wood_River
-26 BioBlitz_2004_W_Alton_Jones_Campus_Environmental_Education_Center
-25 BioBlitz_2004_W_Alton_Jones_Campus_Nature_Preserve
 19 Nicholas_Farm_41681019_-71773898
 14 Frenchtown_Park_41627162_-71506707
 14 Big_River_Wildlife_Management_Area_sand_dunes_area_41647602_-71586784
 13 George_Parker_Woodland_41717963_-71697709
 11 Big_River_Wildlife_Management_Area_sand_dunes_41647623_-71586362
-10 W_Alton_Jones_Campus_EEC_41621383_-71703967
 7 Tillinghast_Pond_Management_Area_McAlpine_section_between_Hazard_Road_and_Coney_Brook
 7 Coventry_Center_Cemetery_along_SR_117
-7 BioBlitz_2004_W_Alton_Jones_Campus_cemetery
-6 W_Alton_Jones_Campus_Nature_Preserve
 6 Big_River_Wildlife_Management_Area_sand_dunes_area
 5 West_Greenwich
 4 West_Greenwich_Big_River_Management_Area_Weaver_Hill_Road
-3 W_Alton_Jones_Campus_Nature_Preserve_41621383_-71703967
-3 W_Alton_Jones_Campus_41621383_-71703967
+3 Tillinghast_Pond_Management_Area_05_miles_WNW_of_Tillinghast_Pond
+3 Nicholas_Farm
+3 George_Parker_Woodland
+3 Coventry
+2 West_Greenwich_Big_River_Management_Area
+2 Warwick
 
 ---
+Kent County Rhode_Island Taxon count. genus-only records excluded :100
+ ---
 Kent Co. TAXA top 10. - genus-only records excluded
 
 12 Cladonia_coniocraea
@@ -5087,6 +5091,8 @@ Bristol Co. LOCALITY top 20. - genus-only records excluded
 1 Haffenreffer_Museum_of_Anthropology
 
 ---
+Bristol County Rhode_Island Taxon count. genus-only records excluded :74
+ ---
 Bristol Co. TAXA top 10. - genus-only records excluded
 
 12 Cladonia_furcata
@@ -5154,6 +5160,8 @@ Newport Co. LOCALITY top 20. - genus-only records excluded
 3 Emile_Rueker_Refuge
 
 ---
+Newport County Rhode_Island Taxon count. genus-only records excluded :91
+ ---
 Newport Co. TAXA top 10. - genus-only records excluded
 
 33 Verrucaria_halizoa
@@ -5221,6 +5229,8 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 11 65_km_W_of_Charleston_town_line_on_route_I-A
 
 ---
+Washington County Rhode_Island Taxon count. genus-only records excluded :191
+ ---
 Washington Co. TAXA top 10. - genus-only records excluded
 
 53 Parmotrema_hypotropum
