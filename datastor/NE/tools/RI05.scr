@@ -87,8 +87,11 @@
 		echo >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/501cProvidencelocalx.txt
 #
-# TAXA
-		echo Providence Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+# TAXA 501d
+		echo -n Providence County Rhode_Island Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+                awk -F "|" '$3~/Providence_Co./&&$4~/Rhode_Island/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/RI/RIdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
+		echo Providence Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Providence/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/501dProvidencetaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI//501dProvidencetaxax.txt
@@ -142,8 +145,11 @@
 		echo >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/RI/502cKentlocalx.txt
 #
-# TAXA
-		echo Kent Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+# TAXA 502d
+		echo -n Kent County Rhode_Island Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+                awk -F "|" '$3~/Kent_Co./&&$4~/Rhode_Island/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/RI/RIdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
+		echo Kent Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Kent/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/502dKenttaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI//502dKenttaxax.txt
@@ -200,7 +206,10 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/503cBristollocalx.txt
 #
 # TAXA
-		echo Bristol Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+		echo -n Bristol County Rhode_Island Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+                awk -F "|" '$3~/Bristol_Co./&&$4~/Rhode_Island/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/RI/RIdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
+		echo Bristol Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Bristol/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/503dBristoltaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI//503dBristoltaxax.txt
@@ -257,7 +266,10 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/504cNewportlocalx.txt
 #
 # TAXA
-		echo Newport Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+		echo -n Newport County Rhode_Island Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+                awk -F "|" '$3~/Newport_Co./&&$4~/Rhode_Island/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/RI/RIdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
+		echo Newport Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Newport/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/504dNewporttaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI//504dNewporttaxax.txt
@@ -314,7 +326,10 @@
 		echo --- >> c:/Lichen/datastor/NE/RI/505cWashingtonlocalx.txt
 #
 # TAXA
-		echo Washington Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+		echo -n Washington County Rhode_Island Taxon count. genus-only records excluded : > c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+                awk -F "|" '$3~/Washington_Co./&&$4~/Rhode_Island/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/RI/RIdfbn|sort -d|uniq|wc -l >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+                echo  " ---"  >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
+		echo Washington Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
 	awk 'BEGIN {FS=OFS="|"} $4~/Rhode_Island/&&$3~/Washington/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/RI//RIdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -10  >> c:/Lichen/datastor/NE/RI/505dWashingtontaxax.txt
 		echo >> c:/Lichen/datastor/NE/RI//505dWashingtontaxax.txt
