@@ -4712,14 +4712,14 @@ proportion of State count (%)  (1881/8935) =  21.052
 
 New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 
-817 EvansAW
+819 EvansAW
 131 ProctorNS
 114 EatonDC
 95 SetchellWA
 86 MeyrowitzRMs
-69 NicholsGE
+68 NicholsGE
 62 DarrowRA
-61 sc
+60 sc
 57 FulfordMHMs
 47 MuschFA
 
@@ -5057,29 +5057,29 @@ BRISTOL County.
 ---
 Bristol Co. DATE -- genus-only records excluded
 
-min = 1906, max = 2021, median = 2005, mean = 1957
+min = 1906, max = 2021, median = 1957.5, mean = 1957
 ---
 Bristol County.
 ---
 Bristol Co. COLLECTION DENSITY -- genus-only records excluded
 Bristol County land area = 60 km^2
-RI BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  121/60 =  201.667
+RI BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  122/60 =  203.333
 
 
-Bristol County Count 121 - genus-only records excluded
-proportion of State count (%)  (121/2242) =  5.39697
+Bristol County Count 122 - genus-only records excluded
+proportion of State count (%)  (122/2242) =  5.44157
 
 Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
 56 FlennikenD
-42 HoweRHJr
+43 HoweRHJr
 17 ParkerSBMs
 5 RaithelCJ
 1 NULLX
 
 Bristol Co. LOCALITY top 20. - genus-only records excluded
 
-61 Bristol
+62 Bristol
 27 BioBlitz_2005_Haffenreffer_Museum
 24 BioBlitz_2005_Mt_Hope_Farm
 3 Saint_Mary_of_the_Bay_Cemetery_41724035_-71277785
@@ -5095,7 +5095,7 @@ Bristol County Rhode_Island Taxon count. genus-only records excluded :74
  ---
 Bristol Co. TAXA top 10. - genus-only records excluded
 
-12 Cladonia_furcata
+13 Cladonia_furcata
 6 Parmotrema_perforatum
 4 Physcia_millegrana
 4 Flavoparmelia_caperata
@@ -5138,26 +5138,26 @@ Newport Co. COLLECTOR top 10. - genus-only records excluded
 
 Newport Co. LOCALITY top 20. - genus-only records excluded
 
+74 Middletown
 60 Conanicut_Island
-47 Middletown
+49 Tiverton
 38 Newport
-23 Norman_Bird_Sanctuary_41493951_-71259735
-16 BioBlitz_2003_Weetamoo_Woods
+15 Jamestown_Island
 12 BioBlitz_2003_Babbitt_Property_RI_Dept_Env_Mgt
 9 Cemetery_off_Beacon_Ave_along_SR_138_41527983_-71382464
 8 Oakland_Farms_41556024_-71260403
 8 Little_Compton
-7 NoLoc
-7 Jamestown_Island_Beavertail_lighthouse_41449467_-71399033
-7 Fort_Adams
+8 Fort_Adams
 7 BioBlitz_2003_Pardon_Gray_Refuge_41590686_-71190967
-6 Tiverton_Four_Corners_Cemetery_41575023_-7119004
 6 Newport_Cemetery
-6 BioBlitz_2003_Emily_Ruecker_Refuge_Audubon_Society_of_RI_41591689_-71200108
-5 Tiverton
 4 Green_Animals_Park
 3 Little_Compton_WN_Sisson_farm
-3 Emile_Rueker_Refuge
+2 Portsmouth
+2 Oakland_Farms
+2 MiddletoWn
+2 Little_Compton_WN_Sisson_yard
+2 Jamestown_Cedar_Cemetery
+2 Fogland_Marsh_4154635_-71208462
 
 ---
 Newport County Rhode_Island Taxon count. genus-only records excluded :91
@@ -5180,17 +5180,17 @@ WASHINGTON County.
 ---
 Washington Co. DATE -- genus-only records excluded
 
-min = 1878, max = 2020, median = 2001, mean = 1995
+min = 1878, max = 2020, median = 2001, mean = 1994
 ---
 Washington County.
 ---
 Washington Co. COLLECTION DENSITY -- genus-only records excluded
 Washington County land area = 850 km^2
-RI WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  948/850 =  111.529
+RI WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  949/850 =  111.647
 
 
-Washington County Count 948 - genus-only records excluded
-proportion of State count (%)  (948/2242) =  42.2837
+Washington County Count 949 - genus-only records excluded
+proportion of State count (%)  (949/2242) =  42.3283
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5225,8 +5225,8 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 12 Pawtucket_River_Pines_Wood_River_Junction_41440652_-71695198
 12 Kimball_Wildlife_Sanctuary_41372471_-71686786
 12 Beaver_River_41541567_-71646053
+11 South_Kingston
 11 Carolina_Management_Area_Kenyon_Hill_Trail_41487853_-71668847
-11 65_km_W_of_Charleston_town_line_on_route_I-A
 
 ---
 Washington County Rhode_Island Taxon count. genus-only records excluded :191
@@ -5240,8 +5240,8 @@ Washington Co. TAXA top 10. - genus-only records excluded
 27 Cladonia_subtenuis
 25 Usnea_strigosa
 25 Lasallia_papulosa
+24 Cladonia_grayi
 23 Flavoparmelia_baltimorensis
-23 Cladonia_grayi
 21 Cladonia_macilenta
 
 ---
