@@ -5138,7 +5138,7 @@ Newport Co. COLLECTOR top 10. - genus-only records excluded
 
 Newport Co. LOCALITY top 20. - genus-only records excluded
 
-74 Middletown
+76 Middletown
 60 Conanicut_Island
 49 Tiverton
 38 Newport
@@ -5154,10 +5154,10 @@ Newport Co. LOCALITY top 20. - genus-only records excluded
 3 Little_Compton_WN_Sisson_farm
 2 Portsmouth
 2 Oakland_Farms
-2 MiddletoWn
 2 Little_Compton_WN_Sisson_yard
 2 Jamestown_Cedar_Cemetery
 2 Fogland_Marsh_4154635_-71208462
+2 Fogland_Marsh
 
 ---
 Newport County Rhode_Island Taxon count. genus-only records excluded :91
