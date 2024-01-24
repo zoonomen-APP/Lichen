@@ -3699,26 +3699,26 @@ Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
 Bristol Co. LOCALITY top 20. - genus-only records excluded
 
-2303 New_Bedford
+2441 New_Bedford
 61 [data_not_captured]
 31 Dartmouth
-30 Near_New_Bedford
 24 NoLoc
 20 Taunton
 19 Fairhaven
-16 prope_New_Bedford
 16 Mansfield
 16 Dighton
-14 New_Bedford_and_Weymouth
 13 North_Attleboro
 13 Nonquitt
 13 Acushnet
 11 Attleboro
-10 Prope_New_Bedford_Massachusetts_in_Americae_boreali
 10 Berkeley
 9 Norton
 9 Bay_just_s_of_Fairhaven
 8 Russells_Mills_Village_Rockfase_Site_E_of_Fisher_Road_N_of_village
+7 Easton
+7 Berkley
+6 Westport
+6 Freetown
 
 ---
 Bristol County Massachusetts Taxon count. genus-only records excluded :508
@@ -3768,9 +3768,11 @@ Barnstable Co. COLLECTOR top 10. - genus-only records excluded
 
 Barnstable Co. LOCALITY top 20. - genus-only records excluded
 
+310 Cape_Cod_Canal
 149 Brewster
 120 NoLoc
 84 Woods_Hole
+78 Morris_Island
 60 Provincetown
 54 Nicholson_State_Park
 45 Wellfleet
@@ -3781,13 +3783,11 @@ Barnstable Co. LOCALITY top 20. - genus-only records excluded
 35 Massachusetts_Cape_Cod_East_Dennis
 34 Barnstable
 26 Orleans
-26 Cape_Cod_Canal_on_north_side_ca_Pole_250_N_betw_upper_paved_path_and_Rt_6E
 23 Massachusetts_Cape_Cod_Near_Truro_on_Route_6
 22 West_Falmouth
-22 Chatham_Morris_Island
 22 Bourne
 21 Massachusetts_Cape_Cod_Hyannis
-21 Massachusetts_Cape_Cod_Chatham_Morris_Island
+19 Chatham
 
 ---
 Barnstable County Massachusetts Taxon count. genus-only records excluded :282
@@ -5243,4 +5243,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 09:01:58 PST 2024
+Wed Jan 24 10:58:03 PST 2024
