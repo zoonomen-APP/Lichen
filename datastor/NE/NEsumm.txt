@@ -1458,11 +1458,11 @@ Mt._Katahdin_massif TAXA total. - genus-only records excluded
 ---
 ## New_Hampshire ##
 ---
-18920 Non genus-only specimens
+18919 Non genus-only specimens
 1456 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 New_Hampshire land area = 23187 km^2
-NH State count density (STATECNT/STATEAREA*100 km^2) :  18920/23187 =  81.5974
+NH State count density (STATECNT/STATEAREA*100 km^2) :  18919/23187 =  81.5931
 
 ---
 COOS County.
@@ -1479,9 +1479,9 @@ NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9467/4648 =  203
 
 
 Coos County Count 9467 - genus-only records excluded
-proportion of State count (%)  (9467/18920) =  50.037
+proportion of State count (%)  (9467/18919) =  50.0396
 Coos County Count 9467 - genus-only records excluded
-(9467/18920) =  
+(9467/18919) =  
 Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 1083 WetmoreCM
@@ -1585,7 +1585,7 @@ NH CARROLL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2385/2414 =  
 
 
 Carroll County Count 2385 - genus-only records excluded
-proportion of State count (%)  (2385/18920) =  12.6057
+proportion of State count (%)  (2385/18919) =  12.6064
 
 Carroll Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1654,7 +1654,7 @@ NH GRAFTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4187/4425 =  
 
 
 Grafton County Count 4187 - genus-only records excluded
-proportion of State count (%)  (4187/18920) =  22.13
+proportion of State count (%)  (4187/18919) =  22.1312
 
 Grafton Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1750,7 +1750,7 @@ NH BELKNAP county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  283/1041 =  2
 
 
 Belknap County Count 283 - genus-only records excluded
-proportion of State count (%)  (283/18920) =  1.49577
+proportion of State count (%)  (283/18919) =  1.49585
 
 Belknap Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1809,17 +1809,17 @@ SULLIVAN County.
 ---
 Sullivan Co. DATE -- genus-only records excluded
 
-SULLIVAN county date : min = 1913, max = 1936, median = 1923, mean = 1923
+SULLIVAN county date : min = 1913, max = 1935, median = 1923, mean = 1923
 ---
 Sullivan County.
 ---
 Sullivan Co. COLLECTION DENSITY -- genus-only records excluded
 Sullivan County area = 1392 km^2
-NH SULLIVAN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  32/1392 =  2.29885
+NH SULLIVAN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  31/1392 =  2.22701
 
 
-Sullivan County Count 32 - genus-only records excluded
-proportion of State count (%)  (32/18920) =  0.169133
+Sullivan County Count 31 - genus-only records excluded
+proportion of State count (%)  (31/18919) =  0.163856
 
 Sullivan Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1830,7 +1830,6 @@ Sullivan Co. COLLECTOR top 10. - genus-only records excluded
 1 WrightChloeMs
 1 WilsonMLMs
 1 RaaschHL
-1 HarrisSK__et_al
 1 ChesterKS
 
 Sullivan Co. LOCALITY top 20. - genus-only records excluded
@@ -1843,13 +1842,12 @@ Sullivan Co. LOCALITY top 20. - genus-only records excluded
 2 Lempster
 1 [illegible]_[=_Lempster_--APP]
 1 [=_Lempster_-APP]
-1 South_Kingston
 1 New_Hampshire_Grantham
 1 Meriden_New_Hampshire_U_S_A
 1 Dempster_[Lempster_presumed_--APP]
 
 ---
-Sullivan County New_Hampshire Taxon count. genus-only records excluded :19
+Sullivan County New_Hampshire Taxon count. genus-only records excluded :18
 
 Sullivan Co. TAXA top 10. - genus-only records excluded
 
@@ -1879,7 +1877,7 @@ NH STRAFFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  201/956 =  
 
 
 Strafford County Count 201 - genus-only records excluded
-proportion of State count (%)  (201/18920) =  1.06237
+proportion of State count (%)  (201/18919) =  1.06242
 
 Strafford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1948,7 +1946,7 @@ NH MERRIMACK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  133/2416 = 
 
 
 Merrimack County Count 133 - genus-only records excluded
-proportion of State count (%)  (133/18920) =  0.70296
+proportion of State count (%)  (133/18919) =  0.702997
 
 Merrimack Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2017,7 +2015,7 @@ NH HILLSBOROUGH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  260/2270
 
 
 Hillsborough County Count 260 - genus-only records excluded
-proportion of State count (%)  (260/18920) =  1.37421
+proportion of State count (%)  (260/18919) =  1.37428
 
 Hillsborough Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2086,7 +2084,7 @@ NH ROCKINGHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  425/1801 =
 
 
 Rockingham County Count 425 - genus-only records excluded
-proportion of State count (%)  (425/18920) =  2.2463
+proportion of State count (%)  (425/18919) =  2.24642
 
 Rockingham Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2155,7 +2153,7 @@ NH CHESHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1188/1830 = 
 
 
 Cheshire County Count 1188 - genus-only records excluded
-proportion of State count (%)  (1188/18920) =  6.27907
+proportion of State count (%)  (1188/18919) =  6.2794
 
 Cheshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4902,11 +4900,11 @@ Litchfield Co. TAXA top 10. - genus-only records excluded
 
 ---
 ## Rhode_Island ##
-2242 Non genus-only specimens
+2243 Non genus-only specimens
 125 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Rhode_Island land area = 2707 km^2
-RI State count density (STATECNT/STATEAREA*100 km^2) :  2242/2707 =  82.8223
+RI State count density (STATECNT/STATEAREA*100 km^2) :  2243/2707 =  82.8593
 
 ---
 PROVIDENCE County.
@@ -4923,7 +4921,7 @@ RI PROVIDENCE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  405/1059 =
 
 
 Providence County Count 405 - genus-only records excluded
-proportion of State count (%)  (405/2242) =  18.0642
+proportion of State count (%)  (405/2243) =  18.0562
 
 Providence Co. COLLECTOR top 20. - genus-only records excluded
 
@@ -5002,7 +5000,7 @@ RI KENT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  310/440 =  70.45
 
 
 Kent County Count 310 - genus-only records excluded
-proportion of State count (%)  (310/2242) =  13.8269
+proportion of State count (%)  (310/2243) =  13.8208
 
 Kent Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5067,7 +5065,7 @@ RI BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  122/60 =  203
 
 
 Bristol County Count 122 - genus-only records excluded
-proportion of State count (%)  (122/2242) =  5.44157
+proportion of State count (%)  (122/2243) =  5.43914
 
 Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5121,7 +5119,7 @@ RI NEWPORT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  335/260 =  12
 
 
 Newport County Count 335 - genus-only records excluded
-proportion of State count (%)  (335/2242) =  14.942
+proportion of State count (%)  (335/2243) =  14.9354
 
 Newport Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5186,11 +5184,11 @@ Washington County.
 ---
 Washington Co. COLLECTION DENSITY -- genus-only records excluded
 Washington County land area = 850 km^2
-RI WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  949/850 =  111.647
+RI WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  950/850 =  111.765
 
 
-Washington County Count 949 - genus-only records excluded
-proportion of State count (%)  (949/2242) =  42.3283
+Washington County Count 950 - genus-only records excluded
+proportion of State count (%)  (950/2243) =  42.354
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5207,7 +5205,7 @@ Washington Co. COLLECTOR top 10. - genus-only records excluded
 
 Washington Co. LOCALITY top 20. - genus-only records excluded
 
-125 South_Kingstown
+137 South_Kingstown
 52 Hopkinton
 40 BioBlitz_2007_Trustom_Pond_National_Wildlife_Refuge
 30 Blue_Pond_41507732_-71752152
@@ -5225,8 +5223,8 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 12 Pawtucket_River_Pines_Wood_River_Junction_41440652_-71695198
 12 Kimball_Wildlife_Sanctuary_41372471_-71686786
 12 Beaver_River_41541567_-71646053
-11 South_Kingston
 11 Carolina_Management_Area_Kenyon_Hill_Trail_41487853_-71668847
+11 65_km_W_of_Charleston_town_line_on_route_I-A
 
 ---
 Washington County Rhode_Island Taxon count. genus-only records excluded :191
@@ -5245,4 +5243,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 07:22:10 PST 2024
+Wed Jan 24 07:28:23 PST 2024
