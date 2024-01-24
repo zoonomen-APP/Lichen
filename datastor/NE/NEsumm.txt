@@ -3469,17 +3469,17 @@ SUFFOLK County.
 ---
 Suffolk Co. DATE -- genus-only records excluded
 
-min = 1854, max = 2012, median = 2001, mean = 1972
+min = 1854, max = 2012, median = 2001, mean = 1971
 ---
 Suffolk County.
 ---
 Suffolk Co. COLLECTION DENSITY -- genus-only records excluded
 Suffolk County area = 150 km^2
-MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  758/150 =  505.333
+MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  766/150 =  510.667
 
 
-Suffolk County Count 758 - genus-only records excluded
-proportion of State count (%)  (758/25695) =  2.94999
+Suffolk County Count 766 - genus-only records excluded
+proportion of State count (%)  (766/25695) =  2.98112
 
 Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3487,8 +3487,8 @@ Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 63 GreeneDN
 44 FaxonCE
 42 FaxonE
+41 HigginsonS
 40 LaGrecaSA
-33 HigginsonS
 31 KneiperEMs
 26 AdamsTP
 22 SherwoodMAMs
@@ -3510,15 +3510,15 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 6 Pond_St_Jamaica_Plain
 6 Chelsea
 6 Cambridge
+5 Clarendon_Hills
 4 West_Roxbury_Stony_Brook_Reservation
 4 Brighton
 3 [data_not_captured][West_Roxbury_-APP]
 3 Mattapan
 3 Forest_Hills
-3 Boston_Oakland_Garden
 
 ---
-Suffolk County Massachusetts Taxon count. genus-only records excluded :215
+Suffolk County Massachusetts Taxon count. genus-only records excluded :217
 Suffolk Co. TAXA top 10. - genus-only records excluded
 
 26 Parmelia_sulcata
@@ -3528,7 +3528,7 @@ Suffolk Co. TAXA top 10. - genus-only records excluded
 19 Lecanora_saligna
 18 Physcia_millegrana
 17 Rinodina_gennarii
-15 Cladonia_cristatella
+16 Cladonia_cristatella
 13 Pycnothelia_papillaria
 13 Physcia_stellaris
 
@@ -3537,17 +3537,17 @@ NORFOLK County.
 ---
 Norfolk Co. DATE -- genus-only records excluded
 
-min = 1843, max = 2017, median = 1895, mean = 1914
+min = 1843, max = 2017, median = 1895, mean = 1915
 ---
 Norfolk County.
 ---
 Norfolk Co. COLLECTION DENSITY -- genus-only records excluded
 Norfolk County area = 1036 km^2
-MA NORFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2281/1036 =  220.174
+MA NORFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2273/1036 =  219.402
 
 
-Norfolk County Count 2281 - genus-only records excluded
-proportion of State count (%)  (2281/25695) =  8.87721
+Norfolk County Count 2273 - genus-only records excluded
+proportion of State count (%)  (2273/25695) =  8.84608
 
 Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3557,7 +3557,7 @@ Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 131 WilleyH
 119 FaxonE
 96 SchaeferHar
-93 HigginsonS
+85 HigginsonS
 84 GreeneDN
 84 BlakeSF
 56 FaxonCE
@@ -3589,15 +3589,15 @@ Norfolk Co. LOCALITY top 20. - genus-only records excluded
 Norfolk County Massachusetts Taxon count. genus-only records excluded :360
 Norfolk Co. TAXA top 10. - genus-only records excluded
 
-77 Cladonia_cristatella
+76 Cladonia_cristatella
 67 Cladonia_rangiferina
 63 Dibaeis_baeomyces
 55 Flavoparmelia_caperata
 51 Cetraria_arenaria
 50 Calicium_tigillare
 40 Stictis_urceolatum
-36 Cladonia_furcata
 34 Gyalolechia_flavorubescens
+34 Cladonia_furcata
 32 Stereocaulon_condensatum
 
 ---
@@ -4726,7 +4726,7 @@ New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 New_Haven Co. LOCALITY top 20. - genus-only records excluded
 
 163 [data_not_captured]
-131 New_Haven
+133 New_Haven
 124 Madison
 113 Bethany
 108 North_Haven
@@ -4742,8 +4742,8 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 34 Southbury
 24 Woodbridge
 23 Mt_Carmel
-21 NoLoc
 18 Orange
+18 NoLoc
 17 Hamden_Mt_Carmel
 
 ---
@@ -5208,11 +5208,11 @@ Washington Co. COLLECTOR top 10. - genus-only records excluded
 Washington Co. LOCALITY top 20. - genus-only records excluded
 
 125 South_Kingstown
+52 Hopkinton
 40 BioBlitz_2007_Trustom_Pond_National_Wildlife_Refuge
 30 Blue_Pond_41507732_-71752152
 22 Schoolhouse_Pond/Deep_Pond_41393173_-71664222
 22 Queen_River_area_41548748_-71558845
-21 Town_of_Hopkinton_Long_&_Ell_Ponds_Natural_Area_Narragansett_Trail_ca_15_mi_SW_of_Rockville_on_North_Road_via_Canonchet_Road
 21 NoLoc
 20 Ell_Pond_41506696_-71779091
 18 Grass_Pond_41491374_-71650576
@@ -5245,4 +5245,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 06:50:02 PST 2024
+Wed Jan 24 07:22:10 PST 2024
