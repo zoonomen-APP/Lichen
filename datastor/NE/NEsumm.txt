@@ -5015,26 +5015,26 @@ Kent Co. COLLECTOR top 10. - genus-only records excluded
 
 Kent Co. LOCALITY top 20. - genus-only records excluded
 
-85 Alton_Jones_Nature_Preserve
-28 NoLoc
-28 Big_River_Management_Area_along_Division_Street_sand_dunes_area_41647637_-71586225
+113 Alton_Jones_Nature_Preserve
+77 Big_River_Management_Area
 26 headwaters_of_Wood_River
 19 Nicholas_Farm_41681019_-71773898
 14 Frenchtown_Park_41627162_-71506707
-14 Big_River_Wildlife_Management_Area_sand_dunes_area_41647602_-71586784
 13 George_Parker_Woodland_41717963_-71697709
-11 Big_River_Wildlife_Management_Area_sand_dunes_41647623_-71586362
 7 Tillinghast_Pond_Management_Area_McAlpine_section_between_Hazard_Road_and_Coney_Brook
 7 Coventry_Center_Cemetery_along_SR_117
-6 Big_River_Wildlife_Management_Area_sand_dunes_area
 5 West_Greenwich
-4 West_Greenwich_Big_River_Management_Area_Weaver_Hill_Road
 3 Tillinghast_Pond_Management_Area_05_miles_WNW_of_Tillinghast_Pond
 3 Nicholas_Farm
 3 George_Parker_Woodland
 3 Coventry
-2 West_Greenwich_Big_River_Management_Area
 2 Warwick
+2 Tillinghast_Pond_Management_Area_vic_Phillips_Brook
+2 Potowomut
+1 Wickaboxet_Management_Area_vic_Wickaboxet_Rock
+1 West_Greenwich_Arcadia_Management_Area_Pine_Top
+1 Warwick_south_of_Hardig_Brooks_west_of_Hardig_Road
+1 Warwick_Warwick_City_Park_Steven_O'Connor_Blvd
 
 ---
 Kent County Rhode_Island Taxon count. genus-only records excluded :100
@@ -5245,3 +5245,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
+Wed Jan 24 06:17:18 PST 2024
