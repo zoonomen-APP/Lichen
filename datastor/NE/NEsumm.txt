@@ -1475,13 +1475,13 @@ Coos County.
 ---
 Coos Co. COLLECTION DENSITY -- genus-only records excluded
 Coos County land area = 4648 km^2
-NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9468/4648 =  203.701
+NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9469/4648 =  203.722
 
 
-Coos County Count 9468 - genus-only records excluded
-proportion of State count (%)  (9468/18919) =  50.0449
-Coos County Count 9468 - genus-only records excluded
-(9468/18919) =  
+Coos County Count 9469 - genus-only records excluded
+proportion of State count (%)  (9469/18919) =  50.0502
+Coos County Count 9469 - genus-only records excluded
+(9469/18919) =  
 Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 1083 WetmoreCM
@@ -1492,12 +1492,12 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 328 DibbleACMs
 328 CleavittN
 236 WilleyH
-231 NULL
+232 NULL
 221 MannHJr
 
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
-4607 Mt_Washington_massif
+4609 Mt_Washington_massif
 2991 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
@@ -1650,11 +1650,11 @@ Grafton County.
 ---
 Grafton Co. COLLECTION DENSITY -- genus-only records excluded
 Grafton County area = 4425 km^2
-NH GRAFTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4187/4425 =  94.6215
+NH GRAFTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4188/4425 =  94.6441
 
 
-Grafton County Count 4187 - genus-only records excluded
-proportion of State count (%)  (4187/18919) =  22.1312
+Grafton County Count 4188 - genus-only records excluded
+proportion of State count (%)  (4188/18919) =  22.1365
 
 Grafton Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1681,7 +1681,7 @@ Grafton Co. LOCALITY top 20. - genus-only records excluded
 130 Benton
 106 Grafton_County_Municipality_of_Waterville_Valley_White_Mountains_National_Forest_The_Bowl_Research_Natural_Area_northwest_of_Mt_Wonalancet
 100 Mt_Liberty
-93 [data_not_captured]
+94 [data_not_captured]
 71 NoLoc
 63 Franconia_Notch
 47 Franconia
@@ -1703,9 +1703,9 @@ Grafton Co. TAXA top 10. - genus-only records excluded
 83 Hypogymnia_physodes
 71 Cladonia_gracilis
 69 Cetraria_laevigata
+68 Cladonia_furcata
 67 Umbilicaria_mammulata
 67 Porpidia_macrocarpa
-67 Cladonia_furcata
 64 Pseudevernia_cladonia
 62 Cladonia_uncialis
 
@@ -2453,7 +2453,7 @@ Windsor Co. COLLECTOR top 10. - genus-only records excluded
 Windsor Co. LOCALITY top 20. - genus-only records excluded
 
 208 Mt_Horrid
-168 Rochester
+169 Rochester
 156 Quechee_Gorge
 149 Mt_Ascutney
 57 North_Pomfret
@@ -2882,7 +2882,6 @@ Grand_Isle Co. TAXA top 10. - genus-only records excluded
 1 Cladonia_rei
 
 ---
-
 CHITTENDEN County.
 ---
 Chittenden Co. DATE -- genus-only records excluded
@@ -2893,18 +2892,18 @@ Chittenden County.
 ---
 Chittenden Co. COLLECTION DENSITY -- genus-only records excluded
 Chittenden County area = 1390 km^2
-VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1900/1390 =  136.691
+VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1901/1390 =  136.763
 
 
-Chittenden County Count 1900 - genus-only records excluded
-proportion of State count (%)  (1900/13344) =  14.2386
+Chittenden County Count 1901 - genus-only records excluded
+proportion of State count (%)  (1901/13344) =  14.2461
 
 Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 
 442 PringleCG
 313 DuttonDL
 97 GriffinDB
-82 RiddleLW
+83 RiddleLW
 77 LendemerJC
 75 EganRS
 75 CookPW
@@ -2915,7 +2914,7 @@ Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 Chittenden Co. LOCALITY top 20. - genus-only records excluded
 
 838 Mt_Mansfield_massif
-295 Charlotte
+296 Charlotte
 81 Mallets_Bay
 72 NoLoc
 70 Camels_Hump
@@ -2953,7 +2952,9 @@ Chittenden Co. TAXA top 10. - genus-only records excluded
 
 ---
 Mt._Mansfield_massif Vermont Taxon count. genus-only records excluded :160
-Mt._Mansfield_massif TAXA total. - genus-only records excluded
+---
+
+---
 47 Umbilicaria_hyperborea_MMm
 44 Cetraria_laevigata_MMm
 40 Usnocetraria_oakesiana_MMm
@@ -3176,7 +3177,6 @@ Mt._Mansfield_massif TAXA total. - genus-only records excluded
 1 Amandinea_punctata_MMm
 1 Alectoria_ochroleuca_MMm
 
----
 ADDISON County.
 ---
 Addison Co. DATE -- genus-only records excluded
@@ -5243,4 +5243,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 21:06:50 PST 2024
+Thu Jan 25 15:01:12 PST 2024
