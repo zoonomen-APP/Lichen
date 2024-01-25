@@ -1459,7 +1459,7 @@ Mt._Katahdin_massif TAXA total. - genus-only records excluded
 ## New_Hampshire ##
 ---
 18919 Non genus-only specimens
-1456 excluded Non genus-only specimens with date neither given nor inferrable
+1455 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 New_Hampshire land area = 23187 km^2
 NH State count density (STATECNT/STATEAREA*100 km^2) :  18919/23187 =  81.5931
@@ -1475,17 +1475,17 @@ Coos County.
 ---
 Coos Co. COLLECTION DENSITY -- genus-only records excluded
 Coos County land area = 4648 km^2
-NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9467/4648 =  203.679
+NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9468/4648 =  203.701
 
 
-Coos County Count 9467 - genus-only records excluded
-proportion of State count (%)  (9467/18919) =  50.0396
-Coos County Count 9467 - genus-only records excluded
-(9467/18919) =  
+Coos County Count 9468 - genus-only records excluded
+proportion of State count (%)  (9468/18919) =  50.0449
+Coos County Count 9468 - genus-only records excluded
+(9468/18919) =  
 Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 1083 WetmoreCM
-998 FarlowWG
+999 FarlowWG
 805 SelvaSB
 733 TuckermanE
 732 CraneJL
@@ -1498,12 +1498,12 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
 4607 Mt_Washington_massif
-2990 White_Mountains
+2991 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
 134 NoLoc
 130 [no_additional_data]
-123 [data_not_captured]
+122 [data_not_captured]
 79 Randolph
 77 Stewartstown_Hurlbert_Swamp_Preserve
 53 Wildcat_Mountain
@@ -1511,7 +1511,7 @@ Coos Co. LOCALITY top 20. - genus-only records excluded
 26 Berlin_Falls
 25 Jefferson
 23 Twin_Mountain
-22 Mt_Moriah
+23 Mt_Moriah
 20 Dummer
 11 Colebrook
 10 No_locality_information_available
@@ -3473,11 +3473,11 @@ Suffolk County.
 ---
 Suffolk Co. COLLECTION DENSITY -- genus-only records excluded
 Suffolk County area = 150 km^2
-MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  766/150 =  510.667
+MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  770/150 =  513.333
 
 
-Suffolk County Count 766 - genus-only records excluded
-proportion of State count (%)  (766/25695) =  2.98112
+Suffolk County Count 770 - genus-only records excluded
+proportion of State count (%)  (770/25695) =  2.99669
 
 Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3488,14 +3488,14 @@ Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 41 HigginsonS
 40 LaGrecaSA
 31 KneiperEMs
-26 AdamsTP
+30 AdamsTP
 22 SherwoodMAMs
 13 TuckermanE
 
 Suffolk Co. LOCALITY top 20. - genus-only records excluded
 
 431 Boston_Harbor_Islands
-47 Near_Boston
+58 Boston
 32 Jamaica_Plain
 26 Bussey_Woods
 21 Boston_Roslindale
@@ -3504,7 +3504,6 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 11 [data_not_captured]
 8 Blue_Hill_Reservation_Red_Dot_Rail_to_top_of_Great_Blue_Hill_and_return
 7 Boston_Back_Bay's_Commonwealth_Avenue_Marlborough_St_and_Public_Garden
-7 Boston
 6 Pond_St_Jamaica_Plain
 6 Chelsea
 6 Cambridge
@@ -3514,6 +3513,7 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 3 [data_not_captured][West_Roxbury_-APP]
 3 Mattapan
 3 Forest_Hills
+3 Boston_Oakland_Garden
 
 ---
 Suffolk County Massachusetts Taxon count. genus-only records excluded :217
@@ -3935,11 +3935,11 @@ Middlesex County.
 ---
 Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
 Middlesex County area = 2134 km^2
-MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2847/2134 =  133.411
+MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2843/2134 =  133.224
 
 
-Middlesex County Count 2847 - genus-only records excluded
-proportion of State count (%)  (2847/25695) =  11.08
+Middlesex County Count 2843 - genus-only records excluded
+proportion of State count (%)  (2843/25695) =  11.0644
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4341,7 +4341,7 @@ Berkshire Co. TAXA top 10. - genus-only records excluded
 ---
 ## Connecticut ##
 8935 Non genus-only specimens
-286 excluded Non genus-only specimens with date neither given nor inferrable
+285 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Connecticut land area = 12559 km^2
 CT State count density (STATECNT/STATEAREA*100 km^2) :  8935/12559 =  71.1442
@@ -4633,16 +4633,16 @@ Middlesex County.
 ---
 Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
 Middlesex County area = 960 km^2
-CT MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  706/960 =  73.5417
+CT MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  707/960 =  73.6458
 
 
-Middlesex County Count 706 - genus-only records excluded
-proportion of State count (%)  (706/8935) =  7.90151
+Middlesex County Count 707 - genus-only records excluded
+proportion of State count (%)  (707/8935) =  7.9127
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
 336 EvansAW
-121 HallFW
+122 HallFW
 82 ProctorNS
 45 WrightChas
 18 WileyD
@@ -4654,7 +4654,7 @@ Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
 Middlesex Co. LOCALITY top 20. - genus-only records excluded
 
-160 Killingworth
+161 Killingworth
 76 East_Hampton
 60 [data_not_captured]
 60 Middletown
@@ -4702,11 +4702,11 @@ New_Haven County.
 ---
 New_Haven Co. COLLECTION DENSITY -- genus-only records excluded
 New_Haven County area = 1570 km^2
-CT NEW_HAVEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1881/1570 =  119.809
+CT NEW_HAVEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1880/1570 =  119.745
 
 
-New_Haven County Count 1881 - genus-only records excluded
-proportion of State count (%)  (1881/8935) =  21.052
+New_Haven County Count 1880 - genus-only records excluded
+proportion of State count (%)  (1880/8935) =  21.0409
 
 New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4723,17 +4723,17 @@ New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 
 New_Haven Co. LOCALITY top 20. - genus-only records excluded
 
-163 [data_not_captured]
-133 New_Haven
+156 [data_not_captured]
+136 New_Haven
 124 Madison
-113 Bethany
+114 Bethany
 108 North_Haven
-95 Branford
+96 Branford
 76 Guilford
 58 North_Branford
 58 Milford
+51 West_Rock
 51 Oxford
-50 West_Rock
 49 East_Haven
 43 Hamden
 38 Beacon_Falls
@@ -4745,7 +4745,7 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 17 Hamden_Mt_Carmel
 
 ---
-New_Haven County Connecticut Taxon count. genus-only records excluded :302
+New_Haven County Connecticut Taxon count. genus-only records excluded :301
  ---
 New_Haven Co. TAXA top 10. - genus-only records excluded
 
@@ -4866,7 +4866,7 @@ Litchfield Co. LOCALITY top 20. - genus-only records excluded
 160 Cornwall
 125 Colebrook
 101 NoLoc
-83 Ellsworth
+82 Ellsworth
 81 Aton_Forest
 77 West_Goshen
 73 Washington
@@ -5243,4 +5243,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 10:58:03 PST 2024
+Wed Jan 24 20:41:53 PST 2024
