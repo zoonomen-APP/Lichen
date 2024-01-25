@@ -114,9 +114,9 @@ Hancock Co. LOCALITY top 20. - genus-only records excluded
 204 Tunk_Mountain
 198 Black_Mountain
 177 [data_not_captured]
+121 Swans_Island
 119 Deer_Isle
 109 Callahan_Mine_site
-65 Swans_Island
 50 "Harborside_Callahan_Mine"
 43 Aurora
 34 "Little_Deer_Island_Pine_Hill"
@@ -5243,4 +5243,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 24 20:41:53 PST 2024
+Wed Jan 24 21:06:50 PST 2024
