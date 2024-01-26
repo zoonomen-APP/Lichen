@@ -2774,17 +2774,17 @@ FRANKLIN County.
 ---
 Franklin Co. DATE -- genus-only records excluded
 
-min = 1830, max = 2011, median = 1939, mean = 1944
+min = 1830, max = 2011, median = 1955, mean = 1944
 ---
 Franklin County.
 ---
 Franklin Co. COLLECTION DENSITY -- genus-only records excluded
 Franklin County area = 1640 km^2
-VT FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  66/1640 =  4.02439
+VT FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  65/1640 =  3.96341
 
 
-Franklin County Count 66 - genus-only records excluded
-proportion of State count (%)  (66/13344) =  0.494604
+Franklin County Count 65 - genus-only records excluded
+proportion of State count (%)  (65/13344) =  0.48711
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2792,8 +2792,8 @@ Franklin Co. COLLECTOR top 10. - genus-only records excluded
 14 SpragueCJ
 13 HindsPLMs
 7 HarrisRC
-4 GriffinDB
 3 TuckermanE
+3 GriffinDB
 2 BuckWR
 1 TanBC
 1 RopesMMs
@@ -2801,26 +2801,21 @@ Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
 Franklin Co. LOCALITY top 20. - genus-only records excluded
 
-13 ST_ALBANS_Horse_farm_at_2171_Kellogg_Road_with_pasture_areas_scattered_trees_and_limestone_rock_outcrops
+19 St_Albans
+12 Bakersfield
 11 Highgate
 9 Montgomery
-6 St_Albans
 6 NoLoc
-5 Bakersfield_cliffs
-5 Bakersfield
 2 Lake_Champlain
 1 [data_not_captured]
 1 Swanton
 1 Old_Rossier_Road
-1 Mountain_brooks_Bakersfield
 1 Mountain_Brook
-1 Mallets_Bay_Lake_Champlain
 1 Highgate_Falls
 1 Haystack_Mt_Pawlett
-1 Bakersfield_Cliff
 
 ---
-Franklin County Vermont Taxon count. genus-only records excluded :47
+Franklin County Vermont Taxon count. genus-only records excluded :46
 Franklin Co. TAXA top 10. - genus-only records excluded
 
 5 Wahlenbergiella_mucosa
@@ -2892,17 +2887,17 @@ Chittenden County.
 ---
 Chittenden Co. COLLECTION DENSITY -- genus-only records excluded
 Chittenden County area = 1390 km^2
-VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1901/1390 =  136.763
+VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1902/1390 =  136.835
 
 
-Chittenden County Count 1901 - genus-only records excluded
-proportion of State count (%)  (1901/13344) =  14.2461
+Chittenden County Count 1902 - genus-only records excluded
+proportion of State count (%)  (1902/13344) =  14.2536
 
 Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 
 442 PringleCG
 313 DuttonDL
-97 GriffinDB
+98 GriffinDB
 83 RiddleLW
 77 LendemerJC
 75 EganRS
@@ -2915,24 +2910,24 @@ Chittenden Co. LOCALITY top 20. - genus-only records excluded
 
 838 Mt_Mansfield_massif
 296 Charlotte
-81 Mallets_Bay
+84 Burlington
+82 Mallets_Bay
 72 NoLoc
 70 Camels_Hump
 52 [no_additional_data]
 43 Huntington
-38 City_of_Burlington_Lone_Rock_Point_above_Champlain_thrust_fault_E_shore_of_Lake_Champlain
 35 Underhill
 35 Hinesburg
 30 Jericho
 30 Colchester
 22 Charlotte_Mt_Philo
-22 Burlington
 17 Shelburne
 10 Winooski_River
 10 Jerico_Tarbox_Road_along_Mill_River
 8 Arrowhead_Mt
 6 Nebraska_Notch
 5 Green_Mountains_65_mi_WSW_of_Waterbury
+4 Mt_Philo
 
 ---
 Chittenden County Vermont Taxon count. genus-only records excluded :391
@@ -4741,7 +4736,7 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 24 Woodbridge
 23 Mt_Carmel
 18 Orange
-18 NoLoc
+17 NoLoc
 17 Hamden_Mt_Carmel
 
 ---
@@ -5243,4 +5238,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Thu Jan 25 15:01:12 PST 2024
+Fri Jan 26 05:36:15 PST 2024
