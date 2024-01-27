@@ -179,7 +179,7 @@ Waldo Co. LOCALITY top 20. - genus-only records excluded
 97 Lincolnville
 84 Freedom
 46 Megunticook_Lake
-41 Islesboro
+42 Islesboro
 14 NoLoc
 13 Isleboro
 9 Searsport
@@ -398,8 +398,8 @@ Sagadahoc Co. LOCALITY top 20. - genus-only records excluded
 8 Bates-Morse_Mountain_Coastal_Research_Area_c_5_mi_S_of_Phippsburg_along_Hwy_216_mixed_woods
 7 Sagadahoc_County_Woolwich_Township_Merrymeeting_Bay_The_New_England_Wild_Flower_Society's_PT_Coffin_Wild_Flower_Sanctuary_approx_6_miles_north_of_Woolwich_along_Highway_128
 7 Mcmahon_Island
+7 Five_Islands
 6 near_the_bay_Reid_State_Park
-6 Five_Islands
 6 Along_the_shore_Reid_State_Park
 5 Sanctuary_Merrymeeting_Bay_c_6_mi_N_of_Woolwich_along_Hwy_128
 5 Popham_Walked_from_Popham_Beach_parking_lot_north_to_Popham_Fort_returned_south_along_Rt_209_to_start
@@ -1498,7 +1498,7 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
 4609 Mt_Washington_massif
-2991 White_Mountains
+2992 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
 134 NoLoc
@@ -2171,7 +2171,7 @@ Cheshire Co. COLLECTOR top 10. - genus-only records excluded
 Cheshire Co. LOCALITY top 20. - genus-only records excluded
 
 390 Mt_Monadnock
-198 Fitzwilliam
+215 Fitzwilliam
 84 Alstead
 75 Jaffrey
 63 Cheshire_County_north-eastern_section_of_the_Municipality_of_Stoddard_The_Stoddard_Preserve_located_on_Lightning_Hill_in_the_Charles_Peirce_Wildlife_Reservation
@@ -2183,7 +2183,7 @@ Cheshire Co. LOCALITY top 20. - genus-only records excluded
 14 Lang_Rd_2_mi_west_on_Rt_119_from_intersection_with_Rt_32_Lay's_place
 13 [data_not_captured]
 13 Rindge
-11 Richmond
+12 Richmond
 9 Dublin
 7 Troy_Bigelow_Hill
 6 On_west_side_of_March_Hill
@@ -2467,9 +2467,9 @@ Windsor Co. LOCALITY top 20. - genus-only records excluded
 10 Sharon
 9 Hartford
 9 Barnard
+7 Windsor
 7 Rochester_Maple_Hill
 7 Hartland_Bog_Woodstock
-6 Windsor
 5 North
 4 Tyson
 
@@ -3203,7 +3203,7 @@ Addison Co. COLLECTOR top 10. - genus-only records excluded
 
 Addison Co. LOCALITY top 20. - genus-only records excluded
 
-293 Goshen
+294 Goshen
 160 Hancock
 146 Leicester
 135 Monkton
@@ -3576,7 +3576,7 @@ Norfolk Co. LOCALITY top 20. - genus-only records excluded
 14 Boston_Harbor_Islands
 14 Blue_Hill_Milton
 14 Blue_Hill
-12 Whitney_Thayer_Woods_Reservation
+13 Norwood
 
 ---
 Norfolk County Massachusetts Taxon count. genus-only records excluded :360
@@ -3634,14 +3634,14 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 46 Carver
 45 Myles_Standish_State_Forest
 45 Duxbury
-43 Scituate
+44 Scituate
 34 East_Wareham
 32 Plympton
 27 [data_not_captured]
 24 Town_of_Carver_Myles_Standish_State_Forest_junction_of_Bare_Hill_Road_and_Musquash_Road
 23 Wareham_Mass
+23 Mattapoisett
 22 Point_of_rock_at_public_beach_Brant_Rock
-22 Mattapoisett
 22 Kingston
 21 Hingham_Boston_Harbor_Islands_National_Park_Area_Langlee_Island
 20 Hingham_Boston_Harbor_Islands_National_Park_Area_Ragged_Island
@@ -3770,14 +3770,14 @@ Barnstable Co. LOCALITY top 20. - genus-only records excluded
 78 Morris_Island
 60 Provincetown
 54 Nicholson_State_Park
-45 Wellfleet
+46 Wellfleet
 41 [data_not_captured]
 39 Cape_Cod
 37 Eastham
 36 Falmouth
 35 Massachusetts_Cape_Cod_East_Dennis
 34 Barnstable
-26 Orleans
+27 Orleans
 23 Massachusetts_Cape_Cod_Near_Truro_on_Route_6
 22 West_Falmouth
 22 Bourne
@@ -3951,18 +3951,18 @@ Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
 Middlesex Co. LOCALITY top 20. - genus-only records excluded
 
-387 Concord
-178 Cambridge
+395 Concord
+181 Cambridge
 134 Waltham
 116 Reading
 114 Arlington_Heights
-86 Pepperell
+87 Pepperell
 85 Arlington
 76 Sudbury
 71 NoLoc
 58 Newton
 52 Natick
-49 Carlisle
+51 Carlisle
 43 North_Reading
 41 South_Natick
 34 Bedford
@@ -4036,8 +4036,8 @@ Worcester Co. LOCALITY top 20. - genus-only records excluded
 40 Holden
 34 Worcester
 31 Templeton
+29 Royalston
 28 Sterling
-28 Royalston
 28 Brookfield
 27 Millbury
 
@@ -4725,8 +4725,8 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 108 North_Haven
 96 Branford
 76 Guilford
+59 Milford
 58 North_Branford
-58 Milford
 51 West_Rock
 51 Oxford
 49 East_Haven
@@ -4857,10 +4857,10 @@ Litchfield Co. COLLECTOR top 10. - genus-only records excluded
 Litchfield Co. LOCALITY top 20. - genus-only records excluded
 
 635 Canaan
-221 Norfolk
+226 Norfolk
 160 Cornwall
 125 Colebrook
-101 NoLoc
+96 NoLoc
 82 Ellsworth
 81 Aton_Forest
 77 West_Goshen
@@ -4948,8 +4948,9 @@ Providence Co. LOCALITY top 20. - genus-only records excluded
 36 Johnston_Snake_Den
 25 Buck_Hill_Management_Area_41986053_-71789319
 19 Fort_Nature_Preserve_near_Primrose_41960885_-71552834
+16 Scituate
+11 Sprague_Farm
 11 Clayville_churchyard_and_cemetery_41776524_-71679251
-10 Sprague_Farm_41908248_-71702748
 10 J_L_Curran_Park_41750267_-71545548
 10 Casimir_Pulaski_State_Park_41930351_-71795799
 9 Ponagansett_Public_Fishing_Area_41844657_-71741904
@@ -4958,11 +4959,10 @@ Providence Co. LOCALITY top 20. - genus-only records excluded
 8 Providence
 8 Powder_Mill_Ledges_Wildlife_Refuge_41868472_-71529444
 8 Glocester
-7 Scituate_Reservoir_Area_R_12_east_of_SR_102_414774855_-71637586
 7 Foster
 7 Diamond_Hill_Park_SR_114_41000685_-71414462
-5 Scituate_Reservoir_Area_Rt_12_east_of_SR_102_414774855_-71637586
 5 Lake_Wallum
+5 Johnston
 
 ---
 Providence County Rhode_Island Taxon count. genus-only records excluded :108
@@ -5016,18 +5016,17 @@ Kent Co. LOCALITY top 20. - genus-only records excluded
 14 Frenchtown_Park_41627162_-71506707
 13 George_Parker_Woodland_41717963_-71697709
 7 Coventry_Center_Cemetery_along_SR_117
+4 Warwick
 3 Nicholas_Farm
 3 George_Parker_Woodland
 3 Coventry
-2 Warwick
 2 Potowomut
 1 Wickaboxet_Management_Area_vic_Wickaboxet_Rock
 1 West_Greenwich_Arcadia_Management_Area_Pine_Top
-1 Warwick_south_of_Hardig_Brooks_west_of_Hardig_Road
-1 Warwick_Warwick_City_Park_Steven_O'Connor_Blvd
 1 Nicholas_Farm_MA_Place_Farm_at_Moosup_River
 1 Greene
 1 Frenchtown_Park
+1 East_Greenwich
 
 ---
 Kent County Rhode_Island Taxon count. genus-only records excluded :100
@@ -5072,16 +5071,15 @@ Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
 Bristol Co. LOCALITY top 20. - genus-only records excluded
 
-62 Bristol
+63 Bristol
 27 BioBlitz_2005_Haffenreffer_Museum
 24 BioBlitz_2005_Mt_Hope_Farm
 3 Saint_Mary_of_the_Bay_Cemetery_41724035_-71277785
 1 Saint_Mary_of_the_Bay_Cemetery
 1 Rhode_Island_Bristol
-1 Nov_Angli_Britsol__On_Acer_and_Juniperus-20_ft
-1 Nov_Angli_Bristol__On_soil_over_ledges
 1 Haile_Farm_Preserve
 1 Haffenreffer_Museum_of_Anthropology
+1 Britsol
 
 ---
 Bristol County Rhode_Island Taxon count. genus-only records excluded :74
@@ -5131,7 +5129,7 @@ Newport Co. COLLECTOR top 10. - genus-only records excluded
 
 Newport Co. LOCALITY top 20. - genus-only records excluded
 
-76 Middletown
+77 Middletown
 60 Conanicut_Island
 49 Tiverton
 38 Newport
@@ -5144,13 +5142,13 @@ Newport Co. LOCALITY top 20. - genus-only records excluded
 7 BioBlitz_2003_Pardon_Gray_Refuge_41590686_-71190967
 6 Newport_Cemetery
 4 Green_Animals_Park
+4 Fogland_Marsh
 3 Little_Compton_WN_Sisson_farm
 2 Portsmouth
 2 Oakland_Farms
 2 Little_Compton_WN_Sisson_yard
 2 Jamestown_Cedar_Cemetery
-2 Fogland_Marsh_4154635_-71208462
-2 Fogland_Marsh
+2 Fogland_marsh
 
 ---
 Newport County Rhode_Island Taxon count. genus-only records excluded :91
@@ -5238,4 +5236,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Fri Jan 26 05:36:15 PST 2024
+Sat Jan 27 06:22:19 PST 2024
