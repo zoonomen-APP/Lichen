@@ -42,6 +42,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 502 Eagle_Hill
 295 McClellan_Park
 180 NoLoc
+146 Cobscook_Bay_State_Park
 96 North_Lubec
 87 Town_of_Cutler_Cutler_Coastal_Public_Lands_Loop_Trail_via_Black_Point_Cove_Cutoff_S_of_ME_191_NE_of_Cutler
 80 Lead_Mountain
@@ -56,7 +57,6 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 34 "Steuben_Eagle_Hill_property_yellow_trail"
 32 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_through_open_area
 29 Head_Harbor_Island
-29 Cobscook_Bay_State_Park_Edmunds_Township
 
 ---
 Washington Co. Maine Taxon count. genus-only records excluded :622
@@ -314,26 +314,26 @@ Lincoln Co. COLLECTOR top 10. - genus-only records excluded
 
 Lincoln Co. LOCALITY top 20. - genus-only records excluded
 
-72 Appalachian_Camps_Boothbay_Harbor
-48 Boothbay_Harbor_ME_Near_Sea_level
+198 Boothbay_Harbor
+87 Hog_Island
+38 Wiscasset
 36 Southport
+32 Darling_Center
 29 NoLoc
-29 Hog_Island_Medomak
-29 Boothbay_Harbor
-26 Hog_Island
-18 Ira_C_Darling_Center
+24 Pemaquid
 18 Boothbay
 17 [data_not_captured]
-14 Appalachee_Camps_Boothbay_Harbor
 13 Waldoboro
-12 Wiscasset_Sheepscott_River
-11 Wiscasset
 11 New_Harbor
 11 Bristol
 10 N_Whitefield
 10 Bristol_Round_Pond_region
 9 Walpole
-9 Darling_Center
+8 Vicinity_of_Ocean_Point
+7 North_Whitefield
+7 East_Boothbay
+7 Christmas_Cove
+6 Pratt's_Island_West_Southport
 
 ---
 Lincoln Co. Maine Taxon count. genus-only records excluded :164
@@ -3626,9 +3626,9 @@ Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 Plymouth Co. LOCALITY top 20. - genus-only records excluded
 
 1019 Wareham
+372 Boston_Harbor_Islands
 83 NoLoc
 73 Hingham
-73 Boston_Harbor_Islands_Peddocks_Island
 68 Bridgewater
 57 Plymouth
 46 Carver
@@ -3643,8 +3643,8 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 23 Mattapoisett
 22 Point_of_rock_at_public_beach_Brant_Rock
 22 Kingston
-21 Hingham_Boston_Harbor_Islands_National_Park_Area_Langlee_Island
-20 Hingham_Boston_Harbor_Islands_National_Park_Area_Ragged_Island
+20 Carver/Plymouth_town_line_Myles_Standish_State_Forest_just_E_of_Visitors_Center_on_Fearing_Pond_Road_along_S_shore_of_East_Head_Reservoir
+18 south_of_New_Grassy_Pond_Myles_Standish_State_Forest
 
 ---
 Plymouth County Massachusetts Taxon count. genus-only records excluded :283
@@ -4336,7 +4336,7 @@ Berkshire Co. TAXA top 10. - genus-only records excluded
 ---
 ## Connecticut ##
 8935 Non genus-only specimens
-285 excluded Non genus-only specimens with date neither given nor inferrable
+284 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Connecticut land area = 12559 km^2
 CT State count density (STATECNT/STATEAREA*100 km^2) :  8935/12559 =  71.1442
@@ -4517,7 +4517,7 @@ Hartford Co. LOCALITY top 20. - genus-only records excluded
 28 Suffield
 25 Granby
 21 Newington
-19 Hartford
+20 Hartford
 19 Glastonbury
 17 Hartland
 16 [data_not_captured]
@@ -4651,8 +4651,8 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 
 161 Killingworth
 76 East_Hampton
+61 Middletown
 60 [data_not_captured]
-60 Middletown
 52 Old_Saybrook
 44 Clinton
 33 Portland
@@ -4719,7 +4719,7 @@ New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 New_Haven Co. LOCALITY top 20. - genus-only records excluded
 
 156 [data_not_captured]
-136 New_Haven
+137 New_Haven
 124 Madison
 114 Bethany
 108 North_Haven
@@ -4729,12 +4729,12 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 58 North_Branford
 51 West_Rock
 51 Oxford
-49 East_Haven
+50 East_Haven
 43 Hamden
 38 Beacon_Falls
 34 Southbury
 24 Woodbridge
-23 Mt_Carmel
+24 Mt_Carmel
 18 Orange
 17 NoLoc
 17 Hamden_Mt_Carmel
@@ -4787,26 +4787,26 @@ Fairfield Co. COLLECTOR top 10. - genus-only records excluded
 
 Fairfield Co. LOCALITY top 20. - genus-only records excluded
 
-99 Town_of_Redding_Highstead_Arboretum_W_of_CT_107_just_N_of_The_Redding_Country_Club
+105 Redding
 64 Stamford
+53 Newtown
 37 Greenwich
-34 [data_not_captured]
 31 Darien
 30 Danbury
+29 [data_not_captured]
 29 Sherman
-25 Newtown_Twp_Brunot_Preserve_Newtown_Forest_Assoc
 25 Brookfield
 23 New_Canaan
 20 New_Fairfield
 19 Westport_Twp_Earthplace_Woodside_Lane
+14 West_Gorham
 13 Shelton
 13 Bethel_Twp_Franc_Preserve_Town_of_Bethel
 12 Branchville
-11 West_Gorham
 10 New_Fairfield_Twp_NE-facing_slope_Sweetcake_Mountain_vicinity
-9 Newtown
 9 Brookfield_Twp_W_of_powerline_corridor_bordering_Route_7_S_of_Silvermine_Road_Linear_Town_Park
 8 NoLoc
+8 Georgetown
 
 ---
 Fairfield County Connecticut Taxon count. genus-only records excluded :210
@@ -5236,4 +5236,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sat Jan 27 06:22:19 PST 2024
+Sat Jan 27 20:10:29 PST 2024
