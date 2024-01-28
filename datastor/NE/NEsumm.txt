@@ -3625,31 +3625,31 @@ Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 
 Plymouth Co. LOCALITY top 20. - genus-only records excluded
 
-1019 Wareham
+1042 Wareham
+447 Myles_Standish_State_Forest
 372 Boston_Harbor_Islands
+120 Hingham
 83 NoLoc
-73 Hingham
 68 Bridgewater
 57 Plymouth
+47 East_Wareham
 46 Carver
-45 Myles_Standish_State_Forest
 45 Duxbury
 44 Scituate
-34 East_Wareham
+33 Marshfield
 32 Plympton
 27 [data_not_captured]
-24 Town_of_Carver_Myles_Standish_State_Forest_junction_of_Bare_Hill_Road_and_Musquash_Road
-23 Wareham_Mass
 23 Mattapoisett
-22 Point_of_rock_at_public_beach_Brant_Rock
 22 Kingston
-20 Carver/Plymouth_town_line_Myles_Standish_State_Forest_just_E_of_Visitors_Center_on_Fearing_Pond_Road_along_S_shore_of_East_Head_Reservoir
-18 south_of_New_Grassy_Pond_Myles_Standish_State_Forest
+18 Onset
+16 Rochester
+14 Cape_Cod_Canal_Study_Site_10_Stony_Point_Dike_woods_at_NE_end_near_boundary
+10 Massachusetts_Wareham
 
 ---
 Plymouth County Massachusetts Taxon count. genus-only records excluded :283
  ---
-Plymouth Co. TAXA top 10. - genus-only records excluded
+Plymouth Co. TAXA top 20. - genus-only records excluded
 
 175 Cladonia_squamosa
 105 Cladonia_mitis
@@ -3661,6 +3661,16 @@ Plymouth Co. TAXA top 10. - genus-only records excluded
 72 Cladonia_macilenta
 67 Cladonia_furcata
 67 Cladonia_boryi
+66 Cladonia_grayi
+60 Cladonia_crispata
+53 Cladonia_rangiferina
+46 Cladonia_strepsilis
+45 Usnea_strigosa
+44 Cladonia_subcariosa
+37 Cladonia_parasitica
+33 Flavoparmelia_caperata
+33 Cladonia_verticillata
+32 Cladonia_pocillum
 
 ---
 BRISTOL County.
@@ -5236,4 +5246,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sat Jan 27 20:10:29 PST 2024
+Sun Jan 28 06:30:17 PST 2024
