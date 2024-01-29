@@ -3557,7 +3557,8 @@ Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 
 Norfolk Co. LOCALITY top 20. - genus-only records excluded
 
-924 Wellesley
+946 Wellesley
+172 Boston_Harbor_Islands
 140 Weymouth
 114 NoLoc
 62 Dedham
@@ -3568,15 +3569,14 @@ Norfolk Co. LOCALITY top 20. - genus-only records excluded
 24 Brookline
 23 Sharon
 22 Dover
+22 Blue_Hill
 17 [data_not_captured]
-17 Weymouth_Boston_Harbor_Islands_National_Park_Area_Slate_Island
-17 Weymouth_Boston_Harbor_Islands_National_Park_Area_Grape_Island
-17 Wellesley_Mass
-15 Boston_Harbor_Islands_Slate_Island
-14 Boston_Harbor_Islands
 14 Blue_Hill_Milton
-14 Blue_Hill
 13 Norwood
+12 Whitney_Thayer_Woods_Reservation
+12 Needham_Charles_River_Village
+11 Westwood_Hale_Reservation_In_the_vicinity_of_Cat_Rock_Parking_lot_from_Split_Rock_Trail_to_Cat_Rock
+10 South_Foxboro
 
 ---
 Norfolk County Massachusetts Taxon count. genus-only records excluded :360
@@ -5246,4 +5246,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sun Jan 28 06:30:17 PST 2024
+Sun Jan 28 17:26:19 PST 2024
