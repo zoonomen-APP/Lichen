@@ -16,11 +16,11 @@ Washington County.
 ---
 Washington Co. COLLECTION DENSITY -- genus-only records excluded
 Washington County area = 6640 km^2
-ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4789/6640 =  72.1235
+ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  622/6640 =  9.36747
 
 
-Washington County Count 4789 - genus-only records excluded
-proportion of State count (%)  (4789/39733) =  12.053
+Washington County Count 622 - genus-only records excluded
+proportion of State count (%)  (622/39733) =  1.56545
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -43,6 +43,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 295 McClellan_Park
 180 NoLoc
 146 Cobscook_Bay_State_Park
+102 Jonesport
 96 North_Lubec
 87 Town_of_Cutler_Cutler_Coastal_Public_Lands_Loop_Trail_via_Black_Point_Cove_Cutoff_S_of_ME_191_NE_of_Cutler
 80 Lead_Mountain
@@ -50,7 +51,6 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 71 Roque_Island
 62 T18_ED_BPP_Maine_Public_Reserve_Lands_S_end_of_Rocky_Lake_025-05_mi_W_of_jct_of_Diamond_Match_Road_and_ME_191
 62 Eastport
-56 Jonesport
 46 Black_Mountain
 44 Machias_Bog_Se_of_Machias
 42 Humboldt_Field_Research_Institute_near_Red_Trail_about_100_m_from_parking_lot
@@ -59,7 +59,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 29 Head_Harbor_Island
 
 ---
-Washington Co. Maine Taxon count. genus-only records excluded :622
+Washington Co. Maine Taxon (species) count. genus-only records excluded :622
 
 Washington Co. TAXA top 10. - genus-only records excluded
 
@@ -85,11 +85,11 @@ Hancock County.
 ---
 Hancock Co. COLLECTION DENSITY -- genus-only records excluded
 Hancock County area = 4110 km^2
-ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  12445/4110 =  302.798
+ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  698/4110 =  16.983
 
 
-Hancock County Count 12445 - genus-only records excluded
-proportion of State count (%)  (12445/39733) =  31.3216
+Hancock County Count 698 - genus-only records excluded
+proportion of State count (%)  (698/39733) =  1.75673
 
 Hancock Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -131,7 +131,6 @@ Hancock Co. LOCALITY top 20. - genus-only records excluded
 Hancock Co. Maine Taxon count. genus-only records excluded :698
 
 Hancock Co. TAXA top 10. - genus-only records excluded
-698
 
 228 Cladonia_squamosa
 210 Cladonia_rangiferina
@@ -178,10 +177,9 @@ Waldo Co. LOCALITY top 20. - genus-only records excluded
 
 97 Lincolnville
 84 Freedom
+55 Islesboro
 46 Megunticook_Lake
-42 Islesboro
 14 NoLoc
-13 Isleboro
 9 Searsport
 4 VERONA_SANDY_POINT-_HERSEY_RETREAT
 4 UNITY_POWER_LINE-_NEAR_RR_TRACKS
@@ -196,9 +194,10 @@ Waldo Co. LOCALITY top 20. - genus-only records excluded
 2 Thorndike
 2 Swanville
 2 SEARSPORT_MOOSE_POINT_STATE_PARK
+2 Grounds_of_Belfast_Harbor_Inn_off_Rt_3_Searsport_Ave
 
 ---
-Waldo Co. Maine Taxon count. genus-only records excluded :166
+Waldo Co. Maine Taxon (species) count. genus-only records excluded :166
 
 Waldo Co. TAXA top 10. - genus-only records excluded
 
@@ -267,7 +266,7 @@ Knox Co. LOCALITY top 20. - genus-only records excluded
 19 Vinalhaven
 
 ---
-Knox Co. Maine Taxon count. genus-only records excluded :552
+Knox Co. Maine Taxon (species) count. genus-only records excluded :552
 
 Knox Co. TAXA top 10. - genus-only records excluded
 
@@ -3380,12 +3379,12 @@ Bennington Co. TAXA top 10. - genus-only records excluded
 
 ---
 ## Massachusetts ##
-25695 Non genus-only specimens
+25709 Non genus-only specimens
+945 Non genus-only taxa
 3056 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Massachusetts land area = 20306 km^2
-MA State count density (STATECNT/STATEAREA*100 km^2) :  25695/20306 =  126.539
-
+MA State count density (STATECNT/STATEAREA*100 km^2) :  25709/20306 =  126.608
 ---
 ---
  ---
@@ -3404,7 +3403,7 @@ MA ESSEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2341/1290 =  18
 
 
 Essex County Count 2341 - genus-only records excluded
-proportion of State count (%)  (2341/25695) =  9.11072
+proportion of State count (%)  (2341/25709) =  9.10576
 
 Essex Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3444,6 +3443,7 @@ Essex Co. LOCALITY top 20. - genus-only records excluded
 
 ---
 Essex County Massachusetts Taxon count. genus-only records excluded :309
+ESSEX Co. Taxon species count310
 Essex Co. TAXA top 10. - genus-only records excluded
 
 121 Xanthoria_parietina
@@ -3472,7 +3472,7 @@ MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  770/150 =  51
 
 
 Suffolk County Count 770 - genus-only records excluded
-proportion of State count (%)  (770/25695) =  2.99669
+proportion of State count (%)  (770/25709) =  2.99506
 
 Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3489,7 +3489,7 @@ Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 
 Suffolk Co. LOCALITY top 20. - genus-only records excluded
 
-431 Boston_Harbor_Islands
+432 Boston_Harbor_Islands
 58 Boston
 32 Jamaica_Plain
 26 Bussey_Woods
@@ -3540,7 +3540,7 @@ MA NORFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2273/1036 =  
 
 
 Norfolk County Count 2273 - genus-only records excluded
-proportion of State count (%)  (2273/25695) =  8.84608
+proportion of State count (%)  (2273/25709) =  8.84126
 
 Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3557,26 +3557,26 @@ Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 
 Norfolk Co. LOCALITY top 20. - genus-only records excluded
 
-946 Wellesley
+947 Wellesley
+217 Blue_Hills_Region
 172 Boston_Harbor_Islands
 140 Weymouth
 114 NoLoc
 62 Dedham
+59 Purgatory_Swamp
+49 Needham
 38 Stoughton
-37 Needham
 36 Milton
 26 Canton
 24 Brookline
 23 Sharon
 22 Dover
-22 Blue_Hill
-17 [data_not_captured]
-14 Blue_Hill_Milton
 13 Norwood
-12 Whitney_Thayer_Woods_Reservation
-12 Needham_Charles_River_Village
+12 Whitney_and_Thayer_Woods_Reservation
 11 Westwood_Hale_Reservation_In_the_vicinity_of_Cat_Rock_Parking_lot_from_Split_Rock_Trail_to_Cat_Rock
 10 South_Foxboro
+10 Quincy
+10 Bellingham
 
 ---
 Norfolk County Massachusetts Taxon count. genus-only records excluded :360
@@ -3608,7 +3608,7 @@ MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2989/1712 = 
 
 
 Plymouth County Count 2989 - genus-only records excluded
-proportion of State count (%)  (2989/25695) =  11.6326
+proportion of State count (%)  (2989/25709) =  11.6263
 
 Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3625,18 +3625,18 @@ Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 
 Plymouth Co. LOCALITY top 20. - genus-only records excluded
 
-1042 Wareham
+1147 Wareham
 447 Myles_Standish_State_Forest
-372 Boston_Harbor_Islands
+376 Boston_Harbor_Islands
 120 Hingham
 83 NoLoc
 68 Bridgewater
+67 East_Wareham
 57 Plymouth
-47 East_Wareham
 46 Carver
 45 Duxbury
 44 Scituate
-33 Marshfield
+34 Marshfield
 32 Plympton
 27 [data_not_captured]
 23 Mattapoisett
@@ -3687,7 +3687,7 @@ MA BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2889/1440 =  
 
 
 Bristol County Count 2889 - genus-only records excluded
-proportion of State count (%)  (2889/25695) =  11.2434
+proportion of State count (%)  (2889/25709) =  11.2373
 
 Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3756,7 +3756,7 @@ MA BARNSTABLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2376/1026 
 
 
 Barnstable County Count 2376 - genus-only records excluded
-proportion of State count (%)  (2376/25695) =  9.24694
+proportion of State count (%)  (2376/25709) =  9.2419
 
 Barnstable Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3825,7 +3825,7 @@ MA DUKES county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  611/269 =  227.
 
 
 Dukes County Count 611 - genus-only records excluded
-proportion of State count (%)  (611/25695) =  2.37789
+proportion of State count (%)  (611/25709) =  2.3766
 
 Dukes Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3894,7 +3894,7 @@ MA NANTUCKET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  559/124 =  
 
 
 Nantucket County Count 559 - genus-only records excluded
-proportion of State count (%)  (559/25695) =  2.17552
+proportion of State count (%)  (559/25709) =  2.17434
 
 Nantucket Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3944,7 +3944,7 @@ MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2843/2134 =
 
 
 Middlesex County Count 2843 - genus-only records excluded
-proportion of State count (%)  (2843/25695) =  11.0644
+proportion of State count (%)  (2843/25709) =  11.0584
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3976,7 +3976,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 43 North_Reading
 41 South_Natick
 34 Bedford
-31 [data_not_captured]
+30 [data_not_captured]
 27 Chelmsford
 26 Weston
 24 Near_Cambridge
@@ -4013,7 +4013,7 @@ MA WORCESTER county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3467/3919 =
 
 
 Worcester County Count 3467 - genus-only records excluded
-proportion of State count (%)  (3467/25695) =  13.4929
+proportion of State count (%)  (3467/25709) =  13.4855
 
 Worcester Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4082,7 +4082,7 @@ MA FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  538/1818 =  
 
 
 Franklin County Count 538 - genus-only records excluded
-proportion of State count (%)  (538/25695) =  2.09379
+proportion of State count (%)  (538/25709) =  2.09265
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4099,26 +4099,26 @@ Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
 Franklin Co. LOCALITY top 20. - genus-only records excluded
 
+122 Todd_Mountain
 32 Orange
-24 Mohawk_Trail_State_Forest_Old_Growth_Area_2-9_about_halfway_up_S_slope_of_Todd_Mountain
+31 Deerfield
+26 Tully_Mountain
 22 NoLoc
-22 Mohawk_Trail_State_Forest_Old_Growth_Area_1-4_01_km_NE_and_due_E_of_summit_of_Todd_Mountain
-18 Deerfield
 16 Town_of_Rowe_just_off_Tunnel_Road_38_mi_NW_of_Zoar_on_River_Road
-16 Mohawk_Trail_State_Forest_Old_Growth_Area_2-6_Todd_Mountain_02_km_SSE_of_summit
 15 Sunderland
-15 Orange_Tully_Mountain_in_North_Orange_Ledge_on_west_side_of_Tully_Mt_off_Mountain_Rd
 13 Shutesbury
-13 Deerfield_Stillwater
 12 Wendell
 11 [data_not_captured]
 11 Whately
 10 Orange_Cemetery_in_North_Orange_on_Warwick_Road_1/4_mile_west_of_Mountain_Rd
 10 Mt_Toby
 9 Williams_Property
-9 Tully_Mountain
 9 New_Salem
-9 Mohawk_Trail_State_Forest_Todd_Mountain_Old_Growth_Area_2-1
+9 Leverett_Mt_Toby
+8 Sunderland_Mount_Toby
+8 East_Slope_of_Roaring_Mountain_Near_Rte_63_7_miles_S_of_Millers_Falls
+7 Town_of_Rowe_off_Tunnel_Road_trail_to_and_summit_of_Negus_Mountain
+7 Charlemont
 
 ---
 Franklin County Massachusetts Taxon count. genus-only records excluded :211
@@ -4151,7 +4151,7 @@ MA HAMPDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  591/1600 =  3
 
 
 Hampden County Count 591 - genus-only records excluded
-proportion of State count (%)  (591/25695) =  2.30006
+proportion of State count (%)  (591/25709) =  2.29881
 
 Hampden Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4220,7 +4220,7 @@ MA HAMPSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  669/1370 = 
 
 
 Hampshire County Count 669 - genus-only records excluded
-proportion of State count (%)  (669/25695) =  2.60362
+proportion of State count (%)  (669/25709) =  2.6022
 
 Hampshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4289,7 +4289,7 @@ MA BERKSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2140/2411 =
 
 
 Berkshire County Count 2140 - genus-only records excluded
-proportion of State count (%)  (2140/25695) =  8.32847
+proportion of State count (%)  (2140/25709) =  8.32393
 
 Berkshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5246,4 +5246,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sun Jan 28 17:26:19 PST 2024
+Wed Jan 31 18:03:18 PST 2024
