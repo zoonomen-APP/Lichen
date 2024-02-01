@@ -1,9 +1,9 @@
 ## Maine ##
-39733 Non genus-only specimens
-1187 Maine state taxon count (Non-genus only taxa)
+39742 Non genus-only specimens
+1189 Maine state taxon count (Non-genus only taxa)
 ---
 Maine land area = 80005 km^2
-ME State count density (STATECNT/STATEAREA*100 km^2) :  39733/80005 =  49.6631
+ME State count density (STATECNT/STATEAREA*100 km^2) :  39742/80005 =  49.6744
 
 ---
 WASHINGTON County.
@@ -20,7 +20,7 @@ ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  622/6640 =
 
 
 Washington County Count 622 - genus-only records excluded
-proportion of State count (%)  (622/39733) =  1.56545
+proportion of State count (%)  (622/39742) =  1.56509
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -89,7 +89,7 @@ ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  698/4110 =  1
 
 
 Hancock County Count 698 - genus-only records excluded
-proportion of State count (%)  (698/39733) =  1.75673
+proportion of State count (%)  (698/39742) =  1.75633
 
 Hancock Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -158,7 +158,7 @@ ME WALDO county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  396/1900 =  20.
 
 
 Waldo County Count 396 - genus-only records excluded
-proportion of State count (%)  (396/39733) =  0.996653
+proportion of State count (%)  (396/39742) =  0.996427
 
 Waldo Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -227,7 +227,7 @@ ME KNOX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  5009/950 =  527.
 
 
 Knox County Count 5009 - genus-only records excluded
-proportion of State count (%)  (5009/39733) =  12.6066
+proportion of State count (%)  (5009/39742) =  12.6038
 
 Knox Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -252,18 +252,18 @@ Knox Co. LOCALITY top 20. - genus-only records excluded
 308 Warren
 155 NoLoc
 155 Mt_Battie
+147 Vinalhaven
 146 Thomaston
-62 Vinalhaven_Huber_Preserve
 59 Megunticook_Lake
 46 Oakland
-42 Vinalhaven_Starboard_Rock_Sanctuary
 41 Matinicus_Island
 35 within_ten_miles_of_Penobscot_Bay
 29 [data_not_captured]
 27 Town_of_Camden_Camden_Hills_State_Park_along_Old_Carriage_Road_near_ME_52
 22 Matinicus
 20 Warren_Maine
-19 Vinalhaven
+19 Mt_Desert_Island_and_adjacent_islands
+17 Owls_Head
 
 ---
 Knox Co. Maine Taxon (species) count. genus-only records excluded :552
@@ -296,7 +296,7 @@ ME LINCOLN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  820/1180 =  6
 
 
 Lincoln County Count 820 - genus-only records excluded
-proportion of State count (%)  (820/39733) =  2.06378
+proportion of State count (%)  (820/39742) =  2.06331
 
 Lincoln Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -335,7 +335,7 @@ Lincoln Co. LOCALITY top 20. - genus-only records excluded
 6 Pratt's_Island_West_Southport
 
 ---
-Lincoln Co. Maine Taxon count. genus-only records excluded :164
+Lincoln Co. Maine Taxon (species) count. genus-only records excluded :164
 
 Lincoln Co. TAXA top 10. - genus-only records excluded
 
@@ -365,7 +365,7 @@ ME SAGADAHOC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  494/660 =  
 
 
 Sagadahoc County Count 494 - genus-only records excluded
-proportion of State count (%)  (494/39733) =  1.2433
+proportion of State count (%)  (494/39742) =  1.24302
 
 Sagadahoc Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -404,7 +404,7 @@ Sagadahoc Co. LOCALITY top 20. - genus-only records excluded
 5 Popham_Walked_from_Popham_Beach_parking_lot_north_to_Popham_Fort_returned_south_along_Rt_209_to_start
 
 ---
-Sagadahoc Co. Maine Taxon count. genus-only records excluded :155
+Sagadahoc Co. Maine Taxon (species) count. genus-only records excluded :155
 
 Sagadahoc Co. TAXA top 10. - genus-only records excluded
 
@@ -434,7 +434,7 @@ ME CUMBERLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1469/2160 
 
 
 Cumberland County Count 1469 - genus-only records excluded
-proportion of State count (%)  (1469/39733) =  3.69718
+proportion of State count (%)  (1469/39742) =  3.69634
 
 Cumberland Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -457,6 +457,7 @@ Cumberland Co. LOCALITY top 20. - genus-only records excluded
 68 Westbrook
 66 Harrison
 58 Brunswick
+57 Bailey_Island
 56 NoLoc
 56 Littlejohn_Island_Casco_Bay
 51 Cape_Elizabeth
@@ -464,16 +465,15 @@ Cumberland Co. LOCALITY top 20. - genus-only records excluded
 39 Freeport
 39 Camden
 28 Orrs_Island
-26 Along_the_shore_Bailey_Island
 23 Portland
-22 Bailey_Island
 18 Harpswell
 13 Along_the_shore_Gurnet_near_Brunswick
 12 Gorham
 11 Gurnet_near_Brunswick
+10 Westbrook_Spring_Street_Rapids
 
 ---
-Cumberland Co. Maine Taxon count. genus-only records excluded :274
+Cumberland Co. Maine Taxon (species) count. genus-only records excluded :274
 
 Cumberland Co. TAXA top 10. - genus-only records excluded
 
@@ -503,7 +503,7 @@ ME YORK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  848/2570 =  32.9
 
 
 York County Count 848 - genus-only records excluded
-proportion of State count (%)  (848/39733) =  2.13425
+proportion of State count (%)  (848/39742) =  2.13376
 
 York Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -542,7 +542,7 @@ York Co. LOCALITY top 20. - genus-only records excluded
 9 York_Harbor
 
 ---
-York Co. Maine Taxon count. genus-only records excluded :227
+York Co. Maine Taxon (species) count. genus-only records excluded :227
 
 York Co. TAXA top 10. - genus-only records excluded
 
@@ -572,7 +572,7 @@ ME AROOSTOOK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4979/17280 
 
 
 Aroostook County Count 4979 - genus-only records excluded
-proportion of State count (%)  (4979/39733) =  12.5311
+proportion of State count (%)  (4979/39742) =  12.5283
 
 Aroostook Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -611,7 +611,7 @@ Aroostook Co. LOCALITY top 20. - genus-only records excluded
 64 Aroostook_County_Northwestern_section_of_T15_R8_WELS_along_the_western_branch_of_Rocky_Brook
 
 ---
-Aroostook Co. Maine Taxon count. genus-only records excluded :433
+Aroostook Co. Maine Taxon (species) count. genus-only records excluded :433
 
 Aroostook Co. TAXA top 10. - genus-only records excluded
 
@@ -637,11 +637,11 @@ Piscataquis County.
 ---
 Piscataquis Co. COLLECTION DENSITY -- genus-only records excluded
 Piscataquis County area = 10260 km^2
-ME PISCATAQUIS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3829/10260 =  37.3197
+ME PISCATAQUIS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3826/10260 =  37.2904
 
 
-Piscataquis County Count 3829 - genus-only records excluded
-proportion of State count (%)  (3829/39733) =  9.63683
+Piscataquis County Count 3826 - genus-only records excluded
+proportion of State count (%)  (3826/39742) =  9.62709
 
 Piscataquis Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -658,7 +658,7 @@ Piscataquis Co. COLLECTOR top 10. - genus-only records excluded
 
 Piscataquis Co. LOCALITY top 20. - genus-only records excluded
 
-1657 Mt_Katahdin_massif
+1654 Mt_Katahdin_massif
 619 Big_Reed_Pond_Preserve
 155 Togue_Pond
 147 Piscataquis_County_Trout_Brook_Township_Baxter_State_Park_Boody_Brook_Reserve
@@ -680,7 +680,7 @@ Piscataquis Co. LOCALITY top 20. - genus-only records excluded
 13 Blanchard
 
 ---
-Piscataquis Co. Maine Taxon count. genus-only records excluded :533
+Piscataquis Co. Maine Taxon (species) count. genus-only records excluded :535
 
 Piscataquis Co. TAXA top 10. - genus-only records excluded
 
@@ -710,7 +710,7 @@ ME SOMERSET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  443/10160 = 
 
 
 Somerset County Count 443 - genus-only records excluded
-proportion of State count (%)  (443/39733) =  1.11494
+proportion of State count (%)  (443/39742) =  1.11469
 
 Somerset Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -749,6 +749,7 @@ Somerset Co. LOCALITY top 20. - genus-only records excluded
 4 [data_not_captured]
 
 ---
+Somerset Co. Maine Taxon (species) count. genus-only records excluded :186
 Somerset Co. Maine Taxon count. genus-only records excluded :186
 
 Somerset Co. TAXA top 10. - genus-only records excluded
@@ -779,7 +780,7 @@ ME PENOBSCOT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1360/8800 =
 
 
 Penobscot County Count 1360 - genus-only records excluded
-proportion of State count (%)  (1360/39733) =  3.42285
+proportion of State count (%)  (1360/39742) =  3.42207
 
 Penobscot Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -818,6 +819,7 @@ Penobscot Co. LOCALITY top 20. - genus-only records excluded
 4 OLD_TOWN_UNIVERSITY_FOREST-_PINKHAM_RD
 
 ---
+Penobscot Co. Maine Taxon (species) count. genus-only records excluded :295
 Penobscot Co. TAXA top 10. - genus-only records excluded
 
 36 Hypogymnia_physodes
@@ -846,7 +848,7 @@ ME KENNEBEC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  238/2250 =  
 
 
 Kennebec County Count 238 - genus-only records excluded
-proportion of State count (%)  (238/39733) =  0.598998
+proportion of State count (%)  (238/39742) =  0.598863
 
 Kennebec Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -885,6 +887,7 @@ Kennebec Co. LOCALITY top 20. - genus-only records excluded
 3 Near_Monmouth
 
 ---
+Kennebec Co. Maine Taxon (species) count. genus-only records excluded :126
 Kennebec Co. Maine Taxon count. genus-only records excluded :126
 
 Kennebec Co. TAXA top 10. - genus-only records excluded
@@ -927,7 +930,7 @@ ME ANDROSCOGGIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  169/1210
 
 
 Androscoggin County Count 169 - genus-only records excluded
-proportion of State count (%)  (169/39733) =  0.425339
+proportion of State count (%)  (169/39742) =  0.425243
 
 Androscoggin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -944,28 +947,29 @@ Androscoggin Co. COLLECTOR top 10. - genus-only records excluded
 
 Androscoggin Co. LOCALITY top 20. - genus-only records excluded
 
-55 Turner
+70 Turner
 21 Auburn
-16 East_Auburn
+18 East_Auburn
 12 Livermore
-10 Turner_Ctr
 8 Lisbon
 5 NoLoc
 4 AUBURN_CEMETERY
 3 [no_additional_data]
 3 Minot
 2 [data_not_captured]
-2 Turner_in_Nezinscot_River
 2 Greene
-2 Ea_Auburn
 2 Behind_Gary_Labbe_home_on_Hinkley_Hill_S_of_Livermore_Falls
 1 on_sandy_hillside_behind_Gary_Labbe_home_on_Hinkley_Hill_S_of_Liver-more_Falls
-1 near_Nezinscott_River_Turner_Ctr
 1 at_the_Francis_Pike_home_on_Rte_17_3_mi_SW_of_Livermore_Falls
-1 Turner_bank_of_Nezinceat_River
-1 Turner_Nezinscot_River
+1 Southwest_bank_of_Androscoggin_River_in_woods_by_the_falls_at_the_bridge
+1 SEBATTUS_Boy_Scout_camp_near_Curtis_Bog
+1 SEBATTUS_Boy_Scout_Camp_near_Curtis_Bog
+1 Pleasant_View_Cemetery2_miles_SE_of_Livermore_Falls
+1 Nelson_Pond_Shackley_Hill_Livermore
+1 Near_pleasant_Valley_Cem_Rte_17_Livermore_Falls
 
 ---
+Androscoggin Co. Maine Taxon (species) count. genus-only records excluded :104
 Androscoggin Co. Maine Taxon count. genus-only records excluded :104
 
 6 Cladonia_scabriuscula
@@ -995,7 +999,7 @@ ME FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  558/4400 =  
 
 
 Franklin County Count 558 - genus-only records excluded
-proportion of State count (%)  (558/39733) =  1.40437
+proportion of State count (%)  (558/39742) =  1.40406
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1034,9 +1038,8 @@ Franklin Co. LOCALITY top 20. - genus-only records excluded
 5 east_of_Stratton
 
 ---
-Franklin Co. Maine Taxon count. genus-only records excluded :185
-Franklin Co. TAXA top 10. - genus-only records excluded
-
+Franklin Co. Maine Taxon (species) count. genus-only records excluded :185
+Franklin Co. Maine Taxon count. genus-only records excluded :
 23 Cetraria_laevigata
 16 Evernia_mesomorpha
 15 Hypogymnia_physodes
@@ -1049,7 +1052,6 @@ Franklin Co. TAXA top 10. - genus-only records excluded
 10 Cladonia_mitis
 
 ---
-
 OXFORD County.
 ---
 Oxford Co. DATE -- genus-only records excluded
@@ -1064,7 +1066,7 @@ ME OXFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1177/5380 =  2
 
 
 Oxford County Count 1177 - genus-only records excluded
-proportion of State count (%)  (1177/39733) =  2.96227
+proportion of State count (%)  (1177/39742) =  2.9616
 
 Oxford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1103,7 +1105,7 @@ Oxford Co. LOCALITY top 20. - genus-only records excluded
 8 DENMARK_TRAIL_UP_PLEASANT_MOUNTAIN
 
 ---
-Oxford Co. Maine Taxon count. genus-only records excluded :285
+OXford Co. Maine Taxon (species) count. genus-only records excluded :0
 Oxford Co. TAXA top 10. - genus-only records excluded
 
 39 Cladonia_rangiferina
@@ -1118,7 +1120,7 @@ Oxford Co. TAXA top 10. - genus-only records excluded
 14 Ropalospora_chlorantha
 
 ---
-Mt._Katahdin_massif Maine Taxon count. genus-only records excluded :332
+Mt._Katahdin_massif Maine Taxon (species) count. genus-only records excluded :334
 
 Mt._Katahdin_massif TAXA total. - genus-only records excluded
 
@@ -1380,13 +1382,11 @@ Mt._Katahdin_massif TAXA total. - genus-only records excluded
 1 Physcia_millegrana_MKm
 1 Physcia_dubia_MKm
 1 Phlyctis_speirea_MKm
-1 Phaeophyscia_sp_MKm
 1 Phaeophyscia_rubropulchra_MKm
 1 Phaeophyscia_adiastola_MKm
 1 Phaeocalicium_flabelliforme_MKm
 1 Pertusaria_rubefacta_MKm
 1 Peltigera_evansiana_MKm
-1 Omphalina__sp_MKm
 1 Ochrolechia_trochophora_MKm
 1 Ochrolechia_pseudopallescens_MKm
 1 Ochrolechia_farinacea_MKm
@@ -1439,7 +1439,6 @@ Mt._Katahdin_massif TAXA total. - genus-only records excluded
 1 Carbonea_vorticosa_MKm
 1 Calvitimela_aglaea_MKm
 1 Caloplaca_lithophila_MKm
-1 Buellla__sp_MKm
 1 Buellia_disciformis_MKm
 1 Bryoria_trichodes_MKm
 1 Bryoria_kockiana_MKm
@@ -5246,4 +5245,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 31 18:03:18 PST 2024
+Wed Jan 31 23:51:48 PST 2024
