@@ -1479,7 +1479,8 @@ NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9469/4648 =  203
 Coos County Count 9469 - genus-only records excluded
 proportion of State count (%)  (9469/18919) =  50.0502
 Coos County Count 9469 - genus-only records excluded
-(9469/18919) =  
+
+
 Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 1083 WetmoreCM
@@ -1517,6 +1518,7 @@ Coos Co. LOCALITY top 20. - genus-only records excluded
 9 Mt_Cabot
 
 ---
+Coos Co. New_Hampshire Taxon (species) count. genus-only records excluded :655
 Coos Co. New_Hampshire Taxon count. genus-only records excluded :655
 
 Coos Co. TAXA top 20. - genus-only records excluded
@@ -1543,7 +1545,7 @@ Coos Co. TAXA top 20. - genus-only records excluded
 94 Evernia_mesomorpha
 
 ---
-Mt._Washington_massif New_Hampshire Taxon count. genus-only records excluded :424
+Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records excluded :424
 
 Mt._Washington_massif TAXA top 20. - genus-only records excluded
 
@@ -5245,4 +5247,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Wed Jan 31 23:51:48 PST 2024
+Thu Feb  1 02:28:02 PST 2024
