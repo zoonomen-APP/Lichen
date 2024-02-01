@@ -55,9 +55,12 @@
 #
 
 # #
-# [COOS 201
-# DATES OF COLLECTION 201a
+# [ COOS 201
+# County 201a
  	COUNTY=COOS
+# Area of County 201a
+ 	COUNTYAREA=4648
+# DATES OF COLLECTION 201a
 		echo $COUNTY County. > c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
 		echo --- >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
 		echo Coos Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
@@ -68,7 +71,6 @@
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/NH/201Ay.txt >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
 		echo --- >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
 # Density of collection 201a
- 	COUNTYAREA=4648
 		echo Coos County. >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
         COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$19~/ /&&$24!~/sp\./&&$3~/Coos_Co./' c:/Lichen/datastor/NE/NH/NHdfbn|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/NH/201aCoosdatex.txt
@@ -92,8 +94,9 @@
 	echo Coos County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
 		#echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
 		#echo >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
-		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
+	#	echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
        # 2023.08.04 awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
+		echo >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
 		echo >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
 		echo Coos Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
 		echo >> c:/Lichen/datastor/NE/NH/201bCoosCollx.txt
@@ -108,8 +111,10 @@
 		echo >> c:/Lichen/datastor/NE/NH/201cCooslocalx.txt
 		echo --- >> c:/Lichen/datastor/NE/NH/201cCooslocalx.txt
 #
-# TAXA
-		echo -n Coos Co. New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
+# TAXA 201d
+		echo -n Coos Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
+                awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
+		echo -n Coos Co. New_Hampshire Taxon count. genus-only records excluded :  >> c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
 		awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/ {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
                 echo >> c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
 		#echo Coos Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
@@ -120,8 +125,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH//201dCoostaxax.txt
 #
 # MWNTAXA
-		echo -n Mt._Washington_massif New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
-                awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+		echo -n Mt._Washington_massif New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+                awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+		#echo -n Mt._Washington_massif New_Hampshire  Taxon count. genus-only records excluded :  >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+                #awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
                 echo >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 		#echo Coos Co. TAXA top 10. - genus-only records excluded > c:/Lichen/datastor/NE/NH/201dCoostaxax.txt
 		echo Mt._Washington_massif  TAXA top 20. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
