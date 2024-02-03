@@ -1,9 +1,9 @@
 ## Maine ##
-39742 Non genus-only specimens
-1189 Maine state taxon count (Non-genus only taxa)
+39730 Non genus-only specimens
+1184 Maine state taxon count (Non-genus only taxa)
 ---
 Maine land area = 80005 km^2
-ME State count density (STATECNT/STATEAREA*100 km^2) :  39742/80005 =  49.6744
+ME State count density (STATECNT/STATEAREA*100 km^2) :  39730/80005 =  49.6594
 
 ---
 WASHINGTON County.
@@ -20,7 +20,7 @@ ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  622/6640 =
 
 
 Washington County Count 622 - genus-only records excluded
-proportion of State count (%)  (622/39742) =  1.56509
+proportion of State count (%)  (622/39730) =  1.56557
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -89,7 +89,7 @@ ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  698/4110 =  1
 
 
 Hancock County Count 698 - genus-only records excluded
-proportion of State count (%)  (698/39742) =  1.75633
+proportion of State count (%)  (698/39730) =  1.75686
 
 Hancock Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -158,7 +158,7 @@ ME WALDO county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  396/1900 =  20.
 
 
 Waldo County Count 396 - genus-only records excluded
-proportion of State count (%)  (396/39742) =  0.996427
+proportion of State count (%)  (396/39730) =  0.996728
 
 Waldo Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -227,7 +227,7 @@ ME KNOX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  5009/950 =  527.
 
 
 Knox County Count 5009 - genus-only records excluded
-proportion of State count (%)  (5009/39742) =  12.6038
+proportion of State count (%)  (5009/39730) =  12.6076
 
 Knox Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -296,7 +296,7 @@ ME LINCOLN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  820/1180 =  6
 
 
 Lincoln County Count 820 - genus-only records excluded
-proportion of State count (%)  (820/39742) =  2.06331
+proportion of State count (%)  (820/39730) =  2.06393
 
 Lincoln Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -365,7 +365,7 @@ ME SAGADAHOC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  494/660 =  
 
 
 Sagadahoc County Count 494 - genus-only records excluded
-proportion of State count (%)  (494/39742) =  1.24302
+proportion of State count (%)  (494/39730) =  1.24339
 
 Sagadahoc Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -434,7 +434,7 @@ ME CUMBERLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1469/2160 
 
 
 Cumberland County Count 1469 - genus-only records excluded
-proportion of State count (%)  (1469/39742) =  3.69634
+proportion of State count (%)  (1469/39730) =  3.69746
 
 Cumberland Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -503,7 +503,7 @@ ME YORK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  848/2570 =  32.9
 
 
 York County Count 848 - genus-only records excluded
-proportion of State count (%)  (848/39742) =  2.13376
+proportion of State count (%)  (848/39730) =  2.13441
 
 York Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -572,7 +572,7 @@ ME AROOSTOOK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4979/17280 
 
 
 Aroostook County Count 4979 - genus-only records excluded
-proportion of State count (%)  (4979/39742) =  12.5283
+proportion of State count (%)  (4979/39730) =  12.5321
 
 Aroostook Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -641,7 +641,7 @@ ME PISCATAQUIS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3826/1026
 
 
 Piscataquis County Count 3826 - genus-only records excluded
-proportion of State count (%)  (3826/39742) =  9.62709
+proportion of State count (%)  (3826/39730) =  9.63
 
 Piscataquis Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -680,7 +680,7 @@ Piscataquis Co. LOCALITY top 20. - genus-only records excluded
 13 Blanchard
 
 ---
-Piscataquis Co. Maine Taxon (species) count. genus-only records excluded :535
+Piscataquis Co. Maine Taxon (species) count. genus-only records excluded :530
 
 Piscataquis Co. TAXA top 10. - genus-only records excluded
 
@@ -710,7 +710,7 @@ ME SOMERSET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  443/10160 = 
 
 
 Somerset County Count 443 - genus-only records excluded
-proportion of State count (%)  (443/39742) =  1.11469
+proportion of State count (%)  (443/39730) =  1.11503
 
 Somerset Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -780,7 +780,7 @@ ME PENOBSCOT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1360/8800 =
 
 
 Penobscot County Count 1360 - genus-only records excluded
-proportion of State count (%)  (1360/39742) =  3.42207
+proportion of State count (%)  (1360/39730) =  3.42311
 
 Penobscot Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -848,7 +848,7 @@ ME KENNEBEC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  238/2250 =  
 
 
 Kennebec County Count 238 - genus-only records excluded
-proportion of State count (%)  (238/39742) =  0.598863
+proportion of State count (%)  (238/39730) =  0.599044
 
 Kennebec Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -930,7 +930,7 @@ ME ANDROSCOGGIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  169/1210
 
 
 Androscoggin County Count 169 - genus-only records excluded
-proportion of State count (%)  (169/39742) =  0.425243
+proportion of State count (%)  (169/39730) =  0.425371
 
 Androscoggin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -999,7 +999,7 @@ ME FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  558/4400 =  
 
 
 Franklin County Count 558 - genus-only records excluded
-proportion of State count (%)  (558/39742) =  1.40406
+proportion of State count (%)  (558/39730) =  1.40448
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1066,7 +1066,7 @@ ME OXFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1177/5380 =  2
 
 
 Oxford County Count 1177 - genus-only records excluded
-proportion of State count (%)  (1177/39742) =  2.9616
+proportion of State count (%)  (1177/39730) =  2.9625
 
 Oxford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1105,7 +1105,7 @@ Oxford Co. LOCALITY top 20. - genus-only records excluded
 8 DENMARK_TRAIL_UP_PLEASANT_MOUNTAIN
 
 ---
-OXford Co. Maine Taxon (species) count. genus-only records excluded :0
+Oxford Co. Maine Taxon (species) count. genus-only records excluded :285
 Oxford Co. TAXA top 10. - genus-only records excluded
 
 39 Cladonia_rangiferina
@@ -1120,7 +1120,7 @@ Oxford Co. TAXA top 10. - genus-only records excluded
 14 Ropalospora_chlorantha
 
 ---
-Mt._Katahdin_massif Maine Taxon (species) count. genus-only records excluded :334
+Mt._Katahdin_massif Maine Taxon (species) count. genus-only records excluded :329
 
 Mt._Katahdin_massif TAXA total. - genus-only records excluded
 
@@ -1624,7 +1624,7 @@ Carroll Co. LOCALITY top 20. - genus-only records excluded
 14 Carroll_County_White_Mountains_National_Forest_Crawford_Notch_Gibb's_Brook_Research_Natural_Area_south_of_Gibb's_Brook_Trail_630_m
 
 ---
-Carroll County New_Hampshire Taxon count. genus-only records excluded :363
+Carroll Co. New_Hampshire Taxon (species) count. genus-only records excluded :363
 
 Carroll Co. TAXA top 10. - genus-only records excluded
 
@@ -1693,7 +1693,7 @@ Grafton Co. LOCALITY top 20. - genus-only records excluded
 27 Hanover
 
 ---
-Grafton County New_Hampshire Taxon count. genus-only records excluded :417
+Grafton Co. New_Hampshire Taxon (species) count. genus-only records excluded :417
 
 Grafton Co. TAXA top 10. - genus-only records excluded
 
@@ -1767,7 +1767,7 @@ Belknap Co. COLLECTOR top 10. - genus-only records excluded
 
 Belknap Co. LOCALITY top 20. - genus-only records excluded
 
-57 Gilmanton
+63 Gilmanton
 23 Sanbornton_Mt_Hersey
 20 Laconia
 19 Mt_Major
@@ -1779,7 +1779,6 @@ Belknap Co. LOCALITY top 20. - genus-only records excluded
 9 Lake_Winnipasauckee_Pine_Island_Meredith
 7 Alton
 6 Porcupine_Ledge_Belmont
-6 Gilmonton
 5 Gilford_Saltmarsh_Hill
 4 Alton_Bay
 3 Town_of_Gilford_Timber_Island_Lake_Winnipesaukee
@@ -1787,9 +1786,10 @@ Belknap Co. LOCALITY top 20. - genus-only records excluded
 3 Meredith
 3 Belmont
 2 Timber_Island_Lake_Winnipesaukee
+2 Shore_of_Lake_Winnipesaukee
 
 ---
-Belknap County New_Hampshire Taxon count. genus-only records excluded :103
+Belknap Co. New_Hampshire Taxon (species) count. genus-only records excluded :103
 
 Belknap Co. TAXA top 10. - genus-only records excluded
 
@@ -1836,18 +1836,15 @@ Sullivan Co. LOCALITY top 20. - genus-only records excluded
 
 10 Grantham
 8 Croydon
+5 Lempster
 2 Washington
 2 NoLoc
 2 Newport
-2 Lempster
-1 [illegible]_[=_Lempster_--APP]
-1 [=_Lempster_-APP]
 1 New_Hampshire_Grantham
 1 Meriden_New_Hampshire_U_S_A
-1 Dempster_[Lempster_presumed_--APP]
 
 ---
-Sullivan County New_Hampshire Taxon count. genus-only records excluded :18
+Sullivan Co. New_Hampshire Taxon (species) count. genus-only records excluded :18
 
 Sullivan Co. TAXA top 10. - genus-only records excluded
 
@@ -1916,7 +1913,7 @@ Strafford Co. LOCALITY top 20. - genus-only records excluded
 3 New_Durham_Merrymeeting_Lake
 
 ---
-Strafford County New_Hampshire Taxon count. genus-only records excluded :74
+Strafford Co. New_Hampshire Taxon (species) count. genus-only records excluded :74
 
 Strafford Co. TAXA top 10. - genus-only records excluded
 
@@ -1985,7 +1982,7 @@ Merrimack Co. LOCALITY top 20. - genus-only records excluded
 1 Spruce_Lake_Campground_Bear_Brook_Park
 
 ---
-Merrimack County New_Hampshire Taxon count. genus-only records excluded :72
+Merrimack Co. New_Hampshire Taxon (species) count. genus-only records excluded :72
 
 Merrimack Co. TAXA top 10. - genus-only records excluded
 
@@ -2054,7 +2051,7 @@ Hillsborough Co. LOCALITY top 20. - genus-only records excluded
 3 Lovern's_Mill_Swamp
 
 ---
-Hillsborough County New_Hampshire Taxon count. genus-only records excluded :132
+Hillsborough Co. New_Hampshire Taxon (species) count. genus-only records excluded :132
 
 Hillsborough Co. TAXA top 10. - genus-only records excluded
 
@@ -2123,7 +2120,7 @@ Rockingham Co. LOCALITY top 20. - genus-only records excluded
 5 Deerfield_Spruce_Pond_camp_Bear_Brook_State_Park
 
 ---
-Rockingham County New_Hampshire Taxon count. genus-only records excluded :141
+Rockingham Co. New_Hampshire Taxon (species) count. genus-only records excluded :141
 
 Rockingham Co. TAXA top 10. - genus-only records excluded
 
@@ -2192,7 +2189,7 @@ Cheshire Co. LOCALITY top 20. - genus-only records excluded
 3 four_miles_east_of_Winchester
 
 ---
-Cheshire County New_Hampshire Taxon count. genus-only records excluded :241
+Cheshire Co. New_Hampshire Taxon (species) count. genus-only records excluded :241
 
 Cheshire Co. TAXA top 10. - genus-only records excluded
 
@@ -2249,27 +2246,27 @@ Essex Co. LOCALITY top 20. - genus-only records excluded
 
 79 East_Haven_summit_East_Mt
 75 Umpire_Mountain
+69 Ferdinand
 68 Town_of_Averill_Quimby_Country_resort_property_SW_of_Forest_Lake_Road_near_new_leach_field
 62 Town_of_Brunswick_West_Mountain_Wildlife_Management_Area_Dennis_Pond_Wetlands
-51 Moose_Bog
 16 Town_of_Lemington_Lemington_Sand_and_Gravel_Pit_at_entrance_to_Monadnock_Mt_Trail
 15 NoLoc
-6 Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_near_Moose_Bog
 6 Town_of_Averill_Quimby_Country_resort_property_trail_to_Sandy_Beach_on_Great_Averill_Pond
 2 Victory
-2 Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_trail_to_Moose_Bog
-2 Town_of_Ferdinand
 2 No_locality_information_available
-2 Near_Moose_Bog_Wenlock_Wildlife_Management_Area
 2 Guildhall_Tsp
 2 Dennis_Pond_Wetlands_West_Mountain_Wildlife_Management_Area
 1 West_Mtn_Ledge
 1 West_Mt_Ledge
-1 Wenlock_Wildlife_Management_Area_near_Moose_Bog
-1 United_States_of_America_Vermont_Essex_County_Town_of_Ferdinand_Wenlock_Wildlife_Management_Area_trail_to_Moose_Bog_-_elev_350_m_-_Lat_44°_45’_44’’N_Long_71°_44’_09’’W_-
+1 Town_of_Brunswick
+1 Town_of_Averill_Quimby_Country_resort_property_trail_to_Sandy_Beach_on_Great_Averill_Pond_[United_States_Vermont_ESSEX_CO]
+1 Le_Gton_[Probably_Lemington_-APP]
+1 Guildhall_Township
+1 Averill_Quimby_Country_Resort_Sw_of_Forest_Lake_Road
+1 3_miles_south_of_Norton_Lake
 
 ---
-Essex County Vermont Taxon count. genus-only records excluded :184
+Essex Co. Vermont Taxon (species) count. genus-only records excluded :184
 
 Essex Co. TAXA top 10. - genus-only records excluded
 
@@ -2337,7 +2334,7 @@ Caledonia Co. LOCALITY top 20. - genus-only records excluded
 1 Along_Wells_River_Ricker's_Mills_Groton
 
 ---
-Caledonia County Vermont Taxon count. genus-only records excluded :116
+Caledonia Co. Vermont Taxon (species) count. genus-only records excluded :116
 
 Caledonia Co. TAXA top 10. - genus-only records excluded
 
@@ -2387,26 +2384,26 @@ Orange Co. LOCALITY top 20. - genus-only records excluded
 29 Tunbridge
 7 Braintree_Mountain
 6 Lake_Fairlee
+4 West_Fairlee
 3 NoLoc
 3 Connecticut_River_S_of_Newbury
+3 Chelsea
 2 [data_not_captured]
-2 West_Fairlee
 2 Wells_River
 2 Thetford
-2 Savidge_Farm_Chelsea_Vermont
 2 Newbury_twinflower_farm
 2 Hull's_Pond_W_of_Newbury
 2 Dippre_property
 2 Bradford_roadside_along_Rowell_Brook
 2 Bradford_along_Rowell_Brook
 1 Whitney_Hill
-1 West_Fairlee_soil_impregnated_with_copper_sulfide_growing_in_square_yards_on_waste_material_at_Copper_Mine
-1 West_Fairlee_Orange_Co_Vermont_USA
 1 Twinflower_Farm_Newberry
 1 Thetford_fairles_lake
+1 Newbury
+1 Morey_Lake_Fairlee
 
 ---
-Orange County Vermont Taxon count. genus-only records excluded :40
+Orange Co. Vermont Taxon (species) count. genus-only records excluded :40
 Orange Co. TAXA top 10. - genus-only records excluded
 
 11 Evernia_mesomorpha
@@ -2452,14 +2449,14 @@ Windsor Co. COLLECTOR top 10. - genus-only records excluded
 
 Windsor Co. LOCALITY top 20. - genus-only records excluded
 
-208 Mt_Horrid
-169 Rochester
+209 Mt_Horrid
+170 Rochester
 156 Quechee_Gorge
-149 Mt_Ascutney
+150 Mt_Ascutney
 57 North_Pomfret
 48 Hartland_Bog
 45 NoLoc
-35 [data_not_captured]
+34 [data_not_captured]
 27 Woodstock
 22 Ascutney
 15 Hartland_bog_Woodstock
@@ -2467,14 +2464,14 @@ Windsor Co. LOCALITY top 20. - genus-only records excluded
 10 Sharon
 9 Hartford
 9 Barnard
-7 Windsor
+8 Windsor
 7 Rochester_Maple_Hill
 7 Hartland_Bog_Woodstock
 5 North
 4 Tyson
 
 ---
-Windsor County Vermont Taxon count. genus-only records excluded :284
+Windsor Co. Vermont Taxon (species) count. genus-only records excluded :284
 Windsor Co. TAXA top 10. - genus-only records excluded
 39 Stereocaulon_paschale
 28 Cladonia_gracilis
@@ -2520,7 +2517,7 @@ Windham Co. COLLECTOR top 10. - genus-only records excluded
 Windham Co. LOCALITY top 20. - genus-only records excluded
 
 243 Brattleboro
-46 Jamaica
+49 Jamaica
 42 Wardsboro_Center
 41 NoLoc
 34 Newfane
@@ -2541,7 +2538,7 @@ Windham Co. LOCALITY top 20. - genus-only records excluded
 8 Brookline
 
 ---
-Windham County Vermont Taxon count. genus-only records excluded :258
+Windham Co. Vermont Taxon (species) count. genus-only records excluded :258
 Windham Co. TAXA top 10. - genus-only records excluded
 
 26 Flavoparmelia_caperata
@@ -2609,7 +2606,7 @@ Orleans Co. LOCALITY top 20. - genus-only records excluded
 2 Town_of_Troy_Big_Falls_State_Park_Big_Falls_of_the_Missisquoi_River_along_River_Road_N_of_village_of_Troy_ca_350_m_roadbanks_and_rocky_riverside_in_northern_hardwood-conifer_forest
 
 ---
-Orleans County Vermont Taxon count. genus-only records excluded :229
+Orleans Co. Vermont Taxon (species) count. genus-only records excluded :229
 Orleans Co. TAXA top 10. - genus-only records excluded
 
 16 Solorina_saccata
@@ -2677,7 +2674,7 @@ Lamoille Co. LOCALITY top 20. - genus-only records excluded
 2 next_to_Whiteface_Shelter_Long_Trail_North_Whiteface_Mountain_33_miles_from_Sterling_Lake_46_miles_from_intersection_with_VT_Route_108_north_of_Stowe
 
 ---
-Lamoille County Vermont Taxon count. genus-only records excluded :287
+Lamoille Co. Vermont Taxon (species) count. genus-only records excluded :287
 Lamoille Co. TAXA top 10. - genus-only records excluded
 
 41 Usnocetraria_oakesiana
@@ -2755,7 +2752,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 3 Mt_Mansfield_massif
 
 ---
-Washington County Vermont Taxon count. genus-only records excluded :143
+Washington Co. Vermont Taxon (species) count. genus-only records excluded :143
 Washington Co. TAXA top 10. - genus-only records excluded
 
 18 Punctelia_rudecta
@@ -2815,7 +2812,7 @@ Franklin Co. LOCALITY top 20. - genus-only records excluded
 1 Haystack_Mt_Pawlett
 
 ---
-Franklin County Vermont Taxon count. genus-only records excluded :46
+Franklin Co. Vermont Taxon (species) count. genus-only records excluded :46
 Franklin Co. TAXA top 10. - genus-only records excluded
 
 5 Wahlenbergiella_mucosa
@@ -2861,7 +2858,7 @@ Grand_Isle Co. LOCALITY top 20. - genus-only records excluded
 1 NoLoc
 
 ---
-Grand_Isle County Vermont Taxon count. genus-only records excluded :11
+Grand_Isle Co. Vermont Taxon (species) count. genus-only records excluded :11
 Grand_Isle Co. TAXA top 10. - genus-only records excluded
 
 
@@ -2930,7 +2927,7 @@ Chittenden Co. LOCALITY top 20. - genus-only records excluded
 4 Mt_Philo
 
 ---
-Chittenden County Vermont Taxon count. genus-only records excluded :391
+Chittenden Co. Vermont Taxon (species) count. genus-only records excluded :391
 Chittenden Co. TAXA top 10. - genus-only records excluded
  -- 
 
@@ -2945,8 +2942,7 @@ Chittenden Co. TAXA top 10. - genus-only records excluded
 28 Flavocetraria_cucullata
 27 Stereocaulon_paschale
 
----
-Mt._Mansfield_massif Vermont Taxon count. genus-only records excluded :160
+Mt._Mansfield_massif Vermont Taxon (species) count. genus-only records excluded :221
 ---
 
 ---
@@ -3225,7 +3221,7 @@ Addison Co. LOCALITY top 20. - genus-only records excluded
 15 Ripton_Middlebury_River
 
 ---
-Addison County Vermont Taxon count. genus-only records excluded :390
+Addison Co. Vermont Taxon (species) count. genus-only records excluded :390
  --- 
 Addison Co. TAXA top 10. - genus-only records excluded
 
@@ -3294,7 +3290,7 @@ Rutland Co. LOCALITY top 20. - genus-only records excluded
 11 Pond_Hill_Wells
 
 ---
-Rutland County Vermont Taxon count. genus-only records excluded :386
+Rutland Co. Vermont Taxon (species) count. genus-only records excluded :386
 ---
 Rutland Co. TAXA top 10. - genus-only records excluded
 
@@ -3344,7 +3340,7 @@ Bennington Co. LOCALITY top 20. - genus-only records excluded
 792 Lye_Brook_Wilderness_Area
 192 Bondville
 87 Mt_Equinox
-35 Arlington
+36 Arlington
 31 NoLoc
 26 Sunderland
 15 Searsburg
@@ -3363,7 +3359,7 @@ Bennington Co. LOCALITY top 20. - genus-only records excluded
 2 around_Hall's_Auto_Camp_Manchester
 
 ---
-Bennington County Vermont Taxon count. genus-only records excluded :216
+Bennington Co. Vermont Taxon (species) count. genus-only records excluded :216
 ---
 Bennington Co. TAXA top 10. - genus-only records excluded
 
@@ -3443,8 +3439,7 @@ Essex Co. LOCALITY top 20. - genus-only records excluded
 24 [data_not_captured]
 
 ---
-Essex County Massachusetts Taxon count. genus-only records excluded :309
-ESSEX Co. Taxon species count310
+Essex Co. Massachusetts Taxon species count. genus-only records excluded :309
 Essex Co. TAXA top 10. - genus-only records excluded
 
 121 Xanthoria_parietina
@@ -3512,7 +3507,7 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 3 Boston_Oakland_Garden
 
 ---
-Suffolk County Massachusetts Taxon count. genus-only records excluded :217
+Suffolk Co. Massachusetts Taxon (species) count. genus-only records excluded :217
 Suffolk Co. TAXA top 10. - genus-only records excluded
 
 26 Parmelia_sulcata
@@ -3580,7 +3575,7 @@ Norfolk Co. LOCALITY top 20. - genus-only records excluded
 10 Bellingham
 
 ---
-Norfolk County Massachusetts Taxon count. genus-only records excluded :360
+Norfolk Co. Massachusetts Taxon (species) count. genus-only records excluded :360
 Norfolk Co. TAXA top 10. - genus-only records excluded
 
 76 Cladonia_cristatella
@@ -3635,8 +3630,8 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 67 East_Wareham
 57 Plymouth
 46 Carver
+45 Scituate
 45 Duxbury
-44 Scituate
 34 Marshfield
 32 Plympton
 27 [data_not_captured]
@@ -3648,7 +3643,7 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 10 Massachusetts_Wareham
 
 ---
-Plymouth County Massachusetts Taxon count. genus-only records excluded :283
+Plymouth Co. Massachusetts Taxon (species) count. genus-only records excluded :283
  ---
 Plymouth Co. TAXA top 20. - genus-only records excluded
 
@@ -3727,7 +3722,7 @@ Bristol Co. LOCALITY top 20. - genus-only records excluded
 6 Freetown
 
 ---
-Bristol County Massachusetts Taxon count. genus-only records excluded :508
+Bristol Co. Massachusetts Taxon (species) count. genus-only records excluded :508
  ---
 Bristol Co. TAXA top 10. - genus-only records excluded
 
@@ -3796,7 +3791,7 @@ Barnstable Co. LOCALITY top 20. - genus-only records excluded
 19 Chatham
 
 ---
-Barnstable County Massachusetts Taxon count. genus-only records excluded :282
+Barnstable Co. Massachusetts Taxon (species) count. genus-only records excluded :282
  ---
 Barnstable Co. TAXA top 10. - genus-only records excluded
 
@@ -3865,7 +3860,7 @@ Dukes Co. LOCALITY top 20. - genus-only records excluded
 6 Chilmark
 
 ---
-Dukes County Massachusetts Taxon count. genus-only records excluded :138
+Dukes Co. Massachusetts Taxon (species) count. genus-only records excluded :138
  ---
 Dukes Co. TAXA top 10. - genus-only records excluded
 
@@ -3915,7 +3910,7 @@ Nantucket Co. LOCALITY top 20. - genus-only records excluded
 559 Nantucket
 
 ---
-Nantucket County Massachusetts Taxon count. genus-only records excluded :111
+Nantucket Co. Massachusetts Taxon (species) count, (genus-only records excluded) :111
  ---
 Nantucket Co. TAXA top 10. - genus-only records excluded
 
@@ -3984,7 +3979,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 23 Townsend
 
 ---
-Middlesex County Massachusetts Taxon count. genus-only records excluded :376
+Middlesex Co. Massachusetts Taxon (species) count. genus-only records excluded :376
  ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
@@ -4053,7 +4048,7 @@ Worcester Co. LOCALITY top 20. - genus-only records excluded
 27 Millbury
 
 ---
-Worcester County Massachusetts Taxon count. genus-only records excluded :407
+Worcester Co. Massachusetts Taxon (species) count. genus-only records excluded :407
  ---
 Worcester Co. TAXA top 10. - genus-only records excluded
 
@@ -4122,7 +4117,7 @@ Franklin Co. LOCALITY top 20. - genus-only records excluded
 7 Charlemont
 
 ---
-Franklin County Massachusetts Taxon count. genus-only records excluded :211
+Franklin Co. Massachusetts Taxon (species) count. genus-only records excluded :211
  ---
 Franklin Co. TAXA top 10. - genus-only records excluded
 
@@ -4191,7 +4186,7 @@ Hampden Co. LOCALITY top 20. - genus-only records excluded
 5 Hampden_Bousquet
 
 ---
-Hampden County Massachusetts Taxon count. genus-only records excluded :151
+Hampden Co. Massachusetts Taxon (species) count. genus-only records excluded :151
  ---
 Hampden Co. TAXA top 10. - genus-only records excluded
 
@@ -4260,7 +4255,7 @@ Hampshire Co. LOCALITY top 20. - genus-only records excluded
 6 Granby
 
 ---
-Hampshire County Massachusetts Taxon count. genus-only records excluded :185
+Hampshire Co. Massachusetts Taxon (species) count. genus-only records excluded :185
  ---
 Hampshire Co. TAXA top 10. - genus-only records excluded
 
@@ -4329,7 +4324,7 @@ Berkshire Co. LOCALITY top 20. - genus-only records excluded
 19 Mount_Washington_Bash_Bish_Falls
 
 ---
-Berkshire County Massachusetts Taxon count. genus-only records excluded :421
+Berkshire Co. Massachusetts Taxon (species) count. genus-only records excluded :421
  ---
 Berkshire Co. TAXA top 10. - genus-only records excluded
 
@@ -4406,7 +4401,7 @@ Windham Co. LOCALITY top 20. - genus-only records excluded
 4 Willemantic
 
 ---
-Windham County Connecticut Taxon count. genus-only records excluded :253
+Windham Co. Connecticut Taxon (species) count. genus-only records excluded :253
  ---
 Windham Co. TAXA top 10. - genus-only records excluded
 
@@ -4475,7 +4470,7 @@ Tolland Co. LOCALITY top 20. - genus-only records excluded
 2 Somers
 
 ---
-Tolland County Connecticut Taxon count. genus-only records excluded :190
+Tolland Co. Connecticut Taxon (species) count. genus-only records excluded :190
  ---
 Tolland Co. TAXA top 10. - genus-only records excluded
 
@@ -4544,7 +4539,7 @@ Hartford Co. LOCALITY top 20. - genus-only records excluded
 5 Bristol
 
 ---
-Hartford County Connecticut Taxon count. genus-only records excluded :162
+Hartford Co. Connecticut Taxon (species) count. genus-only records excluded :162
  ---
 Hartford Co. TAXA top 10. - genus-only records excluded
 
@@ -4613,7 +4608,7 @@ New_London Co. LOCALITY top 20. - genus-only records excluded
 6 Franklin
 
 ---
-New_London County Connecticut Taxon count. genus-only records excluded :263
+New_London Co. Connecticut Taxon (species) count. genus-only records excluded :263
  ---
 New_London Co. TAXA top 10. - genus-only records excluded
 
@@ -4682,7 +4677,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 4 Old_Saybrook_Twp_Upper_Cemetery_at_end_of_Stage_Road
 
 ---
-Middlesex County Connecticut Taxon count. genus-only records excluded :196
+Middlesex Co. Connecticut Taxon (species) count. genus-only records excluded :196
  ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
@@ -4744,14 +4739,14 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 43 Hamden
 38 Beacon_Falls
 34 Southbury
+31 Mt_Carmel
 24 Woodbridge
-24 Mt_Carmel
 18 Orange
 17 NoLoc
 17 Hamden_Mt_Carmel
 
 ---
-New_Haven County Connecticut Taxon count. genus-only records excluded :301
+New_Haven Co. Connecticut Taxon (species) count. genus-only records excluded :301
  ---
 New_Haven Co. TAXA top 10. - genus-only records excluded
 
@@ -4820,7 +4815,7 @@ Fairfield Co. LOCALITY top 20. - genus-only records excluded
 8 Georgetown
 
 ---
-Fairfield County Connecticut Taxon count. genus-only records excluded :210
+Fairfield Co. Connecticut Taxon (species) count. genus-only records excluded :210
  ---
 Fairfield Co. TAXA top 10. - genus-only records excluded
 
@@ -4889,7 +4884,7 @@ Litchfield Co. LOCALITY top 20. - genus-only records excluded
 19 Gridley_Mountain
 
 ---
-Litchfield County Connecticut Taxon count. genus-only records excluded :416
+Litchfield Co. Connecticut Taxon (species) count. genus-only records excluded :416
  ---
 Litchfield Co. TAXA top 10. - genus-only records excluded
 
@@ -5247,4 +5242,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Thu Feb  1 02:28:02 PST 2024
+Fri Feb  2 18:13:30 PST 2024
