@@ -192,8 +192,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/202cCarrolllocalx.txt
 #
 # TAXA 202d
-		echo -n Carroll County New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
-                awk -F "|" '$3~/Carroll_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
+		echo -n Carroll Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
+                awk -F "|" '$3~/Carroll_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
+		#echo -n Carroll County New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
+                #awk -F "|" '$3~/Carroll_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
 		echo Carroll Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/202dCarrolltaxax.txt
@@ -268,8 +270,10 @@
 #]
 #
 # TAXA 203d
-		echo -n Grafton County New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
-                awk -F "|" '$3~/Grafton_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
+		echo -n Grafton Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
+                awk -F "|" '$3~/Grafton_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
+	#	echo -n Grafton County New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
+        #       awk -F "|" '$3~/Grafton_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
 		echo Grafton Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/203dGraftontaxax.txt
@@ -330,8 +334,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/204cBelknaplocalx.txt
 #
 # TAXA 204d
-		echo -n Belknap County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
-                awk -F "|" '$3~/Belknap_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
+		echo -n Belknap Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
+                awk -F "|" '$3~/Belknap_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
+		#echo -n Belknap County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
+                #awk -F "|" '$3~/Belknap_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
 		echo Belknap Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/204dBelknaptaxax.txt
@@ -391,8 +397,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/205cSullivanlocalx.txt
 #
 # TAXA 205d
-		echo -n Sullivan County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
-                awk -F "|" '$3~/Sullivan_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
+		echo -n Sullivan Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
+                awk -F "|" '$3~/Sullivan_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
+	#	echo -n Sullivan County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
+        #        awk -F "|" '$3~/Sullivan_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
 		echo Sullivan Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/205dSullivantaxax.txt
@@ -452,8 +460,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/206cStraffordlocalx.txt
 #
 # TAXA
-		echo -n Strafford County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
-                awk -F "|" '$3~/Strafford_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
+		echo -n Strafford Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
+                awk -F "|" '$3~/Strafford_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
+		#echo -n Strafford County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
+                #awk -F "|" '$3~/Strafford_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
 		echo Strafford Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/206dStraffordtaxax.txt
@@ -513,8 +523,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/207cMerrimacklocalx.txt
 #
 # TAXA 207d
-		echo -n Merrimack County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
-                awk -F "|" '$3~/Merrimack_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
+		echo -n Merrimack Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
+                awk -F "|" '$3~/Merrimack_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
+		#echo -n Merrimack County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
+                #awk -F "|" '$3~/Merrimack_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
 		echo Merrimack Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/207dMerrimacktaxax.txt
@@ -574,8 +586,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/208cHillsboroughlocalx.txt
 #
 # TAXA 208d
-		echo -n Hillsborough County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
-                awk -F "|" '$3~/Hillsborough_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
+		echo -n Hillsborough Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
+                awk -F "|" '$3~/Hillsborough_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
+		#echo -n Hillsborough County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
+                #awk -F "|" '$3~/Hillsborough_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
 		echo Hillsborough Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/208dHillsboroughtaxax.txt
@@ -635,8 +649,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/209cRockinghamlocalx.txt
 #
 # TAXA 209d
-		echo -n Rockingham County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
-                awk -F "|" '$3~/Rockingham_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
+		echo -n Rockingham Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
+                awk -F "|" '$3~/Rockingham_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
+		#echo -n Rockingham County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
+                #awk -F "|" '$3~/Rockingham_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
 		echo Rockingham Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/209dRockinghamtaxax.txt
@@ -698,8 +714,10 @@
 		echo --- >> c:/Lichen/datastor/NE/NH/210cCheshirelocalx.txt
 #
 # TAXA
-		echo -n Cheshire County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
-                awk -F "|" '$3~/Cheshire_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
+		echo -n Cheshire Co. New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
+                awk -F "|" '$3~/Cheshire_Co./&&$4~/New_Hampshire/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
+		#echo -n Cheshire County New_Hampshire Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
+                #awk -F "|" '$3~/Cheshire_Co./&&$4~/New_Hampshire/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
 		echo Cheshire Co. TAXA top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/210dCheshiretaxax.txt
