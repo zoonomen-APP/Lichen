@@ -4954,6 +4954,7 @@ Providence Co. LOCALITY top 20. - genus-only records excluded
 36 Johnston_Snake_Den
 25 Buck_Hill_Management_Area_41986053_-71789319
 19 Fort_Nature_Preserve_near_Primrose_41960885_-71552834
+18 Lake_Wallum
 16 Scituate
 11 Sprague_Farm
 11 Clayville_churchyard_and_cemetery_41776524_-71679251
@@ -4961,17 +4962,16 @@ Providence Co. LOCALITY top 20. - genus-only records excluded
 10 Casimir_Pulaski_State_Park_41930351_-71795799
 9 Ponagansett_Public_Fishing_Area_41844657_-71741904
 9 Lincoln_Woods_State_Park_along_SR_123_41906882_-71437412
-9 Lake_Wallum_4200035_-71763627
 8 Providence
 8 Powder_Mill_Ledges_Wildlife_Refuge_41868472_-71529444
 8 Glocester
 7 Foster
 7 Diamond_Hill_Park_SR_114_41000685_-71414462
-5 Lake_Wallum
 5 Johnston
+5 Diamond_Hill_Park_SR_114_42001443_-71416114
 
 ---
-Providence County Rhode_Island Taxon count. genus-only records excluded :108
+Providence Co. Rhode_Island Taxon (species) count. genus-only records excluded :108
  ---
 Providence Co. TAXA top 10. - genus-only records excluded
 
@@ -5017,25 +5017,23 @@ Kent Co. LOCALITY top 20. - genus-only records excluded
 113 Alton_Jones_Nature_Preserve
 77 Big_River_Management_Area
 26 headwaters_of_Wood_River
+23 Nicholas_Farm
 20 West_Greenwich
-19 Nicholas_Farm_41681019_-71773898
 14 Frenchtown_Park_41627162_-71506707
 13 George_Parker_Woodland_41717963_-71697709
 7 Coventry_Center_Cemetery_along_SR_117
 4 Warwick
-3 Nicholas_Farm
 3 George_Parker_Woodland
 3 Coventry
 2 Potowomut
 1 Wickaboxet_Management_Area_vic_Wickaboxet_Rock
 1 West_Greenwich_Arcadia_Management_Area_Pine_Top
-1 Nicholas_Farm_MA_Place_Farm_at_Moosup_River
 1 Greene
 1 Frenchtown_Park
 1 East_Greenwich
 
 ---
-Kent County Rhode_Island Taxon count. genus-only records excluded :100
+Kent Co. Rhode_Island Taxon (species) count. genus-only records excluded :100
  ---
 Kent Co. TAXA top 10. - genus-only records excluded
 
@@ -5078,17 +5076,16 @@ Bristol Co. COLLECTOR top 10. - genus-only records excluded
 Bristol Co. LOCALITY top 20. - genus-only records excluded
 
 63 Bristol
-27 BioBlitz_2005_Haffenreffer_Museum
+28 Haffenrefer_Museum
 24 BioBlitz_2005_Mt_Hope_Farm
 3 Saint_Mary_of_the_Bay_Cemetery_41724035_-71277785
 1 Saint_Mary_of_the_Bay_Cemetery
 1 Rhode_Island_Bristol
 1 Haile_Farm_Preserve
-1 Haffenreffer_Museum_of_Anthropology
 1 Britsol
 
 ---
-Bristol County Rhode_Island Taxon count. genus-only records excluded :74
+Bristol Co. Rhode_Island Taxon (species) count. genus-only records excluded :74
  ---
 Bristol Co. TAXA top 10. - genus-only records excluded
 
@@ -5140,24 +5137,24 @@ Newport Co. LOCALITY top 20. - genus-only records excluded
 49 Tiverton
 38 Newport
 15 Jamestown_Island
+13 Little_Compton
 12 BioBlitz_2003_Babbitt_Property_RI_Dept_Env_Mgt
 9 Cemetery_off_Beacon_Ave_along_SR_138_41527983_-71382464
 8 Oakland_Farms_41556024_-71260403
-8 Little_Compton
 8 Fort_Adams
 7 BioBlitz_2003_Pardon_Gray_Refuge_41590686_-71190967
 6 Newport_Cemetery
 4 Green_Animals_Park
 4 Fogland_Marsh
-3 Little_Compton_WN_Sisson_farm
 2 Portsmouth
 2 Oakland_Farms
-2 Little_Compton_WN_Sisson_yard
 2 Jamestown_Cedar_Cemetery
 2 Fogland_marsh
+2 Cemetery_off_Beacon_Ave_along_SR_138
+1 South_of_Newport
 
 ---
-Newport County Rhode_Island Taxon count. genus-only records excluded :91
+Newport Co. Rhode_Island Taxon (species) count. genus-only records excluded :91
  ---
 Newport Co. TAXA top 10. - genus-only records excluded
 
@@ -5226,7 +5223,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 11 65_km_W_of_Charleston_town_line_on_route_I-A
 
 ---
-Washington County Rhode_Island Taxon count. genus-only records excluded :191
+Washington Co. Rhode_Island Taxon (species) count. genus-only records excluded :191
  ---
 Washington Co. TAXA top 10. - genus-only records excluded
 
@@ -5242,4 +5239,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Fri Feb  2 18:13:30 PST 2024
+Fri Feb  2 22:24:57 PST 2024
