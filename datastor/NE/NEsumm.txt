@@ -54,9 +54,9 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 46 Black_Mountain
 44 Machias_Bog_Se_of_Machias
 42 Humboldt_Field_Research_Institute_near_Red_Trail_about_100_m_from_parking_lot
+34 Bois_Bubert_Island
 34 "Steuben_Eagle_Hill_property_yellow_trail"
 32 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_through_open_area
-29 Head_Harbor_Island
 
 ---
 Washington Co. Maine Taxon (species) count. genus-only records excluded :622
@@ -4646,7 +4646,7 @@ Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 122 HallFW
 82 ProctorNS
 45 WrightChas
-18 WileyD
+20 WileyD
 12 TorreyGS
 11 sc
 11 StarmerLJ
@@ -5239,4 +5239,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Fri Feb  2 22:24:57 PST 2024
+Sat Feb  3 23:18:13 PST 2024
