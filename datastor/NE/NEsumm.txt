@@ -1,9 +1,9 @@
 ## Maine ##
-39730 Non genus-only specimens
-1184 Maine state taxon count (Non-genus only taxa)
+39729 Non genus-only specimens
+1181 Maine state taxon count (Non-genus only taxa)
 ---
 Maine land area = 80005 km^2
-ME State count density (STATECNT/STATEAREA*100 km^2) :  39730/80005 =  49.6594
+ME State count density (STATECNT/STATEAREA*100 km^2) :  39729/80005 =  49.6581
 
 ---
 WASHINGTON County.
@@ -16,11 +16,11 @@ Washington County.
 ---
 Washington Co. COLLECTION DENSITY -- genus-only records excluded
 Washington County area = 6640 km^2
-ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  622/6640 =  9.36747
+ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  621/6640 =  9.35241
 
 
-Washington County Count 622 - genus-only records excluded
-proportion of State count (%)  (622/39730) =  1.56557
+Washington County Count 621 - genus-only records excluded
+proportion of State count (%)  (621/39729) =  1.56309
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -59,7 +59,7 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 32 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_through_open_area
 
 ---
-Washington Co. Maine Taxon (species) count. genus-only records excluded :622
+Washington Co. Maine Taxon (species) count. genus-only records excluded :621
 
 Washington Co. TAXA top 10. - genus-only records excluded
 
@@ -85,11 +85,11 @@ Hancock County.
 ---
 Hancock Co. COLLECTION DENSITY -- genus-only records excluded
 Hancock County area = 4110 km^2
-ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  698/4110 =  16.983
+ME HANCOCK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  697/4110 =  16.9586
 
 
-Hancock County Count 698 - genus-only records excluded
-proportion of State count (%)  (698/39730) =  1.75686
+Hancock County Count 697 - genus-only records excluded
+proportion of State count (%)  (697/39729) =  1.75439
 
 Hancock Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -128,7 +128,7 @@ Hancock Co. LOCALITY top 20. - genus-only records excluded
 22 Orland
 
 ---
-Hancock Co. Maine Taxon count. genus-only records excluded :698
+Hancock Co. Maine Taxon count. genus-only records excluded :697
 
 Hancock Co. TAXA top 10. - genus-only records excluded
 
@@ -136,7 +136,7 @@ Hancock Co. TAXA top 10. - genus-only records excluded
 210 Cladonia_rangiferina
 207 Hypogymnia_physodes
 204 Lobaria_pulmonaria
-186 Platismatia_tuckermanii
+187 Platismatia_tuckermanii
 182 Cladonia_uncialis
 176 Parmelia_squarrosa
 169 Punctelia_rudecta
@@ -158,7 +158,7 @@ ME WALDO county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  396/1900 =  20.
 
 
 Waldo County Count 396 - genus-only records excluded
-proportion of State count (%)  (396/39730) =  0.996728
+proportion of State count (%)  (396/39729) =  0.996753
 
 Waldo Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -197,7 +197,7 @@ Waldo Co. LOCALITY top 20. - genus-only records excluded
 2 Grounds_of_Belfast_Harbor_Inn_off_Rt_3_Searsport_Ave
 
 ---
-Waldo Co. Maine Taxon (species) count. genus-only records excluded :166
+Waldo Co. Maine Taxon (species) count. genus-only records excluded :165
 
 Waldo Co. TAXA top 10. - genus-only records excluded
 
@@ -223,15 +223,15 @@ Knox County.
 ---
 Knox Co. COLLECTION DENSITY -- genus-only records excluded
 Knox County area = 950 km^2
-ME KNOX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  5009/950 =  527.263
+ME KNOX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  5008/950 =  527.158
 
 
-Knox County Count 5009 - genus-only records excluded
-proportion of State count (%)  (5009/39730) =  12.6076
+Knox County Count 5008 - genus-only records excluded
+proportion of State count (%)  (5008/39729) =  12.6054
 
 Knox Co. COLLECTOR top 10. - genus-only records excluded
 
-3267 MerrillGK
+3266 MerrillGK
 641 SullivanTJ
 239 PlittCC
 195 HarrisRC
@@ -247,7 +247,7 @@ Knox Co. LOCALITY top 20. - genus-only records excluded
 1063 Rockport
 825 Rockland
 648 Isle_au_Haut
-369 South_Thomaston
+368 South_Thomaston
 327 Camden
 308 Warren
 155 NoLoc
@@ -266,7 +266,7 @@ Knox Co. LOCALITY top 20. - genus-only records excluded
 17 Owls_Head
 
 ---
-Knox Co. Maine Taxon (species) count. genus-only records excluded :552
+Knox Co. Maine Taxon (species) count. genus-only records excluded :550
 
 Knox Co. TAXA top 10. - genus-only records excluded
 
@@ -296,7 +296,7 @@ ME LINCOLN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  820/1180 =  6
 
 
 Lincoln County Count 820 - genus-only records excluded
-proportion of State count (%)  (820/39730) =  2.06393
+proportion of State count (%)  (820/39729) =  2.06398
 
 Lincoln Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -365,7 +365,7 @@ ME SAGADAHOC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  494/660 =  
 
 
 Sagadahoc County Count 494 - genus-only records excluded
-proportion of State count (%)  (494/39730) =  1.24339
+proportion of State count (%)  (494/39729) =  1.24342
 
 Sagadahoc Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -434,7 +434,7 @@ ME CUMBERLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1469/2160 
 
 
 Cumberland County Count 1469 - genus-only records excluded
-proportion of State count (%)  (1469/39730) =  3.69746
+proportion of State count (%)  (1469/39729) =  3.69755
 
 Cumberland Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -473,7 +473,7 @@ Cumberland Co. LOCALITY top 20. - genus-only records excluded
 10 Westbrook_Spring_Street_Rapids
 
 ---
-Cumberland Co. Maine Taxon (species) count. genus-only records excluded :274
+Cumberland Co. Maine Taxon (species) count. genus-only records excluded :273
 
 Cumberland Co. TAXA top 10. - genus-only records excluded
 
@@ -503,7 +503,7 @@ ME YORK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  848/2570 =  32.9
 
 
 York County Count 848 - genus-only records excluded
-proportion of State count (%)  (848/39730) =  2.13441
+proportion of State count (%)  (848/39729) =  2.13446
 
 York Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -572,7 +572,7 @@ ME AROOSTOOK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4979/17280 
 
 
 Aroostook County Count 4979 - genus-only records excluded
-proportion of State count (%)  (4979/39730) =  12.5321
+proportion of State count (%)  (4979/39729) =  12.5324
 
 Aroostook Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -641,7 +641,7 @@ ME PISCATAQUIS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3826/1026
 
 
 Piscataquis County Count 3826 - genus-only records excluded
-proportion of State count (%)  (3826/39730) =  9.63
+proportion of State count (%)  (3826/39729) =  9.63024
 
 Piscataquis Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -710,7 +710,7 @@ ME SOMERSET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  443/10160 = 
 
 
 Somerset County Count 443 - genus-only records excluded
-proportion of State count (%)  (443/39730) =  1.11503
+proportion of State count (%)  (443/39729) =  1.11505
 
 Somerset Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -780,7 +780,7 @@ ME PENOBSCOT county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1360/8800 =
 
 
 Penobscot County Count 1360 - genus-only records excluded
-proportion of State count (%)  (1360/39730) =  3.42311
+proportion of State count (%)  (1360/39729) =  3.42319
 
 Penobscot Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -848,7 +848,7 @@ ME KENNEBEC county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  238/2250 =  
 
 
 Kennebec County Count 238 - genus-only records excluded
-proportion of State count (%)  (238/39730) =  0.599044
+proportion of State count (%)  (238/39729) =  0.599059
 
 Kennebec Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -930,7 +930,7 @@ ME ANDROSCOGGIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  169/1210
 
 
 Androscoggin County Count 169 - genus-only records excluded
-proportion of State count (%)  (169/39730) =  0.425371
+proportion of State count (%)  (169/39729) =  0.425382
 
 Androscoggin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -999,7 +999,7 @@ ME FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  558/4400 =  
 
 
 Franklin County Count 558 - genus-only records excluded
-proportion of State count (%)  (558/39730) =  1.40448
+proportion of State count (%)  (558/39729) =  1.40452
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1066,7 +1066,7 @@ ME OXFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1177/5380 =  2
 
 
 Oxford County Count 1177 - genus-only records excluded
-proportion of State count (%)  (1177/39730) =  2.9625
+proportion of State count (%)  (1177/39729) =  2.96257
 
 Oxford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1105,7 +1105,7 @@ Oxford Co. LOCALITY top 20. - genus-only records excluded
 8 DENMARK_TRAIL_UP_PLEASANT_MOUNTAIN
 
 ---
-Oxford Co. Maine Taxon (species) count. genus-only records excluded :285
+Oxford Co. Maine Taxon (species) count. genus-only records excluded :284
 Oxford Co. TAXA top 10. - genus-only records excluded
 
 39 Cladonia_rangiferina
@@ -1456,11 +1456,11 @@ Mt._Katahdin_massif TAXA total. - genus-only records excluded
 ---
 ## New_Hampshire ##
 ---
-18919 Non genus-only specimens
-1455 excluded Non genus-only specimens with date neither given nor inferrable
+18918 Non genus-only specimens
+1454 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 New_Hampshire land area = 23187 km^2
-NH State count density (STATECNT/STATEAREA*100 km^2) :  18919/23187 =  81.5931
+NH State count density (STATECNT/STATEAREA*100 km^2) :  18918/23187 =  81.5888
 
 ---
 COOS County.
@@ -1473,12 +1473,12 @@ Coos County.
 ---
 Coos Co. COLLECTION DENSITY -- genus-only records excluded
 Coos County land area = 4648 km^2
-NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9469/4648 =  203.722
+NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9468/4648 =  203.701
 
 
-Coos County Count 9469 - genus-only records excluded
-proportion of State count (%)  (9469/18919) =  50.0502
-Coos County Count 9469 - genus-only records excluded
+Coos County Count 9468 - genus-only records excluded
+proportion of State count (%)  (9468/18918) =  50.0476
+Coos County Count 9468 - genus-only records excluded
 
 
 Coos Co. COLLECTOR top 10. - genus-only records excluded
@@ -1486,7 +1486,7 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 1083 WetmoreCM
 999 FarlowWG
 805 SelvaSB
-733 TuckermanE
+732 TuckermanE
 732 CraneJL
 328 DibbleACMs
 328 CleavittN
@@ -1497,7 +1497,7 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
 4609 Mt_Washington_massif
-2992 White_Mountains
+2991 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
 134 NoLoc
@@ -1518,8 +1518,8 @@ Coos Co. LOCALITY top 20. - genus-only records excluded
 9 Mt_Cabot
 
 ---
-Coos Co. New_Hampshire Taxon (species) count. genus-only records excluded :655
-Coos Co. New_Hampshire Taxon count. genus-only records excluded :655
+Coos Co. New_Hampshire Taxon (species) count. genus-only records excluded :653
+Coos Co. New_Hampshire Taxon count. genus-only records excluded :653
 
 Coos Co. TAXA top 20. - genus-only records excluded
 
@@ -1585,7 +1585,7 @@ NH CARROLL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2385/2414 =  
 
 
 Carroll County Count 2385 - genus-only records excluded
-proportion of State count (%)  (2385/18919) =  12.6064
+proportion of State count (%)  (2385/18918) =  12.607
 
 Carroll Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1654,7 +1654,7 @@ NH GRAFTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4188/4425 =  
 
 
 Grafton County Count 4188 - genus-only records excluded
-proportion of State count (%)  (4188/18919) =  22.1365
+proportion of State count (%)  (4188/18918) =  22.1376
 
 Grafton Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1750,7 +1750,7 @@ NH BELKNAP county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  283/1041 =  2
 
 
 Belknap County Count 283 - genus-only records excluded
-proportion of State count (%)  (283/18919) =  1.49585
+proportion of State count (%)  (283/18918) =  1.49593
 
 Belknap Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1819,7 +1819,7 @@ NH SULLIVAN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  31/1392 =  2
 
 
 Sullivan County Count 31 - genus-only records excluded
-proportion of State count (%)  (31/18919) =  0.163856
+proportion of State count (%)  (31/18918) =  0.163865
 
 Sullivan Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1874,7 +1874,7 @@ NH STRAFFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  201/956 =  
 
 
 Strafford County Count 201 - genus-only records excluded
-proportion of State count (%)  (201/18919) =  1.06242
+proportion of State count (%)  (201/18918) =  1.06248
 
 Strafford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1943,7 +1943,7 @@ NH MERRIMACK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  133/2416 = 
 
 
 Merrimack County Count 133 - genus-only records excluded
-proportion of State count (%)  (133/18919) =  0.702997
+proportion of State count (%)  (133/18918) =  0.703034
 
 Merrimack Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2012,7 +2012,7 @@ NH HILLSBOROUGH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  260/2270
 
 
 Hillsborough County Count 260 - genus-only records excluded
-proportion of State count (%)  (260/18919) =  1.37428
+proportion of State count (%)  (260/18918) =  1.37435
 
 Hillsborough Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2081,7 +2081,7 @@ NH ROCKINGHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  425/1801 =
 
 
 Rockingham County Count 425 - genus-only records excluded
-proportion of State count (%)  (425/18919) =  2.24642
+proportion of State count (%)  (425/18918) =  2.24654
 
 Rockingham Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2150,7 +2150,7 @@ NH CHESHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1188/1830 = 
 
 
 Cheshire County Count 1188 - genus-only records excluded
-proportion of State count (%)  (1188/18919) =  6.2794
+proportion of State count (%)  (1188/18918) =  6.27973
 
 Cheshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2927,7 +2927,7 @@ Chittenden Co. LOCALITY top 20. - genus-only records excluded
 4 Mt_Philo
 
 ---
-Chittenden Co. Vermont Taxon (species) count. genus-only records excluded :391
+Chittenden Co. Vermont Taxon (species) count. genus-only records excluded :390
 Chittenden Co. TAXA top 10. - genus-only records excluded
  -- 
 
@@ -3221,7 +3221,7 @@ Addison Co. LOCALITY top 20. - genus-only records excluded
 15 Ripton_Middlebury_River
 
 ---
-Addison Co. Vermont Taxon (species) count. genus-only records excluded :390
+Addison Co. Vermont Taxon (species) count. genus-only records excluded :389
  --- 
 Addison Co. TAXA top 10. - genus-only records excluded
 
@@ -3290,7 +3290,7 @@ Rutland Co. LOCALITY top 20. - genus-only records excluded
 11 Pond_Hill_Wells
 
 ---
-Rutland Co. Vermont Taxon (species) count. genus-only records excluded :386
+Rutland Co. Vermont Taxon (species) count. genus-only records excluded :385
 ---
 Rutland Co. TAXA top 10. - genus-only records excluded
 
@@ -3376,12 +3376,12 @@ Bennington Co. TAXA top 10. - genus-only records excluded
 
 ---
 ## Massachusetts ##
-25709 Non genus-only specimens
-945 Non genus-only taxa
+25708 Non genus-only specimens
+941 Non genus-only taxa
 3056 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Massachusetts land area = 20306 km^2
-MA State count density (STATECNT/STATEAREA*100 km^2) :  25709/20306 =  126.608
+MA State count density (STATECNT/STATEAREA*100 km^2) :  25708/20306 =  126.603
 ---
 ---
  ---
@@ -3400,7 +3400,7 @@ MA ESSEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2341/1290 =  18
 
 
 Essex County Count 2341 - genus-only records excluded
-proportion of State count (%)  (2341/25709) =  9.10576
+proportion of State count (%)  (2341/25708) =  9.10611
 
 Essex Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3439,7 +3439,7 @@ Essex Co. LOCALITY top 20. - genus-only records excluded
 24 [data_not_captured]
 
 ---
-Essex Co. Massachusetts Taxon species count. genus-only records excluded :309
+Essex Co. Massachusetts Taxon species count. genus-only records excluded :308
 Essex Co. TAXA top 10. - genus-only records excluded
 
 121 Xanthoria_parietina
@@ -3468,7 +3468,7 @@ MA SUFFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  770/150 =  51
 
 
 Suffolk County Count 770 - genus-only records excluded
-proportion of State count (%)  (770/25709) =  2.99506
+proportion of State count (%)  (770/25708) =  2.99518
 
 Suffolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3536,7 +3536,7 @@ MA NORFOLK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2273/1036 =  
 
 
 Norfolk County Count 2273 - genus-only records excluded
-proportion of State count (%)  (2273/25709) =  8.84126
+proportion of State count (%)  (2273/25708) =  8.84161
 
 Norfolk Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3600,17 +3600,17 @@ Plymouth County.
 ---
 Plymouth Co. COLLECTION DENSITY -- genus-only records excluded
 Plymouth County area = 1712 km^2
-MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2989/1712 =  174.591
+MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2988/1712 =  174.533
 
 
-Plymouth County Count 2989 - genus-only records excluded
-proportion of State count (%)  (2989/25709) =  11.6263
+Plymouth County Count 2988 - genus-only records excluded
+proportion of State count (%)  (2988/25708) =  11.6228
 
 Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 
 1331 RobbinsCA
 325 HammerSH
-227 LayEMs
+226 LayEMs
 160 GreeneDN
 105 LaGrecaSA
 103 HarrisSK
@@ -3623,7 +3623,7 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 
 1147 Wareham
 447 Myles_Standish_State_Forest
-376 Boston_Harbor_Islands
+375 Boston_Harbor_Islands
 120 Hingham
 83 NoLoc
 68 Bridgewater
@@ -3643,7 +3643,7 @@ Plymouth Co. LOCALITY top 20. - genus-only records excluded
 10 Massachusetts_Wareham
 
 ---
-Plymouth Co. Massachusetts Taxon (species) count. genus-only records excluded :283
+Plymouth Co. Massachusetts Taxon (species) count. genus-only records excluded :282
  ---
 Plymouth Co. TAXA top 20. - genus-only records excluded
 
@@ -3683,7 +3683,7 @@ MA BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2889/1440 =  
 
 
 Bristol County Count 2889 - genus-only records excluded
-proportion of State count (%)  (2889/25709) =  11.2373
+proportion of State count (%)  (2889/25708) =  11.2377
 
 Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3752,7 +3752,7 @@ MA BARNSTABLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2376/1026 
 
 
 Barnstable County Count 2376 - genus-only records excluded
-proportion of State count (%)  (2376/25709) =  9.2419
+proportion of State count (%)  (2376/25708) =  9.24226
 
 Barnstable Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3821,7 +3821,7 @@ MA DUKES county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  611/269 =  227.
 
 
 Dukes County Count 611 - genus-only records excluded
-proportion of State count (%)  (611/25709) =  2.3766
+proportion of State count (%)  (611/25708) =  2.37669
 
 Dukes Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3890,7 +3890,7 @@ MA NANTUCKET county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  559/124 =  
 
 
 Nantucket County Count 559 - genus-only records excluded
-proportion of State count (%)  (559/25709) =  2.17434
+proportion of State count (%)  (559/25708) =  2.17442
 
 Nantucket Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3940,7 +3940,7 @@ MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2843/2134 =
 
 
 Middlesex County Count 2843 - genus-only records excluded
-proportion of State count (%)  (2843/25709) =  11.0584
+proportion of State count (%)  (2843/25708) =  11.0588
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -3979,7 +3979,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 23 Townsend
 
 ---
-Middlesex Co. Massachusetts Taxon (species) count. genus-only records excluded :376
+Middlesex Co. Massachusetts Taxon (species) count. genus-only records excluded :375
  ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
@@ -4009,7 +4009,7 @@ MA WORCESTER county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  3467/3919 =
 
 
 Worcester County Count 3467 - genus-only records excluded
-proportion of State count (%)  (3467/25709) =  13.4855
+proportion of State count (%)  (3467/25708) =  13.4861
 
 Worcester Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4048,7 +4048,7 @@ Worcester Co. LOCALITY top 20. - genus-only records excluded
 27 Millbury
 
 ---
-Worcester Co. Massachusetts Taxon (species) count. genus-only records excluded :407
+Worcester Co. Massachusetts Taxon (species) count. genus-only records excluded :406
  ---
 Worcester Co. TAXA top 10. - genus-only records excluded
 
@@ -4078,7 +4078,7 @@ MA FRANKLIN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  538/1818 =  
 
 
 Franklin County Count 538 - genus-only records excluded
-proportion of State count (%)  (538/25709) =  2.09265
+proportion of State count (%)  (538/25708) =  2.09273
 
 Franklin Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4147,7 +4147,7 @@ MA HAMPDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  591/1600 =  3
 
 
 Hampden County Count 591 - genus-only records excluded
-proportion of State count (%)  (591/25709) =  2.29881
+proportion of State count (%)  (591/25708) =  2.2989
 
 Hampden Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4216,7 +4216,7 @@ MA HAMPSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  669/1370 = 
 
 
 Hampshire County Count 669 - genus-only records excluded
-proportion of State count (%)  (669/25709) =  2.6022
+proportion of State count (%)  (669/25708) =  2.6023
 
 Hampshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4285,7 +4285,7 @@ MA BERKSHIRE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2140/2411 =
 
 
 Berkshire County Count 2140 - genus-only records excluded
-proportion of State count (%)  (2140/25709) =  8.32393
+proportion of State count (%)  (2140/25708) =  8.32426
 
 Berkshire Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4470,7 +4470,7 @@ Tolland Co. LOCALITY top 20. - genus-only records excluded
 2 Somers
 
 ---
-Tolland Co. Connecticut Taxon (species) count. genus-only records excluded :190
+Tolland Co. Connecticut Taxon (species) count. genus-only records excluded :189
  ---
 Tolland Co. TAXA top 10. - genus-only records excluded
 
@@ -4539,7 +4539,7 @@ Hartford Co. LOCALITY top 20. - genus-only records excluded
 5 Bristol
 
 ---
-Hartford Co. Connecticut Taxon (species) count. genus-only records excluded :162
+Hartford Co. Connecticut Taxon (species) count. genus-only records excluded :161
  ---
 Hartford Co. TAXA top 10. - genus-only records excluded
 
@@ -4608,7 +4608,7 @@ New_London Co. LOCALITY top 20. - genus-only records excluded
 6 Franklin
 
 ---
-New_London Co. Connecticut Taxon (species) count. genus-only records excluded :263
+New_London Co. Connecticut Taxon (species) count. genus-only records excluded :262
  ---
 New_London Co. TAXA top 10. - genus-only records excluded
 
@@ -4677,7 +4677,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 4 Old_Saybrook_Twp_Upper_Cemetery_at_end_of_Stage_Road
 
 ---
-Middlesex Co. Connecticut Taxon (species) count. genus-only records excluded :196
+Middlesex Co. Connecticut Taxon (species) count. genus-only records excluded :195
  ---
 Middlesex Co. TAXA top 10. - genus-only records excluded
 
@@ -4746,7 +4746,7 @@ New_Haven Co. LOCALITY top 20. - genus-only records excluded
 17 Hamden_Mt_Carmel
 
 ---
-New_Haven Co. Connecticut Taxon (species) count. genus-only records excluded :301
+New_Haven Co. Connecticut Taxon (species) count. genus-only records excluded :300
  ---
 New_Haven Co. TAXA top 10. - genus-only records excluded
 
@@ -4815,7 +4815,7 @@ Fairfield Co. LOCALITY top 20. - genus-only records excluded
 8 Georgetown
 
 ---
-Fairfield Co. Connecticut Taxon (species) count. genus-only records excluded :210
+Fairfield Co. Connecticut Taxon (species) count. genus-only records excluded :209
  ---
 Fairfield Co. TAXA top 10. - genus-only records excluded
 
@@ -4825,10 +4825,10 @@ Fairfield Co. TAXA top 10. - genus-only records excluded
 18 Cladonia_subtenuis
 17 Parmelia_sulcata
 16 Physcia_stellaris
+16 Phaeophyscia_rubropulchra
 15 Cladonia_rei
 14 Flavoparmelia_caperata
 14 Dibaeis_baeomyces
-13 Phaeophyscia_rubropulchra
 
 ---
 LITCHFIELD County.
@@ -4884,7 +4884,7 @@ Litchfield Co. LOCALITY top 20. - genus-only records excluded
 19 Gridley_Mountain
 
 ---
-Litchfield Co. Connecticut Taxon (species) count. genus-only records excluded :416
+Litchfield Co. Connecticut Taxon (species) count. genus-only records excluded :415
  ---
 Litchfield Co. TAXA top 10. - genus-only records excluded
 
@@ -5239,4 +5239,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sat Feb  3 23:18:13 PST 2024
+Sun Feb  4 22:25:57 PST 2024
