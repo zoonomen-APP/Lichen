@@ -1494,13 +1494,13 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
-4622 Mt_Washington_massif
+4641 Mt_Washington_massif
 2996 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
 135 NoLoc
-119 [no_additional_data]
-112 [data_not_captured]
+108 [data_not_captured]
+104 [no_additional_data]
 79 Randolph
 77 Stewartstown_Hurlbert_Swamp_Preserve
 53 Wildcat_Mountain
@@ -1543,7 +1543,7 @@ Coos Co. TAXA top 20. - genus-only records excluded
 94 Evernia_mesomorpha
 
 ---
-Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records excluded :425
+Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records excluded :429
 
 Mt._Washington_massif TAXA top 20. - genus-only records excluded
 
@@ -1551,16 +1551,16 @@ Mt._Washington_massif TAXA top 20. - genus-only records excluded
 115 Cetraria_islandica_MWm
 112 Umbilicaria_hyperborea_MWm
 112 Thamnolia_vermicularis_MWm
-111 Flavocetraria_cucullata_MWm
-105 Flavocetraria_nivalis_MWm
+112 Flavocetraria_cucullata_MWm
+106 Flavocetraria_nivalis_MWm
 101 Arctoparmelia_centrifuga_MWm
 88 Sphaerophorus_fragilis_MWm
 86 Platismatia_glauca_MWm
 83 Hypogymnia_physodes_MWm
 73 Melanelia_hepatizon_MWm
 73 Cladonia_rangiferina_MWm
+73 Cetraria_laevigata_MWm
 71 Cladonia_squamosa_MWm
-71 Cetraria_laevigata_MWm
 70 Parmelia_saxatilis_MWm
 67 Cladonia_gracilis_MWm
 65 Cetrariella_delisei_MWm
@@ -5236,4 +5236,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sun Feb 11 09:25:51 PST 2024
+Sun Feb 11 20:41:14 PST 2024
