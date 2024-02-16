@@ -723,7 +723,8 @@
         echo --- >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
                 echo >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
         echo --- >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
-        awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+        #awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MMm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Vermont/&&$101~/Mt._Mansfield_massif/&&$19~/ /&&$24!~/sp\./ {print $97  ": MManm"}' c:/Lichen/datastor/NE/VT//VTdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
                 echo >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
            #     echo --- >> c:/Lichen/datastor/NE/VT/322eMMFtaxax.txt
 #]

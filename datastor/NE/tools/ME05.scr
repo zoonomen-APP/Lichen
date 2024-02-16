@@ -695,7 +695,7 @@
                 #echo Mt._Katahdin_massif  TAXA top 20. - genus-only records excluded > c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
                 echo >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
         #awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$101~/Mt._Katahdin_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MKm"}' c:/Lichen/datastor/NE/ME//MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
-        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$101~/Mt._Katahdin_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MKm"}' c:/Lichen/datastor/NE/ME//MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$101~/Mt._Katahdin_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MKatm"}' c:/Lichen/datastor/NE/ME//MEdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
                 echo >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
                 echo --- >> c:/Lichen/datastor/NE/ME/120eMKTtaxax.txt
 

@@ -9,6 +9,7 @@
 # Source file: NHdfbn
 # NEW_HAMPSHIRE
 # Modified 2024.02.12 so Mt.Washington list is complete instead of top 20
+# Modified 2024.02.12 so Mt.Moosilauke list is complete instead of top 20
 
 # NEW_HAMPSHIRE
 	STATEAB=NH
@@ -136,7 +137,7 @@
 		echo Mt._Washington_massif  TAXA . - genus-only records excluded >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 	#awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MWm"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
-	awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MWm"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$19~/ /&&$24!~/sp\./ {print $97 " MWasm"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 	#awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 		#echo >> c:/Lichen/datastor/NE/NH//201eMWNtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
@@ -261,10 +262,12 @@
 		echo -n Mt._Moosilauke New_Hampshire  Taxon count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
                 awk -F "|" '$3~/Grafton_Co./&&$4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
                 echo >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
-		echo Mt._Moosilauke_massif  TAXA top 20. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
+		#echo Mt._Moosilauke_massif  TAXA top 20. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
+		echo Mt._Moosilauke_massif  TAXA. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 	# 2024.01.18awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$19~/ /&&$24!~/sp\./ {print $97 " MMo"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
-	awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$19~/ / {print $97 " MMo"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
+	#awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$19~/ / {print $97 " MMo"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
+	awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$19~/ / {print $97 " MMoom"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 	#awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke_massif/&&$19~/ /&&$24!~/sp\./ {print $97}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 		#echo >> c:/Lichen/datastor/NE/NH//203eMMOtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
