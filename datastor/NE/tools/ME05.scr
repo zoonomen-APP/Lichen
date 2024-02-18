@@ -1,3 +1,27 @@
+# 2024.02.17
+#
+# This script creates daughter files that contain summary data respecitvely for the state the individual counties and Mt. Katahdin.
+# 	these files are numbered 00Mainex.txt (header state file), then
+#	then 101[a-d] thru 116[a-d] for counties and 120[a-d] for Mt. Katahdin
+#	a = County summary and Date; b = Collectors ; c = localities; d = taxa
+#
+#	Date files, used for calculation, but not directly printed out are in ?02a[County]datey.txt
+#
+#	Variables:
+#	  Assigned values.
+	#	STATEAB
+	#       STATEAREA
+	#	COUNTY
+	#	COUNTYAREA
+#	  Calculated values.
+	#       STATECNT (number of non-genus only records)
+	#       STATECNTSP (number of non-genus only species)
+
+#		COUNTY
+#		STATE
+#		COUNTYSPECIMENCNT = # binomial records in COUNTY
+#		
+#
 # 2024.01.18 Many mods.
 # 2023.06.08 Modify to do only full species cases
 # This will use dfbn = df binomial 
@@ -17,18 +41,19 @@
 # Source file: MEdfbn
 # MAINE
 # Partitions are registered by number 101-116 for counties. 120 for Mt. Katahdin massif.
+# Variables
+# 	STATEAB
+# 	STATEAREA
+# 	STATECNT (number of non-genus only records)
+# 	STATECNTSP (number of non-genus only species)
+#
 	STATEAB=ME
 	 #State land area 80005 km^2
         STATEAREA=80005
-	#STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
 	STATECNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ /' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
-	#STATECNTSP=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/ME/MEdfbn|sort -d|uniq|wc -l)
 	STATECNTSP=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l)
-	 #Statecount sine date STATECNTSD
-	## 2024.01.18 STATECNTSD=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /&&$98~/Year/' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
 		echo \#\#\ Maine\ \#\# > c:/Lichen/datastor/NE/ME/00AAMainex.txt
-		echo  $STATECNT Non genus-only specimens >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
-	#	echo  -- $STATECNTSD excluded Non genus-only specimens with date neither given nor inferrable >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
+		echo  $STATECNT Non genus-only records >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo  $STATECNTSP Maine state taxon count \(Non-genus only taxa\)  >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/00AAMainex.txt
 		#
@@ -51,8 +76,7 @@
 		echo --- >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		echo Washington Co. DATE -- genus-only records excluded >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		echo >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
-			# extract dates for cases where sciName includes space, and eventDate starts with 1 or 2
-        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Washington/&&$19~/ /&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/ME/MEdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/ME/101aWashingtondatey.txt
+        awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$3~/Washington/&&$97~/ /&&$98!~/Year/&&$98~/^[1,2]/  {print $98}' c:/Lichen/datastor/NE/ME/MEdfbn|cut -c 1-4| sort -n > c:/Lichen/datastor/NE/ME/101aWashingtondatey.txt
 			# trim extracted dates to year only for statistical calculations.
         cut -c 1-4 c:/Lichen/datastor/NE/ME/101aWashingtondatey.txt |egrep '[0-9]'> c:/Lichen/datastor/NE/ME/101Ay.txt
 		echo -n $COUNTY county date\ :\ >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
@@ -62,23 +86,24 @@
 		echo Washington County. >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
         #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /&&$3~/Washington_Co./' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
         #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ /&&$3~/Washington_Co./' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
-	COUNTYCNT=$(awk -F "|" '$3~/Washington_Co./&&$4~/Maine/ {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l)
+	COUNTYSPECIMENCNT=$(awk -F "|" '$3~/Washington_Co./&&$4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|wc -l)
+	COUNTYSPCNT=$(awk -F "|" '$3~/Washington_Co./&&$4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		echo Washington Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		echo Washington County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
-		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYSPECIMENCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		#
-		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
-        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
+		echo -n $COUNTYSPECIMENCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
+        awk "BEGIN {print ($COUNTYSPECIMENCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 		echo >> c:/Lichen/datastor/NE/ME/101aWashingtondatex.txt
 #
 # COLLECTORS 101b
 # Blank line to start.
 		echo > c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
-		echo Washington County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
+		echo Washington County Count $COUNTYSPECIMENCNT - genus-only records excluded >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
 		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
-		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
-        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
+		echo -n \($COUNTYSPECIMENCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
+        awk "BEGIN {print ($COUNTYSPECIMENCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
 		echo >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
 		echo Washington Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
 		echo >> c:/Lichen/datastor/NE/ME/101bWashingtonCollx.txt
@@ -571,23 +596,24 @@
         awk -f c:/awk/calculate.awk c:/Lichen/datastor/NE/ME/109Ay.txt >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		echo --- >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		echo Aroostook County. >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
-        COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$19~/ /&&$3~/Aroostook_Co./' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
+	COUNTYSPECIMENCNT=$(awk -F "|" '$3~/Aroostook_Co./&&$4~/Maine/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|wc -l)
+        #COUNTYCNT=$(awk 'BEGIN {FS=OFS="|"} $4~/Maine/&&$97~/ /&&$3~/Aroostook_Co./' c:/Lichen/datastor/NE/ME/MEdfbn|wc -l)
 		echo --- >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		echo Aroostook Co. COLLECTION DENSITY -- genus-only records excluded >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		echo Aroostook County area =  $COUNTYAREA km^2 >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
-		echo -n $STATEAB $COUNTY county count density \(COUNTYCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
+		echo -n $STATEAB $COUNTY county count density \(COUNTYSPECIMENCNT/COUNTYAREA\*100 km^2\) : \  >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		#
-		echo -n $COUNTYCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
-        awk "BEGIN {print ($COUNTYCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
+		echo -n $COUNTYSPECIMENCNT/$COUNTYAREA  = \   >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
+        awk "BEGIN {print ($COUNTYSPECIMENCNT/$COUNTYAREA)*100 }"  >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 		echo >> c:/Lichen/datastor/NE/ME/109aAroostookdatex.txt
 #
 # COLLECTORS 109b
 # Blank line to start.
 		echo > c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
-		echo Aroostook County Count $COUNTYCNT - genus-only records excluded >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
+		echo Aroostook County Count $COUNTYSPECIMENCNT - genus-only records excluded >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 		echo -n proportion of State count \(\%\) \ >>  c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
-		echo -n \($COUNTYCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
-        awk "BEGIN {print ($COUNTYCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
+		echo -n \($COUNTYSPECIMENCNT/$STATECNT\) = \  >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
+        awk "BEGIN {print ($COUNTYSPECIMENCNT/$STATECNT)*100 }" >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 		echo >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 		echo Aroostook Co. COLLECTOR top 10. - genus-only records excluded >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
 		echo >> c:/Lichen/datastor/NE/ME/109bAroostookCollx.txt
