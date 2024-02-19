@@ -1,5 +1,5 @@
 ## Maine ##
-39486 Non genus-only specimens
+39486 Non genus-only records
 1165 Maine state taxon count (Non-genus only taxa)
 ---
 Maine land area = 80005 km^2
@@ -16,11 +16,11 @@ Washington County.
 ---
 Washington Co. COLLECTION DENSITY -- genus-only records excluded
 Washington County area = 6640 km^2
-ME WASHINGTON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  621/6640 =  9.35241
+ME WASHINGTON county count density (COUNTYSPECIMENCNT/COUNTYAREA*100 km^2) :  4757/6640 =  71.6416
 
 
-Washington County Count 621 - genus-only records excluded
-proportion of State count (%)  (621/39486) =  1.57271
+Washington County Count 4757 - genus-only records excluded
+proportion of State count (%)  (4757/39486) =  12.0473
 
 Washington Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -41,22 +41,22 @@ Washington Co. LOCALITY top 20. - genus-only records excluded
 551 Great_Wass_Island
 502 Eagle_Hill
 294 McClellan_Park
+213 Roque_Island
 180 NoLoc
 146 Cobscook_Bay_State_Park
+102 North_Lubec
 102 Jonesport
-96 North_Lubec
 87 Town_of_Cutler_Cutler_Coastal_Public_Lands_Loop_Trail_via_Black_Point_Cove_Cutoff_S_of_ME_191_NE_of_Cutler
 80 Lead_Mountain
-74 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_to_Ice_House_and_trail_to_mowed_area_near_houses
-71 Roque_Island
 62 T18_ED_BPP_Maine_Public_Reserve_Lands_S_end_of_Rocky_Lake_025-05_mi_W_of_jct_of_Diamond_Match_Road_and_ME_191
 62 Eastport
 46 Black_Mountain
 44 Machias_Bog_Se_of_Machias
 42 Humboldt_Field_Research_Institute_near_Red_Trail_about_100_m_from_parking_lot
 34 Bois_Bubert_Island
-32 Town_of_Jonesport_Roque_Island_peninsula_S_of_Squire_Point_along_road_through_open_area
 29 Head_Harbor_Island
+26 Township_of_T37_MD_BPP_Machias_River_Maine_Public_Reserved_Lands_South_End_Campsite_at_Second_Machias_Lake_Boat_Launch_on_Little_River_Road
+24 Humboldt_Field_Research_Institute
 
 ---
 Washington Co. Maine Taxon (species) count. genus-only records excluded :621
@@ -568,11 +568,11 @@ Aroostook County.
 ---
 Aroostook Co. COLLECTION DENSITY -- genus-only records excluded
 Aroostook County area = 17280 km^2
-ME AROOSTOOK county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  4977/17280 =  28.8021
+ME AROOSTOOK county count density (COUNTYSPECIMENCNT/COUNTYAREA*100 km^2) :  5148/17280 =  29.7917
 
 
-Aroostook County Count 4977 - genus-only records excluded
-proportion of State count (%)  (4977/39486) =  12.6045
+Aroostook County Count 5148 - genus-only records excluded
+proportion of State count (%)  (5148/39486) =  13.0375
 
 Aroostook Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -1124,330 +1124,330 @@ Mt._Katahdin_massif Maine Taxon (species) count. genus-only records excluded :32
 
 Mt._Katahdin_massif TAXA total. - genus-only records excluded
 
-64 Cladonia_rangiferina_MKm
-49 Cetraria_laevigata_MKm
-30 Cladonia_squamosa_MKm
-30 Cladonia_gracilis_MKm
-28 Cladonia_amaurocraea_MKm
-27 Melanelia_hepatizon_MKm
-25 Mycoblastus_sanguinarioides_MKm
-25 Flavocetraria_nivalis_MKm
-24 Lasallia_papulosa_MKm
-23 Umbilicaria_proboscidea_MKm
-23 Cladonia_stellaris_MKm
-23 Arctoparmelia_centrifuga_MKm
-21 Rhizocarpon_geographicum_MKm
-20 Flavocetraria_cucullata_MKm
-19 Umbilicaria_deusta_MKm
-17 Cetraria_islandica_MKm
-16 Umbilicaria_torrefacta_MKm
-16 Umbilicaria_hyperborea_MKm
-16 Parmelia_saxatilis_MKm
-16 Ochrolechia_frigida_MKm
-15 Melanelia_stygia_MKm
-15 Lecanora_polytropa_MKm
-15 Cladonia_stygia_MKm
-14 Vulpicida_pinastri_MKm
-14 Fuscidea_lowensis_MKm
-14 Cladonia_coccifera_MKm
-14 Cetrariella_delisei_MKm
-13 Usnocetraria_oakesiana_MKm
-13 Platismatia_glauca_MKm
-13 Parmeliopsis_hyperopta_MKm
-13 Cladonia_uncialis_MKm
-13 Cladonia_pleurota_MKm
-12 Thamnolia_vermicularis_MKm
-12 Sphaerophorus_fragilis_MKm
-12 Fuscidea_appalachensis_MKm
-11 Lecanora_placidensis_MKm
-11 Icmadophila_ericetorum_MKm
-11 Hypogymnia_physodes_MKm
-11 Cladonia_crispata_MKm
-10 Ropalospora_lugubris_MKm
-10 Protoparmelia_cupreobadia_MKm
-10 Porpidia_thomsonii_MKm
-10 Orphniospora_moriopsis_MKm
-10 Micarea_lignaria_MKm
-10 Cladonia_arbuscula_MKm
-9 Stereocaulon_glaucescens_MKm
-9 Rhizocarpon_lavatum_MKm
-9 Pseudevernia_cladonia_MKm
-9 Porpidia_tuberculosa_MKm
-9 Cladonia_maxima_MKm
-8 Lecanora_symmicta_MKm
-8 Lecanora_intricata_MKm
-8 Lecanora_circumborealis_MKm
-8 Helocarpon_crassipes_MKm
-8 Cladonia_sulphurina_MKm
-8 Bryobilimbia_hypnorum_MKm
-7 Umbilicaria_muhlenbergii_MKm
-7 Stereocaulon_alpinum_MKm
-7 Rhizocarpon_infernulum_MKm
-7 Rhizocarpon_badioatrum_MKm
-7 Lepraria_neglecta_MKm
-7 Lecanora_wisconsinensis_MKm
-7 Ionaspis_lacustris_MKm
-7 Fuscidea_arboricola_MKm
-7 Cladonia_furcata_MKm
-6 Stereocaulon_subcoralloides_MKm
-6 Ricasolia_quercizans_MKm
-6 Rhizocarpon_hochstetteri_MKm
-6 Protomicarea_limosa_MKm
-6 Parmeliopsis_ambigua_MKm
-6 Parmelia_sulcata_MKm
-6 Montanelia_panniformis_MKm
-6 Lecidoma_demissum_MKm
-6 Hypogymnia_krogiae_MKm
-6 Cladonia_pocillum_MKm
-6 Cecidonia_xenophana_MKm
-5 Trapeliopsis_granulosa_MKm
-5 Stereocaulon_paschale_MKm
-5 Schaereria_fuscocinerea_MKm
-5 Rhizocarpon_anaperum_MKm
-5 Phaeocalicium_matthewsianum_MKm
-5 Peltigera_polydactylon_MKm
-5 Peltigera_aphthosa_MKm
-5 Mycocalicium_subtile_MKm
-5 Micarea_peliocarpa_MKm
-5 Lobaria_pulmonaria_MKm
-5 Fuscidea_mollis_MKm
-5 Evernia_mesomorpha_MKm
-5 Cladonia_deformis_MKm
-5 Cladonia_coniocraea_MKm
-5 Bryoria_nadvornikiana_MKm
-5 Arctoparmelia_incurva_MKm
-4 Umbilicaria_mammulata_MKm
-4 Stereocaulon_dactylophyllum_MKm
-4 Rhizocarpon_eupetraeoides_MKm
-4 Pseudevernia_consocians_MKm
-4 Protoparmelia_badia_MKm
-4 Porpidia_superba_MKm
-4 Porpidia_cinereoatra_MKm
-4 Platismatia_tuckermanii_MKm
-4 Phaeocalicium_compressulum_MKm
-4 Pertusaria_consocians_MKm
-4 Ophioparma_ventosa_MKm
-4 Miriquidica_leucophaea_MKm
-4 Lecidea_haerjedalica_MKm
-4 Fusciea_lowensis_MKm
-4 Fuscidea_scrupulosa_MKm
-4 Fuscidea_recensa_MKm
-4 Cladonia_ochrochlora_MKm
-4 Baeomyces_rufus_MKm
-4 Aspicilia_cinerea_MKm
-3 Xylographa_parellela_MKm
-3 Tuckermannopsis_sepincola_MKm
-3 Tremolecia_atrata_MKm
-3 Tephromela_atra_MKm
-3 Stereocaulon_symphycheilum_MKm
-3 Stereocaulon_plicatile_MKm
-3 Stereocaulon_nanodes_MKm
-3 Scoliciosporum_umbrinum_MKm
-3 Rhizocarpon_reductum_MKm
-3 Rhizocarpon_polycarpum_MKm
-3 Rhizocarpon_eupetraeum_MKm
-3 Punctelia_rudecta_MKm
-3 Porpidia_flavicunda_MKm
-3 Porpidia_crustulata_MKm
-3 Parmotrema_arnoldii_MKm
-3 Parmelia_omphalodes_MKm
-3 Miriquidica_pycnocarpa_MKm
-3 Melanohalea_septentrionalis_MKm
-3 Melanohalea_olivacea_MKm
-3 Melanohalea_halei_MKm
-3 Lepra_ophthalmiza_MKm
-3 Lecidella_wulfenii_MKm
-3 Lecidea_herteliana_MKm
-3 Dibaeis_baeomyces_MKm
-3 Cladonia_wainioi_MKm
-3 Cladonia_straminea_MKm
-3 Cladonia_macrophyllodes_MKm
-3 Cladonia_macrophylla_MKm
-3 Cladonia_ecmocyna_MKm
-2 Xylographa_vitiligo_MKm
-2 Xanthoparmelia_conspersa_MKm
-2 Usnea_dasopoga_MKm
-2 Umbilicaria_vellea_MKm
-2 Tuckermannopsis_americana_MKm
-2 Stereocaulon_saxatile_MKm
-2 Stereocaulon_condensatum_MKm
-2 Sporastatia_testudinea_MKm
-2 Scoliciosporum_intrusum_MKm
-2 Sarcogyne_clavus_MKm
-2 Rusavskia_elegans_MKm
-2 Ropalospora_chlorantha_MKm
-2 Rinodina_subminuta_MKm
-2 Rhizocarpon_superficiale_MKm
-2 Rhizocarpon_jemtlandicum_MKm
-2 Pyxine_sorediata_MKm
-2 Porpidia_rugosa_MKm
-2 Placynthiella_uliginosa_MKm
-2 Pertusaria_subdactylina_MKm
-2 Parmeliopsis_capitata_MKm
-2 Micarea_paratropa_MKm
-2 Micarea_marginata_MKm
-2 Micarea_leprosula_MKm
-2 Metamelanea_umbonata_MKm
-2 Melanohalea_exasperata_MKm
-2 Loxospora_ochrophaea_MKm
-2 Lichenomphalia_hudsoniana_MKm
-2 Lecidea_nylanderi_MKm
-2 Lecidea_lapicida_MKm
-2 Lecanora_monticola_MKm
-2 Lecanora_leptacina_MKm
-2 Lecanora_hybocarpa_MKm
-2 Lecanora_caesiosora_MKm
-2 Hymenelia_cyanocarpa_MKm
-2 Gyrographa_gyrocarpa_MKm
-2 Epilichen_scabrosus_MKm
-2 Ephebe_lanata_MKm
-2 Ephebe_hispidula_MKm
-2 Dimelaena_oreina_MKm
-2 Cladonia_verticillata_MKm
-2 Cladonia_rei_MKm
-2 Cladonia_merochlorophaea_MKm
-2 Cladonia_macilenta_MKm
-2 Cladonia_floerkeana_MKm
-2 Cladonia_cristatella_MKm
-2 Cladonia_cornuta_MKm
-2 Cladonia_boryi_MKm
-2 Cetraria_muricata_MKm
-2 Cetraria_aculeata_MKm
-2 Candelariella_vitellina_MKm
-2 Calicium_trabinellum_MKm
-2 Baeomyces_placophyllus_MKm
-2 Baeomyces_carneus_MKm
-2 Aspicilia_grisea_MKm
-2 Arthrorhaphis_alpina_MKm
-1 Xanthoparmelia_hypofusca_MKm
-1 Xanthoparmelia_angustiphylla_MKm
-1 Xanthomendoza_ulophyllodes_MKm
-1 Vulpicida_prunastri_MKm
-1 Verrucaria_hydrela_MKm
-1 Usnea_subrubicunda_MKm
-1 Usnea_subfloridana_MKm
-1 Umbilicaria_hirsuta_MKm
-1 Trapeliopsis_flexuosa_MKm
-1 Trapelia_glebulosa_MKm
-1 Trapelia_coarctata_MKm
-1 Tonina_squalescens_MKm
-1 Toensbergia_geminipara_MKm
-1 Thelidium_minutulum_MKm
-1 Sterocaulon_plicatile_MKm
-1 Stereocaulon_tomentosum_MKm
-1 Stereocaulon_pileatum_MKm
-1 Staurothele_fissa_MKm
-1 Squamulea_subsoluta_MKm
-1 Sporodictyon_cruentum_MKm
-1 Sporastatia_polyspora_MKm
-1 Spilonema_revertens_MKm
-1 Spilonema_paradoxum_MKm
-1 Scoliciosporum_chlorococcum_MKm
-1 Sclerococcum_attendendum_MKm
-1 Sarcoyne_clavus_MKm
-1 Ropalospora_viridis_MKm
-1 Rhizoplaca_subdiscrepans_MKm
-1 Rhizocarpon_timdalii_MKm
-1 Rhizocarpon_sylvaticum_MKm
-1 Rhizocarpon_subgeminatum_MKm
-1 Rhizocarpon_rubescens_MKm
-1 Rhizocarpon_grande_MKm
-1 Rhizocarpon_amphibium_MKm
-1 Rhizocarpon_alpicola_MKm
-1 Ramboldia_cinnabarina_MKm
-1 Ramalina_intermedia_MKm
-1 Pycnothelia_papillaris_MKm
-1 Pycnothelia_papillaria_MKm
-1 Protothelenella_corrosa_MKm
-1 Porpidia_macrocarpa_MKm
-1 Porpidia_grisea_MKm
-1 Porpidia_contraponenda_MKm
-1 Polycauliona_polycarpa_MKm
-1 Polyblastia_cruenta_MKm
-1 Placynthiella_oligotropha_MKm
-1 Placynthiella_oligotropa_MKm
-1 Placynthiella_icmalea_MKm
-1 Physcia_millegrana_MKm
-1 Physcia_dubia_MKm
-1 Phlyctis_speirea_MKm
-1 Phaeophyscia_rubropulchra_MKm
-1 Phaeophyscia_adiastola_MKm
-1 Phaeocalicium_flabelliforme_MKm
-1 Pertusaria_rubefacta_MKm
-1 Peltigera_evansiana_MKm
-1 Ochrolechia_trochophora_MKm
-1 Ochrolechia_pseudopallescens_MKm
-1 Ochrolechia_arborea_MKm
-1 Nephroma_helveticum_MKm
-1 Nephroma_bellum_MKm
-1 Myelochroa_aurulenta_MKm
-1 Mycoblastus_affinis_MKm
-1 Miriquidica_lulensis_MKm
-1 Micarea_melaena_MKm
-1 Micarea_coppinsii_MKm
-1 Melanelixia_subargentifera_MKm
-1 Lobaria_scrobiculata_MKm
-1 Lithographa_tesserata_MKm
-1 Leptogium_cyanescens_MKm
-1 Lepraria_finkii_MKm
-1 Lepra_trachythallina_MKm
-1 Lepra_subdactylina_MKm
-1 Lepra_dactylina_MKm
-1 Lepra_amara_MKm
-1 Lecidella_stigmatea_MKm
-1 Lecidea_swartzioides_MKm
-1 Lecidea_lactea_MKm
-1 Lecidea_brunneofusca_MKm
-1 Lecidea_auriculata_MKm
-1 Lecanora_saligna_MKm
-1 Lecanora_pulicaris_MKm
-1 Lecanora_fuscescens_MKm
-1 Lecanora_epibryon_MKm
-1 Lecanora_cenisia_MKm
-1 Lambiella_impavida_MKm
-1 Lambiella_gyrizans_MKm
-1 Japewia_tornoense_MKm
-1 Imshaugia_aleurites_MKm
-1 Hypogymnia_tubulosa_MKm
-1 Hypogymnia_incurvoides_MKm
-1 Gyalecta_russula_MKm
-1 Graphis_scripta_MKm
-1 Fuscidea_gothoburgensis_MKm
-1 Evernia_prunastri_MKm
-1 Epigloea_soleiformis_MKm
-1 Cryptodiscus_gloeocapsa_MKm
-1 Coenogonium_pineti_MKm
-1 Clauzadeana_macula_MKm
-1 Cladonia_subulata_MKm
-1 Cladonia_strepsilis_MKm
-1 Cladonia_scabriuscula_MKm
-1 Cladonia_ramulosa_MKm
-1 Cladonia_mitis_MKm
-1 Cladonia_incrassata_MKm
-1 Cladonia_decorticata_MKm
-1 Cladonia_chlorophaea_MKm
-1 Cladonia_carneola_MKm
-1 Cladonia_acuminata_MKm
-1 Cetraria_arenaria_MKm
-1 Carbonia_intrusa_MKm
-1 Carbonea_vorticosa_MKm
-1 Calvitimela_aglaea_MKm
-1 Caloplaca_lithophila_MKm
-1 Buellia_disciformis_MKm
-1 Bryoria_trichodes_MKm
-1 Bryoria_kockiana_MKm
-1 Bryoria_fuscescens_MKm
-1 Bryoria_americana_MKm
-1 Bellemerea_cinereorufescens_MKm
-1 Athallia_vitellinula_MKm
-1 Aspilidea_myrinii_MKm
-1 Arthrorhaphis_grisea_MKm
-1 Arthrorhaphis_citrinella_MKm
-1 Arthroraphis_citrinella_MKm
-1 Anaptychia_palmulata_MKm
-1 Adelolecia_kolaensis_MKm
-1 Acarospora_thamnina_MKm
-1 Acarospora_fuscata_MKm
+64 Cladonia_rangiferina_MKatm
+49 Cetraria_laevigata_MKatm
+30 Cladonia_squamosa_MKatm
+30 Cladonia_gracilis_MKatm
+28 Cladonia_amaurocraea_MKatm
+27 Melanelia_hepatizon_MKatm
+25 Mycoblastus_sanguinarioides_MKatm
+25 Flavocetraria_nivalis_MKatm
+24 Lasallia_papulosa_MKatm
+23 Umbilicaria_proboscidea_MKatm
+23 Cladonia_stellaris_MKatm
+23 Arctoparmelia_centrifuga_MKatm
+21 Rhizocarpon_geographicum_MKatm
+20 Flavocetraria_cucullata_MKatm
+19 Umbilicaria_deusta_MKatm
+17 Cetraria_islandica_MKatm
+16 Umbilicaria_torrefacta_MKatm
+16 Umbilicaria_hyperborea_MKatm
+16 Parmelia_saxatilis_MKatm
+16 Ochrolechia_frigida_MKatm
+15 Melanelia_stygia_MKatm
+15 Lecanora_polytropa_MKatm
+15 Cladonia_stygia_MKatm
+14 Vulpicida_pinastri_MKatm
+14 Fuscidea_lowensis_MKatm
+14 Cladonia_coccifera_MKatm
+14 Cetrariella_delisei_MKatm
+13 Usnocetraria_oakesiana_MKatm
+13 Platismatia_glauca_MKatm
+13 Parmeliopsis_hyperopta_MKatm
+13 Cladonia_uncialis_MKatm
+13 Cladonia_pleurota_MKatm
+12 Thamnolia_vermicularis_MKatm
+12 Sphaerophorus_fragilis_MKatm
+12 Fuscidea_appalachensis_MKatm
+11 Lecanora_placidensis_MKatm
+11 Icmadophila_ericetorum_MKatm
+11 Hypogymnia_physodes_MKatm
+11 Cladonia_crispata_MKatm
+10 Ropalospora_lugubris_MKatm
+10 Protoparmelia_cupreobadia_MKatm
+10 Porpidia_thomsonii_MKatm
+10 Orphniospora_moriopsis_MKatm
+10 Micarea_lignaria_MKatm
+10 Cladonia_arbuscula_MKatm
+9 Stereocaulon_glaucescens_MKatm
+9 Rhizocarpon_lavatum_MKatm
+9 Pseudevernia_cladonia_MKatm
+9 Porpidia_tuberculosa_MKatm
+9 Cladonia_maxima_MKatm
+8 Lecanora_symmicta_MKatm
+8 Lecanora_intricata_MKatm
+8 Lecanora_circumborealis_MKatm
+8 Helocarpon_crassipes_MKatm
+8 Cladonia_sulphurina_MKatm
+8 Bryobilimbia_hypnorum_MKatm
+7 Umbilicaria_muhlenbergii_MKatm
+7 Stereocaulon_alpinum_MKatm
+7 Rhizocarpon_infernulum_MKatm
+7 Rhizocarpon_badioatrum_MKatm
+7 Lepraria_neglecta_MKatm
+7 Lecanora_wisconsinensis_MKatm
+7 Ionaspis_lacustris_MKatm
+7 Fuscidea_arboricola_MKatm
+7 Cladonia_furcata_MKatm
+6 Stereocaulon_subcoralloides_MKatm
+6 Ricasolia_quercizans_MKatm
+6 Rhizocarpon_hochstetteri_MKatm
+6 Protomicarea_limosa_MKatm
+6 Parmeliopsis_ambigua_MKatm
+6 Parmelia_sulcata_MKatm
+6 Montanelia_panniformis_MKatm
+6 Lecidoma_demissum_MKatm
+6 Hypogymnia_krogiae_MKatm
+6 Cladonia_pocillum_MKatm
+6 Cecidonia_xenophana_MKatm
+5 Trapeliopsis_granulosa_MKatm
+5 Stereocaulon_paschale_MKatm
+5 Schaereria_fuscocinerea_MKatm
+5 Rhizocarpon_anaperum_MKatm
+5 Phaeocalicium_matthewsianum_MKatm
+5 Peltigera_polydactylon_MKatm
+5 Peltigera_aphthosa_MKatm
+5 Mycocalicium_subtile_MKatm
+5 Micarea_peliocarpa_MKatm
+5 Lobaria_pulmonaria_MKatm
+5 Fuscidea_mollis_MKatm
+5 Evernia_mesomorpha_MKatm
+5 Cladonia_deformis_MKatm
+5 Cladonia_coniocraea_MKatm
+5 Bryoria_nadvornikiana_MKatm
+5 Arctoparmelia_incurva_MKatm
+4 Umbilicaria_mammulata_MKatm
+4 Stereocaulon_dactylophyllum_MKatm
+4 Rhizocarpon_eupetraeoides_MKatm
+4 Pseudevernia_consocians_MKatm
+4 Protoparmelia_badia_MKatm
+4 Porpidia_superba_MKatm
+4 Porpidia_cinereoatra_MKatm
+4 Platismatia_tuckermanii_MKatm
+4 Phaeocalicium_compressulum_MKatm
+4 Pertusaria_consocians_MKatm
+4 Ophioparma_ventosa_MKatm
+4 Miriquidica_leucophaea_MKatm
+4 Lecidea_haerjedalica_MKatm
+4 Fusciea_lowensis_MKatm
+4 Fuscidea_scrupulosa_MKatm
+4 Fuscidea_recensa_MKatm
+4 Cladonia_ochrochlora_MKatm
+4 Baeomyces_rufus_MKatm
+4 Aspicilia_cinerea_MKatm
+3 Xylographa_parellela_MKatm
+3 Tuckermannopsis_sepincola_MKatm
+3 Tremolecia_atrata_MKatm
+3 Tephromela_atra_MKatm
+3 Stereocaulon_symphycheilum_MKatm
+3 Stereocaulon_plicatile_MKatm
+3 Stereocaulon_nanodes_MKatm
+3 Scoliciosporum_umbrinum_MKatm
+3 Rhizocarpon_reductum_MKatm
+3 Rhizocarpon_polycarpum_MKatm
+3 Rhizocarpon_eupetraeum_MKatm
+3 Punctelia_rudecta_MKatm
+3 Porpidia_flavicunda_MKatm
+3 Porpidia_crustulata_MKatm
+3 Parmotrema_arnoldii_MKatm
+3 Parmelia_omphalodes_MKatm
+3 Miriquidica_pycnocarpa_MKatm
+3 Melanohalea_septentrionalis_MKatm
+3 Melanohalea_olivacea_MKatm
+3 Melanohalea_halei_MKatm
+3 Lepra_ophthalmiza_MKatm
+3 Lecidella_wulfenii_MKatm
+3 Lecidea_herteliana_MKatm
+3 Dibaeis_baeomyces_MKatm
+3 Cladonia_wainioi_MKatm
+3 Cladonia_straminea_MKatm
+3 Cladonia_macrophyllodes_MKatm
+3 Cladonia_macrophylla_MKatm
+3 Cladonia_ecmocyna_MKatm
+2 Xylographa_vitiligo_MKatm
+2 Xanthoparmelia_conspersa_MKatm
+2 Usnea_dasopoga_MKatm
+2 Umbilicaria_vellea_MKatm
+2 Tuckermannopsis_americana_MKatm
+2 Stereocaulon_saxatile_MKatm
+2 Stereocaulon_condensatum_MKatm
+2 Sporastatia_testudinea_MKatm
+2 Scoliciosporum_intrusum_MKatm
+2 Sarcogyne_clavus_MKatm
+2 Rusavskia_elegans_MKatm
+2 Ropalospora_chlorantha_MKatm
+2 Rinodina_subminuta_MKatm
+2 Rhizocarpon_superficiale_MKatm
+2 Rhizocarpon_jemtlandicum_MKatm
+2 Pyxine_sorediata_MKatm
+2 Porpidia_rugosa_MKatm
+2 Placynthiella_uliginosa_MKatm
+2 Pertusaria_subdactylina_MKatm
+2 Parmeliopsis_capitata_MKatm
+2 Micarea_paratropa_MKatm
+2 Micarea_marginata_MKatm
+2 Micarea_leprosula_MKatm
+2 Metamelanea_umbonata_MKatm
+2 Melanohalea_exasperata_MKatm
+2 Loxospora_ochrophaea_MKatm
+2 Lichenomphalia_hudsoniana_MKatm
+2 Lecidea_nylanderi_MKatm
+2 Lecidea_lapicida_MKatm
+2 Lecanora_monticola_MKatm
+2 Lecanora_leptacina_MKatm
+2 Lecanora_hybocarpa_MKatm
+2 Lecanora_caesiosora_MKatm
+2 Hymenelia_cyanocarpa_MKatm
+2 Gyrographa_gyrocarpa_MKatm
+2 Epilichen_scabrosus_MKatm
+2 Ephebe_lanata_MKatm
+2 Ephebe_hispidula_MKatm
+2 Dimelaena_oreina_MKatm
+2 Cladonia_verticillata_MKatm
+2 Cladonia_rei_MKatm
+2 Cladonia_merochlorophaea_MKatm
+2 Cladonia_macilenta_MKatm
+2 Cladonia_floerkeana_MKatm
+2 Cladonia_cristatella_MKatm
+2 Cladonia_cornuta_MKatm
+2 Cladonia_boryi_MKatm
+2 Cetraria_muricata_MKatm
+2 Cetraria_aculeata_MKatm
+2 Candelariella_vitellina_MKatm
+2 Calicium_trabinellum_MKatm
+2 Baeomyces_placophyllus_MKatm
+2 Baeomyces_carneus_MKatm
+2 Aspicilia_grisea_MKatm
+2 Arthrorhaphis_alpina_MKatm
+1 Xanthoparmelia_hypofusca_MKatm
+1 Xanthoparmelia_angustiphylla_MKatm
+1 Xanthomendoza_ulophyllodes_MKatm
+1 Vulpicida_prunastri_MKatm
+1 Verrucaria_hydrela_MKatm
+1 Usnea_subrubicunda_MKatm
+1 Usnea_subfloridana_MKatm
+1 Umbilicaria_hirsuta_MKatm
+1 Trapeliopsis_flexuosa_MKatm
+1 Trapelia_glebulosa_MKatm
+1 Trapelia_coarctata_MKatm
+1 Tonina_squalescens_MKatm
+1 Toensbergia_geminipara_MKatm
+1 Thelidium_minutulum_MKatm
+1 Sterocaulon_plicatile_MKatm
+1 Stereocaulon_tomentosum_MKatm
+1 Stereocaulon_pileatum_MKatm
+1 Staurothele_fissa_MKatm
+1 Squamulea_subsoluta_MKatm
+1 Sporodictyon_cruentum_MKatm
+1 Sporastatia_polyspora_MKatm
+1 Spilonema_revertens_MKatm
+1 Spilonema_paradoxum_MKatm
+1 Scoliciosporum_chlorococcum_MKatm
+1 Sclerococcum_attendendum_MKatm
+1 Sarcoyne_clavus_MKatm
+1 Ropalospora_viridis_MKatm
+1 Rhizoplaca_subdiscrepans_MKatm
+1 Rhizocarpon_timdalii_MKatm
+1 Rhizocarpon_sylvaticum_MKatm
+1 Rhizocarpon_subgeminatum_MKatm
+1 Rhizocarpon_rubescens_MKatm
+1 Rhizocarpon_grande_MKatm
+1 Rhizocarpon_amphibium_MKatm
+1 Rhizocarpon_alpicola_MKatm
+1 Ramboldia_cinnabarina_MKatm
+1 Ramalina_intermedia_MKatm
+1 Pycnothelia_papillaris_MKatm
+1 Pycnothelia_papillaria_MKatm
+1 Protothelenella_corrosa_MKatm
+1 Porpidia_macrocarpa_MKatm
+1 Porpidia_grisea_MKatm
+1 Porpidia_contraponenda_MKatm
+1 Polycauliona_polycarpa_MKatm
+1 Polyblastia_cruenta_MKatm
+1 Placynthiella_oligotropha_MKatm
+1 Placynthiella_oligotropa_MKatm
+1 Placynthiella_icmalea_MKatm
+1 Physcia_millegrana_MKatm
+1 Physcia_dubia_MKatm
+1 Phlyctis_speirea_MKatm
+1 Phaeophyscia_rubropulchra_MKatm
+1 Phaeophyscia_adiastola_MKatm
+1 Phaeocalicium_flabelliforme_MKatm
+1 Pertusaria_rubefacta_MKatm
+1 Peltigera_evansiana_MKatm
+1 Ochrolechia_trochophora_MKatm
+1 Ochrolechia_pseudopallescens_MKatm
+1 Ochrolechia_arborea_MKatm
+1 Nephroma_helveticum_MKatm
+1 Nephroma_bellum_MKatm
+1 Myelochroa_aurulenta_MKatm
+1 Mycoblastus_affinis_MKatm
+1 Miriquidica_lulensis_MKatm
+1 Micarea_melaena_MKatm
+1 Micarea_coppinsii_MKatm
+1 Melanelixia_subargentifera_MKatm
+1 Lobaria_scrobiculata_MKatm
+1 Lithographa_tesserata_MKatm
+1 Leptogium_cyanescens_MKatm
+1 Lepraria_finkii_MKatm
+1 Lepra_trachythallina_MKatm
+1 Lepra_subdactylina_MKatm
+1 Lepra_dactylina_MKatm
+1 Lepra_amara_MKatm
+1 Lecidella_stigmatea_MKatm
+1 Lecidea_swartzioides_MKatm
+1 Lecidea_lactea_MKatm
+1 Lecidea_brunneofusca_MKatm
+1 Lecidea_auriculata_MKatm
+1 Lecanora_saligna_MKatm
+1 Lecanora_pulicaris_MKatm
+1 Lecanora_fuscescens_MKatm
+1 Lecanora_epibryon_MKatm
+1 Lecanora_cenisia_MKatm
+1 Lambiella_impavida_MKatm
+1 Lambiella_gyrizans_MKatm
+1 Japewia_tornoense_MKatm
+1 Imshaugia_aleurites_MKatm
+1 Hypogymnia_tubulosa_MKatm
+1 Hypogymnia_incurvoides_MKatm
+1 Gyalecta_russula_MKatm
+1 Graphis_scripta_MKatm
+1 Fuscidea_gothoburgensis_MKatm
+1 Evernia_prunastri_MKatm
+1 Epigloea_soleiformis_MKatm
+1 Cryptodiscus_gloeocapsa_MKatm
+1 Coenogonium_pineti_MKatm
+1 Clauzadeana_macula_MKatm
+1 Cladonia_subulata_MKatm
+1 Cladonia_strepsilis_MKatm
+1 Cladonia_scabriuscula_MKatm
+1 Cladonia_ramulosa_MKatm
+1 Cladonia_mitis_MKatm
+1 Cladonia_incrassata_MKatm
+1 Cladonia_decorticata_MKatm
+1 Cladonia_chlorophaea_MKatm
+1 Cladonia_carneola_MKatm
+1 Cladonia_acuminata_MKatm
+1 Cetraria_arenaria_MKatm
+1 Carbonia_intrusa_MKatm
+1 Carbonea_vorticosa_MKatm
+1 Calvitimela_aglaea_MKatm
+1 Caloplaca_lithophila_MKatm
+1 Buellia_disciformis_MKatm
+1 Bryoria_trichodes_MKatm
+1 Bryoria_kockiana_MKatm
+1 Bryoria_fuscescens_MKatm
+1 Bryoria_americana_MKatm
+1 Bellemerea_cinereorufescens_MKatm
+1 Athallia_vitellinula_MKatm
+1 Aspilidea_myrinii_MKatm
+1 Arthrorhaphis_grisea_MKatm
+1 Arthrorhaphis_citrinella_MKatm
+1 Arthroraphis_citrinella_MKatm
+1 Anaptychia_palmulata_MKatm
+1 Adelolecia_kolaensis_MKatm
+1 Acarospora_thamnina_MKatm
+1 Acarospora_fuscata_MKatm
 
 ---
 ## New_Hampshire ##
@@ -1545,437 +1545,437 @@ Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records ex
 
 Mt._Washington_massif TAXA . - genus-only records excluded
 
-136 Umbilicaria_proboscidea_MWm
-115 Cetraria_islandica_MWm
-112 Umbilicaria_hyperborea_MWm
-112 Thamnolia_vermicularis_MWm
-112 Flavocetraria_cucullata_MWm
-106 Flavocetraria_nivalis_MWm
-101 Arctoparmelia_centrifuga_MWm
-88 Sphaerophorus_fragilis_MWm
-86 Platismatia_glauca_MWm
-83 Hypogymnia_physodes_MWm
-74 Cladonia_rangiferina_MWm
-73 Melanelia_hepatizon_MWm
-73 Cetraria_laevigata_MWm
-71 Parmelia_saxatilis_MWm
-71 Cladonia_squamosa_MWm
-67 Cladonia_gracilis_MWm
-65 Cetrariella_delisei_MWm
-64 Mycoblastus_sanguinarioides_MWm
-62 Usnocetraria_oakesiana_MWm
-60 Hypogymnia_krogiae_MWm
-60 Cladonia_uncialis_MWm
-55 Rhizocarpon_geographicum_MWm
-49 Lecidoma_demissum_MWm
-47 Cladonia_stellaris_MWm
-46 Vulpicida_pinastri_MWm
-45 Stereocaulon_glaucescens_MWm
-45 Ochrolechia_frigida_MWm
-44 Melanelia_stygia_MWm
-43 Pseudevernia_cladonia_MWm
-41 Evernia_mesomorpha_MWm
-40 Cladonia_amaurocraea_MWm
-38 Umbilicaria_deusta_MWm
-38 Lasallia_papulosa_MWm
-36 Parmeliopsis_hyperopta_MWm
-36 Icmadophila_ericetorum_MWm
-36 Cetraria_aculeata_MWm
-35 Trapeliopsis_granulosa_MWm
-32 Mycocalicium_subtile_MWm
-31 Parmelia_sulcata_MWm
-31 Cladonia_pleurota_MWm
-30 Ophioparma_ventosa_MWm
-29 Bryoria_nadvornikiana_MWm
-28 Porpidia_crustulata_MWm
-27 Pertusaria_subobducens_MWm
-27 Lecanora_polytropa_MWm
-27 Cladonia_deformis_MWm
-26 Sphaerophorus_globosus_MWm
-26 Cladonia_furcata_MWm
-25 Umbilicaria_torrefacta_MWm
-25 Pseudevernia_consocians_MWm
-24 Tuckermannopsis_orbata_MWm
-24 Pycnothelia_papillaria_MWm
-24 Parmeliopsis_ambigua_MWm
-23 Cladonia_stygia_MWm
-23 Calicium_trabinellum_MWm
-22 Orphniospora_moriopsis_MWm
-21 Tuckermannopsis_ciliaris_MWm
-21 Stereocaulon_saxatile_MWm
-21 Lichenomphalia_hudsoniana_MWm
-21 Hypogymnia_tubulosa_MWm
-20 Usnea_dasopoga_MWm
-20 Peltigera_polydactylon_MWm
-20 Micarea_lignaria_MWm
-20 Cladonia_arbuscula_MWm
-19 Umbilicaria_muhlenbergii_MWm
-19 Stereocaulon_paschale_MWm
-19 Stereocaulon_dactylophyllum_MWm
-19 Lobaria_pulmonaria_MWm
-19 Cladonia_coniocraea_MWm
-19 Chaenotheca_ferruginea_MWm
-18 Chaenotheca_trichialis_MWm
-17 Cladonia_macilenta_MWm
-17 Cladonia_floerkeana_MWm
-17 Chaenotheca_brunneola_MWm
-16 Tuckermannopsis_sepincola_MWm
-16 Lecanora_intricata_MWm
-16 Cladonia_coccifera_MWm
-15 Stenocybe_major_MWm
-15 Nephroma_arcticum_MWm
-15 Graphis_scripta_MWm
-15 Cetraria_arenaria_MWm
-15 Alectoria_sarmentosa_MWm
-14 Loxospora_ochrophaea_MWm
-14 Cladonia_sulphurina_MWm
-14 Cladonia_phyllophora_MWm
-13 Peltigera_aphthosa_MWm
-13 Melanohalea_halei_MWm
-13 Melanelixia_subaurifera_MWm
-13 Loxospora_elatina_MWm
-13 Lecanora_pulicaris_MWm
-13 Fuscidea_lowensis_MWm
-13 Cladonia_cornuta_MWm
-12 Placynthiella_oligotropha_MWm
-12 Cladonia_mitis_MWm
-12 Calicium_glaucellum_MWm
-12 Bryoria_furcellata_MWm
-11 Stereocaulon_tomentosum_MWm
-11 Cresponea_chloroconia_MWm
-11 Cladonia_chlorophaea_MWm
-11 Cladonia_caespiticia_MWm
-10 Usnea_subfloridana_MWm
-10 Ropalospora_chlorantha_MWm
-10 Protoparmelia_badia_MWm
-10 Normandina_pulchella_MWm
-10 Imshaugia_aleurites_MWm
-10 Cladonia_straminea_MWm
-10 Cladonia_ochrochlora_MWm
-10 Calicium_salicinum_MWm
-10 Calicium_parvum_MWm
-10 Baeomyces_rufus_MWm
-9 Umbilicaria_mammulata_MWm
-9 Porpidia_macrocarpa_MWm
-9 Phaeocalicium_matthewsianum_MWm
-9 Cladonia_crispata_MWm
-9 Chaenotheca_xyloxena_MWm
-9 Carbonea_vorticosa_MWm
-8 Xanthoparmelia_viriduloumbrina_MWm
-8 Usnea_hirta_MWm
-8 Stereocaulon_alpinum_MWm
-8 Punctelia_rudecta_MWm
-8 Protoparmelia_atriseda_MWm
-8 Platismatia_tuckermanii_MWm
-8 Parmelia_omphalodes_MWm
-8 Lecanora_wisconsinensis_MWm
-8 Lecanora_thysanophora_MWm
-8 Lecanora_symmicta_MWm
-8 Lecanora_allophana_MWm
-8 Frutidella_caesioatra_MWm
-8 Cladonia_merochlorophaea_MWm
-8 Cladonia_digitata_MWm
-8 Cladonia_cristatella_MWm
-8 Chaenothecopsis_pusilla_MWm
-8 Buellia_erubescens_MWm
-8 Aspicilia_cinerea_MWm
-7 Usnea_strigosa_MWm
-7 Tuckermannopsis_americana_MWm
-7 Rhizocarpon_hochstetteri_MWm
-7 Pyxine_sorediata_MWm
-7 Phaeophyscia_rubropulchra_MWm
-7 Parmelia_squarrosa_MWm
-7 Nephroma_resupinatum_MWm
-7 Micarea_melaena_MWm
-7 Lepraria_neglecta_MWm
-7 Dibaeis_baeomyces_MWm
-7 Cladonia_ecmocyna_MWm
-7 Chaenothecopsis_debilis_MWm
-7 Cetrelia_olivetorum_MWm
-7 Cetraria_ericetorum_MWm
-7 Biatora_vernalis_MWm
-7 Acarospora_fuscata_MWm
-6 Varicellaria_velata_MWm
-6 Usnea_barbata_MWm
-6 Psoroma_hypnorum_MWm
-6 Ochrolechia_tartarea_MWm
-6 Lecidea_tessellata_MWm
-6 Cladonia_trassii_MWm
-6 Cladonia_pocillum_MWm
-6 Cladonia_maxima_MWm
-6 Chaenotheca_chrysocephala_MWm
-5 Stictis_urceolatum_MWm
-5 Stereocaulon_nanodes_MWm
-5 Stereocaulon_condensatum_MWm
-5 Ricasolia_quercizans_MWm
-5 Rhizocarpon_oederi_MWm
-5 Porpidia_contraponenda_MWm
-5 Ophioparma_lapponica_MWm
-5 Melanohalea_septentrionalis_MWm
-5 Lepra_trachythallina_MWm
-5 Lecidella_stigmatea_MWm
-5 Lecidea_plana_MWm
-5 Cladonia_verticillata_MWm
-5 Cladonia_fimbriata_MWm
-5 Cladonia_boryi_MWm
-5 Baeomyces_placophyllus_MWm
-5 Arthrorhaphis_citrinella_MWm
-4 Umbilicaria_vellea_MWm
-4 Umbilicaria_cylindrica_MWm
-4 Trapeliopsis_gelatinosa_MWm
-4 Scoliciosporum_chlorococcum_MWm
-4 Placynthiella_icmalea_MWm
-4 Nephroma_parile_MWm
-4 Myelochroa_aurulenta_MWm
-4 Loxospora_cismonica_MWm
-4 Lopadium_disciforme_MWm
-4 Leptogium_cyanescens_MWm
-4 Lepra_dactylina_MWm
-4 Lepra_amara_MWm
-4 Lecanora_circumborealis_MWm
-4 Fuscidea_scrupulosa_MWm
-4 Fuscidea_recensa_MWm
-4 Dolichousnea_longissima_MWm
-4 Chaenothecopsis_viridireagens_MWm
-4 Chaenothecopsis_pusiola_MWm
-4 Chaenothecopsis_nana_MWm
-4 Buellia_arnoldii_MWm
-4 Acarospora_sinopica_MWm
-3 Xanthoparmelia_cumberlandia_MWm
-3 Usnea_trichodea_MWm
-3 Usnea_ceratina_MWm
-3 Usnea_cavernosa_MWm
-3 Trapeliopsis_viridescens_MWm
-3 Trapelia_coarctata_MWm
-3 Toninia_squalescens_MWm
-3 Stereocaulon_pileatum_MWm
-3 Staurothele_fissa_MWm
-3 Rhizocarpon_eupetraeoides_MWm
-3 Ramalina_americana_MWm
-3 Pyrenula_pseudobufonia_MWm
-3 Porpidia_flavicunda_MWm
-3 Pertusaria_consocians_MWm
-3 Peltigera_leucophlebia_MWm
-3 Peltigera_hydrothyria_MWm
-3 Parmelia_fertilis_MWm
-3 Ochrolechia_pseudopallescens_MWm
-3 Ochrolechia_androgyna_MWm
-3 Myelochroa_galbina_MWm
-3 Montanelia_panniformis_MWm
-3 Microcalicium_ahlneri_MWm
-3 Micarea_prasina_MWm
-3 Micarea_peliocarpa_MWm
-3 Melanohalea_olivacea_MWm
-3 Lepraria_finkii_MWm
-3 Lecidella_euphorea_MWm
-3 Lecidea_lapicida_MWm
-3 Japewia_tornoensis_MWm
-3 Hypogymnia_vittata_MWm
-3 Heterodermia_speciosa_MWm
-3 Flavopunctelia_soredica_MWm
-3 Flavoparmelia_baltimorensis_MWm
-3 Ephebe_lanata_MWm
-3 Cresponea_premnea_MWm
-3 Coenogonium_pineti_MWm
-3 Cladonia_wainioi_MWm
-3 Cladonia_ramulosa_MWm
-3 Cladonia_piedmontensis_MWm
-3 Cladonia_multiformis_MWm
-3 Cladonia_macrophylla_MWm
-3 Cladonia_cenotea_MWm
-3 Cetraria_muricata_MWm
-3 Buellia_disciformis_MWm
-3 Bryoria_trichodes_MWm
-3 Bryoria_fuscescens_MWm
-3 Bryobilimbia_diapensiae_MWm
-3 Biatora_pycnidiata_MWm
-3 Arctoparmelia_incurva_MWm
-2 Xanthoparmelia_hypofusca_MWm
-2 Xanthoparmelia_conspersa_MWm
-2 Umbilicaria_virginis_MWm
-2 Tremolecia_atrata_MWm
-2 Trapelia_glebulosa_MWm
-2 Stereocaulon_tennesseense_MWm
-2 Ropalospora_lugubris_MWm
-2 Rhizocarpon_polycarpum_MWm
-2 Rhizocarpon_petraeum_MWm
-2 Rhizocarpon_lecanorinum_MWm
-2 Rhizocarpon_infernulum_MWm
-2 Rhizocarpon_grande_MWm
-2 Rhizocarpon_cinereovirens_MWm
-2 Rhizocarpon_badioatrum_MWm
-2 Rhizocarpon_anaperum_MWm
-2 Ramalina_farinacea_MWm
-2 Racodium_rupestre_MWm
-2 Protoparmelia_cupreobadia_MWm
-2 Protopannaria_pezizoides_MWm
-2 Porpidia_cinereoatra_MWm
-2 Porpidia_albocaerulescens_MWm
-2 Placynthiella_uliginosa_MWm
-2 Phaeophyscia_orbicularis_MWm
-2 Phaeocalicium_curtisii_MWm
-2 Pertusaria_propinqua_MWm
-2 Pertusaria_leioplaca_MWm
-2 Peltigera_rufescens_MWm
-2 Peltigera_didactyla_MWm
-2 Peltigera_canina_MWm
-2 Parmeliopsis_capitata_MWm
-2 Ochrolechia_arborea_MWm
-2 Microcalicium_disseminatum_MWm
-2 Melanohalea_exasperata_MWm
-2 Melanelixia_glabratula_MWm
-2 Lobaria_scrobiculata_MWm
-2 Leptorhaphis_epidermidis_MWm
-2 Lepra_ophthalmiza_MWm
-2 Lecidella_wulfenii_MWm
-2 Lecidella_patavina_MWm
-2 Lecidea_commaculans_MWm
-2 Lecanora_hybocarpa_MWm
-2 Lecanora_glabrata_MWm
-2 Lecanora_chlarotera_MWm
-2 Julella_sericea_MWm
-2 Hypogymnia_incurvoides_MWm
-2 Hypogymnia_austerodes_MWm
-2 Hyperphyscia_syncolla_MWm
-2 Fuscidea_arboricola_MWm
-2 Dimelaena_oreina_MWm
-2 Cladonia_terrae-novae_MWm
-2 Cladonia_scabriuscula_MWm
-2 Cladonia_rei_MWm
-2 Cladonia_pyxidata_MWm
-2 Cladonia_labradorica_MWm
-2 Cladonia_diversa_MWm
-2 Cladonia_dimorphoclada_MWm
-2 Cladonia_decorticata_MWm
-2 Cladonia_cyanipes_MWm
-2 Circinaria_gibbosa_MWm
-2 Chaenotheca_stemonea_MWm
-2 Calicium_lenticulare_MWm
-2 Bilimbia_sabuletorum_MWm
-2 Arthothelium_ruanum_MWm
-1 Xylopsora_friesii_MWm
-1 Xylographa_parallela_MWm
-1 Vulpicida_viridis_MWm
-1 Vahliella_leucophaea_MWm
-1 Usnea_rubicunda_MWm
-1 Umbilicaria_americana_MWm
-1 Tuckermanella_fendleri_MWm
-1 Trapeliopsis_flexuosa_MWm
-1 Toensbergia_geminipara_MWm
-1 Stereocaulon_subcoralloides_MWm
-1 Stereocaulon_leucophaeopsis_MWm
-1 Sporastatia_testudinea_MWm
-1 Schaereria_fuscocinerea_MWm
-1 Schaereria_cinereorufa_MWm
-1 Rinodina_turfacea_MWm
-1 Rhizoplaca_subdiscrepans_MWm
-1 Rhizoplaca_chrysoleuca_MWm
-1 Rhizocarpon_subgeminatum_MWm
-1 Rhizocarpon_reductum_MWm
-1 Ramalina_intermedia_MWm
-1 Ramalina_dilacerata_MWm
-1 Protothelenella_santessonii_MWm
-1 Protothelenella_corrosa_MWm
-1 Protoparmelia_nephaea_MWm
-1 Porpidia_speirea_MWm
-1 Porpidia_lowiana_MWm
-1 Polyblastia_gothica_MWm
-1 Placynthiella_dasaea_MWm
-1 Placopsis_lambii_MWm
-1 Placidiopsis_minor_MWm
-1 Physconia_muscigena_MWm
-1 Physconia_enteroxantha_MWm
-1 Physconia_detersa_MWm
-1 Physcia_thomsoniana_MWm
-1 Physcia_tenella_MWm
-1 Physcia_aipolia_MWm
-1 Phaeocalicium_flabelliforme_MWm
-1 Phaeocalicium_compressulum_MWm
-1 Pertusaria_multipunctoides_MWm
-1 Pertusaria_macounii_MWm
-1 Peltigera_praetextata_MWm
-1 Peltigera_membranacea_MWm
-1 Peltigera_horizontalis_MWm
-1 Peligera_polydactylon_MWm
-1 Parmelia_neodiscordans_MWm
-1 Pannaria_tavaresii_MWm
-1 Ochrolechia_yasudae_MWm
-1 Ochrolechia_trochophora_MWm
-1 Ochrolechia_mahluensis_MWm
-1 Nephroma_helveticum_MWm
-1 Nephroma_bellum_MWm
-1 Naetrocymbe_punctiformis_MWm
-1 Myriolecis_sambuci_MWm
-1 Mycocalicium_albonigrum_MWm
-1 Mycoblastus_alpinus_MWm
-1 Mycobilimbia_albohyalina_MWm
-1 Miriquidica_pycnocarpa_MWm
-1 Micarea_turfosa_MWm
-1 Micarea_rhabdogena_MWm
-1 Micarea_globulosella_MWm
-1 Micarea_elachista_MWm
-1 Menegazzia_terebrata_MWm
-1 Megaspora_verrucosa_MWm
-1 Lepraria_rigidula_MWm
-1 Lepra_waghornei_MWm
-1 Lecidea_varians_MWm
-1 Lecidea_fuscoatra_MWm
-1 Lecidea_confluens_MWm
-1 Lecidea_albofuscescens_MWm
-1 Lecanora_placidensis_MWm
-1 Lecanora_marginata_MWm
-1 Lecanora_chlorophaeodes_MWm
-1 Lecanora_argentata_MWm
-1 Lecanora_albellula_MWm
-1 Ionaspis_lacustris_MWm
-1 Imshaugia_placorodia_MWm
-1 Hydropunctaria_maura_MWm
-1 Flavoparmelia_caperata_MWm
-1 Evernia_prunastri_MWm
-1 Elixia_flexella_MWm
-1 Diploschistes_scruposus_MWm
-1 Dermatocarpon_luridum_MWm
-1 Dactylina_arctica_MWm
-1 Cryptodiscus_gloeocapsa_MWm
-1 Coenogonium_luteum_MWm
-1 Cliostomum_leprosum_MWm
-1 Clauzadeana_macula_MWm
-1 Claurouxia_chalybeioides_MWm
-1 Cladonia_subulata_MWm
-1 Cladonia_subcariosa_MWm
-1 Cladonia_macrophyllodes_MWm
-1 Cladonia_macroceras_MWm
-1 Cladonia_apodocarpa_MWm
-1 Circinaria_caesiocinerea_MWm
-1 Chaenothecopsis_savonica_MWm
-1 Chaenotheca_sphaerocephala_MWm
-1 Chaenotheca_obscura_MWm
-1 Chaenotheca_laevigata_MWm
-1 Chaenotheca_furfuracea_MWm
-1 Catolechia_wahlenbergii_MWm
-1 Calvitimela_aglaea_MWm
-1 Caloplaca_cerina_MWm
-1 Caloplaca_ahtii_MWm
-1 Calicium_tigillare_MWm
-1 Calicium_pinastri_MWm
-1 Calicium_abietinum_MWm
-1 Bryoria_pseudofuscescens_MWm
-1 Bryoria_bicolor_MWm
-1 Bryoria_americana_MWm
-1 Brianaria_bauschiana_MWm
-1 Biatora_meiocarpa_MWm
-1 Biatora_longispora_MWm
-1 Biatora_efflorescens_MWm
-1 Bacidia_schweinitzii_MWm
-1 Bacidia_laurocerasi_MWm
-1 Bacidia_bagliettoana_MWm
-1 Athallia_holocarpa_MWm
-1 Arthonia_glebosa_MWm
-1 Arthonia_didyma_MWm
-1 Amandinea_punctata_MWm
-1 Alectoria_ochroleuca_MWm
-1 Alectoria_fallacina_MWm
-1 Ahtiana_aurescens_MWm
+136 Umbilicaria_proboscidea_MWasm
+115 Cetraria_islandica_MWasm
+112 Umbilicaria_hyperborea_MWasm
+112 Thamnolia_vermicularis_MWasm
+112 Flavocetraria_cucullata_MWasm
+106 Flavocetraria_nivalis_MWasm
+101 Arctoparmelia_centrifuga_MWasm
+88 Sphaerophorus_fragilis_MWasm
+86 Platismatia_glauca_MWasm
+83 Hypogymnia_physodes_MWasm
+74 Cladonia_rangiferina_MWasm
+73 Melanelia_hepatizon_MWasm
+73 Cetraria_laevigata_MWasm
+71 Parmelia_saxatilis_MWasm
+71 Cladonia_squamosa_MWasm
+67 Cladonia_gracilis_MWasm
+65 Cetrariella_delisei_MWasm
+64 Mycoblastus_sanguinarioides_MWasm
+62 Usnocetraria_oakesiana_MWasm
+60 Hypogymnia_krogiae_MWasm
+60 Cladonia_uncialis_MWasm
+55 Rhizocarpon_geographicum_MWasm
+49 Lecidoma_demissum_MWasm
+47 Cladonia_stellaris_MWasm
+46 Vulpicida_pinastri_MWasm
+45 Stereocaulon_glaucescens_MWasm
+45 Ochrolechia_frigida_MWasm
+44 Melanelia_stygia_MWasm
+43 Pseudevernia_cladonia_MWasm
+41 Evernia_mesomorpha_MWasm
+40 Cladonia_amaurocraea_MWasm
+38 Umbilicaria_deusta_MWasm
+38 Lasallia_papulosa_MWasm
+36 Parmeliopsis_hyperopta_MWasm
+36 Icmadophila_ericetorum_MWasm
+36 Cetraria_aculeata_MWasm
+35 Trapeliopsis_granulosa_MWasm
+32 Mycocalicium_subtile_MWasm
+31 Parmelia_sulcata_MWasm
+31 Cladonia_pleurota_MWasm
+30 Ophioparma_ventosa_MWasm
+29 Bryoria_nadvornikiana_MWasm
+28 Porpidia_crustulata_MWasm
+27 Pertusaria_subobducens_MWasm
+27 Lecanora_polytropa_MWasm
+27 Cladonia_deformis_MWasm
+26 Sphaerophorus_globosus_MWasm
+26 Cladonia_furcata_MWasm
+25 Umbilicaria_torrefacta_MWasm
+25 Pseudevernia_consocians_MWasm
+24 Tuckermannopsis_orbata_MWasm
+24 Pycnothelia_papillaria_MWasm
+24 Parmeliopsis_ambigua_MWasm
+23 Cladonia_stygia_MWasm
+23 Calicium_trabinellum_MWasm
+22 Orphniospora_moriopsis_MWasm
+21 Tuckermannopsis_ciliaris_MWasm
+21 Stereocaulon_saxatile_MWasm
+21 Lichenomphalia_hudsoniana_MWasm
+21 Hypogymnia_tubulosa_MWasm
+20 Usnea_dasopoga_MWasm
+20 Peltigera_polydactylon_MWasm
+20 Micarea_lignaria_MWasm
+20 Cladonia_arbuscula_MWasm
+19 Umbilicaria_muhlenbergii_MWasm
+19 Stereocaulon_paschale_MWasm
+19 Stereocaulon_dactylophyllum_MWasm
+19 Lobaria_pulmonaria_MWasm
+19 Cladonia_coniocraea_MWasm
+19 Chaenotheca_ferruginea_MWasm
+18 Chaenotheca_trichialis_MWasm
+17 Cladonia_macilenta_MWasm
+17 Cladonia_floerkeana_MWasm
+17 Chaenotheca_brunneola_MWasm
+16 Tuckermannopsis_sepincola_MWasm
+16 Lecanora_intricata_MWasm
+16 Cladonia_coccifera_MWasm
+15 Stenocybe_major_MWasm
+15 Nephroma_arcticum_MWasm
+15 Graphis_scripta_MWasm
+15 Cetraria_arenaria_MWasm
+15 Alectoria_sarmentosa_MWasm
+14 Loxospora_ochrophaea_MWasm
+14 Cladonia_sulphurina_MWasm
+14 Cladonia_phyllophora_MWasm
+13 Peltigera_aphthosa_MWasm
+13 Melanohalea_halei_MWasm
+13 Melanelixia_subaurifera_MWasm
+13 Loxospora_elatina_MWasm
+13 Lecanora_pulicaris_MWasm
+13 Fuscidea_lowensis_MWasm
+13 Cladonia_cornuta_MWasm
+12 Placynthiella_oligotropha_MWasm
+12 Cladonia_mitis_MWasm
+12 Calicium_glaucellum_MWasm
+12 Bryoria_furcellata_MWasm
+11 Stereocaulon_tomentosum_MWasm
+11 Cresponea_chloroconia_MWasm
+11 Cladonia_chlorophaea_MWasm
+11 Cladonia_caespiticia_MWasm
+10 Usnea_subfloridana_MWasm
+10 Ropalospora_chlorantha_MWasm
+10 Protoparmelia_badia_MWasm
+10 Normandina_pulchella_MWasm
+10 Imshaugia_aleurites_MWasm
+10 Cladonia_straminea_MWasm
+10 Cladonia_ochrochlora_MWasm
+10 Calicium_salicinum_MWasm
+10 Calicium_parvum_MWasm
+10 Baeomyces_rufus_MWasm
+9 Umbilicaria_mammulata_MWasm
+9 Porpidia_macrocarpa_MWasm
+9 Phaeocalicium_matthewsianum_MWasm
+9 Cladonia_crispata_MWasm
+9 Chaenotheca_xyloxena_MWasm
+9 Carbonea_vorticosa_MWasm
+8 Xanthoparmelia_viriduloumbrina_MWasm
+8 Usnea_hirta_MWasm
+8 Stereocaulon_alpinum_MWasm
+8 Punctelia_rudecta_MWasm
+8 Protoparmelia_atriseda_MWasm
+8 Platismatia_tuckermanii_MWasm
+8 Parmelia_omphalodes_MWasm
+8 Lecanora_wisconsinensis_MWasm
+8 Lecanora_thysanophora_MWasm
+8 Lecanora_symmicta_MWasm
+8 Lecanora_allophana_MWasm
+8 Frutidella_caesioatra_MWasm
+8 Cladonia_merochlorophaea_MWasm
+8 Cladonia_digitata_MWasm
+8 Cladonia_cristatella_MWasm
+8 Chaenothecopsis_pusilla_MWasm
+8 Buellia_erubescens_MWasm
+8 Aspicilia_cinerea_MWasm
+7 Usnea_strigosa_MWasm
+7 Tuckermannopsis_americana_MWasm
+7 Rhizocarpon_hochstetteri_MWasm
+7 Pyxine_sorediata_MWasm
+7 Phaeophyscia_rubropulchra_MWasm
+7 Parmelia_squarrosa_MWasm
+7 Nephroma_resupinatum_MWasm
+7 Micarea_melaena_MWasm
+7 Lepraria_neglecta_MWasm
+7 Dibaeis_baeomyces_MWasm
+7 Cladonia_ecmocyna_MWasm
+7 Chaenothecopsis_debilis_MWasm
+7 Cetrelia_olivetorum_MWasm
+7 Cetraria_ericetorum_MWasm
+7 Biatora_vernalis_MWasm
+7 Acarospora_fuscata_MWasm
+6 Varicellaria_velata_MWasm
+6 Usnea_barbata_MWasm
+6 Psoroma_hypnorum_MWasm
+6 Ochrolechia_tartarea_MWasm
+6 Lecidea_tessellata_MWasm
+6 Cladonia_trassii_MWasm
+6 Cladonia_pocillum_MWasm
+6 Cladonia_maxima_MWasm
+6 Chaenotheca_chrysocephala_MWasm
+5 Stictis_urceolatum_MWasm
+5 Stereocaulon_nanodes_MWasm
+5 Stereocaulon_condensatum_MWasm
+5 Ricasolia_quercizans_MWasm
+5 Rhizocarpon_oederi_MWasm
+5 Porpidia_contraponenda_MWasm
+5 Ophioparma_lapponica_MWasm
+5 Melanohalea_septentrionalis_MWasm
+5 Lepra_trachythallina_MWasm
+5 Lecidella_stigmatea_MWasm
+5 Lecidea_plana_MWasm
+5 Cladonia_verticillata_MWasm
+5 Cladonia_fimbriata_MWasm
+5 Cladonia_boryi_MWasm
+5 Baeomyces_placophyllus_MWasm
+5 Arthrorhaphis_citrinella_MWasm
+4 Umbilicaria_vellea_MWasm
+4 Umbilicaria_cylindrica_MWasm
+4 Trapeliopsis_gelatinosa_MWasm
+4 Scoliciosporum_chlorococcum_MWasm
+4 Placynthiella_icmalea_MWasm
+4 Nephroma_parile_MWasm
+4 Myelochroa_aurulenta_MWasm
+4 Loxospora_cismonica_MWasm
+4 Lopadium_disciforme_MWasm
+4 Leptogium_cyanescens_MWasm
+4 Lepra_dactylina_MWasm
+4 Lepra_amara_MWasm
+4 Lecanora_circumborealis_MWasm
+4 Fuscidea_scrupulosa_MWasm
+4 Fuscidea_recensa_MWasm
+4 Dolichousnea_longissima_MWasm
+4 Chaenothecopsis_viridireagens_MWasm
+4 Chaenothecopsis_pusiola_MWasm
+4 Chaenothecopsis_nana_MWasm
+4 Buellia_arnoldii_MWasm
+4 Acarospora_sinopica_MWasm
+3 Xanthoparmelia_cumberlandia_MWasm
+3 Usnea_trichodea_MWasm
+3 Usnea_ceratina_MWasm
+3 Usnea_cavernosa_MWasm
+3 Trapeliopsis_viridescens_MWasm
+3 Trapelia_coarctata_MWasm
+3 Toninia_squalescens_MWasm
+3 Stereocaulon_pileatum_MWasm
+3 Staurothele_fissa_MWasm
+3 Rhizocarpon_eupetraeoides_MWasm
+3 Ramalina_americana_MWasm
+3 Pyrenula_pseudobufonia_MWasm
+3 Porpidia_flavicunda_MWasm
+3 Pertusaria_consocians_MWasm
+3 Peltigera_leucophlebia_MWasm
+3 Peltigera_hydrothyria_MWasm
+3 Parmelia_fertilis_MWasm
+3 Ochrolechia_pseudopallescens_MWasm
+3 Ochrolechia_androgyna_MWasm
+3 Myelochroa_galbina_MWasm
+3 Montanelia_panniformis_MWasm
+3 Microcalicium_ahlneri_MWasm
+3 Micarea_prasina_MWasm
+3 Micarea_peliocarpa_MWasm
+3 Melanohalea_olivacea_MWasm
+3 Lepraria_finkii_MWasm
+3 Lecidella_euphorea_MWasm
+3 Lecidea_lapicida_MWasm
+3 Japewia_tornoensis_MWasm
+3 Hypogymnia_vittata_MWasm
+3 Heterodermia_speciosa_MWasm
+3 Flavopunctelia_soredica_MWasm
+3 Flavoparmelia_baltimorensis_MWasm
+3 Ephebe_lanata_MWasm
+3 Cresponea_premnea_MWasm
+3 Coenogonium_pineti_MWasm
+3 Cladonia_wainioi_MWasm
+3 Cladonia_ramulosa_MWasm
+3 Cladonia_piedmontensis_MWasm
+3 Cladonia_multiformis_MWasm
+3 Cladonia_macrophylla_MWasm
+3 Cladonia_cenotea_MWasm
+3 Cetraria_muricata_MWasm
+3 Buellia_disciformis_MWasm
+3 Bryoria_trichodes_MWasm
+3 Bryoria_fuscescens_MWasm
+3 Bryobilimbia_diapensiae_MWasm
+3 Biatora_pycnidiata_MWasm
+3 Arctoparmelia_incurva_MWasm
+2 Xanthoparmelia_hypofusca_MWasm
+2 Xanthoparmelia_conspersa_MWasm
+2 Umbilicaria_virginis_MWasm
+2 Tremolecia_atrata_MWasm
+2 Trapelia_glebulosa_MWasm
+2 Stereocaulon_tennesseense_MWasm
+2 Ropalospora_lugubris_MWasm
+2 Rhizocarpon_polycarpum_MWasm
+2 Rhizocarpon_petraeum_MWasm
+2 Rhizocarpon_lecanorinum_MWasm
+2 Rhizocarpon_infernulum_MWasm
+2 Rhizocarpon_grande_MWasm
+2 Rhizocarpon_cinereovirens_MWasm
+2 Rhizocarpon_badioatrum_MWasm
+2 Rhizocarpon_anaperum_MWasm
+2 Ramalina_farinacea_MWasm
+2 Racodium_rupestre_MWasm
+2 Protoparmelia_cupreobadia_MWasm
+2 Protopannaria_pezizoides_MWasm
+2 Porpidia_cinereoatra_MWasm
+2 Porpidia_albocaerulescens_MWasm
+2 Placynthiella_uliginosa_MWasm
+2 Phaeophyscia_orbicularis_MWasm
+2 Phaeocalicium_curtisii_MWasm
+2 Pertusaria_propinqua_MWasm
+2 Pertusaria_leioplaca_MWasm
+2 Peltigera_rufescens_MWasm
+2 Peltigera_didactyla_MWasm
+2 Peltigera_canina_MWasm
+2 Parmeliopsis_capitata_MWasm
+2 Ochrolechia_arborea_MWasm
+2 Microcalicium_disseminatum_MWasm
+2 Melanohalea_exasperata_MWasm
+2 Melanelixia_glabratula_MWasm
+2 Lobaria_scrobiculata_MWasm
+2 Leptorhaphis_epidermidis_MWasm
+2 Lepra_ophthalmiza_MWasm
+2 Lecidella_wulfenii_MWasm
+2 Lecidella_patavina_MWasm
+2 Lecidea_commaculans_MWasm
+2 Lecanora_hybocarpa_MWasm
+2 Lecanora_glabrata_MWasm
+2 Lecanora_chlarotera_MWasm
+2 Julella_sericea_MWasm
+2 Hypogymnia_incurvoides_MWasm
+2 Hypogymnia_austerodes_MWasm
+2 Hyperphyscia_syncolla_MWasm
+2 Fuscidea_arboricola_MWasm
+2 Dimelaena_oreina_MWasm
+2 Cladonia_terrae-novae_MWasm
+2 Cladonia_scabriuscula_MWasm
+2 Cladonia_rei_MWasm
+2 Cladonia_pyxidata_MWasm
+2 Cladonia_labradorica_MWasm
+2 Cladonia_diversa_MWasm
+2 Cladonia_dimorphoclada_MWasm
+2 Cladonia_decorticata_MWasm
+2 Cladonia_cyanipes_MWasm
+2 Circinaria_gibbosa_MWasm
+2 Chaenotheca_stemonea_MWasm
+2 Calicium_lenticulare_MWasm
+2 Bilimbia_sabuletorum_MWasm
+2 Arthothelium_ruanum_MWasm
+1 Xylopsora_friesii_MWasm
+1 Xylographa_parallela_MWasm
+1 Vulpicida_viridis_MWasm
+1 Vahliella_leucophaea_MWasm
+1 Usnea_rubicunda_MWasm
+1 Umbilicaria_americana_MWasm
+1 Tuckermanella_fendleri_MWasm
+1 Trapeliopsis_flexuosa_MWasm
+1 Toensbergia_geminipara_MWasm
+1 Stereocaulon_subcoralloides_MWasm
+1 Stereocaulon_leucophaeopsis_MWasm
+1 Sporastatia_testudinea_MWasm
+1 Schaereria_fuscocinerea_MWasm
+1 Schaereria_cinereorufa_MWasm
+1 Rinodina_turfacea_MWasm
+1 Rhizoplaca_subdiscrepans_MWasm
+1 Rhizoplaca_chrysoleuca_MWasm
+1 Rhizocarpon_subgeminatum_MWasm
+1 Rhizocarpon_reductum_MWasm
+1 Ramalina_intermedia_MWasm
+1 Ramalina_dilacerata_MWasm
+1 Protothelenella_santessonii_MWasm
+1 Protothelenella_corrosa_MWasm
+1 Protoparmelia_nephaea_MWasm
+1 Porpidia_speirea_MWasm
+1 Porpidia_lowiana_MWasm
+1 Polyblastia_gothica_MWasm
+1 Placynthiella_dasaea_MWasm
+1 Placopsis_lambii_MWasm
+1 Placidiopsis_minor_MWasm
+1 Physconia_muscigena_MWasm
+1 Physconia_enteroxantha_MWasm
+1 Physconia_detersa_MWasm
+1 Physcia_thomsoniana_MWasm
+1 Physcia_tenella_MWasm
+1 Physcia_aipolia_MWasm
+1 Phaeocalicium_flabelliforme_MWasm
+1 Phaeocalicium_compressulum_MWasm
+1 Pertusaria_multipunctoides_MWasm
+1 Pertusaria_macounii_MWasm
+1 Peltigera_praetextata_MWasm
+1 Peltigera_membranacea_MWasm
+1 Peltigera_horizontalis_MWasm
+1 Peligera_polydactylon_MWasm
+1 Parmelia_neodiscordans_MWasm
+1 Pannaria_tavaresii_MWasm
+1 Ochrolechia_yasudae_MWasm
+1 Ochrolechia_trochophora_MWasm
+1 Ochrolechia_mahluensis_MWasm
+1 Nephroma_helveticum_MWasm
+1 Nephroma_bellum_MWasm
+1 Naetrocymbe_punctiformis_MWasm
+1 Myriolecis_sambuci_MWasm
+1 Mycocalicium_albonigrum_MWasm
+1 Mycoblastus_alpinus_MWasm
+1 Mycobilimbia_albohyalina_MWasm
+1 Miriquidica_pycnocarpa_MWasm
+1 Micarea_turfosa_MWasm
+1 Micarea_rhabdogena_MWasm
+1 Micarea_globulosella_MWasm
+1 Micarea_elachista_MWasm
+1 Menegazzia_terebrata_MWasm
+1 Megaspora_verrucosa_MWasm
+1 Lepraria_rigidula_MWasm
+1 Lepra_waghornei_MWasm
+1 Lecidea_varians_MWasm
+1 Lecidea_fuscoatra_MWasm
+1 Lecidea_confluens_MWasm
+1 Lecidea_albofuscescens_MWasm
+1 Lecanora_placidensis_MWasm
+1 Lecanora_marginata_MWasm
+1 Lecanora_chlorophaeodes_MWasm
+1 Lecanora_argentata_MWasm
+1 Lecanora_albellula_MWasm
+1 Ionaspis_lacustris_MWasm
+1 Imshaugia_placorodia_MWasm
+1 Hydropunctaria_maura_MWasm
+1 Flavoparmelia_caperata_MWasm
+1 Evernia_prunastri_MWasm
+1 Elixia_flexella_MWasm
+1 Diploschistes_scruposus_MWasm
+1 Dermatocarpon_luridum_MWasm
+1 Dactylina_arctica_MWasm
+1 Cryptodiscus_gloeocapsa_MWasm
+1 Coenogonium_luteum_MWasm
+1 Cliostomum_leprosum_MWasm
+1 Clauzadeana_macula_MWasm
+1 Claurouxia_chalybeioides_MWasm
+1 Cladonia_subulata_MWasm
+1 Cladonia_subcariosa_MWasm
+1 Cladonia_macrophyllodes_MWasm
+1 Cladonia_macroceras_MWasm
+1 Cladonia_apodocarpa_MWasm
+1 Circinaria_caesiocinerea_MWasm
+1 Chaenothecopsis_savonica_MWasm
+1 Chaenotheca_sphaerocephala_MWasm
+1 Chaenotheca_obscura_MWasm
+1 Chaenotheca_laevigata_MWasm
+1 Chaenotheca_furfuracea_MWasm
+1 Catolechia_wahlenbergii_MWasm
+1 Calvitimela_aglaea_MWasm
+1 Caloplaca_cerina_MWasm
+1 Caloplaca_ahtii_MWasm
+1 Calicium_tigillare_MWasm
+1 Calicium_pinastri_MWasm
+1 Calicium_abietinum_MWasm
+1 Bryoria_pseudofuscescens_MWasm
+1 Bryoria_bicolor_MWasm
+1 Bryoria_americana_MWasm
+1 Brianaria_bauschiana_MWasm
+1 Biatora_meiocarpa_MWasm
+1 Biatora_longispora_MWasm
+1 Biatora_efflorescens_MWasm
+1 Bacidia_schweinitzii_MWasm
+1 Bacidia_laurocerasi_MWasm
+1 Bacidia_bagliettoana_MWasm
+1 Athallia_holocarpa_MWasm
+1 Arthonia_glebosa_MWasm
+1 Arthonia_didyma_MWasm
+1 Amandinea_punctata_MWasm
+1 Alectoria_ochroleuca_MWasm
+1 Alectoria_fallacina_MWasm
+1 Ahtiana_aurescens_MWasm
 
 ---
 CARROLL County.
@@ -2121,164 +2121,164 @@ Mt._Moosilauke New_Hampshire Taxon count. genus-only records excluded :158
 
 Mt._Moosilauke_massif TAXA. - genus-only records excluded
 
-52 Porpidia_macrocarpa_MMo
-51 Cetraria_laevigata_MMo
-46 Flavocetraria_cucullata_MMo
-36 Cladonia_uncialis_MMo
-35 Trapeliopsis_granulosa_MMo
-33 Mycoblastus_sanguinarioides_MMo
-32 Micarea_lignaria_MMo
-27 Rhizocarpon_oederi_MMo
-25 Cladonia_gracilis_MMo
-24 Umbilicaria_torrefacta_MMo
-23 Lecanora_polytropa_MMo
-23 Cladonia_coccifera_MMo
-21 Cladonia_pleurota_MMo
-19 Schaereria_fuscocinerea_MMo
-18 Lecanora_intricata_MMo
-16 Ophioparma_ventosa_MMo
-15 Baeomyces_rufus_MMo
-13 Stereocaulon_dactylophyllum_MMo
-13 Cladonia_deformis_MMo
-10 Cladonia_stellaris_MMo
-10 Cladonia_squamosa_MMo
-10 Cladonia_rangiferina_MMo
-9 Umbilicaria_proboscidea_MMo
-9 Arctoparmelia_centrifuga_MMo
-8 Usnocetraria_oakesiana_MMo
-8 Thamnolia_vermicularis_MMo
-8 Stereocaulon_saxatile_MMo
-8 Hypogymnia_physodes_MMo
-8 Cladonia_amaurocraea_MMo
-7 Umbilicaria_mammulata_MMo
-7 Parmelia_saxatilis_MMo
-7 Lasallia_papulosa_MMo
-6 Vulpicida_pinastri_MMo
-6 Umbilicaria_hyperborea_MMo
-6 Stereocaulon_glaucescens_MMo
-6 Melanelia_stygia_MMo
-6 Icmadophila_ericetorum_MMo
-5 Tuckermannopsis_ciliaris_MMo
-5 Pseudevernia_cladonia_MMo
-5 Porpidia_contraponenda_MMo
-5 Platismatia_glauca_MMo
-5 Fuscidea_lowensis_MMo
-5 Bryoria_nadvornikiana_MMo
-4 Usnea_dasopoga_MMo
-4 Rhizocarpon_geographicum_MMo
-4 Pseudevernia_consocians_MMo
-4 Lobaria_pulmonaria_MMo
-4 Hypogymnia_krogiae_MMo
-4 Cladonia_furcata_MMo
-4 Athallia_holocarpa_MMo
-3 Stereocaulon_pileatum_MMo
-3 Peltigera_aphthosa_MMo
-3 Ophioparma_lapponica_MMo
-3 Melanelia_hepatizon_MMo
-3 Lopadium_disciforme_MMo
-3 Fuscidea_arboricola_MMo
-3 Cladonia_turgida_MMo
-3 Cladonia_sulphurina_MMo
-3 Cladonia_macilenta_MMo
-3 Cladonia_cristatella_MMo
-3 Bryoria_trichodes_MMo
-3 Athallia_vitellinula_MMo
-3 Arthrorhaphis_citrinella_MMo
-2 Xylographa_parallela_MMo
-2 Tuckermannopsis_sepincola_MMo
-2 Rhizocarpon_lecanorinum_MMo
-2 Pyxine_sorediata_MMo
-2 Peltigera_canina_MMo
-2 Parmeliopsis_hyperopta_MMo
-2 Nephroma_helveticum_MMo
-2 Lepra_trachythallina_MMo
-2 Lecidea_lapicida_MMo
-2 Lecanora_pulicaris_MMo
-2 Lecanora_circumborealis_MMo
-2 Hypogymnia_vittata_MMo
-2 Gyalolechia_flavovirescens_MMo
-2 Graphis_scripta_MMo
-2 Cladonia_stygia_MMo
-2 Cladonia_pocillum_MMo
-2 Cladonia_fimbriata_MMo
-2 Cladonia_crispata_MMo
-2 Cladonia_coniocraea_MMo
-2 Cladonia_chlorophaea_MMo
-2 Cladonia_biuncialis_MMo
-2 Cladonia_arbuscula_MMo
-2 Cetraria_islandica_MMo
-2 Athallia_pyracea_MMo
-2 Alectoria_sarmentosa_MMo
-1 Xanthoparmelia_cumberlandia_MMo
-1 Xanthocarpia_feracissima_MMo
-1 Usnea_subfloridana_MMo
-1 Usnea_ceratina_MMo
-1 Usnea_barbata_MMo
-1 Umbilicaria_vellea_MMo
-1 Umbilicaria_polyphylla_MMo
-1 Umbilicaria_muhlenbergii_MMo
-1 Tuckermannopsis_orbata_MMo
-1 Tuckermannopsis_americana_MMo
-1 Trapelia_stipitata_MMo
-1 Trapelia_glebulosa_MMo
-1 Stereocaulon_tomentosum_MMo
-1 Stereocaulon_grande_MMo
-1 Scoliciosporum_chlorococcum_MMo
-1 Ropalospora_lugubris_MMo
-1 Ricasolia_quercizans_MMo
-1 Rhizocarpon_petraeum_MMo
-1 Ramalina_farinacea_MMo
-1 Pycnothelia_papillaria_MMo
-1 Punctelia_rudecta_MMo
-1 Punctelia_caseana_MMo
-1 Porpidia_crustulata_MMo
-1 Physcia_stellaris_MMo
-1 Physcia_millegrana_MMo
-1 Physcia_americana_MMo
-1 Phaeophyscia_ciliata_MMo
-1 Peltigera_venosa_MMo
-1 Peltigera_malacea_MMo
-1 Peltigera_horizontalis_MMo
-1 Palicella_filamentosa_MMo
-1 Ochrolechia_tartarea_MMo
-1 Nephroma_resupinatum_MMo
-1 Nephroma_parile_MMo
-1 Nephroma_laevigatum_MMo
-1 Nephroma_bellum_MMo
-1 Mycocalicium_subtile_MMo
-1 Melanelixia_subaurifera_MMo
-1 Megaspora_verrucosa_MMo
-1 Loxospora_ochrophaea_MMo
-1 Lecidoma_demissum_MMo
-1 Lecidea_plana_MMo
-1 Lecidea_albofuscescens_MMo
-1 Imshaugia_aleurites_MMo
-1 Hypotrachyna_minarum_MMo
-1 Hypogymnia_incurvoides_MMo
-1 Diploschistes_scruposus_MMo
-1 Cladonia_verticillata_MMo
-1 Cladonia_subtenuis_MMo
-1 Cladonia_rei_MMo
-1 Cladonia_phyllophora_MMo
-1 Cladonia_ochrochlora_MMo
-1 Cladonia_mitis_MMo
-1 Cladonia_merochlorophaea_MMo
-1 Cladonia_floerkeana_MMo
-1 Cladonia_digitata_MMo
-1 Cladonia_cryptochlorophaea_MMo
-1 Cladonia_cornuta_MMo
-1 Cladonia_conista_MMo
-1 Cladonia_brevis_MMo
-1 Cetrariella_delisei_MMo
-1 Catinaria_atropurpurea_MMo
-1 Candelariella_vitellina_MMo
-1 Candelaria_concolor_MMo
-1 Calicium_glaucellum_MMo
-1 Calicium_adspersum_MMo
-1 Bryoria_bicolor_MMo
-1 Biatora_subduplex_MMo
-1 Baeomyces_carneus_MMo
-1 Acarospora_sinopica_MMo
+52 Porpidia_macrocarpa_MMoom
+51 Cetraria_laevigata_MMoom
+46 Flavocetraria_cucullata_MMoom
+36 Cladonia_uncialis_MMoom
+35 Trapeliopsis_granulosa_MMoom
+33 Mycoblastus_sanguinarioides_MMoom
+32 Micarea_lignaria_MMoom
+27 Rhizocarpon_oederi_MMoom
+25 Cladonia_gracilis_MMoom
+24 Umbilicaria_torrefacta_MMoom
+23 Lecanora_polytropa_MMoom
+23 Cladonia_coccifera_MMoom
+21 Cladonia_pleurota_MMoom
+19 Schaereria_fuscocinerea_MMoom
+18 Lecanora_intricata_MMoom
+16 Ophioparma_ventosa_MMoom
+15 Baeomyces_rufus_MMoom
+13 Stereocaulon_dactylophyllum_MMoom
+13 Cladonia_deformis_MMoom
+10 Cladonia_stellaris_MMoom
+10 Cladonia_squamosa_MMoom
+10 Cladonia_rangiferina_MMoom
+9 Umbilicaria_proboscidea_MMoom
+9 Arctoparmelia_centrifuga_MMoom
+8 Usnocetraria_oakesiana_MMoom
+8 Thamnolia_vermicularis_MMoom
+8 Stereocaulon_saxatile_MMoom
+8 Hypogymnia_physodes_MMoom
+8 Cladonia_amaurocraea_MMoom
+7 Umbilicaria_mammulata_MMoom
+7 Parmelia_saxatilis_MMoom
+7 Lasallia_papulosa_MMoom
+6 Vulpicida_pinastri_MMoom
+6 Umbilicaria_hyperborea_MMoom
+6 Stereocaulon_glaucescens_MMoom
+6 Melanelia_stygia_MMoom
+6 Icmadophila_ericetorum_MMoom
+5 Tuckermannopsis_ciliaris_MMoom
+5 Pseudevernia_cladonia_MMoom
+5 Porpidia_contraponenda_MMoom
+5 Platismatia_glauca_MMoom
+5 Fuscidea_lowensis_MMoom
+5 Bryoria_nadvornikiana_MMoom
+4 Usnea_dasopoga_MMoom
+4 Rhizocarpon_geographicum_MMoom
+4 Pseudevernia_consocians_MMoom
+4 Lobaria_pulmonaria_MMoom
+4 Hypogymnia_krogiae_MMoom
+4 Cladonia_furcata_MMoom
+4 Athallia_holocarpa_MMoom
+3 Stereocaulon_pileatum_MMoom
+3 Peltigera_aphthosa_MMoom
+3 Ophioparma_lapponica_MMoom
+3 Melanelia_hepatizon_MMoom
+3 Lopadium_disciforme_MMoom
+3 Fuscidea_arboricola_MMoom
+3 Cladonia_turgida_MMoom
+3 Cladonia_sulphurina_MMoom
+3 Cladonia_macilenta_MMoom
+3 Cladonia_cristatella_MMoom
+3 Bryoria_trichodes_MMoom
+3 Athallia_vitellinula_MMoom
+3 Arthrorhaphis_citrinella_MMoom
+2 Xylographa_parallela_MMoom
+2 Tuckermannopsis_sepincola_MMoom
+2 Rhizocarpon_lecanorinum_MMoom
+2 Pyxine_sorediata_MMoom
+2 Peltigera_canina_MMoom
+2 Parmeliopsis_hyperopta_MMoom
+2 Nephroma_helveticum_MMoom
+2 Lepra_trachythallina_MMoom
+2 Lecidea_lapicida_MMoom
+2 Lecanora_pulicaris_MMoom
+2 Lecanora_circumborealis_MMoom
+2 Hypogymnia_vittata_MMoom
+2 Gyalolechia_flavovirescens_MMoom
+2 Graphis_scripta_MMoom
+2 Cladonia_stygia_MMoom
+2 Cladonia_pocillum_MMoom
+2 Cladonia_fimbriata_MMoom
+2 Cladonia_crispata_MMoom
+2 Cladonia_coniocraea_MMoom
+2 Cladonia_chlorophaea_MMoom
+2 Cladonia_biuncialis_MMoom
+2 Cladonia_arbuscula_MMoom
+2 Cetraria_islandica_MMoom
+2 Athallia_pyracea_MMoom
+2 Alectoria_sarmentosa_MMoom
+1 Xanthoparmelia_cumberlandia_MMoom
+1 Xanthocarpia_feracissima_MMoom
+1 Usnea_subfloridana_MMoom
+1 Usnea_ceratina_MMoom
+1 Usnea_barbata_MMoom
+1 Umbilicaria_vellea_MMoom
+1 Umbilicaria_polyphylla_MMoom
+1 Umbilicaria_muhlenbergii_MMoom
+1 Tuckermannopsis_orbata_MMoom
+1 Tuckermannopsis_americana_MMoom
+1 Trapelia_stipitata_MMoom
+1 Trapelia_glebulosa_MMoom
+1 Stereocaulon_tomentosum_MMoom
+1 Stereocaulon_grande_MMoom
+1 Scoliciosporum_chlorococcum_MMoom
+1 Ropalospora_lugubris_MMoom
+1 Ricasolia_quercizans_MMoom
+1 Rhizocarpon_petraeum_MMoom
+1 Ramalina_farinacea_MMoom
+1 Pycnothelia_papillaria_MMoom
+1 Punctelia_rudecta_MMoom
+1 Punctelia_caseana_MMoom
+1 Porpidia_crustulata_MMoom
+1 Physcia_stellaris_MMoom
+1 Physcia_millegrana_MMoom
+1 Physcia_americana_MMoom
+1 Phaeophyscia_ciliata_MMoom
+1 Peltigera_venosa_MMoom
+1 Peltigera_malacea_MMoom
+1 Peltigera_horizontalis_MMoom
+1 Palicella_filamentosa_MMoom
+1 Ochrolechia_tartarea_MMoom
+1 Nephroma_resupinatum_MMoom
+1 Nephroma_parile_MMoom
+1 Nephroma_laevigatum_MMoom
+1 Nephroma_bellum_MMoom
+1 Mycocalicium_subtile_MMoom
+1 Melanelixia_subaurifera_MMoom
+1 Megaspora_verrucosa_MMoom
+1 Loxospora_ochrophaea_MMoom
+1 Lecidoma_demissum_MMoom
+1 Lecidea_plana_MMoom
+1 Lecidea_albofuscescens_MMoom
+1 Imshaugia_aleurites_MMoom
+1 Hypotrachyna_minarum_MMoom
+1 Hypogymnia_incurvoides_MMoom
+1 Diploschistes_scruposus_MMoom
+1 Cladonia_verticillata_MMoom
+1 Cladonia_subtenuis_MMoom
+1 Cladonia_rei_MMoom
+1 Cladonia_phyllophora_MMoom
+1 Cladonia_ochrochlora_MMoom
+1 Cladonia_mitis_MMoom
+1 Cladonia_merochlorophaea_MMoom
+1 Cladonia_floerkeana_MMoom
+1 Cladonia_digitata_MMoom
+1 Cladonia_cryptochlorophaea_MMoom
+1 Cladonia_cornuta_MMoom
+1 Cladonia_conista_MMoom
+1 Cladonia_brevis_MMoom
+1 Cetrariella_delisei_MMoom
+1 Catinaria_atropurpurea_MMoom
+1 Candelariella_vitellina_MMoom
+1 Candelaria_concolor_MMoom
+1 Calicium_glaucellum_MMoom
+1 Calicium_adspersum_MMoom
+1 Bryoria_bicolor_MMoom
+1 Biatora_subduplex_MMoom
+1 Baeomyces_carneus_MMoom
+1 Acarospora_sinopica_MMoom
 
 ---
 BELKNAP County.
@@ -3491,226 +3491,226 @@ Mt._Mansfield_massif Vermont Taxon (species) count. genus-only records excluded 
 ---
 
 ---
-47 Umbilicaria_hyperborea_MMm
-44 Cetraria_laevigata_MMm
-40 Usnocetraria_oakesiana_MMm
-37 Flavocetraria_cucullata_MMm
-36 Umbilicaria_proboscidea_MMm
-34 Rhizocarpon_geographicum_MMm
-34 Platismatia_glauca_MMm
-33 Pseudevernia_cladonia_MMm
-29 Lasallia_papulosa_MMm
-29 Cladonia_squamosa_MMm
-28 Cladonia_coccifera_MMm
-26 Mycoblastus_sanguinarioides_MMm
-24 Stereocaulon_glaucescens_MMm
-20 Tuckermannopsis_sepincola_MMm
-20 Stereocaulon_paschale_MMm
-20 Porpidia_macrocarpa_MMm
-19 Ophioparma_ventosa_MMm
-18 Trapeliopsis_granulosa_MMm
-17 Hypogymnia_physodes_MMm
-16 Cladonia_furcata_MMm
-15 Pertusaria_leioplaca_MMm
-15 Lecanora_intricata_MMm
-15 Arctoparmelia_centrifuga_MMm
-14 Melanelia_stygia_MMm
-14 Melanelia_hepatizon_MMm
-14 Graphis_scripta_MMm
-14 Cladonia_deformis_MMm
-13 Lecanora_allophana_MMm
-13 Cladonia_stygia_MMm
-13 Cladonia_gracilis_MMm
-12 Icmadophila_ericetorum_MMm
-11 Vulpicida_pinastri_MMm
-11 Pseudevernia_consocians_MMm
-11 Parmelia_saxatilis_MMm
-11 Cladonia_pleurota_MMm
-11 Bryoria_bicolor_MMm
-11 Biatora_vernalis_MMm
-11 Aspicilia_cinerea_MMm
-10 Umbilicaria_muhlenbergii_MMm
-10 Lecanora_polytropa_MMm
-10 Cladonia_rangiferina_MMm
-9 Thamnolia_vermicularis_MMm
-9 Loxospora_elatina_MMm
-9 Lichenomphalia_hudsoniana_MMm
-9 Cladonia_amaurocraea_MMm
-8 Umbilicaria_torrefacta_MMm
-8 Umbilicaria_deusta_MMm
-8 Orphniospora_moriopsis_MMm
-8 Cladonia_uncialis_MMm
-7 Umbilicaria_mammulata_MMm
-7 Solorina_saccata_MMm
-6 Varicellaria_velata_MMm
-6 Rusavskia_elegans_MMm
-6 Punctelia_appalachensis_MMm
-6 Porpidia_crustulata_MMm
-6 Nephroma_arcticum_MMm
-6 Lecidoma_demissum_MMm
-6 Catapyrenium_cinereum_MMm
-6 Arctoparmelia_incurva_MMm
-5 Usnea_subfloridana_MMm
-5 Psora_rubiformis_MMm
-5 Protopannaria_pezizoides_MMm
-5 Flavocetraria_nivalis_MMm
-5 Evernia_mesomorpha_MMm
-5 Cladonia_stellaris_MMm
-5 Cladonia_digitata_MMm
-5 Cladonia_caespiticia_MMm
-5 Acarospora_fuscata_MMm
-4 Usnea_dasopoga_MMm
-4 Stereocaulon_botryosum_MMm
-4 Pyxine_sorediata_MMm
-4 Protoparmelia_badia_MMm
-4 Porpidia_cinereoatra_MMm
-4 Parmelia_sulcata_MMm
-4 Loxospora_ochrophaea_MMm
-4 Enchylium_tenax_MMm
-4 Caloplaca_cerina_MMm
-4 Bryoria_furcellata_MMm
-3 Umbilicaria_polyphylla_MMm
-3 Tuckermannopsis_ciliaris_MMm
-3 Stereocaulon_saxatile_MMm
-3 Stereocaulon_pileatum_MMm
-3 Stereocaulon_alpinum_MMm
-3 Rhizocarpon_hochstetteri_MMm
-3 Rhizocarpon_grande_MMm
-3 Physcia_millegrana_MMm
-3 Peltigera_aphthosa_MMm
-3 Parmeliopsis_hyperopta_MMm
-3 Parmelia_omphalodes_MMm
-3 Montanelia_panniformis_MMm
-3 Melanohalea_olivacea_MMm
-3 Melanohalea_halei_MMm
-3 Lecidea_auriculata_MMm
-3 Imshaugia_aleurites_MMm
-3 Dermatocarpon_luridum_MMm
-3 Cladonia_terrae-novae_MMm
-3 Cladonia_ochrochlora_MMm
-3 Cladonia_macilenta_MMm
-3 Cladonia_coniocraea_MMm
-3 Cetraria_islandica_MMm
-3 Cetraria_arenaria_MMm
-3 Baeomyces_rufus_MMm
-2 Xylographa_parallela_MMm
-2 Usnea_ceratina_MMm
-2 Stereocaulon_tomentosum_MMm
-2 Rinodina_ascociscana_MMm
-2 Rhizocarpon_eupetraeum_MMm
-2 Ramalina_intermedia_MMm
-2 Ramalina_americana_MMm
-2 Porpidia_albocaerulescens_MMm
-2 Platismatia_tuckermanii_MMm
-2 Placynthiella_uliginosa_MMm
-2 Physcia_tenella_MMm
-2 Pertusaria_rubefacta_MMm
-2 Peltigera_rufescens_MMm
-2 Parmeliopsis_capitata_MMm
-2 Micarea_lignaria_MMm
-2 Leptogium_cyanescens_MMm
-2 Lepraria_neglecta_MMm
-2 Lepraria_finkii_MMm
-2 Lepra_dactylina_MMm
-2 Lecanora_symmicta_MMm
-2 Lecanora_pulicaris_MMm
-2 Lecanora_hybocarpa_MMm
-2 Lecanora_chlarotera_MMm
-2 Lasallia_pustulata_MMm
-2 Hypogymnia_krogiae_MMm
-2 Fuscidea_scrupulosa_MMm
-2 Fuscidea_recensa_MMm
-2 Cryptodiscus_gloeocapsa_MMm
-2 Cladonia_sulphurina_MMm
-2 Cladonia_rei_MMm
-2 Cladonia_pyxidata_MMm
-2 Cladonia_pocillum_MMm
-2 Cladonia_multiformis_MMm
-2 Cladonia_mitis_MMm
-2 Cladonia_fimbriata_MMm
-2 Cladonia_cyanipes_MMm
-2 Cetrelia_chicitae_MMm
-2 Cetrariella_delisei_MMm
-2 Calvitimela_aglaea_MMm
-2 Bacidia_schweinitzii_MMm
-2 Anaptychia_palmulata_MMm
-2 Alectoria_sarmentosa_MMm
-1 Xanthoparmelia_plittii_MMm
-1 Xanthoparmelia_cumberlandia_MMm
-1 Usnea_subscabrosa_MMm
-1 Usnea_rubicunda_MMm
-1 Tuckermannopsis_orbata_MMm
-1 Tuckermannopsis_americana_MMm
-1 Trapelia_placodioides_MMm
-1 Thelocarpon_impressellum_MMm
-1 Tephromela_atra_MMm
-1 Stereocaulon_dactylophyllum_MMm
-1 Stereocaulon_condensatum_MMm
-1 Schaereria_cinereorufa_MMm
-1 Sarcogyne_hypophaea_MMm
-1 Rimularia_gibbosa_MMm
-1 Rimularia_badioatra_MMm
-1 Rhizoplaca_subdiscrepans_MMm
-1 Rhizoplaca_chrysoleuca_MMm
-1 Rhizocarpon_sylvaticum_MMm
-1 Rhizocarpon_reductum_MMm
-1 Rhizocarpon_lecanorinum_MMm
-1 Rhizocarpon_distinctum_MMm
-1 Rhizocarpon_badioatrum_MMm
-1 Ramalina_labiosorediata_MMm
-1 Pyrenula_laevigata_MMm
-1 Punctelia_caseana_MMm
-1 Psora_globifera_MMm
-1 Protoblastenia_rupestris_MMm
-1 Porpidia_tuberculosa_MMm
-1 Porpidia_speirea_MMm
-1 Porpidia_nigrocruenta_MMm
-1 Porpidia_contraponenda_MMm
-1 Porpidia_carlottiana_MMm
-1 Phaeophyscia_ciliata_MMm
-1 Phaeophyscia_adiastola_MMm
-1 Peltigera_polydactylon_MMm
-1 Peltigera_didactyla_MMm
-1 Parmelia_squarrosa_MMm
-1 Ophioparma_lapponica_MMm
-1 Ochrolechia_trochophora_MMm
-1 Normandina_pulchella_MMm
-1 Nesolechia_oxyspora_MMm
-1 Nephroma_laevigatum_MMm
-1 Myelochroa_aurulenta_MMm
-1 Micarea_peliocarpa_MMm
-1 Megaspora_verrucosa_MMm
-1 Lepra_ophthalmiza_MMm
-1 Leimonis_erratica_MMm
-1 Lecidea_confluens_MMm
-1 Lecanora_subrugosa_MMm
-1 Lecanora_cinereofusca_MMm
-1 Lecanora_chlorophaeodes_MMm
-1 Lecanora_argopholis_MMm
-1 Hypogymnia_vittata_MMm
-1 Hypogymnia_tubulosa_MMm
-1 Fuscidea_lowensis_MMm
-1 Cladonia_verticillata_MMm
-1 Cladonia_straminea_MMm
-1 Cladonia_decorticata_MMm
-1 Cladonia_cristatella_MMm
-1 Cladonia_chlorophaea_MMm
-1 Circinaria_caesiocinerea_MMm
-1 Cetrelia_olivetorum_MMm
-1 Cetraria_ericetorum_MMm
-1 Cetraria_aculeata_MMm
-1 Candelariella_vitellina_MMm
-1 Candelaria_fibrosa_MMm
-1 Calicium_lenticulare_MMm
-1 Bryoria_pseudofuscescens_MMm
-1 Bryoria_fuscescens_MMm
-1 Bryoria_americana_MMm
-1 Bilimbia_sabuletorum_MMm
-1 Bacidina_inundata_MMm
-1 Bacidia_rubella_MMm
-1 Amygdalaria_panaeola_MMm
-1 Amandinea_punctata_MMm
-1 Alectoria_ochroleuca_MMm
+47 Umbilicaria_hyperborea_MManm
+44 Cetraria_laevigata_MManm
+40 Usnocetraria_oakesiana_MManm
+37 Flavocetraria_cucullata_MManm
+36 Umbilicaria_proboscidea_MManm
+34 Rhizocarpon_geographicum_MManm
+34 Platismatia_glauca_MManm
+33 Pseudevernia_cladonia_MManm
+29 Lasallia_papulosa_MManm
+29 Cladonia_squamosa_MManm
+28 Cladonia_coccifera_MManm
+26 Mycoblastus_sanguinarioides_MManm
+24 Stereocaulon_glaucescens_MManm
+20 Tuckermannopsis_sepincola_MManm
+20 Stereocaulon_paschale_MManm
+20 Porpidia_macrocarpa_MManm
+19 Ophioparma_ventosa_MManm
+18 Trapeliopsis_granulosa_MManm
+17 Hypogymnia_physodes_MManm
+16 Cladonia_furcata_MManm
+15 Pertusaria_leioplaca_MManm
+15 Lecanora_intricata_MManm
+15 Arctoparmelia_centrifuga_MManm
+14 Melanelia_stygia_MManm
+14 Melanelia_hepatizon_MManm
+14 Graphis_scripta_MManm
+14 Cladonia_deformis_MManm
+13 Lecanora_allophana_MManm
+13 Cladonia_stygia_MManm
+13 Cladonia_gracilis_MManm
+12 Icmadophila_ericetorum_MManm
+11 Vulpicida_pinastri_MManm
+11 Pseudevernia_consocians_MManm
+11 Parmelia_saxatilis_MManm
+11 Cladonia_pleurota_MManm
+11 Bryoria_bicolor_MManm
+11 Biatora_vernalis_MManm
+11 Aspicilia_cinerea_MManm
+10 Umbilicaria_muhlenbergii_MManm
+10 Lecanora_polytropa_MManm
+10 Cladonia_rangiferina_MManm
+9 Thamnolia_vermicularis_MManm
+9 Loxospora_elatina_MManm
+9 Lichenomphalia_hudsoniana_MManm
+9 Cladonia_amaurocraea_MManm
+8 Umbilicaria_torrefacta_MManm
+8 Umbilicaria_deusta_MManm
+8 Orphniospora_moriopsis_MManm
+8 Cladonia_uncialis_MManm
+7 Umbilicaria_mammulata_MManm
+7 Solorina_saccata_MManm
+6 Varicellaria_velata_MManm
+6 Rusavskia_elegans_MManm
+6 Punctelia_appalachensis_MManm
+6 Porpidia_crustulata_MManm
+6 Nephroma_arcticum_MManm
+6 Lecidoma_demissum_MManm
+6 Catapyrenium_cinereum_MManm
+6 Arctoparmelia_incurva_MManm
+5 Usnea_subfloridana_MManm
+5 Psora_rubiformis_MManm
+5 Protopannaria_pezizoides_MManm
+5 Flavocetraria_nivalis_MManm
+5 Evernia_mesomorpha_MManm
+5 Cladonia_stellaris_MManm
+5 Cladonia_digitata_MManm
+5 Cladonia_caespiticia_MManm
+5 Acarospora_fuscata_MManm
+4 Usnea_dasopoga_MManm
+4 Stereocaulon_botryosum_MManm
+4 Pyxine_sorediata_MManm
+4 Protoparmelia_badia_MManm
+4 Porpidia_cinereoatra_MManm
+4 Parmelia_sulcata_MManm
+4 Loxospora_ochrophaea_MManm
+4 Enchylium_tenax_MManm
+4 Caloplaca_cerina_MManm
+4 Bryoria_furcellata_MManm
+3 Umbilicaria_polyphylla_MManm
+3 Tuckermannopsis_ciliaris_MManm
+3 Stereocaulon_saxatile_MManm
+3 Stereocaulon_pileatum_MManm
+3 Stereocaulon_alpinum_MManm
+3 Rhizocarpon_hochstetteri_MManm
+3 Rhizocarpon_grande_MManm
+3 Physcia_millegrana_MManm
+3 Peltigera_aphthosa_MManm
+3 Parmeliopsis_hyperopta_MManm
+3 Parmelia_omphalodes_MManm
+3 Montanelia_panniformis_MManm
+3 Melanohalea_olivacea_MManm
+3 Melanohalea_halei_MManm
+3 Lecidea_auriculata_MManm
+3 Imshaugia_aleurites_MManm
+3 Dermatocarpon_luridum_MManm
+3 Cladonia_terrae-novae_MManm
+3 Cladonia_ochrochlora_MManm
+3 Cladonia_macilenta_MManm
+3 Cladonia_coniocraea_MManm
+3 Cetraria_islandica_MManm
+3 Cetraria_arenaria_MManm
+3 Baeomyces_rufus_MManm
+2 Xylographa_parallela_MManm
+2 Usnea_ceratina_MManm
+2 Stereocaulon_tomentosum_MManm
+2 Rinodina_ascociscana_MManm
+2 Rhizocarpon_eupetraeum_MManm
+2 Ramalina_intermedia_MManm
+2 Ramalina_americana_MManm
+2 Porpidia_albocaerulescens_MManm
+2 Platismatia_tuckermanii_MManm
+2 Placynthiella_uliginosa_MManm
+2 Physcia_tenella_MManm
+2 Pertusaria_rubefacta_MManm
+2 Peltigera_rufescens_MManm
+2 Parmeliopsis_capitata_MManm
+2 Micarea_lignaria_MManm
+2 Leptogium_cyanescens_MManm
+2 Lepraria_neglecta_MManm
+2 Lepraria_finkii_MManm
+2 Lepra_dactylina_MManm
+2 Lecanora_symmicta_MManm
+2 Lecanora_pulicaris_MManm
+2 Lecanora_hybocarpa_MManm
+2 Lecanora_chlarotera_MManm
+2 Lasallia_pustulata_MManm
+2 Hypogymnia_krogiae_MManm
+2 Fuscidea_scrupulosa_MManm
+2 Fuscidea_recensa_MManm
+2 Cryptodiscus_gloeocapsa_MManm
+2 Cladonia_sulphurina_MManm
+2 Cladonia_rei_MManm
+2 Cladonia_pyxidata_MManm
+2 Cladonia_pocillum_MManm
+2 Cladonia_multiformis_MManm
+2 Cladonia_mitis_MManm
+2 Cladonia_fimbriata_MManm
+2 Cladonia_cyanipes_MManm
+2 Cetrelia_chicitae_MManm
+2 Cetrariella_delisei_MManm
+2 Calvitimela_aglaea_MManm
+2 Bacidia_schweinitzii_MManm
+2 Anaptychia_palmulata_MManm
+2 Alectoria_sarmentosa_MManm
+1 Xanthoparmelia_plittii_MManm
+1 Xanthoparmelia_cumberlandia_MManm
+1 Usnea_subscabrosa_MManm
+1 Usnea_rubicunda_MManm
+1 Tuckermannopsis_orbata_MManm
+1 Tuckermannopsis_americana_MManm
+1 Trapelia_placodioides_MManm
+1 Thelocarpon_impressellum_MManm
+1 Tephromela_atra_MManm
+1 Stereocaulon_dactylophyllum_MManm
+1 Stereocaulon_condensatum_MManm
+1 Schaereria_cinereorufa_MManm
+1 Sarcogyne_hypophaea_MManm
+1 Rimularia_gibbosa_MManm
+1 Rimularia_badioatra_MManm
+1 Rhizoplaca_subdiscrepans_MManm
+1 Rhizoplaca_chrysoleuca_MManm
+1 Rhizocarpon_sylvaticum_MManm
+1 Rhizocarpon_reductum_MManm
+1 Rhizocarpon_lecanorinum_MManm
+1 Rhizocarpon_distinctum_MManm
+1 Rhizocarpon_badioatrum_MManm
+1 Ramalina_labiosorediata_MManm
+1 Pyrenula_laevigata_MManm
+1 Punctelia_caseana_MManm
+1 Psora_globifera_MManm
+1 Protoblastenia_rupestris_MManm
+1 Porpidia_tuberculosa_MManm
+1 Porpidia_speirea_MManm
+1 Porpidia_nigrocruenta_MManm
+1 Porpidia_contraponenda_MManm
+1 Porpidia_carlottiana_MManm
+1 Phaeophyscia_ciliata_MManm
+1 Phaeophyscia_adiastola_MManm
+1 Peltigera_polydactylon_MManm
+1 Peltigera_didactyla_MManm
+1 Parmelia_squarrosa_MManm
+1 Ophioparma_lapponica_MManm
+1 Ochrolechia_trochophora_MManm
+1 Normandina_pulchella_MManm
+1 Nesolechia_oxyspora_MManm
+1 Nephroma_laevigatum_MManm
+1 Myelochroa_aurulenta_MManm
+1 Micarea_peliocarpa_MManm
+1 Megaspora_verrucosa_MManm
+1 Lepra_ophthalmiza_MManm
+1 Leimonis_erratica_MManm
+1 Lecidea_confluens_MManm
+1 Lecanora_subrugosa_MManm
+1 Lecanora_cinereofusca_MManm
+1 Lecanora_chlorophaeodes_MManm
+1 Lecanora_argopholis_MManm
+1 Hypogymnia_vittata_MManm
+1 Hypogymnia_tubulosa_MManm
+1 Fuscidea_lowensis_MManm
+1 Cladonia_verticillata_MManm
+1 Cladonia_straminea_MManm
+1 Cladonia_decorticata_MManm
+1 Cladonia_cristatella_MManm
+1 Cladonia_chlorophaea_MManm
+1 Circinaria_caesiocinerea_MManm
+1 Cetrelia_olivetorum_MManm
+1 Cetraria_ericetorum_MManm
+1 Cetraria_aculeata_MManm
+1 Candelariella_vitellina_MManm
+1 Candelaria_fibrosa_MManm
+1 Calicium_lenticulare_MManm
+1 Bryoria_pseudofuscescens_MManm
+1 Bryoria_fuscescens_MManm
+1 Bryoria_americana_MManm
+1 Bilimbia_sabuletorum_MManm
+1 Bacidina_inundata_MManm
+1 Bacidia_rubella_MManm
+1 Amygdalaria_panaeola_MManm
+1 Amandinea_punctata_MManm
+1 Alectoria_ochroleuca_MManm
 
 ADDISON County.
 ---
@@ -3922,7 +3922,7 @@ Bennington Co. TAXA top 10. - genus-only records excluded
 ## Massachusetts ##
 25696 Non genus-only specimens
 931 Non genus-only taxa
-3052 excluded Non genus-only specimens with date neither given nor inferrable
+3056 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Massachusetts land area = 20306 km^2
 MA State count density (STATECNT/STATEAREA*100 km^2) :  25696/20306 =  126.544
@@ -4144,15 +4144,15 @@ Plymouth County.
 ---
 Plymouth Co. COLLECTION DENSITY -- genus-only records excluded
 Plymouth County area = 1712 km^2
-MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2988/1712 =  174.533
+MA PLYMOUTH county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2993/1712 =  174.825
 
 
-Plymouth County Count 2988 - genus-only records excluded
-proportion of State count (%)  (2988/25696) =  11.6283
+Plymouth County Count 2993 - genus-only records excluded
+proportion of State count (%)  (2993/25696) =  11.6477
 
 Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 
-1331 RobbinsCA
+1333 RobbinsCA
 325 HammerSH
 226 LayEMs
 160 GreeneDN
@@ -4161,20 +4161,20 @@ Plymouth Co. COLLECTOR top 10. - genus-only records excluded
 64 RussellJL
 49 TaylorRM
 49 CollinsCT
-40 HarrisRC
+40 HoweRHJr
 
 Plymouth Co. LOCALITY top 20. - genus-only records excluded
 
-1147 Wareham
-447 Myles_Standish_State_Forest
+1149 Wareham
+449 Myles_Standish_State_Forest
 375 Boston_Harbor_Islands
 120 Hingham
 83 NoLoc
 68 Bridgewater
 67 East_Wareham
 57 Plymouth
+46 Scituate
 46 Carver
-45 Scituate
 45 Duxbury
 34 Marshfield
 32 Plympton
@@ -4208,9 +4208,9 @@ Plymouth Co. TAXA top 20. - genus-only records excluded
 45 Usnea_strigosa
 44 Cladonia_subcariosa
 37 Cladonia_parasitica
+34 Pycnothelia_papillaria
 33 Flavoparmelia_caperata
 33 Cladonia_verticillata
-32 Cladonia_pocillum
 
 ---
 BRISTOL County.
@@ -4223,19 +4223,19 @@ Bristol County.
 ---
 Bristol Co. COLLECTION DENSITY -- genus-only records excluded
 Bristol County area = 1440 km^2
-MA BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2886/1440 =  200.417
+MA BRISTOL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2890/1440 =  200.694
 
 
-Bristol County Count 2886 - genus-only records excluded
-proportion of State count (%)  (2886/25696) =  11.2313
+Bristol County Count 2890 - genus-only records excluded
+proportion of State count (%)  (2890/25696) =  11.2469
 
 Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
-2497 WilleyH
+2499 WilleyH
 97 HarrisSK
-74 HoweRHJr
+75 HoweRHJr
 60 HodgdonAR
-47 EverhartBM
+48 EverhartBM
 33 HarrisSK__et_al
 22 RiddleLW
 16 SmithLB
@@ -4244,8 +4244,8 @@ Bristol Co. COLLECTOR top 10. - genus-only records excluded
 
 Bristol Co. LOCALITY top 20. - genus-only records excluded
 
-2444 New_Bedford
-61 [data_not_captured]
+2447 New_Bedford
+62 [data_not_captured]
 31 Dartmouth
 24 NoLoc
 20 Taunton
@@ -4292,11 +4292,11 @@ Barnstable County.
 ---
 Barnstable Co. COLLECTION DENSITY -- genus-only records excluded
 Barnstable County area = 1026 km^2
-MA BARNSTABLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2376/1026 =  231.579
+MA BARNSTABLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2377/1026 =  231.676
 
 
-Barnstable County Count 2376 - genus-only records excluded
-proportion of State count (%)  (2376/25696) =  9.24658
+Barnstable County Count 2377 - genus-only records excluded
+proportion of State count (%)  (2377/25696) =  9.25047
 
 Barnstable Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4320,7 +4320,7 @@ Barnstable Co. LOCALITY top 20. - genus-only records excluded
 78 Morris_Island
 60 Provincetown
 54 Nicholson_State_Park
-46 Wellfleet
+47 Wellfleet
 41 [data_not_captured]
 39 Cape_Cod
 37 Eastham
@@ -4480,15 +4480,15 @@ Middlesex County.
 ---
 Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
 Middlesex County area = 2134 km^2
-MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2840/2134 =  133.083
+MA MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2843/2134 =  133.224
 
 
-Middlesex County Count 2840 - genus-only records excluded
-proportion of State count (%)  (2840/25696) =  11.0523
+Middlesex County Count 2843 - genus-only records excluded
+proportion of State count (%)  (2843/25696) =  11.064
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
-269 HoweRHJr
+271 HoweRHJr
 208 FinkB
 169 MannHJr
 143 KingmanCC
@@ -4497,25 +4497,25 @@ Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 122 CummingsCEMs
 119 RiddleLW
 100 NULL
-99 CarrCMMs
+100 CarrCMMs
 
 Middlesex Co. LOCALITY top 20. - genus-only records excluded
 
-395 Concord
+396 Concord
 180 Cambridge
 134 Waltham
 116 Reading
 114 Arlington_Heights
 86 Pepperell
 85 Arlington
-76 Sudbury
+77 Sudbury
 73 NoLoc
 57 Newton
 52 Natick
 51 Carlisle
 43 North_Reading
 41 South_Natick
-34 Bedford
+35 Bedford
 30 [data_not_captured]
 27 Chelmsford
 26 Weston
@@ -4885,11 +4885,11 @@ Berkshire Co. TAXA top 10. - genus-only records excluded
 
 ---
 ## Connecticut ##
-8917 Non genus-only specimens
+8922 Non genus-only specimens
 281 excluded Non genus-only specimens with date neither given nor inferrable
 ---
 Connecticut land area = 12559 km^2
-CT State count density (STATECNT/STATEAREA*100 km^2) :  8917/12559 =  71.0009
+CT State count density (STATECNT/STATEAREA*100 km^2) :  8922/12559 =  71.0407
 
 ---
 WINDHAM County.
@@ -4906,7 +4906,7 @@ CT WINDHAM county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  861/1330 =  6
 
 
 Windham County Count 861 - genus-only records excluded
-proportion of State count (%)  (861/8917) =  9.65571
+proportion of State count (%)  (861/8922) =  9.6503
 
 Windham Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -4971,15 +4971,15 @@ Tolland County.
 ---
 Tolland Co. COLLECTION DENSITY -- genus-only records excluded
 Tolland County area = 1063 km^2
-CT TOLLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  580/1063 =  54.5626
+CT TOLLAND county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  581/1063 =  54.6566
 
 
-Tolland County Count 580 - genus-only records excluded
-proportion of State count (%)  (580/8917) =  6.50443
+Tolland County Count 581 - genus-only records excluded
+proportion of State count (%)  (581/8922) =  6.51199
 
 Tolland Co. COLLECTOR top 10. - genus-only records excluded
 
-135 EvansAW
+136 EvansAW
 79 TorreyGS
 70 GoffinetB
 61 MishLB
@@ -4999,7 +4999,7 @@ Tolland Co. LOCALITY top 20. - genus-only records excluded
 23 Willington
 22 Andover
 11 NoLoc
-7 Bolton
+8 Bolton
 6 [data_not_captured]
 4 University_of_Connecticut_campus_nearby_Thomas_J_Dodd_Center_405_Babbidge_Road
 3 W_of_Rt_89_219_Mount_Hope_Road
@@ -5044,7 +5044,7 @@ CT HARTFORD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  465/1900 =  
 
 
 Hartford County Count 465 - genus-only records excluded
-proportion of State count (%)  (465/8917) =  5.21476
+proportion of State count (%)  (465/8922) =  5.21184
 
 Hartford Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5109,11 +5109,11 @@ New_London County.
 ---
 New_London Co. COLLECTION DENSITY -- genus-only records excluded
 New_London County area = 1720 km^2
-CT NEW_LONDON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  873/1720 =  50.7558
+CT NEW_LONDON county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  874/1720 =  50.814
 
 
-New_London County Count 873 - genus-only records excluded
-proportion of State count (%)  (873/8917) =  9.79029
+New_London County Count 874 - genus-only records excluded
+proportion of State count (%)  (874/8922) =  9.79601
 
 New_London Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5131,17 +5131,14 @@ New_London Co. COLLECTOR top 10. - genus-only records excluded
 New_London Co. LOCALITY top 20. - genus-only records excluded
 
 163 Voluntown
+117 North_Stonington
 94 Norwich
 86 Old_Lyme
 68 Ledyard
-40 Town_of_North_Stonington_Bell_Cedar_Swamp_Preserve_W_of_Boom_Bridge_Road_06_mi_S_of_CT_216
 32 East_Lyme
-31 Town_of_North_Stonington_Mashantucket_Pequot_Reservation_trail_up_N_slope_of_Lantern_Hill_S_of_Wintechog_Hill_Road_02_mi_S_of_CT_2
 23 [data_not_captured]
-13 North_Stonington_Lantern_Hill
 12 NoLoc
 11 Old_Lyme_Twp
-11 North_Stonington
 10 Groton_Long_Point
 9 Waterford
 9 Griswold
@@ -5150,6 +5147,9 @@ New_London Co. LOCALITY top 20. - genus-only records excluded
 7 East_Haddam_Twp_Millington_Cemetery_Rte_43
 6 Of_Mason's_Island_near_Mystic
 6 Franklin
+5 Trading_Cove_Montville
+5 Quaker_Hill_1_mile_north_of_Connecticut_College
+5 Niantic_Twp_Rocky_Neck_State_Park
 
 ---
 New_London Co. Connecticut Taxon (species) count. genus-only records excluded :262
@@ -5164,8 +5164,8 @@ New_London Co. TAXA top 10. - genus-only records excluded
 17 Parmotrema_hypotropum
 16 Usnea_strigosa
 14 Hypogymnia_physodes
+13 Lasallia_papulosa
 12 Stereocaulon_condensatum
-12 Ropalospora_chlorantha
 
 ---
 MIDDLESEX County.
@@ -5178,15 +5178,15 @@ Middlesex County.
 ---
 Middlesex Co. COLLECTION DENSITY -- genus-only records excluded
 Middlesex County area = 960 km^2
-CT MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  706/960 =  73.5417
+CT MIDDLESEX county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  707/960 =  73.6458
 
 
-Middlesex County Count 706 - genus-only records excluded
-proportion of State count (%)  (706/8917) =  7.91746
+Middlesex County Count 707 - genus-only records excluded
+proportion of State count (%)  (707/8922) =  7.92423
 
 Middlesex Co. COLLECTOR top 10. - genus-only records excluded
 
-336 EvansAW
+337 EvansAW
 122 HallFW
 82 ProctorNS
 45 WrightChas
@@ -5204,7 +5204,7 @@ Middlesex Co. LOCALITY top 20. - genus-only records excluded
 61 Middletown
 60 [data_not_captured]
 52 Old_Saybrook
-44 Clinton
+45 Clinton
 33 Portland
 32 Westbrook
 22 East_Haddam
@@ -5251,7 +5251,7 @@ CT NEW_HAVEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1879/1570 =
 
 
 New_Haven County Count 1879 - genus-only records excluded
-proportion of State count (%)  (1879/8917) =  21.0721
+proportion of State count (%)  (1879/8922) =  21.0603
 
 New_Haven Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5316,15 +5316,15 @@ Fairfield County.
 ---
 Fairfield Co. COLLECTION DENSITY -- genus-only records excluded
 Fairfield County area = 1620 km^2
-CT FAIRFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  693/1620 =  42.7778
+CT FAIRFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  694/1620 =  42.8395
 
 
-Fairfield County Count 693 - genus-only records excluded
-proportion of State count (%)  (693/8917) =  7.77167
+Fairfield County Count 694 - genus-only records excluded
+proportion of State count (%)  (694/8922) =  7.77852
 
 Fairfield Co. COLLECTOR top 10. - genus-only records excluded
 
-290 EvansAW
+291 EvansAW
 96 MangelsCR
 66 HarrisRC
 39 BuckWR
@@ -5338,7 +5338,7 @@ Fairfield Co. COLLECTOR top 10. - genus-only records excluded
 Fairfield Co. LOCALITY top 20. - genus-only records excluded
 
 105 Redding
-64 Stamford
+65 Stamford
 53 Newtown
 37 Greenwich
 31 Darien
@@ -5385,11 +5385,11 @@ Litchfield County.
 ---
 Litchfield Co. COLLECTION DENSITY -- genus-only records excluded
 Litchfield County area = 2390 km^2
-CT LITCHFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2707/2390 =  113.264
+CT LITCHFIELD county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2708/2390 =  113.305
 
 
-Litchfield County Count 2707 - genus-only records excluded
-proportion of State count (%)  (2707/8917) =  30.3577
+Litchfield County Count 2708 - genus-only records excluded
+proportion of State count (%)  (2708/8922) =  30.3519
 
 Litchfield Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -5402,11 +5402,11 @@ Litchfield Co. COLLECTOR top 10. - genus-only records excluded
 90 BuckWR
 86 UnderwoodLM
 79 FlennikenD
-73 DarrowRA
+74 DarrowRA
 
 Litchfield Co. LOCALITY top 20. - genus-only records excluded
 
-633 Canaan
+634 Canaan
 237 Aton_Forest
 226 Norfolk
 159 Cornwall
@@ -5783,4 +5783,4 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Thu Feb 15 23:37:36 PST 2024
+Sun Feb 18 23:26:03 PST 2024
