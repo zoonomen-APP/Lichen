@@ -3174,15 +3174,15 @@ Lamoille County.
 ---
 Lamoille Co. COLLECTION DENSITY -- genus-only records excluded
 Lamoille County area = 1190 km^2
-VT LAMOILLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  875/1190 =  73.5294
+VT LAMOILLE county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  871/1190 =  73.1933
 
 
-Lamoille County Count 875 - genus-only records excluded
-proportion of State count (%)  (875/13333) =  6.56266
+Lamoille County Count 871 - genus-only records excluded
+proportion of State count (%)  (871/13333) =  6.53266
 
 Lamoille Co. COLLECTOR top 10. - genus-only records excluded
 
-205 DuttonDL
+203 DuttonDL
 141 BowleyDR
 121 HarrisRC
 104 LendemerJC
@@ -3190,15 +3190,15 @@ Lamoille Co. COLLECTOR top 10. - genus-only records excluded
 35 AndersonGPMs
 32 SmithLHII
 23 LayEMs
-20 MerrillGK
 19 NelsonJMs
+19 MerrillGK
 
 Lamoille Co. LOCALITY top 20. - genus-only records excluded
 
-482 Mt_Mansfield_massif
+481 Mt_Mansfield_massif
 81 Town_of_Eden_Babcock_Nature_Preserve_of_Johnson_State_College
 46 Cambridge
-43 NoLoc
+41 NoLoc
 36 Molly_Bog_N_of_Stowe
 31 Town_of_Belvidere_gravel_road_along_Calavale_Brook_05_mi_W_of_intersection_of_VT_109_and_VT_1118_in_Belvidere_Corners
 8 Stowe
@@ -3224,10 +3224,10 @@ Lamoille Co. TAXA top 10. - genus-only records excluded
 16 Rhizocarpon_geographicum
 15 Graphis_scripta
 14 Umbilicaria_mammulata
-14 Porpidia_macrocarpa
 14 Micarea_peliocarpa
 13 Trapeliopsis_granulosa
 13 Pseudevernia_consocians
+13 Porpidia_macrocarpa
 13 Evernia_mesomorpha
 13 Cladonia_squamosa
 12 Umbilicaria_hyperborea
@@ -3427,15 +3427,15 @@ Chittenden County.
 ---
 Chittenden Co. COLLECTION DENSITY -- genus-only records excluded
 Chittenden County area = 1390 km^2
-VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1838/1390 =  132.23
+VT CHITTENDEN county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  1839/1390 =  132.302
 
 
-Chittenden County Count 1838 - genus-only records excluded
-proportion of State count (%)  (1838/13333) =  13.7853
+Chittenden County Count 1839 - genus-only records excluded
+proportion of State count (%)  (1839/13333) =  13.7928
 
 Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 
-438 PringleCG
+439 PringleCG
 295 DuttonDL
 97 GriffinDB
 83 RiddleLW
@@ -3448,7 +3448,7 @@ Chittenden Co. COLLECTOR top 10. - genus-only records excluded
 
 Chittenden Co. LOCALITY top 20. - genus-only records excluded
 
-797 Mt_Mansfield_massif
+799 Mt_Mansfield_massif
 296 Charlotte
 84 Burlington
 81 Mallets_Bay
@@ -3495,7 +3495,7 @@ Mt._Mansfield_massif Vermont Taxon (species) count. genus-only records excluded 
 37 Flavocetraria_cucullata_MManm
 36 Umbilicaria_proboscidea_MManm
 35 Rhizocarpon_geographicum_MManm
-34 Platismatia_glauca_MManm
+35 Platismatia_glauca_MManm
 33 Pseudevernia_cladonia_MManm
 29 Lasallia_papulosa_MManm
 29 Cladonia_squamosa_MManm
@@ -5781,4 +5781,3 @@ Washington Co. TAXA top 10. - genus-only records excluded
 21 Cladonia_macilenta
 
 ---
-Sat Mar 23 19:36:14 PDT 2024
