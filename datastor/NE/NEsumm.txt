@@ -1468,12 +1468,12 @@ Coos County.
 ---
 Coos Co. COLLECTION DENSITY -- genus-only records excluded
 Coos County land area = 4648 km^2
-NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9508/4648 =  204.561
+NH COOS county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  9504/4648 =  204.475
 
 
-Coos County Count 9508 - genus-only records excluded
-proportion of State count (%)  (9508/18939) =  50.2033
-Coos County Count 9508 - genus-only records excluded
+Coos County Count 9504 - genus-only records excluded
+proportion of State count (%)  (9504/18939) =  50.1822
+Coos County Count 9504 - genus-only records excluded
 
 
 Coos Co. COLLECTOR top 10. - genus-only records excluded
@@ -1482,7 +1482,7 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 1000 FarlowWG
 829 SelvaSB
 736 TuckermanE
-731 CraneJL
+729 CraneJL
 328 DibbleACMs
 328 CleavittN
 235 WilleyH
@@ -1491,15 +1491,15 @@ Coos Co. COLLECTOR top 10. - genus-only records excluded
 
 Coos Co. LOCALITY top 20. - genus-only records excluded
 
-4690 Mt_Washington_massif
-3012 White_Mountains
+4894 Mt_Washington_massif
+2856 White_Mountains
 415 Shelburne
 233 Norton_Pool_old-grwoth_spruce-fir_forest
-121 NoLoc
-107 [data_not_captured]
 95 [no_additional_data]
+94 NoLoc
+87 [data_not_captured]
 80 Randolph
-77 Stewartstown_Hurlbert_Swamp_Preserve
+78 Stewartstown_Hurlbert_Swamp_Preserve
 53 Wildcat_Mountain
 34 Gorham
 27 Jefferson
@@ -1508,9 +1508,9 @@ Coos Co. LOCALITY top 20. - genus-only records excluded
 23 Twin_Mountain
 20 Dummer
 12 Colebrook
-10 No_locality_information_available
 9 about_7_miles_S_of_Gorham_along_Peabody_R_at_Dolly_Copp_Picnic_Area
 9 Mt_Cabot
+8 No_locality_information_available
 
 ---
 Coos Co. New_Hampshire Taxon (species) count. genus-only records excluded :648
@@ -1528,8 +1528,8 @@ Coos Co. TAXA top 20. - genus-only records excluded
 145 Flavocetraria_nivalis
 141 Platismatia_glauca
 135 Cladonia_squamosa
-132 Cladonia_rangiferina
 130 Mycoblastus_sanguinarioides
+130 Cladonia_rangiferina
 129 Usnocetraria_oakesiana
 128 Cladonia_gracilis
 119 Sphaerophorus_fragilis
@@ -1540,7 +1540,7 @@ Coos Co. TAXA top 20. - genus-only records excluded
 94 Evernia_mesomorpha
 
 ---
-Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records excluded :430
+Mt._Washington_massif New_Hampshire Taxon (species) count. genus-only records excluded :432
 
 Mt._Washington_massif TAXA . - genus-only records excluded
 
@@ -1551,145 +1551,147 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 112 Flavocetraria_cucullata_MWasm
 106 Flavocetraria_nivalis_MWasm
 101 Arctoparmelia_centrifuga_MWasm
+96 Platismatia_glauca_MWasm
+90 Hypogymnia_physodes_MWasm
 88 Sphaerophorus_fragilis_MWasm
-86 Platismatia_glauca_MWasm
-83 Hypogymnia_physodes_MWasm
+79 Parmelia_saxatilis_MWasm
+75 Usnocetraria_oakesiana_MWasm
+75 Cladonia_squamosa_MWasm
 74 Melanelia_hepatizon_MWasm
 74 Cladonia_rangiferina_MWasm
-73 Cetraria_laevigata_MWasm
-71 Parmelia_saxatilis_MWasm
-71 Cladonia_squamosa_MWasm
-68 Cladonia_gracilis_MWasm
+74 Cetraria_laevigata_MWasm
+69 Cladonia_gracilis_MWasm
+65 Mycoblastus_sanguinarioides_MWasm
 65 Cetrariella_delisei_MWasm
-64 Mycoblastus_sanguinarioides_MWasm
-63 Usnocetraria_oakesiana_MWasm
-60 Hypogymnia_krogiae_MWasm
+64 Hypogymnia_krogiae_MWasm
 60 Cladonia_uncialis_MWasm
 55 Rhizocarpon_geographicum_MWasm
+53 Vulpicida_pinastri_MWasm
+49 Pseudevernia_cladonia_MWasm
 49 Lecidoma_demissum_MWasm
+47 Evernia_mesomorpha_MWasm
 47 Cladonia_stellaris_MWasm
-46 Vulpicida_pinastri_MWasm
 45 Stereocaulon_glaucescens_MWasm
 45 Ochrolechia_frigida_MWasm
 44 Melanelia_stygia_MWasm
-43 Pseudevernia_cladonia_MWasm
-41 Evernia_mesomorpha_MWasm
+40 Parmeliopsis_hyperopta_MWasm
 40 Cladonia_amaurocraea_MWasm
 38 Umbilicaria_deusta_MWasm
 38 Lasallia_papulosa_MWasm
-36 Parmeliopsis_hyperopta_MWasm
+37 Parmelia_sulcata_MWasm
 36 Icmadophila_ericetorum_MWasm
 36 Cetraria_aculeata_MWasm
 35 Trapeliopsis_granulosa_MWasm
 32 Mycocalicium_subtile_MWasm
-31 Parmelia_sulcata_MWasm
 31 Cladonia_pleurota_MWasm
+30 Pseudevernia_consocians_MWasm
 30 Ophioparma_ventosa_MWasm
-29 Bryoria_nadvornikiana_MWasm
-28 Umbilicaria_torrefacta_MWasm
+30 Bryoria_nadvornikiana_MWasm
+29 Umbilicaria_torrefacta_MWasm
 28 Porpidia_crustulata_MWasm
 27 Pertusaria_subobducens_MWasm
 27 Lecanora_polytropa_MWasm
 27 Cladonia_deformis_MWasm
+27 Cladonia_coniocraea_MWasm
+26 Tuckermannopsis_orbata_MWasm
 26 Sphaerophorus_globosus_MWasm
 26 Cladonia_furcata_MWasm
-25 Pseudevernia_consocians_MWasm
-24 Tuckermannopsis_orbata_MWasm
+25 Usnea_dasopoga_MWasm
+25 Parmeliopsis_ambigua_MWasm
+25 Hypogymnia_tubulosa_MWasm
+25 Cladonia_ochrochlora_MWasm
 24 Pycnothelia_papillaria_MWasm
-24 Parmeliopsis_ambigua_MWasm
+24 Melanohalea_halei_MWasm
+23 Tuckermannopsis_ciliaris_MWasm
 23 Cladonia_stygia_MWasm
 23 Calicium_trabinellum_MWasm
 22 Orphniospora_moriopsis_MWasm
-21 Tuckermannopsis_ciliaris_MWasm
+22 Lichenomphalia_hudsoniana_MWasm
 21 Stereocaulon_saxatile_MWasm
-21 Lichenomphalia_hudsoniana_MWasm
-21 Hypogymnia_tubulosa_MWasm
-20 Usnea_dasopoga_MWasm
-20 Peltigera_polydactylon_MWasm
+21 Peltigera_polydactylon_MWasm
+21 Lobaria_pulmonaria_MWasm
 20 Micarea_lignaria_MWasm
+20 Cladonia_macilenta_MWasm
 20 Cladonia_arbuscula_MWasm
 19 Umbilicaria_muhlenbergii_MWasm
 19 Stereocaulon_paschale_MWasm
 19 Stereocaulon_dactylophyllum_MWasm
-19 Lobaria_pulmonaria_MWasm
-19 Cladonia_coniocraea_MWasm
 19 Chaenotheca_ferruginea_MWasm
+18 Melanelixia_subaurifera_MWasm
+18 Cladonia_floerkeana_MWasm
 18 Chaenotheca_trichialis_MWasm
-17 Cladonia_floerkeana_MWasm
 17 Chaenotheca_brunneola_MWasm
 16 Tuckermannopsis_sepincola_MWasm
 16 Lecanora_intricata_MWasm
-16 Cladonia_macilenta_MWasm
+16 Imshaugia_aleurites_MWasm
 16 Cladonia_coccifera_MWasm
 15 Stenocybe_major_MWasm
 15 Nephroma_arcticum_MWasm
 15 Graphis_scripta_MWasm
 15 Cetraria_arenaria_MWasm
 15 Alectoria_sarmentosa_MWasm
+14 Usnea_subfloridana_MWasm
+14 Punctelia_rudecta_MWasm
 14 Loxospora_ochrophaea_MWasm
 14 Cladonia_sulphurina_MWasm
 14 Cladonia_phyllophora_MWasm
+13 Phaeophyscia_rubropulchra_MWasm
 13 Peltigera_aphthosa_MWasm
-13 Melanohalea_halei_MWasm
-13 Melanelixia_subaurifera_MWasm
 13 Loxospora_elatina_MWasm
 13 Lecanora_pulicaris_MWasm
 13 Fuscidea_lowensis_MWasm
 13 Cladonia_cornuta_MWasm
+13 Bryoria_furcellata_MWasm
+12 Pyxine_sorediata_MWasm
 12 Placynthiella_oligotropha_MWasm
 12 Cladonia_mitis_MWasm
 12 Calicium_glaucellum_MWasm
-12 Bryoria_furcellata_MWasm
 11 Stereocaulon_tomentosum_MWasm
 11 Cresponea_chloroconia_MWasm
 11 Cladonia_chlorophaea_MWasm
 11 Cladonia_caespiticia_MWasm
-10 Usnea_subfloridana_MWasm
 10 Ropalospora_chlorantha_MWasm
 10 Protoparmelia_badia_MWasm
 10 Normandina_pulchella_MWasm
-10 Imshaugia_aleurites_MWasm
 10 Cladonia_straminea_MWasm
-10 Cladonia_ochrochlora_MWasm
 10 Calicium_salicinum_MWasm
 10 Calicium_parvum_MWasm
 10 Baeomyces_rufus_MWasm
 9 Porpidia_macrocarpa_MWasm
 9 Phaeocalicium_matthewsianum_MWasm
+9 Lecanora_symmicta_MWasm
 9 Cladonia_crispata_MWasm
 9 Chaenotheca_xyloxena_MWasm
 9 Carbonea_vorticosa_MWasm
+9 Aspicilia_cinerea_MWasm
 8 Xanthoparmelia_viriduloumbrina_MWasm
 8 Usnea_hirta_MWasm
+8 Tuckermannopsis_americana_MWasm
 8 Stereocaulon_alpinum_MWasm
-8 Punctelia_rudecta_MWasm
 8 Protoparmelia_atriseda_MWasm
 8 Platismatia_tuckermanii_MWasm
 8 Parmelia_omphalodes_MWasm
+8 Micarea_melaena_MWasm
 8 Lecanora_wisconsinensis_MWasm
 8 Lecanora_thysanophora_MWasm
-8 Lecanora_symmicta_MWasm
 8 Lecanora_allophana_MWasm
 8 Frutidella_caesioatra_MWasm
+8 Flavoparmelia_caperata_MWasm
 8 Cladonia_merochlorophaea_MWasm
 8 Cladonia_digitata_MWasm
 8 Cladonia_cristatella_MWasm
 8 Chaenothecopsis_pusilla_MWasm
+8 Cetrelia_olivetorum_MWasm
 8 Buellia_erubescens_MWasm
-8 Aspicilia_cinerea_MWasm
 7 Usnea_strigosa_MWasm
-7 Tuckermannopsis_americana_MWasm
 7 Rhizocarpon_hochstetteri_MWasm
-7 Pyxine_sorediata_MWasm
-7 Phaeophyscia_rubropulchra_MWasm
 7 Parmelia_squarrosa_MWasm
 7 Nephroma_resupinatum_MWasm
-7 Micarea_melaena_MWasm
+7 Myelochroa_aurulenta_MWasm
 7 Lepraria_neglecta_MWasm
 7 Dibaeis_baeomyces_MWasm
 7 Cladonia_ecmocyna_MWasm
 7 Chaenothecopsis_debilis_MWasm
-7 Cetrelia_olivetorum_MWasm
 7 Cetraria_ericetorum_MWasm
 7 Biatora_vernalis_MWasm
 7 Acarospora_fuscata_MWasm
@@ -1698,6 +1700,8 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 6 Umbilicaria_mammulata_MWasm
 6 Psoroma_hypnorum_MWasm
 6 Ochrolechia_tartarea_MWasm
+6 Melanohalea_septentrionalis_MWasm
+6 Melanohalea_olivacea_MWasm
 6 Lecidea_tessellata_MWasm
 6 Cladonia_trassii_MWasm
 6 Cladonia_pocillum_MWasm
@@ -1710,10 +1714,11 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 5 Rhizocarpon_oederi_MWasm
 5 Porpidia_contraponenda_MWasm
 5 Ophioparma_lapponica_MWasm
-5 Melanohalea_septentrionalis_MWasm
+5 Melanelixia_glabratula_MWasm
 5 Lepra_trachythallina_MWasm
 5 Lecidella_stigmatea_MWasm
 5 Lecidea_plana_MWasm
+5 Hypogymnia_incurvoides_MWasm
 5 Cladonia_verticillata_MWasm
 5 Cladonia_fimbriata_MWasm
 5 Cladonia_boryi_MWasm
@@ -1725,7 +1730,7 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 4 Scoliciosporum_chlorococcum_MWasm
 4 Placynthiella_icmalea_MWasm
 4 Nephroma_parile_MWasm
-4 Myelochroa_aurulenta_MWasm
+4 Myelochroa_galbina_MWasm
 4 Loxospora_cismonica_MWasm
 4 Lopadium_disciforme_MWasm
 4 Leptogium_cyanescens_MWasm
@@ -1759,12 +1764,10 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 3 Parmelia_fertilis_MWasm
 3 Ochrolechia_pseudopallescens_MWasm
 3 Ochrolechia_androgyna_MWasm
-3 Myelochroa_galbina_MWasm
 3 Montanelia_panniformis_MWasm
 3 Microcalicium_ahlneri_MWasm
 3 Micarea_prasina_MWasm
 3 Micarea_peliocarpa_MWasm
-3 Melanohalea_olivacea_MWasm
 3 Lepraria_finkii_MWasm
 3 Lecidella_euphorea_MWasm
 3 Lecidea_lapicida_MWasm
@@ -1820,9 +1823,9 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 2 Peltigera_canina_MWasm
 2 Parmeliopsis_capitata_MWasm
 2 Ochrolechia_arborea_MWasm
+2 Nephroma_helveticum_MWasm
 2 Microcalicium_disseminatum_MWasm
 2 Melanohalea_exasperata_MWasm
-2 Melanelixia_glabratula_MWasm
 2 Lobaria_scrobiculata_MWasm
 2 Leptorhaphis_epidermidis_MWasm
 2 Lepra_ophthalmiza_MWasm
@@ -1833,7 +1836,6 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 2 Lecanora_glabrata_MWasm
 2 Lecanora_chlarotera_MWasm
 2 Julella_sericea_MWasm
-2 Hypogymnia_incurvoides_MWasm
 2 Hyperphyscia_syncolla_MWasm
 2 Fuscidea_arboricola_MWasm
 2 Dimelaena_oreina_MWasm
@@ -1848,6 +1850,7 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 2 Cladonia_cyanipes_MWasm
 2 Circinaria_gibbosa_MWasm
 2 Chaenotheca_stemonea_MWasm
+2 Catolechia_wahlenbergii_MWasm
 2 Calicium_lenticulare_MWasm
 2 Bilimbia_sabuletorum_MWasm
 2 Arthothelium_ruanum_MWasm
@@ -1886,6 +1889,7 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 1 Physconia_detersa_MWasm
 1 Physcia_thomsoniana_MWasm
 1 Physcia_tenella_MWasm
+1 Physcia_millegrana_MWasm
 1 Physcia_aipolia_MWasm
 1 Phaeocalicium_flabelliforme_MWasm
 1 Phaeocalicium_compressulum_MWasm
@@ -1900,7 +1904,6 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 1 Ochrolechia_yasudae_MWasm
 1 Ochrolechia_trochophora_MWasm
 1 Ochrolechia_mahluensis_MWasm
-1 Nephroma_helveticum_MWasm
 1 Nephroma_bellum_MWasm
 1 Naetrocymbe_punctiformis_MWasm
 1 Myriolecis_sambuci_MWasm
@@ -1928,7 +1931,6 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 1 Ionaspis_lacustris_MWasm
 1 Imshaugia_placorodia_MWasm
 1 Hydropunctaria_maura_MWasm
-1 Flavoparmelia_caperata_MWasm
 1 Evernia_prunastri_MWasm
 1 Elixia_flexella_MWasm
 1 Diploschistes_scruposus_MWasm
@@ -1939,6 +1941,7 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 1 Cliostomum_leprosum_MWasm
 1 Clauzadeana_macula_MWasm
 1 Claurouxia_chalybeioides_MWasm
+1 Cladonia_turgida_MWasm
 1 Cladonia_subulata_MWasm
 1 Cladonia_subcariosa_MWasm
 1 Cladonia_macrophyllodes_MWasm
@@ -1950,7 +1953,6 @@ Mt._Washington_massif TAXA . - genus-only records excluded
 1 Chaenotheca_obscura_MWasm
 1 Chaenotheca_laevigata_MWasm
 1 Chaenotheca_furfuracea_MWasm
-1 Catolechia_wahlenbergii_MWasm
 1 Calvitimela_aglaea_MWasm
 1 Caloplaca_cerina_MWasm
 1 Caloplaca_ahtii_MWasm
@@ -1986,11 +1988,11 @@ Carroll County.
 ---
 Carroll Co. COLLECTION DENSITY -- genus-only records excluded
 Carroll County area = 2414 km^2
-NH CARROLL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2378/2414 =  98.5087
+NH CARROLL county count density (COUNTYCNT/COUNTYAREA*100 km^2) :  2382/2414 =  98.6744
 
 
-Carroll County Count 2378 - genus-only records excluded
-proportion of State count (%)  (2378/18939) =  12.5561
+Carroll County Count 2382 - genus-only records excluded
+proportion of State count (%)  (2382/18939) =  12.5772
 
 Carroll Co. COLLECTOR top 10. - genus-only records excluded
 
@@ -2009,10 +2011,10 @@ Carroll Co. LOCALITY top 20. - genus-only records excluded
 
 343 Jackson
 294 Mt_Chocorua
-229 White_Mountains
+231 White_Mountains
 170 Chocorua
 127 Carroll_County_Municipality_of_Tamworth_Hemenway_State_Forest_Big_Pines_Special_Use_Permit_Area
-116 NoLoc
+117 NoLoc
 56 [data_not_captured]
 50 North_Conway
 31 Lake_Winnipesaukee_just_E_of_town_of_Center_Harbor
@@ -2038,11 +2040,11 @@ Carroll Co. TAXA top 10. - genus-only records excluded
 48 Umbilicaria_mammulata
 47 Cladonia_multiformis
 47 Cladonia_crispata
+39 Cladonia_rangiferina
 38 Platismatia_tuckermanii
-37 Cladonia_rangiferina
-33 Lobaria_pulmonaria
+34 Lobaria_pulmonaria
 33 Evernia_mesomorpha
-31 Cladonia_furcata
+32 Cladonia_furcata
 
 ---
 GRAFTON County.
@@ -2302,7 +2304,7 @@ Belknap Co. COLLECTOR top 10. - genus-only records excluded
 58 HarrisSK
 22 HodgdonAR
 19 CurtisCL
-14 StevensMLMs
+15 StevensMLMs
 12 NULL
 9 LuntJR
 7 PeaseAS
@@ -4033,7 +4035,7 @@ Suffolk Co. LOCALITY top 20. - genus-only records excluded
 26 Bussey_Woods
 21 Boston_Roslindale
 16 Blue_Hill_Reservation_Wampatuck_Rd_Rattlesnake_Hill
-14 NoLoc
+13 NoLoc
 11 [data_not_captured]
 8 Blue_Hill_Reservation_Red_Dot_Rail_to_top_of_Great_Blue_Hill_and_return
 7 Boston_Back_Bay's_Commonwealth_Avenue_Marlborough_St_and_Public_Garden
@@ -4844,20 +4846,20 @@ Berkshire Co. COLLECTOR top 10. - genus-only records excluded
 
 Berkshire Co. LOCALITY top 20. - genus-only records excluded
 
-277 Mt_Everett
+279 Mt_Everett
+128 Mt_Greylock_summit
 93 Bartholomews_Cobble
 87 Lanesboro
-37 Stockbridge
-33 NoLoc
+42 Stockbridge
+31 Mt_Greylock
 30 Town_of_Pittsfield_Pittsfield_State_Forest_E_of_Lulu_Cascade_N_of_Berry_Pond_Circuit_Road_02_mi_N_of_park_office
-29 Mt_Greylock
 28 Monroe_State_Park_Dunbar_Brook_4273_-73
-27 [data_not_captured]
 26 Monroe_State_Park_Dunbar_Brook
 25 Town_of_Hancock_Pittsfield_State_Forest_summit_of_Berry_Mountain_Berry_Pond_Circuit_Road_~225_mi_NW_of_park_entrance
 25 Reed_Bark_Preserve_TNC_Reed_Brook_and_hill_on_its_W_side_S_of_E_end_of_Whitcomb_Hill_Rd
 25 Appalachian_Trail_and_Rt_23_S_at_Monterey_town_border_Mixed_mesic_forest_of_ashoakwhite_pineelmconifersaspen_birch_blown_down+devastated_by_huge_June_1_tornado
 24 Windsor_State_Forest_Windsor_Jambs_East_side_of_gorge
+23 [data_not_captured]
 22 Appalachian_Trail_and_Rt_23_S_at_Monterey_town_border
 20 Windsor_State_Forest_Windsor_Jambs_West_side_of_gorge
 20 Mohawk_Trail_State_Forest_Old_Growth_Area_5-3_S_ridge_of_Clark_Mountain_035_km_NNE_of_junction_of_Black_Bk_Rd_and_MA_2
