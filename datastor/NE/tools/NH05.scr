@@ -128,7 +128,9 @@
 #
 # MWNTAXA
 		echo -n Mt._Washington_massif New_Hampshire Taxon \(species\) count. genus-only records excluded :  > c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
-                awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+		## Some of Mt._Washington_massif is in Carroll County. (2024.09.01)
+                #awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
+                awk -F "|" '$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}' c:/Lichen/datastor/NE/MA/sb/NEdfbn|sort -d|uniq|wc -l  >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
 		#echo -n Mt._Washington_massif New_Hampshire  Taxon count. genus-only records excluded :  >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
                 #awk -F "|" '$3~/Coos_Co./&&$4~/New_Hampshire/&&$101~/Mt._Washington_massif/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
                 echo >> c:/Lichen/datastor/NE/NH/201eMWNtaxax.txt
@@ -263,7 +265,7 @@
                 awk -F "|" '$3~/Grafton_Co./&&$4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$97~/ / {print $97}'  c:/Lichen/datastor/NE/NH/NHdfbn|sort -d|uniq|wc -l >>  c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
                 echo >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 		#echo Mt._Moosilauke_massif  TAXA top 20. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
-		echo Mt._Moosilauke_massif  TAXA. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
+		echo Mt._Moosilauke TAXA. - genus-only records excluded >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 		echo >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 	# 2024.01.18awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$97~/ /&&$24!~/sp\./ {print $97 " MMo"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
 	#awk 'BEGIN {FS=OFS="|"} $4~/New_Hampshire/&&$101~/Mt._Moosilauke/&&$97~/ / {print $97 " MMo"}' c:/Lichen/datastor/NE/NH//NHdfbn|sed 's/ /_/g'|awk -f c:/awk/wc.awk|head -20  >> c:/Lichen/datastor/NE/NH/203eMMOtaxax.txt
