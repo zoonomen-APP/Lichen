@@ -75,4 +75,4 @@
 
 6. Rhode Island
 
-	Nothing particularly useful available to me.
+	Nothing particularly useful available to me. Except the volume of the American Guide series.
