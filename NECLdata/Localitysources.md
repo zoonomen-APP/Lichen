@@ -9,7 +9,7 @@
 #Print resources - General.
 1. The "American Guide Series" for each of the New England states. Still available in hardcopy second hand, and a delight to own. Also is online.
 
-#Pring sources - specific.
+#Print sources - specific.
 1. Maine
 	"Place Names of Mount Desert Island and the Cranberry Islands, Maine."
 		Henry A. Raup. Mout Desert Historical Society. 2021. pp.644
