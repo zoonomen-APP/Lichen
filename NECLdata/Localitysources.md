@@ -9,10 +9,10 @@
 #Print resources - General.
 1. The "American Guide Series" for each of the New England states. Still available in hardcopy second hand, and a delight to own. Also is online.
 
-#Pring sources - specific.
+#Print sources - specific.
 1. Maine
 	"Place Names of Mount Desert Island and the Cranberry Islands, Maine."
-		Henry A. Raup. Mout Desert Historical Society. 2021. pp.644
+		Henry A. Raup. Mount Desert Historical Society. 2021. pp.644
 		A superb scholarly work. For Mt. Desert Island names you will flounder hideously without this book.
 
 	"Maine Place names and the peopling  of its towns."  
@@ -24,15 +24,15 @@
 		Tilbury House. Gardiner, Maine. 1997. pp.500
 
 	"Islands of the Mid-Maine Coast. Muscongus Bay and Monhegan Island. Revised ed. Vol. III
-		Charles B. McLan
+		Charles B. McLane
 		Tilbury House. Gardiner, Maine. 1992. pp.276
 
 	"Blue Hill Bay. Islands of the Mid-Maine Coast." 
-		Charles B. McLan
+		Charles B. McLane
 		Kennebec River Press, Woolwich Maine. 1985. pp.158
 
 	"Islands of the Mid-Maine Coast. Pemaquid Point to the Kennebac River Vol. IV
-		Charles B. McLan
+		Charles B. McLane
 		Tilbury House. Gardiner, Maine. 1994. pp.300
 	
 2. Vermont.
@@ -75,4 +75,4 @@
 
 6. Rhode Island
 
-	Nothing particularly useful available to me.
+	Nothing particularly useful available to me. Except the volume of the American Guide series.
