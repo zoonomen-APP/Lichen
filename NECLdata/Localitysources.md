@@ -7,7 +7,7 @@
 4. Vermont Place name gazetteer: https://www.uvm.edu/crs/gazetteer-vermont-places
 
 #Print resources - General.
-1. The "American Guide Series" for each of the New England states. Still available in hardcopy second hand, and a delight to own. Also is online.
+1. The "American Guide Series" for each of the New England states. Still available in hardcopy second hand, and a delight to own. It also is online.
 
 #Print sources - specific.
 1. Maine
