@@ -42,7 +42,6 @@
 	Now as https://www.uvm.edu/crs/gazetteer-vermont-places
 
 3. New Hampshire.
-
 	New Hampshire Town Names and whence they came.
 	Elmer Munson Hunt. Noone House. 1970. 
 	Rarely helpful for this work.
@@ -53,7 +52,6 @@
 	Availability uncertain.
 
 4. Massachusetts.
-
 	"Directory of Massachusetts Place Names.
 		Current and Obsolete Counties, Cities, Towns, Sections of Villages, Early Names.
 		Charlotte Pease Davis. Massachusetts Daughters of the American Revolution. 1987.
@@ -61,7 +59,7 @@
 		Out of print, rare, very expensive and the best source for dealing with Massachusetts names
 		by far.
 
-		Not available online. Any serious institution should have a copy.
+		Not available online. 
 
 5. Connecticut.
 
@@ -70,8 +68,6 @@
 	The Connecticut Historical Society. 1976. pp.907
 	Excellent, exhaustive, definitive.
 	Out of print, very rare, very expensive.
-
-
 
 6. Rhode Island
 
