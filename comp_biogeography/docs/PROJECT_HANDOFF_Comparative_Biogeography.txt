@@ -1,0 +1,438 @@
+# Comparative Biogeography via Aposologic Hex Vectors
+# Project Handoff Document
+# 2025.02.25
+# Alan + Claude
+
+
+## PROJECT OVERVIEW
+
+Use the hex grid framework to compare geographic distributions of lichen
+taxa across CONUS48, testing whether **absence-weighted vectors** provide
+stronger biogeographic signal than traditional **presence-only vectors**.
+
+This is the controlled experiment to validate the core aposologic hypothesis:
+that informed absences contain biogeographic information that improves
+species distribution comparisons beyond what presence data alone provides.
+
+**Central Question**: Does adding weighted absence information to species
+distribution vectors improve the detection of biogeographic patterns
+compared to presence-only methods?
+
+
+## THE FUNDAMENTAL TEST
+
+### Method A (Traditional): Presence-Only Vectors
+Each taxon represented as binary vector across hex cells:
+- 1 = species present in cell
+- 0 = ignored (treated as missing data)
+- Distance measures: Jaccard, Sørensen on presence data only
+- Standard approach in biogeography and community ecology
+
+### Method B (Aposologic): Presence + Weighted Absence Vectors  
+Each taxon represented as weighted vector across hex cells:
+- 1 = species present in cell
+- 0.8 = high-confidence absence (well-collected cell, species not found)
+- 0.3 = medium-confidence absence (moderately collected)
+- 0 = uninformed absence (empty or nearly empty cell)
+- Distance measures: modified Bray-Curtis or custom metric handling weights
+
+### Validation Framework
+Compare Method A vs Method B on their ability to:
+1. **Cluster related species** - do congeners group together?
+2. **Separate ecological guilds** - do substrate specialists cluster?
+3. **Recover known biogeographic patterns** - elevation zones, regional floras
+4. **Predict range boundaries** - where species actually stop vs data gaps
+
+If Method B consistently outperforms Method A, the aposologic framework
+is validated. If not, absence weighting adds noise rather than signal.
+
+
+## WHY THIS APPROACH IS NOVEL
+
+### What's Been Done Before
+
+**Species co-occurrence analysis**:
+- Focuses on which species are found together at sites
+- Uses presence data only, ignores absences
+- Questions: community assembly, niche overlap, competition
+
+**Range overlap studies**:
+- Computes Jaccard/Sørensen indices between species ranges
+- Binary presence/absence maps, no weighting of absence quality
+- Questions: conservation priorities, climate change vulnerability
+
+**Ecological niche modeling (MaxEnt, etc.)**:
+- Tries to predict suitable habitat from presence + environmental data
+- Treats absences as uninformative (presence-only modeling)
+- Questions: habitat suitability, invasion risk, climate impacts
+
+**Phylogeography**:
+- Compares distributions of related species for evolutionary inference
+- Range overlap metrics, molecular + distribution data
+- Questions: speciation patterns, dispersal history, refugia
+
+### What's Missing: Aposologic Information
+
+None of these approaches use **informed absence** as a positive signal.
+They either:
+- Ignore absences entirely (presence-only)
+- Treat all absences as equal (binary presence/absence)
+- Try to model around absences (niche modeling with pseudo-absences)
+
+**The novel contribution**: Use the **spatial structure of absences**
+as information about species relationships. A species absent from
+well-collected cells where a related species is present tells you
+something about their ecological differences or geographic limits.
+
+
+## ANALYTICAL FRAMEWORK
+
+### Step 1: Build Species Vectors
+
+For each taxon in CLH with >50 records and >10 occupied hex cells:
+
+**Extract records**:
+```sql
+SELECT scientificNameRegularized as taxon, hex_id
+FROM specimens_with_hex  -- join of CLH records with hex assignments
+WHERE scientificNameRegularized LIKE '% %'  -- species level only
+  AND scientificNameRegularized NOT LIKE '% sp.'
+GROUP BY scientificNameRegularized
+HAVING COUNT(*) >= 50  -- minimum records threshold
+;
+```
+
+**Create presence vector** (Method A):
+For each taxon, binary vector across hex cells:
+```r
+presence_vectors <- species_by_hex_matrix > 0  # TRUE/FALSE
+```
+
+**Create weighted vector** (Method B):
+For each taxon, weighted vector considering absence confidence:
+```r
+# For each hex cell, compute absence confidence based on:
+# - Total specimens in cell
+# - Number of collectors in cell  
+# - Genus breadth in cell (proxy for sampling completeness)
+# - Substrate breadth (corticolous vs. saxicolous vs. terricolous)
+
+cell_confidence <- function(hex_data) {
+  base_conf <- min(1.0, n_specimens / 100)  # specimen density
+  collector_conf <- min(1.0, n_collectors / 5)  # collector diversity
+  genus_conf <- min(1.0, n_genera / 20)  # taxonomic breadth
+  return(mean(c(base_conf, collector_conf, genus_conf)))
+}
+
+# Apply to create weighted absence vectors
+weighted_vectors[taxon, hex] <- ifelse(
+  present = 1,
+  absent = cell_confidence[hex],  # weighted absence
+  no_data = 0  # uninformed absence
+)
+```
+
+### Step 2: Distance Matrices
+
+**Method A distances**: Standard binary measures
+```r
+library(vegan)
+dist_presence <- vegdist(presence_vectors, method = "jaccard", binary = TRUE)
+```
+
+**Method B distances**: Handle weighted absences
+```r
+# Custom distance function that uses absence weights
+weighted_jaccard <- function(x, y) {
+  intersection <- sum(pmin(x, y))  # minimum of presence/absence weights
+  union <- sum(pmax(x, y))  # maximum of presence/absence weights
+  return(1 - intersection/union)  # Jaccard-style with weights
+}
+
+dist_weighted <- apply_pairwise(weighted_vectors, weighted_jaccard)
+```
+
+### Step 3: Validation Tests
+
+**Test 1: Taxonomic Signal**
+- Cluster species using Method A vs Method B
+- Count how often congeners (same genus) cluster together
+- Expected: related species should group more consistently with Method B
+- Metric: cophenetic correlation, silhouette scores within genera
+
+**Test 2: Ecological Signal** 
+- Group species by known ecological preferences:
+  - Substrate: corticolous vs saxicolous vs terricolous
+  - Elevation: alpine vs montane vs lowland specialists
+  - Region: eastern vs western North American distributions
+- Test which method separates ecological groups more clearly
+- Metric: ANOSIM R-statistic, PERMANOVA on groupings
+
+**Test 3: Biogeographic Signal**
+- Project species ordinations (PCA/NMDS) from Method A vs Method B
+- Compare with known biogeographic patterns:
+  - Continental divide (east-west split)
+  - Elevation gradients (alpine vs lowland floras)
+  - Regional endemism (Pacific Northwest, Sonoran Desert, etc.)
+- Expected: Method B should show sharper biogeographic structure
+- Metric: stress values, correlation with environmental gradients
+
+**Test 4: Range Boundary Detection**
+- For species with well-known range limits, compare predicted vs. actual boundaries
+- Method A: boundary = edge of presence records
+- Method B: boundary = transition from presence to high-confidence absence
+- Expected: Method B boundaries closer to published range maps
+- Metric: distance between predicted and literature-based range edges
+
+### Step 4: Comparative Analysis
+
+**Statistical comparison**:
+```r
+# Compare clustering quality
+mantel_test(dist_presence, known_taxonomy_matrix)
+mantel_test(dist_weighted, known_taxonomy_matrix)
+
+# Compare ordination stress
+nmds_presence <- metaMDS(dist_presence)
+nmds_weighted <- metaMDS(dist_weighted)
+```
+
+**Effect size calculation**:
+- How much does Method B improve signal detection?
+- Which types of species benefit most from absence weighting?
+- Are there cases where Method A outperforms Method B?
+
+
+## EXPECTED OUTCOMES
+
+### If Aposologic Method Succeeds:
+
+1. **Stronger taxonomic signal**: Congeners cluster together more consistently
+   with Method B than Method A. Higher cophenetic correlation with taxonomy.
+
+2. **Clearer ecological separation**: Substrate specialists, elevation zones,
+   and regional floras separate more distinctly in Method B ordinations.
+
+3. **Sharper biogeographic patterns**: Continental divide, elevation gradients,
+   and regional boundaries emerge more clearly with weighted absences.
+
+4. **Better range boundary prediction**: Method B boundaries closer to
+   published range limits than Method A boundaries.
+
+5. **Consistent improvement**: Method B outperforms Method A across multiple
+   validation tests and taxonomic groups.
+
+### If Traditional Method Wins:
+
+1. **Absence = noise**: Weighted absences obscure rather than clarify patterns.
+   Method A consistently outperforms Method B.
+
+2. **Collector bias overwhelming**: Absence patterns track collecting effort
+   rather than biogeography, adding confounding signal.
+
+3. **Scale mismatch**: Hex grid resolution inappropriate for species-level
+   distributions. Presence-only more robust to scale effects.
+
+### Mixed Results (Most Likely):
+
+4. **Context-dependent value**: Method B helps for some taxonomic groups
+   (widespread genera) but not others (rare endemics).
+
+5. **Signal vs. noise trade-off**: Method B improves signal for well-collected
+   regions but adds noise in poorly-collected areas.
+
+6. **Methodological refinement needed**: Basic concept valid but weighting
+   scheme, distance measures, or confidence metrics need adjustment.
+
+
+## DATA REQUIREMENTS
+
+### CLH Database
+- Species-level records with coordinates: ~1M records
+- Hex grid assignments: existing 33km and 100km grids available
+- Collector and institution information: for weighting absence confidence
+- Taxonomic standardization: focus on scientificNameRegularized field
+
+### Reference Data for Validation
+- **Taxonomic relationships**: genus assignments, family groupings
+- **Ecological traits**: substrate preferences, elevation ranges
+- **Range maps**: published distributions for validation species
+- **Biogeographic frameworks**: ecoregions, floristic provinces
+
+### Environmental Layers
+- **Elevation**: SRTM or NED for elevation-based validation
+- **Climate**: PRISM or WorldClim for environmental gradients
+- **Land cover**: NLCD for substrate availability context
+
+### Literature Sources
+- **Floristic treatments**: regional lichen floras for range validation
+- **Monographs**: genus-level treatments with distribution maps
+- **Ecological studies**: substrate and habitat preference data
+
+
+## SOFTWARE AND TOOLS
+
+### R Packages
+- **vegan**: distance matrices, ordination, ecological statistics
+- **cluster**: hierarchical clustering, silhouette analysis
+- **ade4**: multivariate analysis, environmental correlations
+- **sf**: spatial data handling, hex grid manipulation
+- **ggplot2**: visualization, ordination plots
+
+### Databases
+- **SQLite3**: CLH database queries, hex grid joins
+- **RSQLite**: R interface to database
+
+### Validation Tools
+- **Mantel tests**: compare distance matrices
+- **ANOSIM/PERMANOVA**: test group differences in ordination space
+- **Procrustes analysis**: compare ordination configurations
+- **Cophenetic correlation**: validate clustering against taxonomy
+
+
+## PROJECT PHASES
+
+### Phase 1: Infrastructure (Week 1-2)
+- Extract species records with >50 specimens and >10 hex cells
+- Build presence/absence matrices for both methods
+- Develop confidence weighting scheme for absences
+- Implement distance calculation functions
+
+### Phase 2: Method Comparison (Week 3-4)
+- Run Method A vs Method B on same species set
+- Generate distance matrices, clusterings, ordinations
+- Implement validation tests (taxonomic, ecological, biogeographic)
+- Statistical comparison of method performance
+
+### Phase 3: Refinement (Week 5-6)
+- Optimize weighting schemes based on initial results
+- Test different distance measures for weighted data
+- Sensitivity analysis: how robust are results to parameter choices?
+- Focus on taxonomic groups showing strongest signals
+
+### Phase 4: Validation (Week 7-8)
+- Deep dive on species with known range limits
+- Compare predicted boundaries with literature
+- Test on independent data sets or hold-out species
+- Quantify improvement: effect sizes, confidence intervals
+
+### Phase 5: Synthesis (Week 9-10)
+- Integrate results across validation tests
+- Identify when/where aposologic method helps most
+- Write up methodology and results
+- Connect back to community-level aposologic work
+
+
+## POTENTIAL COMPLICATIONS
+
+### Data Issues
+- **Taxonomic uncertainty**: synonymy, misidentifications
+- **Spatial error**: coordinate precision, georeferencing problems
+- **Temporal bias**: collecting effort changes over time
+- **Institutional bias**: some herbaria focus on specific regions/groups
+
+### Methodological Challenges
+- **Distance measure selection**: what works best for weighted absences?
+- **Confidence weighting**: how to calibrate absence confidence scores?
+- **Scale effects**: optimal hex grid resolution for species comparisons?
+- **Rare species**: do methods work for species with few records?
+
+### Validation Difficulties
+- **Literature bias**: published range maps may be presence-only themselves
+- **Circular reasoning**: using lichen literature to validate lichen analysis
+- **Environmental confounding**: biogeographic patterns reflect climate, not just collecting
+
+### Computational Constraints
+- **Matrix size**: ~1000 species × ~2000 hex cells = 2M cell matrix
+- **Distance calculations**: pairwise comparisons scale as N²
+- **Memory requirements**: multiple large matrices in memory
+
+
+## CONNECTION TO OTHER APOSOLOGIC WORK
+
+This project serves as the **quantitative validation** for the broader
+aposologic framework. Success here provides empirical evidence that
+absence information improves biogeographic analysis.
+
+**Links to existing work**:
+- **State-level absence clustering**: same concept, larger geographic scale
+- **South Dakota proof**: case study → systematic validation
+- **Hex grid infrastructure**: reuses existing spatial framework
+- **Bruce letter questions**: empirical test of "does absence add information?"
+
+**Implications for future work**:
+- **Community-level aposology**: if species-level works, community-level should too
+- **Collector characterization**: validated absence weights improve collector profiles
+- **Zone boundary detection**: better species comparisons → better zone detection
+- **Conservation applications**: improved biogeographic signal → better reserve design
+
+**Publication potential**:
+- **Methods paper**: "Aposologic vectors for comparative biogeography"
+- **Application paper**: "Lichen biogeography of North America using presence and absence data"
+- **Software paper**: R package for weighted biogeographic analysis
+
+
+## SUCCESS METRICS
+
+### Quantitative Measures
+- **Taxonomic clustering improvement**: % increase in congener co-clustering
+- **Ecological separation**: ANOSIM R-values for substrate/elevation groups
+- **Biogeographic correlation**: Mantel r with environmental gradients
+- **Boundary accuracy**: distance between predicted and literature range edges
+
+### Qualitative Indicators
+- **Pattern recognition**: do resulting clusters/ordinations "make sense"?
+- **Robustness**: do results hold across parameter choices and subsamples?
+- **Interpretability**: can biogeographers understand and use the method?
+- **Generalizability**: does approach work for different taxonomic groups?
+
+### Publication Readiness
+- **Reproducible workflow**: documented code, example data sets
+- **Statistical validation**: significance tests, effect sizes, confidence intervals
+- **Methodological contribution**: clear advance over existing approaches
+- **Practical value**: improves real biogeographic applications
+
+
+## FIRST STEPS
+
+1. **Species selection**: Extract CLH species with >50 records, >10 hex cells.
+   How many qualify? What's the taxonomic spread?
+
+2. **Infrastructure test**: Build presence matrices for 50 test species.
+   Check data quality, coordinate assignments, taxonomic consistency.
+
+3. **Method A baseline**: Run traditional presence-only clustering on test species.
+   Do congeners cluster? Do ecological groups separate?
+
+4. **Confidence scheme pilot**: Develop absence weighting for 10 well-collected
+   hex cells. Does confidence scoring make intuitive sense?
+
+5. **Method B proof-of-concept**: Run weighted absence clustering on same
+   test species. Does it differ from Method A in expected directions?
+
+6. **Validation framework**: Set up taxonomic and ecological groupings for
+   test species. Are statistical tests detecting expected patterns?
+
+If Steps 1-6 look promising, scale up to full species set and comprehensive
+validation. If not, adjust methods or scope before investing further effort.
+
+
+## FILES AND LOCATIONS
+
+Project directory: /c/Lichen/Comparative_Biogeography/
+  - data/           species matrices, distance matrices, reference data
+  - scripts/        R scripts for analysis pipeline
+  - output/         ordination plots, clustering dendrograms, validation tables
+  - docs/           this handoff note, literature review, methodology notes
+
+Database: c:/Lichen/SQL/clh_2025_11.db
+Hex grids: /c/Lichen/hex_grids/grids/hex_33km/ and hex_100km/
+Environmental: /c/Lichen/Environmental_Data/ (to be created)
+
+Key outputs:
+- species_presence_matrix.csv (Method A data)
+- species_weighted_matrix.csv (Method B data)
+- validation_results.csv (method comparison outcomes)
+- comparative_biogeog_results.html (R markdown report)
+
+This handoff note: /c/Lichen/Comparative_Biogeography/docs/PROJECT_HANDOFF.txt

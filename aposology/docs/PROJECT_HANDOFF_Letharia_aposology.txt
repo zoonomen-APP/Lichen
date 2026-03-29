@@ -1,0 +1,370 @@
+# Aposologic Analysis of Letharia vulpina and L. columbiana
+# Project Handoff Document
+# 2025.02.25
+# Alan + Claude
+
+
+## PROJECT OVERVIEW
+
+Apply the absence-based framework to two closely related lichen species:
+Letharia vulpina and Letharia columbiana. Use their presence/absence
+patterns to understand:
+
+1. Where each species is genuinely absent vs. under-collected
+2. Whether absence patterns reveal biogeographic boundaries 
+3. How relative absence (present in neighboring areas but not here)
+   informs species' ecological limits
+4. Whether the two species show complementary absence patterns
+   (mutual exclusion zones)
+
+This is a test case for applying aposologic methods at the species
+level rather than at the community level. Two congeners with
+overlapping but distinct ranges provide a controlled comparison.
+
+
+## BACKGROUND: THE LETHARIA PAIR
+
+### Letharia vulpina
+- "Wolf lichen"
+- Vulpinic acid chemotype (yellow-orange color)
+- Generally more widespread, tolerates broader range of conditions
+- Common on conifers, especially Pinus and Abies
+- Range: western North America, Eurasia
+
+### Letharia columbiana  
+- "Columbia wolf lichen"
+- Different secondary chemistry (no vulpinic acid, paler)
+- More restricted, often at higher elevations
+- Preference for Abies, sometimes on other conifers
+- Range: Pacific Northwest mountains, extending south in Cascades/
+  Sierra Nevada
+
+### The Taxonomic Context
+These were considered varieties of L. vulpina until recently.
+L. columbiana was elevated to species rank based on chemistry
+and molecular work. Some morphological overlap exists.
+Records in herbaria may be mixed - older determinations may
+not distinguish them properly.
+
+
+## WHY THIS IS A GOOD APOSOLOGIC TEST CASE
+
+1. **CONFINED GEOGRAPHY**: Both species largely restricted to
+   western North America. No global distribution complications.
+
+2. **OVERLAPPING BUT DISTINCT**: Ranges overlap but each has
+   zones where only one occurs. Creates opportunity for mutual
+   absence analysis.
+
+3. **ELEVATION GRADIENT**: L. columbiana often at higher
+   elevations. Absence at low elevation may be real ecological
+   boundary vs. collecting artifact.
+
+4. **SUBSTRATE SPECIFICITY**: Both on conifers, but L. columbiana
+   more restricted. Absences in non-coniferous areas may be
+   habitat-driven vs. collecting-driven.
+
+5. **MANAGEABLE SCALE**: Can focus analysis on western states
+   where both occur, rather than entire CONUS48.
+
+6. **KNOWN CONFUSION**: Historical taxonomic confusion means
+   some absences may be misidentification rather than true absence.
+   Aposologic approach may detect these patterns.
+
+
+## RESEARCH QUESTIONS
+
+### Primary Questions
+
+1. **Elevational absence patterns**: Does L. vulpina show
+   consistent absence at high elevations where L. columbiana
+   is present? Vice versa for L. columbiana at low elevations?
+
+2. **Complementary absence**: Are there regions where presence
+   of one correlates with absence of the other, suggesting
+   competitive exclusion or distinct ecological requirements?
+
+3. **Collector bias effects**: Do absences track collector
+   effort/location, or do they show consistent elevational/
+   geographic patterns independent of collecting intensity?
+
+4. **Range boundary detection**: Can absence patterns identify
+   the edges of each species' fundamental range vs. areas that
+   are simply under-collected?
+
+### Secondary Questions
+
+5. **Chemistry-based misidentification**: Do areas with high
+   L. vulpina records but zero L. columbiana records show
+   patterns suggesting missed identifications?
+
+6. **Habitat filtering**: In areas with extensive coniferous
+   forest, what drives absence - climate, elevation, specific
+   host preferences, or collecting gaps?
+
+7. **Island biogeography**: In mountain ranges with both species,
+   do peaks show presence/absence patterns consistent with
+   habitat connectivity vs. isolation?
+
+
+## ANALYTICAL APPROACH
+
+### Step 1: Data Assembly
+
+Extract all CLH records for both species:
+
+```sql
+SELECT id, scientificName, scientificNameRegularized,
+       decimalLatitude, decimalLongitude, elevation,
+       stateProvinceEd, countyEd, recordedBy, 
+       institutionCode, year, substrate, 
+       identifiedBy, dateIdentified
+FROM narrow  
+WHERE (scientificName LIKE '%Letharia vulpina%' 
+       OR scientificName LIKE '%Letharia columbiana%'
+       OR scientificNameRegularized LIKE '%Letharia vulpina%'
+       OR scientificNameRegularized LIKE '%Letharia columbiana%')
+  AND countryEd = 'United States'
+  AND decimalLatitude IS NOT NULL
+  AND decimalLongitude IS NOT NULL
+ORDER BY stateProvinceEd, countyEd, decimalLatitude;
+```
+
+### Step 2: Geographic Framework
+
+Use existing hex grids (33 km resolution recommended for species-level
+analysis - balances resolution with sample size). For western states only:
+
+States to include: WA, OR, CA, ID, MT, WY, UT, CO, NV, AZ, NM
+Maybe: western ND, SD, NE, TX, AK
+
+Filter hex grid files to western-only cells:
+
+```bash
+awk -F'\t' '$7 ~ /^(Washington|Oregon|California|Idaho|Montana|Wyoming|Utah|Colorado|Nevada|Arizona|New Mexico)$/' \
+  /c/Lichen/hex_grids/grids/hex_33km/hex_33km_specimens.tsv > letharia_specimens.tsv
+```
+
+### Step 3: Presence/Absence Matrices
+
+For each hex cell, determine:
+- L. vulpina present (1) or absent (0)
+- L. columbiana present (1) or absent (0)  
+- Total Letharia specimens (any species)
+- Total non-Letharia specimens (context for collecting effort)
+- Number of collectors (proxy for sampling breadth)
+- Elevation range in cell (from DEM or specimen records)
+
+Create four species patterns:
+1. vulpina only
+2. columbiana only  
+3. both species
+4. neither species
+
+### Step 4: Absence Classification
+
+For each zero, classify confidence level:
+
+**HIGH CONFIDENCE ABSENCE**:
+- Cell has >20 total lichen specimens
+- Cell has >10 Letharia specimens of the other species
+- Cell has multiple collectors
+- Elevation/habitat suitable for the absent species
+
+**MEDIUM CONFIDENCE**:
+- Cell has 5-20 total lichen specimens
+- Cell has good collecting effort but no Letharia at all
+- Single collector but extensive specimen list
+
+**LOW CONFIDENCE** (uninformed absence):
+- Cell has <5 total lichen specimens
+- Cell has no collectors working on corticolous taxa
+- Single record far from species' known range
+
+### Step 5: Spatial Analysis
+
+**Elevational gradients**: Plot presence/absence vs. elevation.
+Expected pattern: L. vulpina at lower elevations, L. columbiana
+higher, with transition zone.
+
+**Geographic boundaries**: Map high-confidence absences.
+Look for sharp transitions vs. gradual fadeouts.
+
+**Collector effects**: Compare absence patterns across cells
+with different collectors. If absences track collectors
+rather than geography/elevation, collecting artifact.
+
+**Complementary patterns**: Test correlation between L. vulpina
+presence and L. columbiana absence, and vice versa.
+
+### Step 6: Validation
+
+**Known range maps**: Compare aposologic boundaries with
+published range maps and monographic treatments.
+
+**Elevation data**: Correlate absence patterns with elevation
+from SRTM/NED data for each hex cell.
+
+**Substrate availability**: Where possible, correlate absences
+with forest type (coniferous vs. other) from remote sensing.
+
+**Recent collecting**: Check iNaturalist and recent literature
+to validate absence calls in well-collected areas.
+
+
+## EXPECTED OUTCOMES
+
+### If Aposologic Method Works:
+
+1. **Clear elevational boundaries**: High-confidence L. vulpina
+   absences correlate with high elevation regardless of
+   collecting intensity.
+
+2. **Complementary zones**: Areas where one species is consistently
+   absent correlate with presence of the other.
+
+3. **Range boundaries**: Sharp transitions in high-confidence
+   absences mark ecological limits, not gradual fadeouts due
+   to reduced collecting.
+
+4. **Collector independence**: Absence patterns hold across
+   different collectors and time periods.
+
+### If Method Fails:
+
+1. **Absence tracks effort**: High-confidence absences correlate
+   with low collecting intensity rather than elevation/habitat.
+
+2. **No clear boundaries**: Absences show gradual fadeouts
+   consistent with reduced sampling, not ecological limits.
+
+3. **Inconsistent patterns**: Same areas show presence for
+   one collector, absence for another.
+
+### Intermediate Cases:
+
+4. **Mixed signals**: Some boundaries real (elevation-driven),
+   others artifacts (collector-driven). Aposologic method
+   helps separate them.
+
+
+## TOOLS AND DATA SOURCES
+
+### Databases
+- CLH: c:/Lichen/SQL/clh_2025_11.db (table: narrow)
+- Existing hex grids: /c/Lichen/hex_grids/grids/hex_33km/
+
+### Elevation Data
+- SRTM 30m DEM for western US
+- Or extract elevation from CLH specimen records
+- National Elevation Dataset (NED) for US
+
+### Forest Cover
+- MODIS land cover or NLCD for coniferous forest extent
+- Forest Inventory and Analysis (FIA) plots with forest type
+
+### Validation Sources
+- Consortium of Lichen Herbaria portal for spot-checking
+- iNaturalist observations (with caveats about identification)
+- Nash, T.H. et al. Lichen Flora of the Greater Sonoran Desert
+- McCune, B. & Geiser, L. Macrolichens of the Pacific Northwest
+
+### Software
+- R: spatial analysis, elevation extraction, visualization
+- QGIS: mapping, DEM analysis, forest cover overlay
+- SQLite3: database queries, joins with spatial data
+- Shell scripts: data processing, hex grid filtering
+
+
+## POTENTIAL COMPLICATIONS
+
+### Taxonomic Issues
+- Historical confusion between varieties/species
+- Records may be identified to "Letharia vulpina s.l."
+- Need to flag ambiguous determinations
+
+### Geographic Scope
+- Alaska populations may behave differently
+- Mexican records exist but coverage sparse
+- Focus on western CONUS48 for consistency
+
+### Elevation Artifacts
+- High-elevation areas may be systematically under-collected
+- Seasonal access issues for alpine sites
+- Collecting bias toward accessible elevations
+
+### Substrate Limitations
+- Both species are conifer specialists
+- Absence in grassland/desert may be uninformative
+- Need to mask non-forest areas or weight accordingly
+
+### Scale Effects
+- 33 km cells may be too coarse for elevational transitions
+- 10 km cells may have too many zero-specimen cells
+- May need to test multiple grid resolutions
+
+
+## CONNECTION TO BROADER APOSOLOGIC FRAMEWORK
+
+This project tests the absence-based approach at the species level
+rather than community level. Success here validates the method
+for single-species distribution modeling. Failure identifies
+limitations or scale dependencies.
+
+Key methodological contributions:
+
+1. **Binary species framework**: Simpler than multi-species
+   community analysis, easier to validate against known ranges.
+
+2. **Confidence-weighted zeros**: Develops criteria for
+   distinguishing informed vs. uninformed absences at
+   species level.
+
+3. **Relative absence at species boundaries**: Tests whether
+   "present everywhere nearby but not here" is a reliable
+   indicator of ecological limits.
+
+4. **Collector calibration**: Determines whether collectors
+   show consistent bias patterns for these species across
+   multiple areas.
+
+Success with Letharia pair opens the door to broader single-species
+aposologic analyses across the CLH database.
+
+
+## FIRST STEPS
+
+1. **Extract Letharia records** from CLH database (SQL above)
+
+2. **Data quality assessment**: How many records? What's the
+   geographic coverage? Time span? Collector diversity?
+
+3. **Assign to hex cells** using existing 33 km grid
+   (join by coordinates)
+
+4. **Quick presence map**: Where do we have each species?
+   Does it match expectation from literature?
+
+5. **Absence inventory**: How many cells with zero Letharia?
+   How many with one species but not the other?
+
+6. **Elevation correlation**: Does the presence/absence pattern
+   correlate with elevation in the expected direction?
+
+If steps 1-6 look promising, proceed to full aposologic analysis.
+If not, adjust scope or methods.
+
+
+## FILES AND LOCATIONS
+
+Project directory: /c/Lichen/Letharia_aposology/
+  - data/           extracted records, processed grids
+  - scripts/        R scripts for analysis
+  - output/         maps, tables, figures
+  - docs/           this handoff note, literature
+
+Database: c:/Lichen/SQL/clh_2025_11.db
+Hex grids: /c/Lichen/hex_grids/grids/hex_33km/
+DEM data: (to be downloaded - USGS/NASA SRTM)
+
+This handoff note: /c/Lichen/Letharia_aposology/docs/PROJECT_HANDOFF.txt

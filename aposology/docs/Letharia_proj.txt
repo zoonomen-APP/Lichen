@@ -1,0 +1,180 @@
+## 2026.03.11
+Do an aposoligical analysis of Letheria.
+Letharia vulpina; Letharia columbiana. ? Letharia lupina ?
+
+# Motivated by  Leavitt's comment in a 
+Discovering neglected lichen diversity with DNA-based inventories: metabarcoding lichen-forming fungi in Bryce Canyon National Park, Utah, USA
+Abigail Robison 1
+,
+
+Pierce Adams 1
+,
+
+Steven D. Leavitt 2,1
+
+
+
+More details
+
+Plant and Fungal Systematics 2023; 68(2): 395-410
+DOI: https://doi.org/10.35535/pfsyst-2023-0007
+
+
+
+SUMMARY
+
+All three sites in BRCA sampled for this study showed
+diverse and unique lichen communities. The fact that less
+than 20% of the LFF species were shared among all three
+sampling sites suggests that our data only show a portion
+of the park’s diversity. Characterizing lichen diversity
+at other sites throughout BRCA should be prioritized,
+including relocating a population of Letharia lupina doc-
+umented in 1976. Furthermore, a significant portion of
+the putative LFF species found in BRCA could not be
+assigned to formally described species, indicating that
+Bryce Canyon may harbor a unique component of lichen
+diversity in the Intermountain West.
+
+
+1567881 UC  UC1598204 Letharia columbiana     Tom Tang  Tom Tang    1976-07-00  1976-07-00    United States United States   Utah  Utah                Bryce Canyon National Park  Bryce Canyon National Park        https://lichenportal.org/portal/collections/individual/index.php?occid=1567881  Letharia columbiana Letharia columbiana     -47.25,167.5333405
+1568198 UC  UC2022424 Letharia vulpina      Tom Tang  Tom Tang    1976-07-00  1976-07-00    United States United States   Utah  Utah                Bryce Canyon National Park  Bryce Canyon National Park        https://lichenportal.org/portal/collections/individual/index.php?occid=1568198  Letharia vulpina  Letharia vulpina      -47.25,167.5333405
+1568326 UC  UC1598217 Letharia vulpina      Tom Tang  Tom Tang    1976-07-00  1976-07-00    United States United States   Utah  Utah                Bryce Canyon National Park  Bryce Canyon National Park        https://lichenportal.org/portal/collections/individual/index.php?occid=1568326  Letharia vulpina  Letharia vulpina      -47.25,167.5333405
+
+
+Maybe Letharia columbiana <=> Letharia lupina
+
+More likely a lapasus calami.
+
+Let's look at counts
+
+Alan@DESKTOP-30GEGVP MINGW64 /c/Lichen/SQL (master)
+$ e Letharia narrow.tsv|wc
+  13574  604877 5840952
+
+Alan@DESKTOP-30GEGVP MINGW64 /c/Lichen/SQL (master)
+$ e Letharia narrow.tsv|e 'United.States'|wc
+  10756  509714 4830061
+
+COUNT:
+
+$ sqlite3 /c/Lichen/SQL/clh_2025_11.db \
+  "SELECT scientificName, COUNT(*) as n
+   FROM narrow
+   WHERE scientificName LIKE '%Letharia%'
+     AND countryEd = 'United States'
+   GROUP BY scientificName
+   ORDER BY n DESC;"
+Letharia vulpina|6822
+Letharia columbiana|2992
+LETHARIA VULPINA|300
+Letharia lupina|292
+LETHARIA COLUMBIANA|118
+Letharia|96
+Letharia thamnodes|44
+Letharia gracilis|35
+Letharia californica|28
+Letharia vulpina f. californica|7
+Letharia divaricata|5
+Tremella lethariae|2
+Letharia Vulpina|1
+Letharia californica var. foveatoretigera|1
+
+
+$ sqlite3 /c/Lichen/SQL/clh_2025_11.db \
+  "SELECT institutionCode,
+          MIN(SUBSTR(eventDateEd, 1, 4)) as earliest,
+          MAX(SUBSTR(eventDateEd, 1, 4)) as latest,
+          COUNT(*) as n
+   FROM narrow
+   WHERE scientificName = 'Letharia lupina'
+     AND countryEd = 'United States'
+   GROUP BY institutionCode
+   ORDER BY n DESC;"
+UC|1994|2007|187
+UCR(temp)|1910|2016|41
+hb. Hollinger|2013|2019|30
+MONTU|1901|2005|16
+UBC|1979|2010|5
+NY|2015|2018|3
+UCSC|2005|2006|2
+SBBG|2023|2023|2
+CHSC|2023|2023|2
+US|2006|2006|1
+LSU|2001|2001|1
+HSC|2021|2021|1
+ASU|2018|2018|1
+
+
+So for the main analysis the working name inventory would be:
+
+Letharia vulpina + LETHARIA VULPINA + Letharia Vulpina → vulpina (~7130 records)
+Letharia columbiana + LETHARIA COLUMBIANA → columbiana (~3110 records)
+Letharia lupina → excluded/flagged (292 records)
+Everything else (thamnodes, gracilis, californica, etc.) → excluded (small numbers, different species)
+
+
+$ sqlite3 /c/Lichen/SQL/clh_2025_11.db \
+  "SELECT stateProvinceEd,
+          SUM(CASE WHEN UPPER(scientificName) = 'LETHARIA VULPINA' THEN 1 ELSE 0 END) as vulpina,
+          SUM(CASE WHEN UPPER(scientificName) = 'LETHARIA COLUMBIANA' THEN 1 ELSE 0 END) as columbiana
+   FROM narrow
+   WHERE UPPER(scientificName) IN ('LETHARIA VULPINA','LETHARIA COLUMBIANA')
+     AND countryEd = 'United States'
+   GROUP BY stateProvinceEd
+   ORDER BY vulpina DESC;"
+Oregon|2002|1048
+California|1819|1005
+Washington|935|281
+Idaho|932|293
+Montana|748|272
+Wyoming|423|99
+Nevada|70|65
+Colorado|70|5
+|67|30
+Alaska|19|1
+South_Dakota|10|0
+Utah|9|4
+Arizona|4|1
+Wisconsin|2|0
+North_Dakota|2|0
+New_Mexico|2|1
+Minnesota|2|0
+Florida|2|0
+Switzerland|1|0
+North_Carolina|1|0
+Nebraska|1|0
+Michigan|1|0
+Massachusetts|1|0
+Texas|0|1
+Oklahoma|0|1
+Ohio|0|1
+Minnesota or Wisconsin|0|1
+Illinois|0|1
+
+
+
+$ sqlite3 /c/Lichen/SQL/clh_2025_11.db \
+  "SELECT
+     SUM(CASE WHEN UPPER(scientificName) = 'LETHARIA VULPINA' THEN 1 ELSE 0 END) as vulpina_total,
+     SUM(CASE WHEN UPPER(scientificName) = 'LETHARIA COLUMBIANA' THEN 1 ELSE 0 END) as columbiana_total,
+     SUM(CASE WHEN COALESCE(decimalLatitudeEd, decimalLatitude) IS NOT NULL
+              AND UPPER(scientificName) = 'LETHARIA VULPINA' THEN 1 ELSE 0 END) as vulpina_with_coords,
+     SUM(CASE WHEN COALESCE(decimalLatitudeEd, decimalLatitude) IS NOT NULL
+              AND UPPER(scientificName) = 'LETHARIA COLUMBIANA' THEN 1 ELSE 0 END) as columbiana_with_coords
+   FROM narrow
+   WHERE UPPER(scientificName) IN ('LETHARIA VULPINA','LETHARIA COLUMBIANA')
+     AND countryEd = 'United States';"
+7123|3110|7095|3104
+So the working numbers are 7095 vulpina and 3104 columbiana with usable coordinates — losing only 28 and 6 records respectively to missing coordinates. Very high spatial coverage.
+
+
+Build Ignoranc plot.
+
+Extract all Letharia records (any species, the full name inventory) with COALESCE coordinates
+Populate the 10x10 km grid with Letharia presence
+Calculate distance from each empty cell to nearest occupied cell
+Chloropleth map following the Grand Void style
+
+Can you find the Grand Void R code? Even a partial recovery would save a lot of reconstruction. And what format is the 10x10 grid in — a raster, a TSV of cell IDs with coordinates, something else?
+
